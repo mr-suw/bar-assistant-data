@@ -61,7 +61,7 @@
         },
         {
             "_id": "cucumber",
-            "name": "Cucumber",
+            "name": "Gurke",
             "sort": 4,
             "amount": 3,
             "units": "slice",
@@ -85,7 +85,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ingwerbier",
             "sort": 6,
             "amount": 1,
             "units": "topup",

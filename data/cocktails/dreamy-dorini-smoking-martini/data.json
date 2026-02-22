@@ -37,7 +37,7 @@
         },
         {
             "_id": "islay-scotch-whiskey",
-            "name": "Islay Scotch Whiskey",
+            "name": "Islay Scotch Whisky",
             "sort": 2,
             "amount": 15,
             "units": "ml",

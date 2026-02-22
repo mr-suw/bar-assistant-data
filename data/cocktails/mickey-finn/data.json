@@ -64,7 +64,7 @@
         },
         {
             "_id": "creme-de-menthe",
-            "name": "Crème de Menthe",
+            "name": "Crème de menthe",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",

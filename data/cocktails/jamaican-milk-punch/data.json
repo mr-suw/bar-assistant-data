@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 10,
             "units": "oz",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "vanilla-extract",
-            "name": "Vanilla Extract",
+            "name": "Vanilleextrakt",
             "sort": 5,
             "amount": 2.5,
             "units": "barspoon",

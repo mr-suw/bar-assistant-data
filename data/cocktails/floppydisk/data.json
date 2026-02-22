@@ -49,7 +49,7 @@
         },
         {
             "_id": "dry-curacao",
-            "name": "Trockener Curaçao",
+            "name": "Dry Curaçao",
             "sort": 3,
             "amount": 15,
             "units": "ml",

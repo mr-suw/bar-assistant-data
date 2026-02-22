@@ -49,7 +49,7 @@
         },
         {
             "_id": "red-wine",
-            "name": "Red wine",
+            "name": "Rotwein",
             "sort": 3,
             "amount": 30,
             "units": "ml",

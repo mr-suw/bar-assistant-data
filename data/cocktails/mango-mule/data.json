@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "ginger-beer",
-            "name": "Ginger Beer",
+            "name": "Ingwerbier",
             "sort": 1,
             "amount": 45,
             "units": "ml",

@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "whiskey",
-            "name": "Whisky",
+            "name": "Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -50,7 +50,7 @@
             "substitutes": [
                 {
                     "_id": "ginger-beer",
-                    "name": "Ginger Beer",
+                    "name": "Ingwerbier",
                     "amount": null,
                     "units": null,
                     "amount_max": null

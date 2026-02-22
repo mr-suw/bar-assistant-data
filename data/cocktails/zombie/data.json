@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaika-Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "demerara-rum",
-            "name": "Demerara-Rum",
+            "name": "Demerara Rum",
             "sort": 3,
             "amount": 30,
             "units": "ml",

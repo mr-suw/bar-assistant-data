@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaica-Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 1,
             "units": "oz",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 3,
             "amount": 1,
             "units": "oz",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "coconut-syrup",
-            "name": "Coconut Syrup",
+            "name": "Kokossirup",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -111,7 +111,7 @@
         },
         {
             "_id": "creme-de-banane",
-            "name": "Crème de Banane",
+            "name": "Crème de banane",
             "sort": 8,
             "amount": 7.5,
             "units": "barspoon",

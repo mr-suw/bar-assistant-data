@@ -39,8 +39,8 @@
             "substitutes": []
         },
         {
-            "_id": "peach-puree",
-            "name": "Pfirsichpüree",
+            "_id": "white-peach-puree",
+            "name": "Weißes Pfirsichpüree",
             "sort": 2,
             "amount": 50,
             "units": "ml",

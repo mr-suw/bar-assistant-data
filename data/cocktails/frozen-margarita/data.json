@@ -75,7 +75,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agavensirup",
+            "name": "Agavendicksaft",
             "sort": 5,
             "amount": 0.25,
             "units": "oz",

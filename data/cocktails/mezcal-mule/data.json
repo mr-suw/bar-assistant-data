@@ -39,7 +39,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger Beer",
+            "name": "Ingwerbier",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavendicksaft",
             "sort": 5,
             "amount": 0.5,
             "units": "oz",

@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 60,
             "units": "ml",

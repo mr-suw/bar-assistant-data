@@ -77,7 +77,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychaud's Bitters",
+            "name": "Peychaud's Bitter",
             "sort": 5,
             "amount": 7,
             "units": "dash",

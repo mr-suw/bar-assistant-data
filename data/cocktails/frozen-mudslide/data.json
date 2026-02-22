@@ -64,7 +64,7 @@
         },
         {
             "_id": "ice-cream",
-            "name": "Ice cream",
+            "name": "Speiseeis",
             "sort": 4,
             "amount": 3,
             "units": "scoops",

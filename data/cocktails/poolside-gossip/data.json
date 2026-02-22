@@ -49,7 +49,7 @@
         },
         {
             "_id": "peach-liqueur",
-            "name": "Peach liqueur",
+            "name": "Pfirsichlikör",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "strawberry",
-            "name": "Strawberry",
+            "name": "Erdbeere",
             "sort": 5,
             "amount": 1,
             "units": "whole",
@@ -85,7 +85,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitter",
             "sort": 6,
             "amount": 2,
             "units": "dash",

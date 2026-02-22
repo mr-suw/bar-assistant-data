@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "whiskey",
-            "name": "Whisky",
+            "name": "Whiskey",
             "sort": 1,
             "amount": 45,
             "units": "ml",

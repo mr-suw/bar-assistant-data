@@ -62,7 +62,7 @@
         },
         {
             "_id": "orange-curacao",
-            "name": "Orangen Curaçao",
+            "name": "Orange Curaçao",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -74,7 +74,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Sirup",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 4,
             "amount": 15,
             "units": "ml",

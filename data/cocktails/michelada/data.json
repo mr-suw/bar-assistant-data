@@ -63,7 +63,7 @@
         },
         {
             "_id": "soy-sauce",
-            "name": "Sojasauce",
+            "name": "Soja-Sauce",
             "sort": 4,
             "amount": 1,
             "units": "dash",

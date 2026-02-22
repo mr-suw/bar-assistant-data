@@ -49,7 +49,7 @@
         },
         {
             "_id": "green-chartreuse",
-            "name": "Grüner Chartreuse",
+            "name": "Grüne Chartreuse",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychaud's Bitters",
+            "name": "Peychaud's Bitter",
             "sort": 5,
             "amount": 2,
             "units": "dash",

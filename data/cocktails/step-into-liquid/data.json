@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "pineapple-rum",
-            "name": "Pineapple Rum",
+            "name": "Ananas-Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",

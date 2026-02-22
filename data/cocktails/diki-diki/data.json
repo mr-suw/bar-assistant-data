@@ -39,7 +39,7 @@
         },
         {
             "_id": "swedish-punsch",
-            "name": "Swedish Punsch",
+            "name": "Schwedischer Punsch",
             "sort": 2,
             "amount": 15,
             "units": "ml",

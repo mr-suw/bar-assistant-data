@@ -1,12 +1,12 @@
 {
     "_id": "cafe-martini",
     "name": "Cafe Martini",
-    "instructions": "1. Add all the ingredients to a shaker with ice\n2. Shake and strain into the glass",
+    "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben.\n2. Schütteln und in das Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "At Saint Theo's in New York, beverage director Simon Sebbah elevates the Espresso Martini by trading out vodka for reposado tequila, giving it \"a little extra kick and dimension.\"",
+    "description": "Simon Sebbah, Getränkechef im Saint Theo's in New York, veredelt den Espresso Martini, indem er Wodka durch Reposado Tequila ersetzt, was ihm „einen kleinen Extrakick und mehr Dimension“ verleiht.",
     "source": "https://imbibemagazine.com/recipe/cafe-martini-a-tequila-espresso-martini/",
-    "garnish": "3 coffee beans",
+    "garnish": "3 Kaffeebohnen",
     "abv": 20,
     "tags": [
         "Kaffee"
@@ -39,7 +39,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 30,
             "units": "ml",

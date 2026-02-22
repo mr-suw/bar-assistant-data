@@ -73,7 +73,7 @@
         },
         {
             "_id": "creme-de-menthe",
-            "name": "Crème de Menthe",
+            "name": "Crème de menthe",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",

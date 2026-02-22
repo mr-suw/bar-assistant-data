@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye Whisky",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 30,
             "units": "ml",

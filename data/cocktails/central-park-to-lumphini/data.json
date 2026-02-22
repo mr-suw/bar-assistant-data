@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "fig-infused-mezcal",
-            "name": "Feigen-infusionierter Mezcal",
+            "name": "Mezcal mit Feigeninfusion",
             "sort": 1,
             "amount": 45,
             "units": "ml",

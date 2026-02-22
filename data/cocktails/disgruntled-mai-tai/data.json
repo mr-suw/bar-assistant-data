@@ -64,7 +64,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Sirup",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "dry-curacao",
-            "name": "Trockener Curaçao",
+            "name": "Dry Curaçao",
             "sort": 5,
             "amount": 0.5,
             "units": "oz",

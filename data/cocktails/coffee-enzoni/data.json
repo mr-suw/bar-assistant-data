@@ -75,7 +75,7 @@
         },
         {
             "_id": "grapes",
-            "name": "Trauben",
+            "name": "Weintrauben",
             "sort": 5,
             "amount": 8,
             "units": "parts",

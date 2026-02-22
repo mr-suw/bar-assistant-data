@@ -49,7 +49,7 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 3,
             "amount": 50,
             "units": "ml",

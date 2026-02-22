@@ -1,10 +1,10 @@
 {
     "_id": "white-russian-gus-sip-and-dip",
     "name": "White Russian (Gus’ Sip and Dip)",
-    "instructions": "1. Put a glass in the freezer for at least 30 minutes before preparing the cocktail. Combine the vodka, coffee liqueur, coffee, and vanilla syrup with ice and shake to chill, then set aside.\n2. Fill the chilled glass with large ice cubes. Add the foam cream to the bottom of the glass over ice, filling a 1/3 of the glass. Carefully pour the prepared cocktail base over the foam cream for a rich, layered presentation.\n3. Foam CreamCombine 8 parts of heavy cream with 1 part of simple syrup (1:1)  in a shaker. Shake until thickened but still pourable.",
+    "instructions": "1. Ein Glas für mindestens 30 Minuten in das Gefrierfach stellen. Wodka, Kaffeelikör, Cold Brew Kaffee und Vanillesirup mit Eis mischen und kalt rühren, dann beiseite stellen.\n2. Das gekühlte Glas mit großen Eiswürfeln füllen. Die Sahnecreme über das Eis in das Glas geben, bis es zu etwa einem Drittel gefüllt ist. Die vorbereitete Cocktail-Basis vorsichtig über die Sahnecreme gießen, um eine geschichtete Präsentation zu erhalten.\n3. Sahnecreme: 8 Teile Schlagsahne mit 1 Teil Zuckersirup (1:1) in einem Shaker mischen. Schütteln, bis die Mischung eingedickt, aber noch gießbar ist.",
     "created_at": null,
     "updated_at": null,
-    "description": "Fans of the White Russian will love this richer, creamier take on the classic coffee cocktail. Partner Kevin Beary and Bar Manager Scott Kitsmiller of Gus' Sip and Dip in Chicago back up the traditional coffee liqueur with cold-brew coffee and vanilla syrup for balanced depth. And instead of a straight dose of heavy cream, it's shaken with simple syrup to up the decadence even more.",
+    "description": "Fans des White Russian werden diese reichhaltigere, cremigerer Interpretation des klassischen Kaffeecocktails lieben. Kevin Beary und Scott Kitsmiller (Bar-Manager im 'Gus’ Sip and Dip' in Chicago) ergänzen den traditionellen Kaffeelikör durch Cold Brew Kaffee und Vanillesirup für mehr Ausgewogenheit und Tiefe. Und anstelle von einfacher Schlagsahne wird diese mit Zuckersirup geschüttelt, um die Dekadenz noch weiter zu steigern.",
     "source": "https://imbibemagazine.com/recipe/white-russian-cocktail-gus-sip-and-dip/",
     "garnish": null,
     "abv": 21.82,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -52,19 +52,19 @@
         },
         {
             "_id": "cold-brew-coffee",
-            "name": "Cold brew coffee",
+            "name": "Cold Brew Kaffee",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "medium to dark roast",
+            "note": "mittlere bis dunkle Röstung",
             "substitutes": []
         },
         {
             "_id": "vanilla-syrup",
-            "name": "Vanilla syrup",
+            "name": "Vanillesirup",
             "sort": 4,
             "amount": 0.25,
             "units": "oz",
@@ -76,14 +76,14 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 5,
             "amount": 1,
-            "units": "whole",
+            "units": "pro Portion",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Foam cream",
+            "note": "geschlagene Sahne",
             "substitutes": []
         }
     ]

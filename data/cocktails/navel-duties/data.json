@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "orgeat-syrup",
-            "name": "Mandelsirup (Orgeat)",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 1,
             "amount": 22.5,
             "units": "ml",

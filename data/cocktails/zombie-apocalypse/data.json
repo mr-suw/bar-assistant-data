@@ -171,7 +171,7 @@
         },
         {
             "_id": "activated-charcoal",
-            "name": "Activated charcoal",
+            "name": "Aktivkohle",
             "sort": 13,
             "amount": 1,
             "units": "capsule",

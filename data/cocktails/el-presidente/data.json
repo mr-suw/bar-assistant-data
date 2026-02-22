@@ -57,7 +57,7 @@
         },
         {
             "_id": "orange-curacao",
-            "name": "Orangen Curaçao",
+            "name": "Orange Curaçao",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",

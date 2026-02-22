@@ -61,7 +61,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agavensirup",
+            "name": "Agavendicksaft",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -97,7 +97,7 @@
         },
         {
             "_id": "chilli-pepper",
-            "name": "Chilli Pepper",
+            "name": "Chilischote",
             "sort": 7,
             "amount": 1,
             "units": "slice",

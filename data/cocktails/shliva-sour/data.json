@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "plum-brandy",
-            "name": "Pflaumenschnaps",
+            "name": "Pflaumenbrand",
             "sort": 1,
             "amount": 60,
             "units": "ml",

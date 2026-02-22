@@ -41,7 +41,7 @@
         },
         {
             "_id": "egg",
-            "name": "Egg",
+            "name": "Ei",
             "sort": 2,
             "amount": 1,
             "units": "whole",

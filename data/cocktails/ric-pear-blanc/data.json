@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "vermouth-bianco",
-            "name": "Weißer Wermut",
+            "name": "Vermouth Bianco",
             "sort": 1,
             "amount": 60,
             "units": "ml",

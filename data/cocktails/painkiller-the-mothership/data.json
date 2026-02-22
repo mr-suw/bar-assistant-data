@@ -51,7 +51,7 @@
         },
         {
             "_id": "cream-of-coconut",
-            "name": "Kokoscreme",
+            "name": "Cream of Coconut",
             "sort": 3,
             "amount": 45,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 4,
             "amount": 1,
             "units": "topup",

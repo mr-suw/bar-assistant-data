@@ -51,7 +51,7 @@
         },
         {
             "_id": "gardenia-mix",
-            "name": "Gardenia Mix",
+            "name": "Gardenia-Mischung",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "jamaican-rum",
-            "name": "Jamaika-Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 6,
             "amount": 0.5,
             "units": "oz",

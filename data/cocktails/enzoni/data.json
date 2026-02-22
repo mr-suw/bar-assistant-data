@@ -81,7 +81,7 @@
         },
         {
             "_id": "grapes",
-            "name": "Trauben",
+            "name": "Weintrauben",
             "sort": 5,
             "amount": 5,
             "units": "whole",

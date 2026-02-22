@@ -99,7 +99,7 @@
         },
         {
             "_id": "cranberries",
-            "name": "Cranberries",
+            "name": "Moosbeeren",
             "sort": 7,
             "amount": 360,
             "units": "ml",

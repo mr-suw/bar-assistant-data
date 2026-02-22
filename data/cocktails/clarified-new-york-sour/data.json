@@ -39,7 +39,7 @@
         },
         {
             "_id": "milk",
-            "name": "Milk",
+            "name": "Milch",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "red-wine",
-            "name": "Red wine",
+            "name": "Rotwein",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",

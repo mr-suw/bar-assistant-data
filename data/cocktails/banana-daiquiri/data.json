@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "creme-de-banane",
-            "name": "Crème de Banane",
+            "name": "Crème de banane",
             "sort": 2,
             "amount": 4.5,
             "units": "barspoon",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "crushed-ice",
-            "name": "Crushed ice",
+            "name": "Crushed Ice",
             "sort": 6,
             "amount": 1,
             "units": "ml",

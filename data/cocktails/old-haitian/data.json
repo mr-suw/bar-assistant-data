@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rhum-agricole",
-            "name": "Rhum Agricole",
+            "name": "Rum Agricole",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "champagne",
-            "name": "Champagne",
+            "name": "Champagner",
             "sort": 6,
             "amount": 60,
             "units": "ml",

@@ -38,7 +38,7 @@
             "substitutes": []
         },
         {
-            "_id": "tonic-water",
+            "_id": "tonic",
             "name": "Tonic Water",
             "sort": 2,
             "amount": 120,
@@ -50,8 +50,8 @@
             "substitutes": []
         },
         {
-            "_id": "lemon-wedge",
-            "name": "Zitronenspalte",
+            "_id": "lemon",
+            "name": "Zitrone",
             "sort": 3,
             "amount": 1,
             "units": "wedge",

@@ -61,7 +61,7 @@
         },
         {
             "_id": "sparkling-wine",
-            "name": "Sekt",
+            "name": "Schaumwein",
             "sort": 4,
             "amount": 1,
             "units": "oz",

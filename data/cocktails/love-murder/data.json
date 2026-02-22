@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "green-chartreuse",
-            "name": "Chartreuse Verte",
+            "name": "Grüne Chartreuse",
             "sort": 1,
             "amount": 30,
             "units": "ml",

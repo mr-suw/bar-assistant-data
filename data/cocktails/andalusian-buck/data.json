@@ -75,7 +75,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ingwerbier",
             "sort": 5,
             "amount": 60,
             "units": "ml",

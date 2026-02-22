@@ -24,8 +24,8 @@
     ],
     "ingredients": [
         {
-            "_id": "light-rum",
-            "name": "Weißer Rum (Overproof)",
+            "_id": "overproof-rum",
+            "name": "Overproof Rum",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "ting",
-            "name": "Ting (Grapefruit-Limonade)",
+            "name": "Ting",
             "sort": 2,
             "amount": 4,
             "units": "oz",

@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "mole-bitters",
-            "name": "Mole Bitters",
+            "name": "Mole Bitter",
             "sort": 5,
             "amount": 2,
             "units": "dash",

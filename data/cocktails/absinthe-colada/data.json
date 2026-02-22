@@ -53,7 +53,7 @@
         },
         {
             "_id": "coconut-syrup",
-            "name": "Kokosnusssirup",
+            "name": "Kokossirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "creme-de-menthe",
-            "name": "Crème de Menthe",
+            "name": "Crème de menthe",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",

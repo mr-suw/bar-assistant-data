@@ -51,7 +51,7 @@
         },
         {
             "_id": "creme-de-cassis",
-            "name": "Crème de cassis",
+            "name": "Crème de Cassis",
             "sort": 3,
             "amount": 15,
             "units": "ml",

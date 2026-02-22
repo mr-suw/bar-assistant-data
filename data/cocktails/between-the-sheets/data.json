@@ -40,8 +40,8 @@
             "substitutes": []
         },
         {
-            "_id": "white-rum",
-            "name": "Weißer Rum",
+            "_id": "light-rum",
+            "name": "Heller Rum",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",

@@ -40,7 +40,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 7.5,
             "units": "ml",

@@ -37,7 +37,7 @@
         },
         {
             "_id": "islay-scotch-whiskey",
-            "name": "Islay Scotch Whiskey",
+            "name": "Islay Scotch Whisky",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "angostura-cocoa-bitters",
-            "name": "Angostura Cocoa Bitters",
+            "name": "Angostura Kakao Bitter",
             "sort": 4,
             "amount": 2,
             "units": "dash",

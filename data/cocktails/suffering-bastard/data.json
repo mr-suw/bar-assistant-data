@@ -78,7 +78,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger Beer",
+            "name": "Ingwerbier",
             "sort": 5,
             "amount": 1,
             "units": "topup",

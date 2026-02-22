@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "irish-whiskey",
-            "name": "Irish whiskey",
+            "name": "Irischer Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "basil",
-            "name": "Basil",
+            "name": "Basilikum",
             "sort": 3,
             "amount": 1,
             "units": "sprig",

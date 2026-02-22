@@ -61,7 +61,7 @@
         },
         {
             "_id": "creme-de-banane",
-            "name": "Crème de Banane",
+            "name": "Crème de banane",
             "sort": 4,
             "amount": 0.25,
             "units": "oz",

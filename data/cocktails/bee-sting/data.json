@@ -37,7 +37,7 @@
         },
         {
             "_id": "islay-scotch-whiskey",
-            "name": "Islay Scotch Whiskey",
+            "name": "Islay Scotch Whisky",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitter",
             "sort": 5,
             "amount": 3,
             "units": "dash",

@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "orange-soda",
-            "name": "Orange Soda",
+            "name": "Orangenlimonade",
             "sort": 1,
             "amount": 200,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "red-wine",
-            "name": "Red wine",
+            "name": "Rotwein",
             "sort": 2,
             "amount": 100,
             "units": "ml",

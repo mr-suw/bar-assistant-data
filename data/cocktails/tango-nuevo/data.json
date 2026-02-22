@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",

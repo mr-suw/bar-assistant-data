@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "lillet-rose",
-            "name": "Lillet Rosé",
+            "name": "Lillet Rose",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -78,7 +78,7 @@
         },
         {
             "_id": "creme-de-banane",
-            "name": "Crème de Banane",
+            "name": "Crème de banane",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",
@@ -90,7 +90,7 @@
         },
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 6,
             "amount": 1,
             "units": "barspoon",
@@ -137,87 +137,11 @@
             "substitutes": []
         },
         {
-            "_id": "pomegranate-syrup",
-            "name": "Granatapfelsirup",
+            "_id": "grenadine-syrup",
+            "name": "Grenadine",
             "sort": 10,
             "amount": 7.5,
             "units": "ml",
-            "optional": false,
-            "is_specified": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": []
-        },
-        {
-            "_id": "cava-rose",
-            "name": "Cava Rosé",
-            "sort": 11,
-            "amount": 3,
-            "units": "oz",
-            "optional": false,
-            "is_specified": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": []
-        }
-    ]
-}
-            "substitutes": []
-        },
-        {
-            "_id": "grapefruit-juice",
-            "name": "Grapefruitsaft",
-            "sort": 7,
-            "amount": 15,
-            "units": "ml",
-            "optional": false,
-            "is_specified": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": []
-        },
-        {
-            "_id": "lime-juice",
-            "name": "Limettensaft",
-            "sort": 8,
-            "amount": 7.5,
-            "units": "ml",
-            "optional": false,
-            "is_specified": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": []
-        },
-        {
-            "_id": "cinnamon-syrup",
-            "name": "Zimtsirup",
-            "sort": 9,
-            "amount": 7.5,
-            "units": "ml",
-            "optional": false,
-            "is_specified": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": []
-        },
-        {
-            "_id": "angostura-aromatic-bitters",
-            "name": "Angostura Aromatic Bitters",
-            "sort": 10,
-            "amount": 2,
-            "units": "dash",
-            "optional": false,
-            "is_specified": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": []
-        },
-        {
-            "_id": "saline-solution",
-            "name": "Salzlösung",
-            "sort": 11,
-            "amount": 1,
-            "units": "dash",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -226,10 +150,10 @@
         },
         {
             "_id": "rose-wine",
-            "name": "Rosé wine",
-            "sort": 12,
-            "amount": 60,
-            "units": "ml",
+            "name": "Roséwein",
+            "sort": 11,
+            "amount": 3,
+            "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

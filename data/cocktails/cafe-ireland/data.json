@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "irish-whiskey",
-            "name": "Irish Whisky",
+            "name": "Irischer Whiskey",
             "sort": 1,
             "amount": 45,
             "units": "ml",

@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "arrack",
-            "name": "Arrack",
+            "name": "Arrak",
             "sort": 1,
             "amount": 60,
             "units": "ml",

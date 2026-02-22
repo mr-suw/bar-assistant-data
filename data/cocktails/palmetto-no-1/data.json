@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",

@@ -37,7 +37,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St. Germain Holunderblütenlikör",
+            "name": "St-Germain",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "malort",
-            "name": "Malört",
+            "name": "Malört",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",

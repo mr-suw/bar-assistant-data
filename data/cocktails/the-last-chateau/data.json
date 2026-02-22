@@ -49,7 +49,7 @@
         },
         {
             "_id": "green-chartreuse",
-            "name": "Grüner Chartreuse",
+            "name": "Grüne Chartreuse",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "sparkling-wine",
-            "name": "Sekt",
+            "name": "Schaumwein",
             "sort": 5,
             "amount": 90,
             "units": "ml",

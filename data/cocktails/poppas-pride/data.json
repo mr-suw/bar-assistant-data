@@ -40,7 +40,7 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lemon",
-            "name": "Lemon",
+            "name": "Zitrone",
             "sort": 3,
             "amount": 2,
             "units": "wedges",

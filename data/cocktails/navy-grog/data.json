@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "brown-rum",
-            "name": "Brown Rum",
+            "name": "Brauner Rum",
             "sort": 1,
             "amount": 1,
             "units": "oz",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -99,7 +99,7 @@
         },
         {
             "_id": "allspice-dram",
-            "name": "Allspice dram",
+            "name": "Pimentlikör (Allspice Dram)",
             "sort": 7,
             "amount": 3,
             "units": "dash",
@@ -111,7 +111,7 @@
         },
         {
             "_id": "crushed-ice",
-            "name": "Crushed ice",
+            "name": "Crushed Ice",
             "sort": 8,
             "amount": 3,
             "units": "oz",

@@ -51,7 +51,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Mandelsirup (Orgeat)",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitter",
             "sort": 4,
             "amount": 2,
             "units": "dash",

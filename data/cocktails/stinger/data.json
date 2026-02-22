@@ -41,7 +41,7 @@
         },
         {
             "_id": "creme-de-menthe",
-            "name": "Crème de Menthe",
+            "name": "Crème de menthe",
             "sort": 2,
             "amount": 20,
             "units": "ml",

@@ -39,7 +39,7 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "apple-cider-vinegar",
-            "name": "Apple cider vinegar",
+            "name": "Apfelessig",
             "sort": 3,
             "amount": 1,
             "units": "barspoon",
@@ -74,7 +74,7 @@
             "substitutes": [
                 {
                     "_id": "egg-white",
-                    "name": "Egg White",
+                    "name": "Eiweiß",
                     "amount": null,
                     "units": null,
                     "amount_max": null

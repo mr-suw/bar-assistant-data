@@ -51,7 +51,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Sirup",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "celery-bitters",
-            "name": "Sellerie Bitter",
+            "name": "Sellerie-Bitters",
             "sort": 5,
             "amount": 2,
             "units": "dash",

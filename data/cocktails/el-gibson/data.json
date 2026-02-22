@@ -43,7 +43,7 @@
         },
         {
             "_id": "vermouth-bianco",
-            "name": "Wermut Bianco",
+            "name": "Vermouth Bianco",
             "sort": 2,
             "amount": 0.75,
             "units": "oz",
@@ -55,7 +55,7 @@
         },
         {
             "_id": "onion-brine",
-            "name": "Zwiebellake",
+            "name": "Silberzwiebel-Sud",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",

@@ -51,7 +51,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",

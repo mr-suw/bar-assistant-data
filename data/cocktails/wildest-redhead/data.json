@@ -63,7 +63,7 @@
         },
         {
             "_id": "allspice-dram",
-            "name": "Allspice Dram (Pimentlikör)",
+            "name": "Pimentlikör (Allspice Dram)",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",

@@ -37,7 +37,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeatsirup",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 2,
             "amount": 7.5,
             "units": "ml",

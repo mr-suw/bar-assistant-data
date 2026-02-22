@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Schottischer Whiskey (Scotch)",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -111,7 +111,7 @@
         },
         {
             "_id": "islay-scotch-whiskey",
-            "name": "Islay Scotch Whiskey",
+            "name": "Islay Scotch Whisky",
             "sort": 8,
             "amount": 3,
             "units": "Tropfen",

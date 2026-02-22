@@ -39,7 +39,7 @@
         },
         {
             "_id": "coffee",
-            "name": "Coffee",
+            "name": "Kaffee",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 4,
             "amount": 60,
             "units": "ml",

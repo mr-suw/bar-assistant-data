@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "peychauds-bitters",
-            "name": "Peychaud's Bitters",
+            "name": "Peychaud's Bitter",
             "sort": 1,
             "amount": 60,
             "units": "ml",

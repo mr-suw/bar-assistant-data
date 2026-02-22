@@ -41,7 +41,7 @@
         },
         {
             "_id": "creme-de-cacao-dark",
-            "name": "Crème de Cacao (Dunkel)",
+            "name": "Crème de Cacao (Dark)",
             "sort": 2,
             "amount": 30,
             "units": "ml",

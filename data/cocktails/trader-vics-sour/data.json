@@ -1,12 +1,12 @@
 {
     "_id": "trader-vics-sour",
     "name": "Trader Vic's Sour",
-    "instructions": "1. In a cocktail shaker, add all ingredients\n2. Shake with ice for 10-12 seconds\n3. Strain over fresh ice into an old fashioned glass",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben.\n2. Mit Eis ca. 10–12 Sekunden lang schütteln.\n3. Auf frisches Eis in einen Tumbler abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Trader Vic created countless variations on the sour. This interpretation calls for Scotch as the choice of spirit and orgeat as the sweetener, bringing it closer to the tiki realm.",
+    "description": "Trader Vic kreierte unzählige Varianten des Sour. Diese Interpretation verwendet Scotch als Basisspirituose und Orgeat als Süßungsmittel, was den Drink näher in Richtung Tiki rückt.",
     "source": "https://stevethebartender.com.au/trader-vics-sour/",
-    "garnish": "Garnish with a lemon wheel and an orchid",
+    "garnish": "Mit einer Zitronenscheibe und einer Orchidee garnieren.",
     "abv": 18.29,
     "tags": [],
     "glass": "Tumbler",
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 3,
             "amount": 15,
             "units": "ml",

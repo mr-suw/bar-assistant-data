@@ -4,7 +4,7 @@
     "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben und schütteln, bis der Drink gut gekühlt ist.\n2. In einen Tumbler auf frisches Eis abseihen.\n3. Mit Kakaopulver garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Dieses einfache Mezcal-Cocktailrezept kombiniert die Agavenspirituose mit Palo Cortado Sherry, Orgeatsirup, Ananas- und Zitronensaft.",
+    "description": "Dieses einfache Mezcal-Cocktailrezept kombiniert die Agavenspirituose mit Palo Cortado Sherry, Orgeat (Mandelsirup), Ananas- und Zitronensaft.",
     "source": "https://punchdrink.com/recipes/lust-for-life/",
     "garnish": "Kakaopulver",
     "abv": 14.55,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeatsirup",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",

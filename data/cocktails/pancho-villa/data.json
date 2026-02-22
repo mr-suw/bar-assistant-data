@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "cherry-heering",
-            "name": "Cherry heering",
+            "name": "Cherry Heering",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -99,7 +99,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 7,
             "amount": 22.5,
             "units": "ml",

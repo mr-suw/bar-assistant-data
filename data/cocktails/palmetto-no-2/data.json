@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "brown-rum",
-            "name": "Brown Rum",
+            "name": "Brauner Rum",
             "sort": 1,
             "amount": 30,
             "units": "ml",
