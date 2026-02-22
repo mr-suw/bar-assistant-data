@@ -1,9 +1,9 @@
 {
     "_id": "beet-juice",
     "_parent_id": "juices",
-    "name": "Beet juice",
+    "name": "Rote-Bete-Saft",
     "strength": 0,
-    "description": "Fresh juice made from beets.",
+    "description": "Frischer Saft aus Roter Bete.",
     "origin": null,
     "color": "#8c0941",
     "category": "Säfte",

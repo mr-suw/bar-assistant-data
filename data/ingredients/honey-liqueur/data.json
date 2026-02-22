@@ -1,10 +1,10 @@
 {
     "_id": "honey-liqueur",
     "_parent_id": "liqueurs",
-    "name": "Honey liqueur",
+    "name": "Honiglikör",
     "strength": 40,
     "description": null,
-    "origin": "Worldwide",
+    "origin": "Weltweit",
     "color": "#f1a412",
     "category": "Liköre",
     "created_at": null,

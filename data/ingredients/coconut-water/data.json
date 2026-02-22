@@ -1,10 +1,10 @@
 {
     "_id": "coconut-water",
     "_parent_id": "beverages",
-    "name": "Coconut water",
+    "name": "Kokoswasser",
     "strength": 0,
-    "description": "Coconut water (also coconut juice) is the clear liquid inside young coconuts (fruits of the coconut palm).",
-    "origin": "Indonesia",
+    "description": "Kokoswasser (auch Kokossaft) ist die klare Flüssigkeit im Inneren junger Kokosnüsse (Früchte der Kokospalme).",
+    "origin": "Indonesien",
     "color": "#f5f3ef",
     "category": "Getränke",
     "created_at": null,

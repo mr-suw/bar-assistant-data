@@ -1,9 +1,9 @@
 {
     "_id": "hot-chocolate",
     "_parent_id": "beverages",
-    "name": "Hot chocolate",
+    "name": "Trinkschokolade",
     "strength": 0,
-    "description": "Hot chocolate, also known as hot cocoa, is a warm beverage made from melted chocolate or cocoa powder mixed with milk or water, often sweetened and garnished with toppings like whipped cream or marshmallows. It has a rich history dating back thousands of years, originating in Mesoamerica and becoming popular in Europe after being introduced from the New World.",
+    "description": "Trinkschokolade (oder heißer Kakao) ist ein warmes Getränk aus geschmolzener Schokolade oder Kakaopulver, gemischt mit Milch oder Wasser. Sie wird oft gesüßt und mit Toppings wie Schlagsahne oder Marshmallows serviert. Ihre Geschichte reicht Jahrtausende zurück bis nach Mesoamerika.",
     "origin": null,
     "color": "#63452c",
     "category": "Getränke",

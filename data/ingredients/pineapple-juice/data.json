@@ -1,9 +1,9 @@
 {
     "_id": "pineapple-juice",
     "_parent_id": "juices",
-    "name": "Pineapple juice",
+    "name": "Ananassaft",
     "strength": 0,
-    "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+    "description": "Ananassaft wird gewonnen, indem frische, reife Ananas durch einen Entsafter gegeben oder frische Ananasstücke zerstoßen und anschließend die festen Bestandteile abgesiebt werden.",
     "origin": null,
     "color": "#f4d65b",
     "category": "Säfte",

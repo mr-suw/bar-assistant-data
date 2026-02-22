@@ -1,9 +1,9 @@
 {
     "_id": "strawberry",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Strawberry",
+    "name": "Erdbeere",
     "strength": 0,
-    "description": "Strawberries are a popular fruit known for their bright red color, sweet flavor, and juicy texture. They are often eaten fresh or used in various dishes like jams, desserts, and ice creams.",
+    "description": "Erdbeeren sind eine beliebte Frucht, die für ihre leuchtend rote Farbe, ihren süßen Geschmack und ihre saftige Textur bekannt ist. Sie werden oft frisch verzehrt oder in Desserts, Marmeladen und Eiscreme verwendet.",
     "origin": null,
     "color": "#990202",
     "category": "Früchte und Gemüse",

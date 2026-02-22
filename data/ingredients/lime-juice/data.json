@@ -3,10 +3,10 @@
     "_parent_id": "citrus-juice",
     "name": "Limettensaft",
     "strength": 0,
-    "description": "Freshly squeezed lime juice.",
+    "description": "Frisch gepresster Limettensaft.",
     "origin": null,
     "color": "#e9f1d7",
-    "category": "Juices > Citrus juice",
+    "category": "Säfte > Zitrussäfte",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -40,7 +40,7 @@
         }
     ],
     "prices": [],
-    "calculator_id": "lime-super-juice-kevin-koss-275",
+    "calculator_id": "lime-super-juice-kevin-koss-3",
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": null,

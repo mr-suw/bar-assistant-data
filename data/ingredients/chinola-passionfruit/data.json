@@ -1,9 +1,9 @@
 {
     "_id": "chinola-passionfruit",
     "_parent_id": "liqueurs",
-    "name": "Chinola (Passionfruit)",
+    "name": "Chinola (Passionsfrucht)",
     "strength": 21,
-    "description": "Chinola is made with fresh passion fruit grown in the town of Majagual in the Dominican Republic, cane sugar and sugar cane neutral spirit.",
+    "description": "Chinola wird aus frischen Passionsfrüchten hergestellt, die in der Stadt Majagual in der Dominikanischen Republik angebaut werden, ergänzt durch Rohrzucker und neutralen Zuckerrohrspiritus.",
     "origin": null,
     "color": "#FFCBA4",
     "category": "Liköre",

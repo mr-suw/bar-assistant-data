@@ -1,10 +1,10 @@
 {
     "_id": "peach-liqueur",
     "_parent_id": "liqueurs",
-    "name": "Peach liqueur",
+    "name": "Pfirsichlikör",
     "strength": 20,
-    "description": "A peach liqueur is any liqueur that is made through the distillation of peaches and has sugar added to it. Peach liqueurs gained popularity in the mid-20th century, but their exact date of origin is unknown.",
-    "origin": "Worldwide",
+    "description": "Pfirsichlikör ist ein Likör, der durch die Destillation oder Mazeration von Pfirsichen hergestellt und gesüßt wird.",
+    "origin": "Weltweit",
     "color": "#f2a557",
     "category": "Liköre",
     "created_at": null,

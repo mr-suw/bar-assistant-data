@@ -3,10 +3,10 @@
     "_parent_id": "syrups",
     "name": "Grenadine",
     "strength": 0,
-    "description": "Fruit syrup made from pomegranates.",
-    "origin": "Worldwide",
+    "description": "Fruchtsirup aus Granatäpfeln.",
+    "origin": "Weltweit",
     "color": "#bb0014",
-    "category": "Sweeteners > Syrups",
+    "category": "Süßungsmittel > Sirupe",
     "created_at": null,
     "updated_at": null,
     "images": [

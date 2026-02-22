@@ -1,10 +1,10 @@
 {
     "_id": "grapes",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Grapes",
+    "name": "Weintrauben",
     "strength": 0,
-    "description": "Green grapes, often simply referred to as white grapes, are a variety of grapes that are typically green or yellowish-green in color when ripe.",
-    "origin": "Worlwide",
+    "description": "Weintrauben sind die Früchte der Weinrebe. Sie werden frisch verzehrt, zu Rosinen getrocknet oder zur Herstellung von Wein und Säften verwendet.",
+    "origin": "Weltweit",
     "color": "#e3f3b1",
     "category": "Früchte und Gemüse",
     "created_at": null,

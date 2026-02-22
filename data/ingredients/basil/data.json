@@ -1,10 +1,10 @@
 {
     "_id": "basil",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Basil",
+    "name": "Basilikum",
     "strength": 0,
-    "description": "Basil is an annual, or sometimes perennial, herb used for its leaves.",
-    "origin": "Worldwide",
+    "description": "Basilikum ist ein einjähriges, seltener mehrjähriges Kraut, das wegen seiner aromatischen Blätter verwendet wird.",
+    "origin": "Weltweit",
     "color": "#15a905",
     "category": "Früchte und Gemüse",
     "created_at": null,

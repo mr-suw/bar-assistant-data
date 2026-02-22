@@ -1,9 +1,9 @@
 {
     "_id": "carrot-juice",
     "_parent_id": "juices",
-    "name": "Carrot juice",
+    "name": "Karottensaft",
     "strength": 0,
-    "description": "Carrot juice is a nutritious drink made from carrots, rich in beta-carotene and vitamin A. It has a slightly sweet and earthy flavor, and can be enjoyed on its own or mixed with other juices.",
+    "description": "Karottensaft ist ein nahrhaftes Getränk aus Karotten, das reich an Beta-Carotin und Vitamin A ist. Er hat einen leicht süßlichen und erdigen Geschmack und kann pur oder gemischt mit anderen Säften genossen werden.",
     "origin": null,
     "color": null,
     "category": "Säfte",

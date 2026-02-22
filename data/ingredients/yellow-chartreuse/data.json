@@ -1,10 +1,10 @@
 {
     "_id": "yellow-chartreuse",
     "_parent_id": "liqueurs",
-    "name": "Yellow Chartreuse",
+    "name": "Gelbe Chartreuse",
     "strength": 40,
-    "description": "Yellow Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is a milder and slightly sweeter version of Green Chartreuse, another famous liqueur produced by the same monks. Yellow Chartreuse is characterized by its yellow color and a complex flavor profile derived from a secret blend of 130 herbs and botanicals. It has a sweet and honeyed taste with herbal, floral, and spicy notes.",
-    "origin": "France",
+    "description": "Gelbe Chartreuse ist ein Kräuterlikör, der von Kartäusermönchen in Frankreich hergestellt wird. Er ist etwas milder und süßer als die Grüne Chartreuse. Er zeichnet sich durch seine gelbe Farbe und ein komplexes Aroma aus 130 Kräutern und Pflanzen aus, mit honigartigen, floralen und würzigen Noten.",
+    "origin": "Frankreich",
     "color": "#fbfb4b",
     "category": "Liköre",
     "created_at": null,

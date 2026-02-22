@@ -1,9 +1,9 @@
 {
     "_id": "cucumber",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Cucumber",
+    "name": "Gurke",
     "strength": 0,
-    "description": "Cucumbers are a type of vegetable that grow on creeping vines and are known for their cylindrical shape and high water content, making them refreshing to eat.",
+    "description": "Gurken sind ein Gemüse, das an kriechenden Reben wächst. Sie sind bekannt für ihre zylindrische Form und ihren hohen Wassergehalt, was sie sehr erfrischend macht.",
     "origin": null,
     "color": "#e3efd6",
     "category": "Früchte und Gemüse",

@@ -1,9 +1,9 @@
 {
     "_id": "tomato-juice",
     "_parent_id": "juices",
-    "name": "Tomato juice",
+    "name": "Tomatensaft",
     "strength": 0,
-    "description": "Juice made from tomatoes.",
+    "description": "Saft aus Tomaten.",
     "origin": null,
     "color": "#f16624",
     "category": "Säfte",

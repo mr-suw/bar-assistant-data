@@ -1,9 +1,9 @@
 {
     "_id": "ginger",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Ginger",
+    "name": "Ingwer",
     "strength": 0,
-    "description": "Ginger root used as a spice",
+    "description": "Ingwerwurzel, die als Gewürz oder Zutat verwendet wird.",
     "origin": null,
     "color": null,
     "category": "Früchte und Gemüse",

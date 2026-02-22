@@ -1,10 +1,10 @@
 {
     "_id": "coffee-liqueur",
     "_parent_id": "liqueurs",
-    "name": "Coffee liqueur",
+    "name": "Kaffeelikör",
     "strength": 20,
-    "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
-    "origin": "Mexico",
+    "description": "Kaffeelikör ist ein süßer Likör, der mit dem reichen Aroma von Kaffee versetzt ist. Er kombiniert üblicherweise Spirituosen wie Wodka oder Rum mit Kaffee-Extrakten und Süßungsmitteln. Er ist ein vielseitiger Bestandteil vieler Cocktails (z. B. White Russian, Espresso Martini) und Desserts. Bekannte Marken sind Kahlúa und Tia Maria.",
+    "origin": "Mexiko",
     "color": "#1a0d0a",
     "category": "Liköre",
     "created_at": null,

@@ -1,9 +1,9 @@
 {
     "_id": "pear-liqueur",
     "_parent_id": "liqueurs",
-    "name": "Pear liqueur",
+    "name": "Birnenlikör",
     "strength": 21,
-    "description": "Pear liqueur is a sweet alcoholic beverage made by infusing ripe pears with spirits like vodka or brandy, often combined with sugar and other flavorings. It typically has a smooth, fruity taste and is enjoyed on its own or in cocktails.",
+    "description": "Birnenlikör ist ein süßes alkoholisches Getränk, das durch das Einlegen reifer Birnen in Spirituosen wie Wodka oder Brandy hergestellt wird, oft kombiniert mit Zucker und anderen Aromen. Er hat üblicherweise einen weichen, fruchtigen Geschmack.",
     "origin": null,
     "color": "#ffbe6f",
     "category": "Liköre",

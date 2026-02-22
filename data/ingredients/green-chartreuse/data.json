@@ -1,10 +1,10 @@
 {
     "_id": "green-chartreuse",
     "_parent_id": "liqueurs",
-    "name": "Green Chartreuse",
+    "name": "Grüne Chartreuse",
     "strength": 55,
-    "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
-    "origin": "France",
+    "description": "Grüne Chartreuse ist ein Kräuterlikör, der von Kartäusermönchen in Frankreich hergestellt wird. Er ist bekannt für seine leuchtend grüne Farbe und sein komplexes Geschmacksprofil, das auf einer geheimen Mischung von 130 Kräutern und Pflanzen basiert. Er hat einen starken, markanten Geschmack mit kräuterigen, floralen und würzigen Noten. Der Alkoholgehalt liegt üblicherweise bei 55 % Vol. Grüne Chartreuse kann pur als Digestif oder in Cocktails verwendet werden.",
+    "origin": "Frankreich",
     "color": "#80FF00",
     "category": "Liköre",
     "created_at": null,

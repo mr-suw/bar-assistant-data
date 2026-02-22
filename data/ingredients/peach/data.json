@@ -1,9 +1,9 @@
 {
     "_id": "peach",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Peach",
+    "name": "Pfirsich",
     "strength": 0,
-    "description": "Peach fruit",
+    "description": "Pfirsichfrucht",
     "origin": null,
     "color": null,
     "category": "Früchte und Gemüse",

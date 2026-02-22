@@ -1,9 +1,9 @@
 {
     "_id": "lemon-soda",
     "_parent_id": "beverages",
-    "name": "Lemon soda",
+    "name": "Zitronenlimonade",
     "strength": 0,
-    "description": "In the cocktail world, \"lemon soda\" typically refers to a simple, refreshing mixer. It's essentially lemon-flavored sparkling water, often used to add a bubbly, citrusy lift to \nvarious drinks. Think of it as a lighter alternative to regular soda, providing a clean, tart counterpoint to stronger spirits like gin, vodka, or rum. It's a versatile ingredient, \nfrequently found in classics like a Gin Rickey or a Vodka Soda, and allows for a bright, crisp finish without overpowering the main flavors.",
+    "description": "In der Cocktailwelt bezieht sich \"Zitronenlimonade\" (Lemon Soda) meist auf ein mit Zitronengeschmack versetztes Mineralwasser oder eine leichte Limonade wie Sprite oder 7 Up. Sie dient als erfrischender Mixer, um Cocktails eine spritzige, zitrusartige Note zu verleihen, ohne die Hauptaromen zu überlagern.",
     "origin": null,
     "color": "#fffbe3",
     "category": "Getränke",

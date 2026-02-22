@@ -1,9 +1,9 @@
 {
     "_id": "cherry-juice",
     "_parent_id": "juices",
-    "name": "Cherry juice",
+    "name": "Kirschsaft",
     "strength": 0,
-    "description": "Cherry juice is a beverage made from the juice of cherries, often consumed for its health benefits. It is typically available in both tart and sweet varieties.",
+    "description": "Kirschsaft ist ein aus Kirschen gewonnenes Getränk. Er ist sowohl in herben als auch in süßen Varianten erhältlich.",
     "origin": null,
     "color": "#a51d2d",
     "category": "Säfte",
@@ -16,5 +16,5 @@
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": null,
-    "units": "oz"
+    "units": "ml"
 }

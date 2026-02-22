@@ -1,9 +1,9 @@
 {
     "_id": "chamomile-liqueur",
     "_parent_id": "liqueurs",
-    "name": "Chamomile Liqueur",
+    "name": "Kamillenlikör",
     "strength": 0,
-    "description": "Herbal juice made from chamomile.",
+    "description": "Kräuterlikör auf Basis von Kamille.",
     "origin": null,
     "color": "#e2dccc",
     "category": "Liköre",

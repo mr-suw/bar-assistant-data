@@ -1,9 +1,9 @@
 {
     "_id": "banana",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Banana",
+    "name": "Banane",
     "strength": 0,
-    "description": "A banana is an elongated, edible fruit produced by several types of large herbaceous plants in the genus Musa. It is commonly eaten raw or cooked and is known for its soft, starchy flesh and distinctive peel.",
+    "description": "Die Banane ist eine längliche, essbare Frucht, die von verschiedenen Arten großer krautiger Pflanzen der Gattung Musa produziert wird. Sie wird üblicherweise roh oder gekocht gegessen und ist bekannt für ihr weiches, stärkehaltiges Fruchtfleisch und ihre charakteristische Schale.",
     "origin": null,
     "color": "#f5c211",
     "category": "Früchte und Gemüse",

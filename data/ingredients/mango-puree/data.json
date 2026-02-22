@@ -1,10 +1,10 @@
 {
     "_id": "mango-puree",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Mango puree",
+    "name": "Mangopüree",
     "strength": 0,
-    "description": "Mango puree is a fruit puree made with pure, ripe mangos. You can add a bit of sugar depending on the ripeness of the fruit and how you’re planning to serve it. But it can be as tangy or as sweet as you like! All you have to do is blend the following in a blender:",
-    "origin": "Worldwide",
+    "description": "Mangopüree wird aus reifen Mangos hergestellt. Je nach Reifegrad und Verwendung kann etwas Zucker hinzugefügt werden. Es kann so süß oder herb sein, wie man möchte, indem man die Früchte einfach im Mixer püriert.",
+    "origin": "Weltweit",
     "color": "#ffbe3d",
     "category": "Früchte und Gemüse",
     "created_at": null,

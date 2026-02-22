@@ -1,9 +1,9 @@
 {
     "_id": "lemon",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Lemon",
+    "name": "Zitrone",
     "strength": 0,
-    "description": "Lemon is a citrus fruit known for its bright yellow color and tart flavor.",
+    "description": "Die Zitrone ist eine Zitrusfrucht, die für ihre leuchtend gelbe Farbe und ihren sauren Geschmack bekannt ist.",
     "origin": null,
     "color": "#fdf26f",
     "category": "Früchte und Gemüse",

@@ -3,10 +3,10 @@
     "_parent_id": "simple-syrup",
     "name": "Demerara-Sirup",
     "strength": 0,
-    "description": "Syrup made with demerara sugar",
+    "description": "Sirup aus Demerara-Zucker.",
     "origin": null,
     "color": "#7f372a",
-    "category": "Sweeteners > Syrups > Simple Syrup",
+    "category": "Süßungsmittel > Sirupe > Einfacher Sirup",
     "created_at": null,
     "updated_at": null,
     "images": [

@@ -1,10 +1,10 @@
 {
     "_id": "tonic",
     "_parent_id": "beverages",
-    "name": "Tonic",
+    "name": "Tonic Water",
     "strength": 0,
-    "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
-    "origin": "Worldwide",
+    "description": "Tonic Water ist ein kohlensäurehaltiges Getränk, das mit Chinin versetzt ist, einem bitteren Stoff aus der Rinde des Chinarindenbaums. Ursprünglich als Mittel gegen Malaria eingesetzt, ist es heute ein beliebter Mixer für Cocktails, insbesondere für den klassischen Gin & Tonic.",
+    "origin": "Weltweit",
     "color": "#ffffff",
     "category": "Getränke",
     "created_at": null,

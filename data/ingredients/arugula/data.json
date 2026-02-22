@@ -1,9 +1,9 @@
 {
     "_id": "arugula",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Arugula",
+    "name": "Rucola",
     "strength": 0,
-    "description": "Arugula, also known as rocket or rucola, is a leafy green vegetable with a peppery flavor, commonly used in salads and various dishes. It is part of the Brassica family, which includes vegetables like broccoli and cabbage, and is known for its nutritional benefits, including vitamins and minerals that support health.",
+    "description": "Rucola (auch Rauke genannt) ist ein grünes Blattgemüse mit einem scharfen, nussigen Geschmack, das häufig in Salaten und verschiedenen Gerichten verwendet wird. Er gehört zur Familie der Kreuzblütler (Brassica) und ist für seinen hohen Gehalt an Vitaminen und Mineralstoffen bekannt.",
     "origin": null,
     "color": "#2e9120",
     "category": "Früchte und Gemüse",

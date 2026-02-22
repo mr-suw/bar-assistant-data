@@ -1,9 +1,9 @@
 {
     "_id": "pineapple",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Pineapple",
+    "name": "Ananas",
     "strength": 0,
-    "description": "Pineapple fruit",
+    "description": "Ananasfrucht",
     "origin": null,
     "color": null,
     "category": "Früchte und Gemüse",

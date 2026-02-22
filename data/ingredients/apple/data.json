@@ -1,10 +1,10 @@
 {
     "_id": "apple",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Apple",
+    "name": "Apfel",
     "strength": 0,
-    "description": "Apple fruit",
-    "origin": "Worldwide",
+    "description": "Apfelfrucht",
+    "origin": "Weltweit",
     "color": "#d64737",
     "category": "Früchte und Gemüse",
     "created_at": null,

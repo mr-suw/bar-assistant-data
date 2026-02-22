@@ -1,9 +1,9 @@
 {
     "_id": "lime",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Lime",
+    "name": "Limette",
     "strength": 0,
-    "description": "Lime is a citrus fruit known for its small size, vibrant green color, and tart flavor.",
+    "description": "Die Limette ist eine Zitrusfrucht, die für ihre kleine Größe, ihre leuchtend grüne Farbe und ihren sauren Geschmack bekannt ist.",
     "origin": null,
     "color": "#c9f27b",
     "category": "Früchte und Gemüse",

@@ -1,10 +1,10 @@
 {
     "_id": "apple-cider",
     "_parent_id": "beverages",
-    "name": "Apple Cider",
+    "name": "Apfel-Cider",
     "strength": 8,
-    "description": "Apple cider is a beverage made from the pressed and fermented juice of apples. The process typically involves crushing apples to extract their juice, which is then fermented by natural yeasts or added commercial yeast to convert the sugars into alcohol. The fermentation process can take place over several weeks, resulting in hard apple cider, which contains alcohol.\n\nHowever, the term \"apple cider\" can also refer to a non-alcoholic beverage, particularly in the United States and parts of Canada. In this context, apple cider is the fresh, unfiltered, and unpasteurized juice of apples. It is often characterized by its cloudy appearance due to the presence of apple solids and sediment.\n\nThe flavor of apple cider can vary depending on the apple varieties used and whether any additional spices, such as cinnamon or cloves, are added. It is a popular beverage in the fall, especially in regions with apple orchards, and is often enjoyed hot or cold. Some people also use apple cider as a base for other drinks or as an ingredient in cooking and baking.",
-    "origin": "Worldwide",
+    "description": "Apfel-Cider (oder Apfelwein/Most) ist ein Getränk aus dem gepressten und fermentierten Saft von Äpfeln. Der Prozess beinhaltet das Zerkleinern von Äpfeln zur Saftgewinnung, der dann durch natürliche oder zugesetzte Hefen fermentiert wird, um Zucker in Alkohol umzuwandeln. Die Gärung kann mehrere Wochen dauern.\n\nIn den USA und Teilen Kanadas kann sich der Begriff \"Apple Cider\" jedoch auch auf ein alkoholfreies Getränk beziehen. In diesem Kontext ist es frischer, ungefilterter und unpasteurisierter Apfelsaft, der durch seine naturtrübe Erscheinung charakterisiert ist.\n\nDer Geschmack von Apfel-Cider variiert je nach verwendeten Apfelsorten und ob zusätzliche Gewürze wie Zimt oder Nelken hinzugefügt wurden. Es ist ein beliebtes Getränk im Herbst und wird oft heiß oder kalt genossen.",
+    "origin": "Weltweit",
     "color": "#eae1b0",
     "category": "Getränke",
     "created_at": null,

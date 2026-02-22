@@ -1,10 +1,10 @@
 {
     "_id": "apple-juice",
     "_parent_id": "juices",
-    "name": "Apple Juice",
+    "name": "Apfelsaft",
     "strength": 0,
-    "description": "Apple juice is a beverage made from apples, typically extracted through crushing and then milling. The juice is often pasteurized to extend its shelf life and prevent spoilage, although unpasteurized versions are also available. The flavor profile can vary significantly depending on the apple variety used, ranging from tart and crisp to sweet and mellow.",
-    "origin": "United States",
+    "description": "Apfelsaft ist ein aus Äpfeln gewonnenes Getränk, das üblicherweise durch Zerkleinern und anschließendes Pressen extrahiert wird. Der Saft wird oft pasteurisiert, um die Haltbarkeit zu verlängern, es gibt jedoch auch unpasteurisierte Varianten. Das Geschmacksprofil kann je nach Apfelsorte erheblich variieren und reicht von herb-frisch bis süß-mild.",
+    "origin": "Weltweit",
     "color": "#F0E68C",
     "category": "Säfte",
     "created_at": null,

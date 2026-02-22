@@ -1,9 +1,9 @@
 {
     "_id": "cranberry-juice",
     "_parent_id": "juices",
-    "name": "Cranberry juice",
+    "name": "Cranberrysaft",
     "strength": 0,
-    "description": "Juice made from cranberries.",
+    "description": "Saft aus Cranberries (Moosbeeren).",
     "origin": null,
     "color": "#9c0024",
     "category": "Säfte",

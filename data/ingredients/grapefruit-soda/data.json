@@ -1,10 +1,10 @@
 {
     "_id": "grapefruit-soda",
     "_parent_id": "beverages",
-    "name": "Grapefruit soda",
+    "name": "Grapefruit-Limonade",
     "strength": 0,
-    "description": "Carbonized grapefruit soda",
-    "origin": "Worlwide",
+    "description": "Kohlensäurehaltige Limonade mit Grapefruitgeschmack.",
+    "origin": "Weltweit",
     "color": "#f87d67",
     "category": "Getränke",
     "created_at": null,

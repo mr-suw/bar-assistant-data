@@ -1,9 +1,9 @@
 {
     "_id": "blackberries",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Blackberries",
+    "name": "Brombeeren",
     "strength": 0,
-    "description": "Blackberries are known for their sweet and tart flavor, and they are commonly used in a variety of culinary applications, including desserts, jams, jellies, and beverages.",
+    "description": "Brombeeren sind bekannt für ihren süß-säuerlichen Geschmack und werden häufig in verschiedenen kulinarischen Anwendungen verwendet, darunter Desserts, Marmeladen, Gelees und Getränke.",
     "origin": null,
     "color": "#16173d",
     "category": "Früchte und Gemüse",

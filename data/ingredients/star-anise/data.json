@@ -1,9 +1,9 @@
 {
     "_id": "star-anise",
     "_parent_id": "spices",
-    "name": "Star anise",
+    "name": "Sternanis",
     "strength": 0,
-    "description": "Star anise is a spice derived from the fruit of the Illicium verum tree, native to China and Vietnam. It has a distinct star shape and a flavor similar to licorice, commonly used in Asian cuisines and traditional medicine.",
+    "description": "Sternanis ist ein Gewürz, das aus den Früchten des Echten Sternanisbaums gewonnen wird, der in China und Vietnam heimisch ist. Er hat eine markante Sternform und ein Aroma, das dem von Lakritz ähnelt.",
     "origin": "China",
     "color": "#63452c",
     "category": "Gewürze",
