@@ -1,18 +1,18 @@
 {
     "_id": "bitter-giuseppe",
     "name": "Bitter Giuseppe",
-    "instructions": "1. Stir all the ingredients together in a mixing glass with ice until chilled.\n2. Strain into a rocks glass over a single large ice cube and garnish.",
+    "instructions": "1. Alle Zutaten in einem Rührglas auf Eis rühren, bis sie gut gekühlt sind.\n2. In einen Tumbler auf einen großen Eiswürfel abseihen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "First featured on an early menu at the Violet Hour in Chicago, Stephen Cole's Bitter Giuseppe cocktail has become a modern classic over the years, with iterations popping up on menus at places like Cure in New Orleans, Elske and Ludlow Liquors in Chicago.",
+    "description": "Stephen Coles Bitter Giuseppe Cocktail, der erstmals auf einer frühen Karte der Violet Hour in Chicago stand, hat sich im Laufe der Jahre zu einem modernen Klassiker entwickelt, dessen Variationen auf Speisekarten in Lokalen wie dem Cure in New Orleans, dem Elske und dem Ludlow Liquors in Chicago auftauchen.",
     "source": "https://imbibemagazine.com/recipe/bitter-giuseppe-cocktail/",
-    "garnish": "Lemon peel",
+    "garnish": "Zitronenschale",
     "abv": 13.08,
     "tags": [
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 6,
             "units": "dashes",

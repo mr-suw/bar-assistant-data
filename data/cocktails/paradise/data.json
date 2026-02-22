@@ -1,19 +1,19 @@
 {
     "_id": "paradise",
     "name": "Paradise",
-    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The earliest known in-print recipe for the Paradise Cocktail was written by Harry Craddock in 1930. This cocktail is prepared using gin, apricot brandy (apricot liqueur), and orange juice in a 2:1:1 ratio, with a splash of lemon juice.",
+    "description": "Das früheste bekannte gedruckte Rezept für den Paradise Cocktail wurde 1930 von Harry Craddock geschrieben. Dieser Cocktail wird mit Gin, Aprikosenbrand (Aprikosenlikör) und Orangensaft im Verhältnis 2:1:1 zubereitet, mit einem Spritzer Zitronensaft.",
     "source": "https://iba-world.com/paradise/",
     "garnish": null,
     "abv": 24.62,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "apricot-brandy",
-            "name": "Apricot Brandy",
+            "name": "Aprikosenbrand",
             "sort": 2,
             "amount": 20,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

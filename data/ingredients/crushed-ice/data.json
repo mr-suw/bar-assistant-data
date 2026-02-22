@@ -1,9 +1,9 @@
 {
     "_id": "crushed-ice",
     "_parent_id": null,
-    "name": "Crushed ice",
+    "name": "Crushed Ice",
     "strength": 0,
-    "description": "Crushed ice is finely broken ice that melts quickly, making it ideal for cocktails like Mint Juleps and tiki drinks, as it dilutes the drink faster. It has a snow-like texture and is often used to enhance the presentation and taste of beverages.",
+    "description": "Crushed Ice ist fein zerkleinertes Eis, das schnell schmilzt und sich daher ideal für Cocktails wie Mint Juleps und Tiki-Drinks eignet, da es das Getränk schneller verwässert. Es hat eine schneeähnliche Textur und wird oft verwendet, um die Präsentation und den Geschmack von Getränken zu verbessern.",
     "origin": null,
     "color": "#ffffff",
     "category": null,

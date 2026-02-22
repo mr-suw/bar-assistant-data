@@ -1,12 +1,12 @@
 {
     "_id": "apricot-brandy",
     "_parent_id": "fruit-brandy",
-    "name": "Apricot Brandy",
+    "name": "Aprikosenbrand",
     "strength": 40,
-    "description": "Apricot brandy is a fruit-flavored liqueur made by infusing apricots in brandy or by distilling apricot fruit. The result is a sweet and flavorful spirit with the essence of apricots. Apricot brandy is commonly used in cocktails, adding a fruity and aromatic dimension to mixed drinks. It can vary in sweetness and intensity of apricot flavor depending on the production methods and the brand. Apricot brandy is versatile and can be enjoyed on its own, in cocktails, or as an ingredient in both sweet and savory culinary applications.",
+    "description": "Fruchtbrand bzw. Likör mit ausgeprägtem Aprikosengeschmack; verleiht Cocktails eine süß-fruchtige Note.",
     "origin": "Worldwide",
     "color": "#ca5210",
-    "category": "Spirits > Brandy > Fruit brandy",
+    "category": "Spirituosen > Brandy > Obstbrand",
     "created_at": null,
     "updated_at": null,
     "images": [

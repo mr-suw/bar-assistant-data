@@ -1,19 +1,19 @@
 {
     "_id": "long-island-ice-tea",
     "name": "Long Island Ice Tea",
-    "instructions": "Add all ingredients into a highball glass filled with ice.\nStir gently.",
+    "instructions": "Alle Zutaten in ein Highball-Glas mit Eis geben. Vorsichtig umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The cocktail has been criticized for its large number of ingredients, making it cumbersome to prepare in busy bars. It is considered a favorite of university students in the United States and it has thus garnered negative connotations as \"an act of mixological atrocity favored by college students and wastrels\", in the words of one food critic.",
+    "description": "Der Cocktail wurde wegen seiner vielen Zutaten kritisiert, die die Zubereitung in belebten Bars umständlich machen. Er gilt als Favorit von Universitätsstudenten in den Vereinigten Staaten und hat daher negative Konnotationen als „ein Akt mixologischer Gräueltaten, der von College-Studenten und Faulenzern bevorzugt wird“, so ein Lebensmittelkritiker.",
     "source": "https://iba-world.com/long-island-ice-tea/",
-    "garnish": "Lemon Slice (Optional)",
+    "garnish": "Zitronenscheibe (optional)",
     "abv": 21.82,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 15,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 6,
             "amount": 30,
             "units": "ml",
@@ -100,7 +100,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 7,
             "amount": 20,
             "units": "ml",

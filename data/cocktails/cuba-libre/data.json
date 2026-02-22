@@ -1,20 +1,20 @@
 {
     "_id": "cuba-libre",
     "name": "Cuba Libre",
-    "instructions": "Build all ingredients in a highball glass filled with ice.",
+    "instructions": "Alle Zutaten in ein Highball-Glas mit Eis geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "The cocktail originated in the early 20th century in Cuba, after the country won independence in the Spanish–American War. It subsequently became popular across Cuba, the United States, and other countries. Its simple recipe and inexpensive, ubiquitous ingredients have made it one of the world's most-popular alcoholic drinks. Drink critics often consider the drink mediocre, but it has been noted for its historical significance.\n\nTraditionally, the cola ingredient is Coca-Cola (\"Coke\") and the alcohol is a light rum such as Bacardi; however, the drink may be made with various types of rums and cola brands, and lime juice may or may not be included.",
+    "description": "Der Cocktail entstand Anfang des 20. Jahrhunderts in Kuba, nachdem das Land im Spanisch-Amerikanischen Krieg seine Unabhängigkeit erlangt hatte. Er wurde anschließend in Kuba, den Vereinigten Staaten und anderen Ländern populär. Sein einfaches Rezept und die preiswerten, allgegenwärtigen Zutaten haben ihn zu einem der beliebtesten alkoholischen Getränke der Welt gemacht. Getränkekritiker halten den Drink oft für mittelmäßig, aber er wurde für seine historische Bedeutung bekannt.\n\nTraditionell ist die Cola-Zutat Coca-Cola ('Coke') und der Alkohol ein heller Rum wie Bacardi; der Drink kann jedoch mit verschiedenen Rumsorten und Cola-Marken zubereitet werden, und Limettensaft kann enthalten sein oder auch nicht.",
     "source": "https://iba-world.com/cuba-libre/",
-    "garnish": "Garnish with lime wedge.",
+    "garnish": "Mit Limettenspalte garnieren.",
     "abv": 10.1,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
-        "Summer"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
+        "Sommer"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 50,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 10,
             "units": "ml",

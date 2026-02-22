@@ -1,12 +1,12 @@
 {
     "_id": "rhum-agricole",
     "_parent_id": "rum",
-    "name": "Rhum agricole",
+    "name": "Rum Agricole",
     "strength": 50,
-    "description": "Rhum Agricole is a style of rum that is made from fresh sugarcane juice rather than molasses, which is the byproduct of sugar production. The term \"agricole\" is French for \"agricultural,\" highlighting the agricultural origin of the sugarcane used in the production.\n\nRhum Agricole is particularly associated with regions like Martinique and Guadeloupe, where the production of this style of rum has a long and established tradition. The distinctive character of Rhum Agricole has contributed to its popularity among rum enthusiasts and mixologists seeking unique and flavorful spirits.",
+    "description": "Rum-Stil aus frischem Zuckerrohrsaft (statt Melasse), geprägt von Regionen wie Martinique und Guadeloupe; liefert grasige, trockene Noten.",
     "origin": "Caribbean",
     "color": "#ffffff",
-    "category": "Spirits > Sugarcane-based spirits > Rum",
+    "category": "Spirituosen > Zuckerrohrbasierte Spirituosen > Rum",
     "created_at": null,
     "updated_at": null,
     "images": [

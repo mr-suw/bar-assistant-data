@@ -1,12 +1,12 @@
 {
     "_id": "cold-brew-coffee",
     "_parent_id": "coffee",
-    "name": "Cold brew coffee",
+    "name": "Cold Brew Kaffee",
     "strength": 0,
-    "description": "Cold brew coffee is made by steeping coarsely ground coffee beans in cold or room temperature water for 12 to 24 hours, resulting in a smooth and less acidic flavor compared to traditional hot brewed coffee. It can be served chilled or hot, often diluted with water or milk to taste.",
+    "description": "Cold Brew Kaffee wird hergestellt, indem grob gemahlene Kaffeebohnen 12 bis 24 Stunden lang in kaltem Wasser oder Wasser mit Raumtemperatur ziehen gelassen werden, was zu einem weicheren und weniger sauren Geschmack im Vergleich zu traditionellem heiß gebrühtem Kaffee führt. Er kann gekühlt oder heiß serviert werden, oft mit Wasser oder Milch verdünnt, je nach Geschmack.",
     "origin": null,
     "color": "#63452c",
-    "category": "Beverages > Coffee",
+    "category": "Getränke > Kaffee",
     "created_at": null,
     "updated_at": null,
     "images": [

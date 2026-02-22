@@ -1,19 +1,19 @@
 {
     "_id": "needle-in-the-hay",
-    "name": "Needle in the Hay",
-    "instructions": "1. Combine the ingredients into your mixing glass\n2.  Stir for 20-30 seconds with ice\n3. Strain over fresh ice into an old fashioned glass",
+    "name": "Nadel im Heuhaufen",
+    "instructions": "1. Die Zutaten in Ihr Rührglas geben.\n2. 20-30 Sekunden mit Eis rühren.\n3. Über frisches Eis in ein Old Fashioned Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Needle in the Hay was created by Los Angeles-based mixologist Devon Tarby. She was a contributor to the well known cocktail book, Cocktail Codex (from the authors and owners of Death & Co). This Islay whisky cocktail is what you would imagine a Autumn cocktail to be - smoky, sweet maple flavours and undertones of apple from the brandy.",
+    "description": "Die Needle in the Hay wurde von der in Los Angeles ansässigen Mixologin Devon Tarby kreiert. Sie war eine Mitwirkende des bekannten Cocktailbuchs Cocktail Codex (von den Autoren und Besitzern von Death & Co). Dieser Islay-Whisky-Cocktail ist genau das, was man sich unter einem Herbstcocktail vorstellen würde – rauchige, süße Ahornaromen und Apfel-Untertöne vom Brandy.",
     "source": "https://stevethebartender.com.au/needle-in-the-hay-smoky-autumn-cocktail-recipe/",
-    "garnish": "Garnish with a twist of lemon",
+    "garnish": "Mit einer Zitronenschale garnieren",
     "abv": 30.43,
     "tags": [
-        "Smokey",
-        "Sweet"
+        "Rauchig",
+        "Süß"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "islay-scotch-whiskey",
-            "name": "Islay Scotch Whiskey",
+            "name": "Islay Scotch Whisky",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "maple-syrup",
-            "name": "Maple syrup",
+            "name": "Ahornsirup",
             "sort": 3,
             "amount": 1,
             "units": "barspoon",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 2,
             "units": "dashes",

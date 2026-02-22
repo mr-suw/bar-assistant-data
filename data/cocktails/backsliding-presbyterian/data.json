@@ -1,18 +1,18 @@
 {
     "_id": "backsliding-presbyterian",
     "name": "Backsliding Presbyterian",
-    "instructions": "Shake all ingredients (except club soda) with ice and strain into an ice-filled glass. Top with club soda and garnish.",
+    "instructions": "Alle Zutaten (außer dem Sodawasser) mit Eis schütteln und in ein mit Eis gefülltes Glas abseihen. Mit Sodawasser auffüllen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Tall and bursting with bittersweet orange and ginger flavors, this whiskey highball proves that aged spirits aren’t just for winter sipping.",
+    "description": "Dieser Whiskey-Highball ist groß und strotzt vor bittersüßen Orangen- und Ingweraromen; er beweist, dass gelagerte Spirituosen nicht nur für den Winter gedacht sind.",
     "source": "https://imbibemagazine.com/recipe/backsliding-presbyterian/",
-    "garnish": "Orange Wedge",
+    "garnish": "Orangenspalte",
     "abv": 17.41,
     "tags": [
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 1,
             "units": "top",

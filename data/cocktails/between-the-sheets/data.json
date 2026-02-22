@@ -1,19 +1,20 @@
 {
     "_id": "between-the-sheets",
     "name": "Between the Sheets",
-    "instructions": "1. Add all ingredients into a cocktail shaker\n2. Shake with ice and strain into a chilled cocktail glass",
+    "instructions": "1. Alle Zutaten mit Eis in einem Cocktailshaker kombinieren und schütteln, bis es gekühlt ist.\n2. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The origin of the cocktail is usually credited to Harry MacElhone at Harry's New York Bar in Paris in the 1930s as a derivative of the sidecar. However, competing theories exist that claim the cocktail was created at The Berkeley in approximately 1921, or in French brothels as an apéritif for consumption by the prostitutes.",
+    "description": "Der Between the Sheets Cocktail ist eine Variation des Sidecar, bei der Rum und Triple Sec verwendet werden. Es ist ein klassischer Cocktail aus den 1920er Jahren. Der Cocktail ist auch als Maiden's Prayer bekannt.",
     "source": "https://iba-world.com/between-the-sheets/",
-    "garnish": null,
-    "abv": 26.18,
+    "garnish": "Orangenzeste",
+    "abv": 24.32,
     "tags": [
-        "IBA Cocktail",
-        "The Unforgettables"
+        "IBA-Cocktail",
+        "The Unforgettables",
+        "Klassiker"
     ],
-    "glass": "Fizzio",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -21,16 +22,16 @@
         {
             "uri": "file:///between-the-sheets-1.jpg",
             "sort": 1,
-            "placeholder_hash": "TAgGFwKZiFWwk4gSXAaXuFtvRVAbA8QD",
-            "copyright": "A Couple Cooks"
+            "placeholder_hash": "2xkKFwI9iJeEiYh+iHeG+aWHCgZpCJgH",
+            "copyright": "Difford's Guide"
         }
     ],
     "ingredients": [
         {
-            "_id": "light-rum",
-            "name": "Light Rum",
+            "_id": "cognac",
+            "name": "Cognac",
             "sort": 1,
-            "amount": 30,
+            "amount": 22.5,
             "units": "ml",
             "optional": false,
             "is_specified": false,
@@ -39,10 +40,10 @@
             "substitutes": []
         },
         {
-            "_id": "cognac",
-            "name": "Cognac",
+            "_id": "white-rum",
+            "name": "Weißer Rum",
             "sort": 2,
-            "amount": 30,
+            "amount": 22.5,
             "units": "ml",
             "optional": false,
             "is_specified": false,
@@ -54,7 +55,7 @@
             "_id": "triple-sec",
             "name": "Triple Sec",
             "sort": 3,
-            "amount": 30,
+            "amount": 22.5,
             "units": "ml",
             "optional": false,
             "is_specified": false,
@@ -64,9 +65,9 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
-            "amount": 20,
+            "amount": 15,
             "units": "ml",
             "optional": false,
             "is_specified": false,

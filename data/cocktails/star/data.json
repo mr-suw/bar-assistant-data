@@ -1,18 +1,18 @@
 {
     "_id": "star",
     "name": "Star",
-    "instructions": "1. Combine all ingredients in a mixing glass and stir for ten seconds\n2. Strain into a cocktail glass and garnish",
+    "instructions": "1. Alle Zutaten in ein Rührglas geben und etwa 10–15 Sekunden auf Eis verrühren.\n2. In ein Cocktailglas abseihen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A humble riff on the famous Manhattan yields excellent fall flavors",
+    "description": "Eine gelungene Variation des berühmten Manhattan, die hervorragend zu herbstlichen Aromen passt.",
     "source": "https://tuxedono2.com/star-cocktail-recipe",
-    "garnish": "lemon twist for garnish",
+    "garnish": "Zitronenzeste",
     "abv": 26.79,
     "tags": [
         "Brandy"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,10 +51,10 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 1,
-            "units": "barspoon",
+            "units": "Barlöffel",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -63,7 +63,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 2,
             "units": "dash",

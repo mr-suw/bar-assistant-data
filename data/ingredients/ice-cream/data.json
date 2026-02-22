@@ -1,12 +1,12 @@
 {
     "_id": "ice-cream",
     "_parent_id": "dairy",
-    "name": "Ice cream",
+    "name": "Speiseeis",
     "strength": 0,
-    "description": "Ice cream is a frozen dessert made from a mixture of cream, sugar, and flavorings, often with the addition of fruits, nuts, or other ingredients. It is churned and frozen to create a creamy and sweet treat enjoyed in various flavors and forms.",
-    "origin": "Worldwide",
+    "description": "Speiseeis ist ein gefrorenes Dessert, das aus einer Mischung von Sahne, Zucker und Aromen hergestellt wird, oft unter Zugabe von Früchten, Nüssen oder anderen Zutaten. Es wird gerührt und gefroren, um eine cremige und süße Leckerei zu schaffen, die in verschiedenen Geschmacksrichtungen und Formen genossen wird.",
+    "origin": "Weltweit",
     "color": "#ffffff",
-    "category": "Dairy",
+    "category": "Milchprodukte",
     "created_at": null,
     "updated_at": null,
     "images": [

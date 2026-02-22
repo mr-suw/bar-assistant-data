@@ -1,16 +1,16 @@
 {
     "_id": "fairy-sugar-momma",
     "name": "Fairy Sugar Momma",
-    "instructions": "Shake ingredients",
+    "instructions": "Zutaten schütteln.",
     "created_at": null,
     "updated_at": null,
-    "description": "As much as I liked the hint of anise in a corpse reviver I never was one to eat a black jelly bean on its own. But I think this drink works so well because all of the ingredients it’s brought together with are also bold and don't allow the absinthe to dominate the drink. It’s black jelly bean on a tropical vacation and it is tasty.",
+    "description": "Obwohl ich den Hauch von Anis in einem Corpse Reviver mochte, war ich nie jemand, der ein schwarzes Jelly Bean pur essen würde. Aber ich glaube, dieser Drink funktioniert so gut, weil alle Zutaten beigemischt sind, die ebenfalls kräftig sind und nicht zulassen, dass der Absinth den Drink dominiert. Es ist wie ein schwarzer Jelly Bean im tropischen Urlaub und es ist lecker.",
     "source": "https://www.reddit.com/r/cocktails/comments/12lv3c5/absinthe_anyone_made_a_fairy_sugar_momma_and_a/",
     "garnish": null,
     "abv": 9.88,
     "tags": [],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat (Mandelsirup)",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 5,
             "amount": 45,
             "units": "ml",

@@ -1,19 +1,19 @@
 {
     "_id": "black-manhattan",
     "name": "Black Manhattan",
-    "instructions": "1. Combine all ingredients in a mixing glass with ice and stir until chilled.\n2. Strain into a chilled coupe.\n3. Garnish with a cherry.",
+    "instructions": "1. Alle Zutaten in ein Rührglas mit Eis geben und rühren, bis es gut gekühlt ist.\n2. In eine vorgekühlte Coupette abseihen.\n3. Mit einer Kirsche garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Amaro Averna stands in for sweet vermouth in this Manhattan-inspired modern classic cocktail recipe from Todd Smith.",
+    "description": "Amaro Averna ersetzt in diesem von Todd Smith kreierten Modern Classic den süßen Wermut der klassischen Manhattan-Rezeptur.",
     "source": "https://punchdrink.com/recipes/black-manhattan/",
-    "garnish": "cherry",
+    "garnish": "Kirsche",
     "abv": 30.28,
     "tags": [
         "Bitter",
-        "Spicy"
+        "Würzig"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 1,
             "units": "dash",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 1,
             "units": "dash",

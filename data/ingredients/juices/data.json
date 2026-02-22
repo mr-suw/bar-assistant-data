@@ -1,9 +1,9 @@
 {
     "_id": "juices",
     "_parent_id": null,
-    "name": "Juices",
+    "name": "Säfte",
     "strength": 0,
-    "description": "Drinks made from the extraction or pressing of the natural liquid contained in fruit and vegetables.",
+    "description": "Getränke, die durch Auspressen oder Pressen des natürlichen Safts aus Früchten und Gemüse gewonnen werden.",
     "origin": null,
     "color": null,
     "category": null,

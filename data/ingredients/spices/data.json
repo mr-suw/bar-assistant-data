@@ -1,9 +1,9 @@
 {
     "_id": "spices",
     "_parent_id": null,
-    "name": "Spices",
+    "name": "Gewürze",
     "strength": 0,
-    "description": "Spices are a powerful tool in cocktail crafting, adding layers of warmth, depth, and aromatic complexity beyond just sweetness or acidity. From common baking spices like cinnamon, nutmeg, and cloves, which evoke comforting, seasonal flavors, to more exotic notes like cardamom, star anise, or even chili for a subtle kick, spices can fundamentally transform a drink's character. They can be introduced through infusions (steeping spices directly in spirits), in homemade syrups, as concentrated bitters, or simply as a fragrant garnish, allowing mixologists to fine-tune a cocktail's profile, create intriguing contrasts, and add a memorable sensory experience.",
+    "description": "Gewürze sind ein wirkungsvolles Werkzeug in der Cocktailkunst und verleihen weit mehr als nur Süße oder Säure: Sie sorgen für Wärme, Tiefe und aromatische Komplexität. Von klassischen Backgewürzen wie Zimt, Muskatnuss und Nelken, die wohlige, saisonale Aromen hervorrufen, bis hin zu exotischeren Noten wie Kardamom, Sternanis oder sogar Chili für eine dezente Schärfe – Gewürze können den Charakter eines Drinks grundlegend verändern. Sie können durch Infusionen (direktes Einlegen der Gewürze in Spirituosen), in hausgemachten Sirupen, als konzentrierte Bitters oder einfach als duftende Garnitur eingebracht werden, was es Mixologen ermöglicht, das Profil eines Cocktails fein abzustimmen, faszinierende Kontraste zu schaffen und ein unvergessliches sensorisches Erlebnis zu bieten.",
     "origin": null,
     "color": null,
     "category": null,

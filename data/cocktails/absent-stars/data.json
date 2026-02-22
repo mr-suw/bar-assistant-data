@@ -1,20 +1,20 @@
 {
     "_id": "absent-stars",
     "name": "Absent Stars",
-    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 20 seconds\n3. Strain into a chilled rocks glass",
+    "instructions": "1. Alle Zutaten in den Shaker geben.\n2. Eis zufügen und 20 Sekunden kräftig shaken.\n3. In einen vorgekühlten Tumbler auf Eis abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A nouveau tropical rum cocktail with big passionfruit and grapefruit flavor. From Nick Detrich.",
+    "description": "Moderner, tropischer Rumcocktail von Nick Detrich mit viel Passionsfrucht und Grapefruit.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/absent-stars",
-    "garnish": "orange twist",
+    "garnish": "Orangenzeste",
     "abv": 20.27,
     "tags": [
-        "Summer",
-        "Citrusy",
-        "Fruity"
+        "Sommer",
+        "Zitrusbetont",
+        "Fruchtig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "rhum-agricole",
-            "name": "Rhum agricole",
+            "name": "Rum Agricole",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "apricot-brandy",
-            "name": "Apricot Brandy",
+            "name": "Aprikosenbrand",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -89,7 +89,7 @@
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 6,
             "amount": 5,
             "units": "drops",
@@ -101,7 +101,7 @@
         },
         {
             "_id": "grapefruit-bitters",
-            "name": "Grapefruit bitters",
+            "name": "Grapefruit-Bitters",
             "sort": 7,
             "amount": 10,
             "units": "drops",

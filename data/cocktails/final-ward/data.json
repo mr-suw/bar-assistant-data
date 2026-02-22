@@ -1,19 +1,19 @@
 {
     "_id": "final-ward",
     "name": "Final Ward",
-    "instructions": "1. Combine all the ingredients into your cocktail shaker\n2. Shake with ice for 12 seconds\n3. Strain into a chilled cocktail glass",
+    "instructions": "1. Alle Zutaten in Ihren Cocktailshaker geben.\n2. 12 Sekunden lang mit Eis schütteln.\n3. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Final Ward is perhaps the best-know riff on the classic Last Word and was created in 2007 by Phil Ward at Death & Co. NYC. It is still comprised of equal parts with rye whiskey replacing the gin and fresh lemon juice in place of lime.\n\nThe Last Word is a gin-based prohibition-era cocktail which was rediscovered in 2004 and becoming a cult hit in the Seattle area.",
+    "description": "Der Final Ward ist vielleicht die bekannteste Variante des klassischen Last Word und wurde 2007 von Phil Ward im Death & Co. NYC kreiert. Er besteht weiterhin aus gleichen Teilen, wobei Roggenwhiskey den Gin ersetzt und frischer Zitronensaft anstelle von Limette verwendet wird.\n\nDer Last Word ist ein Gin-basierter Cocktail aus der Prohibitionszeit, der 2004 wiederentdeckt wurde und in der Region Seattle zu einem Kult-Hit wurde.",
     "source": "https://stevethebartender.com.au/final-ward-cocktail-recipe-last-word-riff/",
-    "garnish": "Cocktail cherry at the bottom of the glass",
+    "garnish": "Cocktailkirsche am Boden des Glases",
     "abv": 25.4,
     "tags": [
-        "Citrusy",
-        "Herbacious"
+        "Zitrusbetont",
+        "Kräuterig"
     ],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 22.5,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "green-chartreuse",
-            "name": "Green Chartreuse",
+            "name": "Grüner Chartreuse",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",

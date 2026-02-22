@@ -1,20 +1,20 @@
 {
     "_id": "surfer-on-acid",
     "name": "Surfer on Acid",
-    "instructions": "1. Add all ingredients to a shaker and shake with ice.\n2. Strain into a double rocks glass over a large block of ice.\n3. Garnish with freshly grated nutmeg.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben und mit Eis schütteln.\n2. In ein doppeltes Rocks-Glas über einen großen Eisblock abseihen.\n3. Mit frisch geriebener Muskatnuss garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Surfer on Acid is an easy shaken cocktail recipe made with rum, Jägermeister, lime, pineapple and saline solution.",
+    "description": "Der Surfer on Acid ist ein einfaches geschütteltes Cocktailrezept aus Rum, Jägermeister, Limette, Ananas und Salzlösung.",
     "source": "https://punchdrink.com/recipes/surfer-on-acid/",
-    "garnish": "freshly grated nutmeg",
+    "garnish": "Frisch geriebene Muskatnuss",
     "abv": 15.37,
     "tags": [
-        "Sweet",
-        "Fruity",
+        "Süß",
+        "Fruchtig",
         "Tiki"
     ],
-    "glass": null,
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -41,14 +41,14 @@
         },
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 2,
             "amount": 1.25,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Don Q Cristal",
+            "note": "wie Don Q Cristal",
             "substitutes": []
         },
         {
@@ -65,7 +65,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 0.5,
             "units": "oz",
@@ -89,31 +89,31 @@
         },
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 6,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Smith & Cross",
+            "note": "wie Smith & Cross",
             "substitutes": []
         },
         {
             "_id": "coconut-rum",
-            "name": "Coconut Rum",
+            "name": "Kokosnussrum",
             "sort": 7,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Malibu",
+            "note": "wie Malibu",
             "substitutes": []
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 8,
             "amount": 1,
             "units": "dash",

@@ -1,12 +1,12 @@
 {
     "_id": "celery-bitters",
     "_parent_id": "bitters",
-    "name": "Celery bitters",
+    "name": "Sellerie-Bitters",
     "strength": 44,
-    "description": "Celery bitters are a type of cocktail bitters that add a savory flavor to drinks, often used in cocktails like the Bloody Mary or Gin and Tonic. They can be purchased from specialty liquor stores or made at home using celery and other flavoring ingredients.",
+    "description": "Sellerie-Bitters sind eine Art Cocktail-Bitters, die Getränken einen herzhaften Geschmack verleihen und oft in Cocktails wie Bloody Mary oder Gin Tonic verwendet werden. Sie können in spezialisierten Spirituosengeschäften gekauft oder zu Hause mit Sellerie und anderen Geschmackszutaten hergestellt werden.",
     "origin": null,
     "color": "#f6f5f4",
-    "category": "Bitters",
+    "category": "Bitter",
     "created_at": null,
     "updated_at": null,
     "images": [

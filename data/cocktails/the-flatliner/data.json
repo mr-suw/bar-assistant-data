@@ -1,18 +1,18 @@
 {
     "_id": "the-flatliner",
     "name": "The Flatliner",
-    "instructions": "1. Add all of the ingredients to a shaker with ice and shake to chill.\n2. Fine-strain into the chilled glass.\n3. Top the cocktail with cinnamon whipped cream and garnish.",
+    "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben und schütteln, bis es gekühlt ist.\n2. Fein in das gekühlte Glas abseihen.\n3. Den Cocktail mit Zimt-Schlagsahne bedecken und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "For a decadent Espresso Martini-inspired cocktail, The National Telluride adds Irish cream to the coffee cocktail and garnishes with cinnamon whipped cream and a pizelle cookie. A touch of Grand Marnier gives it subtle bitter orange and vanilla notes.",
+    "description": "Für einen dekadenten, Espresso Martini-inspirierten Cocktail fügt The National Telluride irischen Cremelikör zum Kaffee-Cocktail hinzu und garniert ihn mit Zimt-Schlagsahne und einem Pizelle-Keks. Ein Hauch Grand Marnier verleiht ihm subtile bittere Orangen- und Vanillenoten.",
     "source": "https://imbibemagazine.com/recipe/the-flatliner-coffee-cocktail/",
-    "garnish": "Cinnamon whipped cream and a pizzelle cookie",
+    "garnish": "Zimt-Schlagsahne und ein Pizzelle-Keks",
     "abv": 20.69,
     "tags": [
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": null,
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 2,
             "amount": 1,
             "units": "oz",

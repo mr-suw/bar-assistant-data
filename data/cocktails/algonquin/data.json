@@ -1,18 +1,18 @@
 {
     "_id": "algonquin",
     "name": "Algonquin",
-    "instructions": "1. Shake all ingredients with ice and fine strain into chilled glass.",
+    "instructions": "1. Alle Zutaten mit Eis schütteln und fein in ein vorgekühltes Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Named for a historic hotel in midtown Manhattan, the classic Algonquin cocktail combines rye whiskey, vermouth and pineapple. At Clyde Common in Portland, Oregon, bartender Banjo Amberg uses Bianco vermouth instead of dry and pineapple gomme syrup instead of fresh juice for a more elegant version of the original. “Nobody likes the Algonquin. It was one of those drinks that was so unpopular that nobody that I know even tried to make it work, like you can do with so many of those forgotten ‘classics,’ ” says Amberg. “With a few adjustments we stumbled upon something truly delicious.”",
+    "description": "Benannt nach einem historischen Hotel in Midtown Manhattan, kombiniert der klassische Algonquin Cocktail Rye Whiskey, Wermut und Ananas. Im Clyde Common in Portland, Oregon, verwendet Barkeeper Banjo Amberg Bianco Wermut anstelle von trockenem Wermut und Ananas-Gomme-Sirup anstelle von frischem Saft für eine elegantere Version des Originals. „Niemand mag den Algonquin. Er war einer dieser Drinks, die so unbeliebt waren, dass niemand, den ich kenne, überhaupt versucht hat, ihn zum Laufen zu bringen, wie man es mit so vielen dieser vergessenen ‚Klassiker‘ tun kann“, sagt Amberg. „Mit ein paar Anpassungen stießen wir auf etwas wirklich Köstliches.“",
     "source": "https://imbibemagazine.com/recipe/algonquin-cocktail-recipe/",
-    "garnish": "Lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 19,
     "tags": [
-        "Savory"
+        "Herzhaft"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "pineapple-syrup",
-            "name": "Pineapple Syrup",
+            "name": "Ananassirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",

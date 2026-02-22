@@ -1,19 +1,19 @@
 {
     "_id": "tropical-storm",
     "name": "Tropical Storm",
-    "instructions": "1. Add all ingredients to a cocktail shaker \n2. Add ice and shake for 10 seconds\n3. Strain into a chilled glass",
+    "instructions": "1. Alle Zutaten in einen Shaker geben.\n2. Eis hinzufügen und 10 Sekunden lang schütteln.\n3. In ein gekühltes Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Passionfruit Syrup and dark rum shine in this daiquiri-hurricane hybrid.",
+    "description": "Passionsfruchtsirup und dunkler Rum stehen im Mittelpunkt dieses Daiquiri-Hurricane-Hybrids.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/tropical-storm",
-    "garnish": "Edible flower or lime wheel",
+    "garnish": "Essbare Blüte oder Limettenscheibe",
     "abv": 21.33,
     "tags": [
-        "Summer",
-        "Tropical"
+        "Sommer",
+        "Tropisch"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",

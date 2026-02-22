@@ -1,12 +1,12 @@
 {
     "_id": "scotch-whiskey",
     "_parent_id": "whiskey",
-    "name": "Scotch whiskey",
+    "name": "Scotch Whisky",
     "strength": 40,
-    "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+    "description": "Hergestellt in Schottland, typischerweise aus gemälzter Gerste und für einen Mindestzeitraum in Eichenfässern gereift. Scotch kann weiter unterteilt werden in Single Malt, Single Grain, Blended Malt, Blended Grain und Blended Scotch Whisky.",
     "origin": "Scotland",
     "color": "#d54a06",
-    "category": "Spirits > Whiskey",
+    "category": "Spirituosen > Whisky",
     "created_at": null,
     "updated_at": null,
     "images": [

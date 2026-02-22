@@ -1,18 +1,18 @@
 {
     "_id": "bahama-mama",
     "name": "Bahama Mama",
-    "instructions": "1. Combine all ingredients in a mixing tin. Add 5 ice cubes and shake for 5 seconds.\n2. Strain into a Hurricane glass filled with crushed ice.\n3. Garnish with tropical fruit.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben. 5 Eiswürfel hinzufügen und 5 Sekunden lang schütteln.\n2. In ein Hurricane-Glas auf Crushed Ice abseihen.\n3. Mit tropischen Früchten garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Tiki master Paul McGee’s recalibrated version of this classic cocktail recipe involves dialing down the proportions and sweetness.",
+    "description": "Tiki-Meister Paul McGees neu abgestimmte Version dieses klassischen Cocktailrezepts setzt auf angepasste Proportionen und eine reduzierte Süße.",
     "source": "https://punchdrink.com/recipes/bahama-mama/",
-    "garnish": "tropical fruit",
+    "garnish": "tropische Früchte",
     "abv": 10.56,
     "tags": [
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Tiki",
-    "method": "Shake",
+    "glass": "Tiki-Becher",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,14 +27,14 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaica-Rum",
             "sort": 1,
             "amount": 1,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Plantation Xaymaca",
+            "note": "vorzugsweise Plantation Xaymaca",
             "substitutes": []
         },
         {
@@ -46,7 +46,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Rum-Bar Overproof White Jamaican Rum",
+            "note": "vorzugsweise Rum-Bar Overproof White Jamaican Rum",
             "substitutes": []
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 1,
             "units": "oz",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 6,
             "amount": 15,
             "units": "ml",
@@ -106,19 +106,19 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Pierre Ferrand Dry Curacao",
+            "note": "vorzugsweise Pierre Ferrand Dry Curacao",
             "substitutes": []
         },
         {
             "_id": "creme-de-banane",
-            "name": "Crème de banane",
+            "name": "Crème de Banane",
             "sort": 8,
             "amount": 7.5,
             "units": "barspoon",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Giffard Banane du Bresil",
+            "note": "vorzugsweise Giffard Banane du Bresil",
             "substitutes": []
         }
     ]

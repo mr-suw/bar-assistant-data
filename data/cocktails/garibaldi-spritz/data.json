@@ -1,18 +1,18 @@
 {
     "_id": "garibaldi-spritz",
     "name": "Garibaldi Spritz",
-    "instructions": "1. To an ice-filled Collins glass, add the Campari and orange juice and stir to combine.\n2. Top with prosecco and garnish.",
+    "instructions": "1. Campari und Orangensaft in ein mit Eis gefülltes Collins-Glas geben und umrühren.\n2. Mit Prosecco auffüllen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This version of the classic Garibaldi cocktail recipe dials back the Campari and tops all with prosecco, turning the classic into a spritz.",
+    "description": "Diese Version des klassischen Garibaldi-Rezepts reduziert den Campari-Anteil und füllt das Ganze mit Prosecco auf, wodurch der Klassiker zum Spritz wird.",
     "source": "https://punchdrink.com/recipes/garibaldi-spritz/",
-    "garnish": "orange slice",
+    "garnish": "Orangenscheibe",
     "abv": 6.25,
     "tags": [
         "Spritz"
     ],
-    "glass": "Highball",
-    "method": "Stir",
+    "glass": "Highball-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 2,
             "amount": 3.5,
             "units": "oz",

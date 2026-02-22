@@ -1,20 +1,20 @@
 {
     "_id": "mary-celeste",
     "name": "Mary Celeste",
-    "instructions": "1. Add all of the ingredients to a shaker with ice.\n2. Shake to chill and strain over fresh ice in a glass.\n3. Garnish.",
+    "instructions": "1. Alle Zutaten mit Eis in einen Shaker geben.\n2. Schütteln, um zu kühlen, und über frisches Eis in ein Glas abseihen.\n3. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The nutty sweetness of orgeat rounds out bitter amaro and tart lime juice in this mezcal cocktail from Travis Parsley, lead bartender of The National Bar in Nevada City.",
+    "description": "Die nussige Süße von Orgeat rundet bitteren Amaro und herben Limettensaft in diesem Mezcal-Cocktail von Travis Parsley, Chef-Barkeeper der The National Bar in Nevada City, ab.",
     "source": "https://imbibemagazine.com/recipe/mary-celeste-mezcal-cocktail/",
-    "garnish": "Dehydrated lemon wheel",
+    "garnish": "Getrocknete Zitronenscheibe",
     "abv": 19.38,
     "tags": [
         "Bitter",
-        "Smokey",
-        "Nutty"
+        "Rauchig",
+        "Nussig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",

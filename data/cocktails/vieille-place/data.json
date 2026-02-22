@@ -1,19 +1,19 @@
 {
     "_id": "vieille-place",
     "name": "Vieille Place",
-    "instructions": "Stir all ingredients with ice and strain into an ice-filled glass",
+    "instructions": "Alle Zutaten auf Eis rühren und in ein mit Eis gefülltes Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A twist on the classic Vieux Carré,  the Vieille Place is a balanced, yet spirit-forward, bittersweet aperitif. Created by Robbie Neskens at Bruut in Hassselt , Belgium, this drink incorporates Bourbon, Suze, Cognac, Dry Vermouth, Simple Syrup, a dash of Amaretto, aswell as both a dash of Peychard & Angostura Bitters.",
+    "description": "Eine Variation des Klassikers Vieux Carré. Der Vieille Place ist ein ausgewogener, aber spirituosenbetonter, bittersüßer Aperitif. Kreiert von Robbie Neskens im Bruut in Hasselt, Belgien. Dieser Drink enthält Bourbon, Suze, Cognac, trockenen Wermut, Zuckersirup, einen Spritzer Amaretto sowie je einen Spritzer Peychaud und Angostura Bitters.",
     "source": "https://cocktailsdistilled.com/recipe/vieille-place/",
-    "garnish": "Lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 23.46,
     "tags": [
-        "Sweet",
+        "Süß",
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -64,7 +64,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 6,
             "amount": 10,
             "units": "ml",
@@ -100,7 +100,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 7,
             "amount": 1,
             "units": "dash",

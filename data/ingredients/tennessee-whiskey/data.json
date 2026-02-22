@@ -3,10 +3,10 @@
     "_parent_id": "whiskey",
     "name": "Tennessee Whiskey",
     "strength": 40,
-    "description": "Tennessee whiskey is a specific type of American whiskey that is closely associated with the state of Tennessee and is known for its distinctive production process, which includes the Lincoln County Process.\n\nThe distinguishing feature of Tennessee whiskey is the use of the Lincoln County Process, a filtration method in which the whiskey is filtered through, or steeped in, sugar maple charcoal before entering the barrels for aging. This process is believed to impart additional smoothness and mellowness to the final product. Not all Tennessee whiskeys use this process, but it is a defining characteristic for those that do.",
+    "description": "Tennessee Whiskey ist eine spezifische Art von amerikanischem Whiskey, die eng mit dem Bundesstaat Tennessee verbunden ist und für ihren unverwechselbaren Herstellungsprozess bekannt ist, der den Lincoln County Process umfasst.\n\nDas Unterscheidungsmerkmal des Tennessee Whiskeys ist die Anwendung des Lincoln County Process, einer Filtrationsmethode, bei der der Whiskey durch Zuckerahorn-Holzkohle gefiltert oder in diese eingeweicht wird, bevor er zur Reifung in Fässer gelangt. Es wird angenommen, dass dieser Prozess dem Endprodukt zusätzliche Geschmeidigkeit und Milde verleiht. Nicht alle Tennessee Whiskeys verwenden diesen Prozess, aber er ist ein definierendes Merkmal für diejenigen, die es tun.",
     "origin": "America",
     "color": "#dc7a0e",
-    "category": "Spirits > Whiskey",
+    "category": "Spirituosen > Whiskey",
     "created_at": null,
     "updated_at": null,
     "images": [

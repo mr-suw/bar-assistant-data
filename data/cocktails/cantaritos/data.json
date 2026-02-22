@@ -1,19 +1,19 @@
 {
     "_id": "cantaritos",
     "name": "Cantaritos",
-    "instructions": "1. If using the traditional clay cup for serving, soak it in cold water for 10 minutes before using. Otherwise, use a highball glass.\n2. Combine the tequila, orange juice, lemon juice and lime juice in the glass with a pinch of salt.\n3. Fill the glass with ice and top with grapefruit soda.",
+    "instructions": "1. Falls ein traditioneller Tonbecher verwendet wird, diesen vor Gebrauch 10 Minuten in kaltem Wasser einweichen. Alternativ ein Highball-Glas verwenden.\n2. Tequila, Orangensaft, Zitronensaft, Limettensaft und eine Prise Salz im Glas kombinieren.\n3. Das Glas mit Eis füllen und mit Grapefruit-Limonade auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Cantaritos are Mexican tequila cocktails served in clay cups! Similar to the Paloma, this drink stars grapefruit soda and citrus.",
+    "description": "Cantaritos sind mexikanische Tequila-Cocktails, die traditionell in Tonbechern serviert werden. Ähnlich wie eine Paloma, stehen hier Grapefruit-Limonade und Zitrusfrüchte im Mittelpunkt.",
     "source": "Mexico",
-    "garnish": "Citrus wedges",
+    "garnish": "Zitrusspalten",
     "abv": 9.7,
     "tags": [
-        "Citrusy",
-        "Fruity"
+        "Zitrusbetont",
+        "Fruchtig"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 5,
             "amount": 90,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "salt",
-            "name": "Salt",
+            "name": "Salz",
             "sort": 6,
             "amount": 2,
             "units": "pinch",

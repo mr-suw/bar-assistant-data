@@ -1,19 +1,19 @@
 {
     "_id": "gaz-regans-negroni",
     "name": "Gaz Regan’s Negroni",
-    "instructions": "1. Combine all ingredients in a mixing glass over ice and stir until chilled.\n2. Strain into a rocks glass over fresh ice.\n3. Garnish with an orange twist.",
+    "instructions": "1. Alle Zutaten in einem Rührglas auf Eis mischen und rühren, bis der Drink kalt ist.\n2. In einen Tumbler auf frisches Eis abseihen.\n3. Mit einer Orangenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "In Gaz Regan's nontraditional take on the classic Negroni cocktail recipe, Jägermeister stands in for Campari.",
+    "description": "In Gaz Regans unkonventioneller Interpretation des klassischen Negroni-Rezepts übernimmt Jägermeister die Rolle des Campari.",
     "source": "https://punchdrink.com/recipes/gaz-regans-negroni/",
-    "garnish": "orange twist",
+    "garnish": "Orangenzeste",
     "abv": 28.18,
     "tags": [
         "Negroni",
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 30,
             "units": "ml",

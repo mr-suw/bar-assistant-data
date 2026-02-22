@@ -1,18 +1,18 @@
 {
     "_id": "black-walnut-old-fashioned",
     "name": "Black Walnut Old Fashioned",
-    "instructions": "Combine ingredients in a mixing glass with ice. Stir until chilled. Strain into an Old Fashioned glass with fresh ice.",
+    "instructions": "Zutaten in ein Rührglas mit Eis geben. Rühren, bis der Drink gut gekühlt ist. In ein Old Fashioned Glas auf frisches Eis abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "If you are after an Old Fashioned riff with a warming complexity then a Walnut Old Fashioned should hit the spot. So further spike your Bourbon & Orange Bitters with a little Walnut Liqueur for a drink that glides effortlessly down your throat.",
+    "description": "Wenn Sie auf der Suche nach einer Old Fashioned Variante mit wärmender Komplexität sind, ist der Walnut Old Fashioned genau das Richtige. Verfeinern Sie Ihren Bourbon & Orange Bitters mit etwas Walnusslikör für einen Drink, der mühelos die Kehle hinuntergleitet.",
     "source": "https://cocktailsdistilled.com/recipe/walnut-old-fashioned/",
-    "garnish": "Orange twist",
+    "garnish": "Orangenzeste",
     "abv": 31.39,
     "tags": [
         "Old Fashioned"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 3,
             "amount": 4,
             "units": "dash",

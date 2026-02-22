@@ -1,18 +1,18 @@
 {
     "_id": "gin-daisy-new-school",
     "name": "Gin Daisy (New School)",
-    "instructions": "1. Add gin, lemon juice, grenadine and simple syrup to a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Strain over ice into a Collins glass.\n4. Garnish with a slice of orange.",
+    "instructions": "1. Gin, Zitronensaft, Grenadine und Zuckersirup in einen Cocktailshaker geben.\n2. Eis hinzufügen und schütteln, bis der Drink kalt ist.\n3. Auf frisches Eis in ein Collins-Glas abseihen.\n4. Mit einer Orangenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This cocktail recipe is a variation on the basic Daisy formula: a sour kicked up with the addition of seltzer or soda water.",
+    "description": "Dieses Cocktail-Rezept ist eine Variation der einfachen Daisy-Formel: Ein Sour, der durch die Zugabe von Seltzer oder Sodawasser aufgewertet wird.",
     "source": "https://punchdrink.com/recipes/gin-daisy-new-school/",
-    "garnish": "orange slice",
+    "garnish": "Orangenscheibe",
     "abv": 19.2,
     "tags": [
         "Light"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 3,
             "amount": 0.25,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 0.25,
             "units": "oz",

@@ -1,7 +1,7 @@
 {
     "_id": "elder-fashion-gin",
     "name": "Elder Fashion (Gin)",
-    "instructions": "Stir everything with ice, strain to glass.",
+    "instructions": "Alle Zutaten mit Eis verrühren und in das Glas abseihen.",
     "created_at": null,
     "updated_at": null,
     "description": null,
@@ -9,8 +9,8 @@
     "garnish": null,
     "abv": 30,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -49,7 +49,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 3,
             "amount": 2,
             "units": "dashes",

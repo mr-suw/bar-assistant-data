@@ -1,18 +1,18 @@
 {
     "_id": "comte-de-sureau",
     "name": "Comte de Sureau",
-    "instructions": "Stir with ice and strain into a chilled rocks glass over ice.",
+    "instructions": "Mit Eis rühren und in einen vorgekühlten Tumbler auf frisches Eis abseihen.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://www.diffordsguide.com/cocktails/recipe/7257/comte-de-sureau",
-    "garnish": "Garnish with orange and lemon twists.",
+    "garnish": "Mit Orangen- und Zitronenzesten garnieren.",
     "abv": 26.75,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

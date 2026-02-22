@@ -1,19 +1,19 @@
 {
     "_id": "grasshopper",
     "name": "Grasshopper",
-    "instructions": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
+    "instructions": "1. Alle Zutaten in einen mit Eis gefüllten Shaker geben.\n2. Einige Sekunden kräftig schütteln.\n3. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A Grasshopper is a sweet, mint-flavored, after-dinner drink. The name of the drink derives from its green color, which comes from crème de menthe. A bar in the French Quarter of New Orleans, Louisiana, Tujague's, claims the drink was invented in 1918 by its owner, Philip Guichet. The drink gained popularity during the 1950s and 1960s throughout the American South.",
+    "description": "Ein Grasshopper ist ein süßer, nach Minze schmeckender After-Dinner-Drink. Der Name des Drinks leitet sich von seiner grünen Farbe ab, die von Crème de Menthe herrührt. Eine Bar im French Quarter von New Orleans, Louisiana, Tujague's, behauptet, der Drink sei 1918 von ihrem Besitzer Philip Guichet erfunden worden. Der Drink erlangte in den 1950er und 1960er Jahren im gesamten amerikanischen Süden Popularität.",
     "source": "https://iba-world.com/grasshopper/",
-    "garnish": "Optional mint leaf",
+    "garnish": "Optionales Minzblatt",
     "abv": 12,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail"
     ],
-    "glass": "Fizzio",
-    "method": "Shake",
+    "glass": "Fizzio-Schale",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "creme-de-cacao-white",
-            "name": "Crème de Cacao (White)",
+            "name": "Crème de Cacao (weiß)",
             "sort": 1,
             "amount": 20,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "creme-de-menthe",
-            "name": "Crème de menthe",
+            "name": "Crème de Menthe",
             "sort": 2,
             "amount": 20,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 3,
             "amount": 20,
             "units": "ml",

@@ -1,9 +1,9 @@
 {
     "_id": "soy-sauce",
     "_parent_id": null,
-    "name": "Soy sauce",
+    "name": "Soja-Sauce",
     "strength": 0,
-    "description": "Soy sauce in cocktails might sound unusual, but it's a growing trend adding umami and savory depth. Use it sparingly – \na little goes a long way – to avoid overpowering the other ingredients and aim for a nuanced, savory complexity rather than a salty taste.",
+    "description": "Soja-Sauce in Cocktails mag ungewöhnlich klingen, ist aber ein wachsender Trend, der Umami und herzhafte Tiefe verleiht. Verwenden Sie sie sparsam – ein wenig bewirkt viel –, um andere Zutaten nicht zu überlagern. Ziel ist eine nuancierte, herzhafte Komplexität statt eines salzigen Geschmacks.",
     "origin": null,
     "color": "#2a0d02",
     "category": null,

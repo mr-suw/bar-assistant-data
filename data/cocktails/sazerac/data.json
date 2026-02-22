@@ -1,20 +1,20 @@
 {
     "_id": "sazerac",
     "name": "Sazerac",
-    "instructions": "1. Rinse a chilled old-fashioned glass with the absinthe.\n2. Add crushed ice and set it aside.\n3. Stir the remaining ingredients over ice in a mixing glass.\n4. Discard the ice and any excess absinthe from the prepared glass.\n5. Strain the mixed drink into the glass.",
+    "instructions": "1. Ein gekühltes Old-Fashioned-Glas mit Absinth ausspülen.\n2. Crushed Ice hinzufügen und beiseite stellen.\n3. Die restlichen Zutaten mit Eis in einem Rührglas verrühren.\n4. Das Eis und überschüssigen Absinth aus dem vorbereiteten Glas entfernen.\n5. Den gemischten Drink in das Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Sazerac is a local variation of a cognac or whiskey cocktail originally from New Orleans, named for the Sazerac de Forge et Fils brand of cognac brandy that served as its original main ingredient.\nThe drink is most traditionally a combination of cognac or rye whiskey, absinthe, Peychaud's Bitters, and sugar, although bourbon whiskey is sometimes substituted for the rye and Herbsaint is sometimes substituted for the absinthe.\nSome claim it is the oldest known American cocktail, with origins in antebellum New Orleans, although drink historian David Wondrich is among those who dispute this, and American instances of published usage of the word cocktail to describe a mixture of spirits, bitters, and sugar can be traced to the dawn of the 19th century.",
+    "description": "Der Sazerac ist eine lokale Variante eines Cognac- oder Whiskey-Cocktails, der ursprünglich aus New Orleans stammt und nach der Cognac-Marke Sazerac de Forge et Fils benannt ist, die als seine ursprüngliche Hauptzutat diente.\nDas Getränk ist traditionell eine Kombination aus Cognac oder Roggenwhiskey, Absinth, Peychaud's Bitters und Zucker, obwohl manchmal Bourbon Whiskey für den Roggen und Herbsaint für den Absinth ersetzt wird.\nEinige behaupten, es sei der älteste bekannte amerikanische Cocktail mit Ursprüngen im Vorkriegs-New Orleans, obwohl der Getränkehistoriker David Wondrich zu denjenigen gehört, die dies bestreiten, und amerikanische Beispiele für die veröffentlichte Verwendung des Wortes Cocktail zur Beschreibung einer Mischung aus Spirituosen, Bitters und Zucker lassen sich bis zum Beginn des 19. Jahrhunderts zurückverfolgen.",
     "source": "https://iba-world.com/sazerac/",
-    "garnish": "Garnish with lemon zest.",
+    "garnish": "Mit Zitronenzeste garnieren.",
     "abv": 29.89,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
         "Brandy"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -35,14 +35,14 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Can also split base with cognac 45-15",
+            "note": "Kann auch mit Cognac 45-15 aufgeteilt werden",
             "substitutes": [
                 {
                     "_id": "cognac",
@@ -55,7 +55,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 7.5,
             "units": "ml",
@@ -67,7 +67,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitters",
             "sort": 3,
             "amount": 2,
             "units": "dashes",
@@ -79,14 +79,14 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "To rinse",
+            "note": "Zum Ausspülen",
             "substitutes": []
         }
     ]

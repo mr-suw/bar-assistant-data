@@ -1,18 +1,18 @@
 {
     "_id": "pearl-diver",
     "name": "Pearl Diver",
-    "instructions": "1. Combine all ingredients in a blender, starting with the Gardenia Mix and finishing with the ice.\n2. Blend at a high speed for 15 seconds.\n3. Strain through a medium-mesh wire sieve into a Pearl Diver glass, pressing gently on the solids to express all the liquid.\n4. Add crushed ice ice to fill the glass.\n5. Garnish with a geranium leaf.",
+    "instructions": "1. Alle Zutaten in einen Mixer geben, beginnend mit der Gardenia-Mischung und abschließend mit dem Eis.\n2. 15 Sekunden lang mit hoher Geschwindigkeit mixen.\n3. Durch ein Sieb mit mittlerer Maschenweite in ein Pearl Diver Glas abseihen, dabei sanft auf die Feststoffe drücken, um die gesamte Flüssigkeit auszudrücken.\n4. Crushed Ice hinzufügen, um das Glas zu füllen.\n5. Mit einem Geranienblatt garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The legendary Donn Beach’s cocktail recipe is a tiki take on the Hot Buttered Rum, featuring the honey and butter-based Gardenia Mix.",
+    "description": "Das Cocktailrezept des legendären Donn Beach ist eine Tiki-Interpretation des Hot Buttered Rum, mit der Honig- und Butter-basierten Gardenia-Mischung.",
     "source": "https://punchdrink.com/recipes/pearl-diver/",
-    "garnish": "geranium leaf",
+    "garnish": "Geranienblatt",
     "abv": 7.84,
     "tags": [
         "Tiki"
     ],
-    "glass": "Tiki",
-    "method": "Blend",
+    "glass": "Tiki-Becher",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 1,
             "amount": 0.75,
             "units": "oz",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -70,31 +70,31 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Hamilton 86-proof or El Dorado 8-year",
+            "note": "vorzugsweise Hamilton 86-proof oder El Dorado 8-jährige Qualität",
             "substitutes": []
         },
         {
             "_id": "brown-rum",
-            "name": "Brown Rum",
+            "name": "Brauner Rum",
             "sort": 5,
             "amount": 1.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "gold Puerto Rican rum",
+            "note": "goldener puerto-ricanischer Rum",
             "substitutes": []
         },
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaika-Rum",
             "sort": 6,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "gold Jamaican rum",
+            "note": "goldener jamaikanischer Rum",
             "substitutes": []
         },
         {
@@ -106,12 +106,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Latitude 29 Formula",
+            "note": "vorzugsweise Latitude 29 Formula",
             "substitutes": []
         },
         {
             "_id": "crushed-ice",
-            "name": "Crushed ice",
+            "name": "Crushed Ice",
             "sort": 8,
             "amount": 6,
             "units": "oz",

@@ -1,19 +1,19 @@
 {
     "_id": "amaro-highball",
     "name": "Amaro Highball",
-    "instructions": "1. Add all of the ingredients, except the soda water, to a shaker filled with ice.\n2. Shake and then strain into an ice-filled glass.\n3. Top with the soda.",
+    "instructions": "1. Alle Zutaten außer dem Sodawasser in einen mit Eis gefüllten Shaker geben.\n2. Schütteln und in ein mit Eis gefülltes Glas abseihen.\n3. Mit dem Sodawasser auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Julep Houston bartender David Kubiak created this amaro highball to highlight Amaro Montenegro and serve as an intro to mezcal.",
+    "description": "Bartender David Kubiak schuf diesen Amaro Highball im Julep Houston, um den Amaro Montenegro hervorzuheben und gleichzeitig als Einführung in die Welt des Mezcals zu dienen.",
     "source": "https://imbibemagazine.com/recipe/amaro-highball-the-good-the-bad-the-ugly/",
-    "garnish": "Olive and dehydrated lemon",
+    "garnish": "Olive und getrocknete Zitrone",
     "abv": 8.16,
     "tags": [
-        "Smokey",
+        "Rauchig",
         "Bitter"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavensirup",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 6,
             "amount": 60,
             "units": "ml",

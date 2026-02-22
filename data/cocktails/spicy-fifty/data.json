@@ -1,19 +1,19 @@
 {
     "_id": "spicy-fifty",
     "name": "Spicy Fifty",
-    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktail-Shaker geben, gut auf Eis schütteln und doppelt in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://iba-world.com/spicy-fifty/",
-    "garnish": "Garnish with a red chilli pepper",
+    "garnish": "Mit einer roten Chilischote garnieren.",
     "abv": 20.44,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 50,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 4,
             "amount": 10,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "chilli-pepper",
-            "name": "Chilli Pepper",
+            "name": "Chilischote",
             "sort": 5,
             "amount": 2,
             "units": "slices",

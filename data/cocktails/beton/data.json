@@ -1,34 +1,46 @@
 {
     "_id": "beton",
     "name": "Beton",
-    "instructions": "1. Add ingredients to a highball glass with ice.\n2. Garnish with a lemon slice.",
+    "instructions": "In ein Glas mit Eiswürfeln füllen. Mit einer Zitronenspalte garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Beton is a Czech cocktail starring Becherovka, an herbal liqueur, and tonic water, that is sometimes compared to a Gin and Tonic.",
-    "source": "https://punchdrink.com/recipes/beton/",
-    "garnish": "lemon slice",
-    "abv": 11.52,
+    "description": "Beton ist ein Highball-Cocktail, der Becherovka und Tonic Water verwendet. Der Name ist eine Zusammensetzung der ersten beiden Buchstaben von 'Becherovka' und 'Tonic'.",
+    "source": null,
+    "garnish": "Zitronenspalte",
+    "abv": 8.55,
     "tags": [
-        "Light"
+        "Erfrischend"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
     "images": [
         {
-            "uri": "file:///beton-1.webp",
+            "uri": "file:///beton-1.png",
             "sort": 1,
-            "placeholder_hash": "1fcRFwIIx3iChnhmeYeIaJh4VvSnpn8K",
-            "copyright": "Punch Staff | Lizzie Munro"
+            "placeholder_hash": "23kKHwQ9pXiJd3iVd8mIiZWHCEd4h3iH",
+            "copyright": ""
         }
     ],
     "ingredients": [
         {
-            "_id": "tonic",
-            "name": "Tonic",
+            "_id": "becherovka",
+            "name": "Becherovka",
             "sort": 1,
+            "amount": 40,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tonic-water",
+            "name": "Tonic Water",
+            "sort": 2,
             "amount": 120,
             "units": "ml",
             "optional": false,
@@ -38,12 +50,12 @@
             "substitutes": []
         },
         {
-            "_id": "becherovka",
-            "name": "Becherovka",
-            "sort": 2,
-            "amount": 2,
-            "units": "oz",
-            "optional": false,
+            "_id": "lemon-wedge",
+            "name": "Zitronenspalte",
+            "sort": 3,
+            "amount": 1,
+            "units": "wedge",
+            "optional": true,
             "is_specified": false,
             "amount_max": null,
             "note": null,

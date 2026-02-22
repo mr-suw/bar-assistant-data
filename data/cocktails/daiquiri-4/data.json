@@ -1,18 +1,18 @@
 {
     "_id": "daiquiri-4",
     "name": "Daiquiri #4",
-    "instructions": "1. Blend all ingredients with a scoop of crushed ice for 15 seconds.\n2. Pour into an 8 1/2-ounce coupe glass.\n3. Serve with straws.",
+    "instructions": "1. Alle Zutaten mit einer Schaufel Crushed Ice für 15 Sekunden blenden (im elektrischen Mixer).\n2. In eine ca. 250 ml fassende Coupette gießen.\n3. Mit Strohhalmen servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A frozen Daiquiri cocktail recipe from Cafe La Trova, also known as the Hemingway Daiquiri, after the author who was known to drink them.",
+    "description": "Ein Rezept für einen Frozen Daiquiri aus dem Cafe La Trova, auch bekannt als Hemingway Daiquiri, benannt nach dem Autor, der dafür bekannt war, sie zu trinken.",
     "source": "https://punchdrink.com/recipes/daiquiri-4-daiquiri-floridita-hemingway-daiquiri/",
     "garnish": null,
     "abv": 21.06,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Coupe",
-    "method": "Blend",
+    "glass": "Coupette",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": "daiquiri",
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "sugar",
-            "name": "Sugar",
+            "name": "Zucker",
             "sort": 4,
             "amount": 0.5,
             "units": "barspoon",

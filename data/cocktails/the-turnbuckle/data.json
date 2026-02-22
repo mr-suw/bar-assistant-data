@@ -1,18 +1,18 @@
 {
     "_id": "the-turnbuckle",
     "name": "The Turnbuckle",
-    "instructions": "1. Combine all the ingredients in a mixing tin filled with crushed ice and shake until chilled.\n2. Pour contents of shaker into a double Old-Fashioned glass or tropical tiki glass.\n3. Garnish with an orchid and a mint bouquet.",
+    "instructions": "1. Alle Zutaten in einen Rührbecher mit Crushed Ice geben und schütteln, bis es gekühlt ist.\n2. Den Inhalt des Shakers in ein doppeltes Old-Fashioned-Glas oder ein tropisches Tiki-Glas gießen.\n3. Mit einer Orchidee und einem Minzstrauß garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Bartender Jen Akin adds bitter Cynar amaro to her tiki-style cocktail, built on Jamaican rum, for added depth.",
+    "description": "Barkeeperin Jen Akin fügt ihrem Tiki-Cocktail, der auf jamaikanischem Rum basiert, bitteren Cynar Amaro für zusätzliche Tiefe hinzu.",
     "source": "https://punchdrink.com/recipes/the-turnbuckle/",
-    "garnish": "Orchid and a mint bouquet",
+    "garnish": "Orchidee und ein Minzstrauß",
     "abv": 11.45,
     "tags": [
         "Tiki"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -21,7 +21,7 @@
             "uri": "file:///the-turnbuckle-1.jpg",
             "sort": 1,
             "placeholder_hash": "qBgOHwamb3jDdIWWd7doiGd49yEkTnMA",
-            "copyright": "Punch |  Lizzie Munro"
+            "copyright": "Punch | Lizzie Munro"
         }
     ],
     "ingredients": [
@@ -39,7 +39,7 @@
         },
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -50,7 +50,7 @@
             "substitutes": [
                 {
                     "_id": "dark-rum",
-                    "name": "Dark Rum",
+                    "name": "Dunkler Rum",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -59,7 +59,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -71,7 +71,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -83,7 +83,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 5,
             "amount": 7.5,
             "units": "ml",

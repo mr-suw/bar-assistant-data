@@ -1,18 +1,18 @@
 {
     "_id": "remember-the-alimony",
     "name": "Remember the Alimony",
-    "instructions": "1. Combine all the ingredients except the orange twist in a rocks glass filled with one large piece of ice.\n2. Stir until chilled, about 30 seconds.\n3. Express an orange twist over the drink and drop into the glass.",
+    "instructions": "1. Alle Zutaten außer der Orangenzeste in einen Tumbler geben, der mit einem großen Eiswürfel gefüllt ist.\n2. Verrühren, bis der Drink kalt ist, etwa 30 Sekunden.\n3. Den Saft einer Orangenzeste über dem Drink ausdrücken und die Zeste in das Glas geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "A split base of fino sherry and Cynar are finished with a measure of gin for a thoroughly modern sherry cocktail recipe.",
+    "description": "Eine geteilte Basis aus Fino Sherry und Cynar wird mit einem Schuss Gin verfeinert, um ein durch und durch modernes Sherry-Cocktail-Rezept zu kreieren.",
     "source": "https://punchdrink.com/recipes/remember-the-alimony/",
-    "garnish": "orange twist",
+    "garnish": "Orangenzeste",
     "abv": 18.43,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

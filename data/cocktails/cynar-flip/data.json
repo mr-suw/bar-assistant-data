@@ -13,8 +13,8 @@
         "Bitter",
         "Winter"
     ],
-    "glass": "Wine",
-    "method": "Shake",
+    "glass": "Weinglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -53,7 +53,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 2,
             "units": "barspoon",

@@ -1,9 +1,9 @@
 {
     "_id": "sweeteners",
     "_parent_id": null,
-    "name": "Sweeteners",
+    "name": "Süßungsmittel",
     "strength": 0,
-    "description": "Sweeteners are crucial for balancing the acidity and bitterness in cocktails, providing the necessary sugar component to create a harmonious drink. They can range from simple sugars like granulated sugar and simple syrup to more complex options such as honey, agave nectar, maple syrup, or various liqueurs, each contributing unique flavors and textures to the final concoction.",
+    "description": "Süßungsmittel balancieren Säure und Bitterkeit in Cocktails aus und liefern die nötige Zuckerkomponente. Sie reichen von einfachem Zucker und Zuckersirup bis zu komplexeren Optionen wie Honig, Agavennektar, Ahornsirup oder Likören, die jeweils eigene Aromen und Texturen beitragen.",
     "origin": null,
     "color": null,
     "category": null,

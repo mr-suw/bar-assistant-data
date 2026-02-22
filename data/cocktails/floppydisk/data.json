@@ -1,16 +1,16 @@
 {
     "_id": "floppydisk",
     "name": "Floppydisk",
-    "instructions": "Shake without soda",
+    "instructions": "Ohne Soda schütteln",
     "created_at": null,
     "updated_at": null,
-    "description": "The tricky thing when it comes to low ABV drinks is that the end result doesn’t always give that same feeling of a proper mixed drink. They can easily lack complexity and fall flat. On imbibes website they state this drink is “half the booze and double the flavor” which describes this drink perfectly.",
+    "description": "Das Tückische an Drinks mit niedrigem Alkoholgehalt ist, dass das Endergebnis nicht immer das gleiche Gefühl eines richtigen Mixgetränks vermittelt. Ihnen kann leicht an Komplexität fehlen und sie können flach schmecken. Auf der Imbibe-Website wird dieser Drink als „halber Alkohol und doppelter Geschmack“ beschrieben, was diesen Drink perfekt beschreibt.",
     "source": "https://www.reddit.com/r/cocktails/comments/131qe97/made_a_low_abv_cocktail_floppy_disc_and_a_mix_of/",
-    "garnish": "Dried grapefruit",
+    "garnish": "Getrocknete Grapefruit",
     "abv": 5.83,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "dry-curacao",
-            "name": "Dry Curaçao",
+            "name": "Trockener Curaçao",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 60,
             "units": "ml",

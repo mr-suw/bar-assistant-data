@@ -1,12 +1,12 @@
 {
     "_id": "orange-flower-water",
     "_parent_id": "beverages",
-    "name": "Orange Flower Water",
+    "name": "Orangenblütenwasser",
     "strength": 0,
     "description": "Clear aromatic by-product of the distillation of fresh bitter-orange blossoms for their essential oil.",
     "origin": "Mediterranean",
     "color": "#fff",
-    "category": "Beverages",
+    "category": "Getränke",
     "created_at": null,
     "updated_at": null,
     "images": [

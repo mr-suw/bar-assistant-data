@@ -1,19 +1,19 @@
 {
     "_id": "paper-plane",
     "name": "Paper Plane",
-    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Developed around 2007 by Sasha Petraske and Sam Ross of Milk &amp; Honey for their former colleague Toby Maloney&#039;s Chicago bar The Violet Hour. The recipe is a riff on a Last Word, which is a riff on the classic Corpse Reviver #2.",
+    "description": "Entwickelt um 2007 von Sasha Petraske und Sam Ross von Milk & Honey für die Bar The Violet Hour ihres ehemaligen Kollegen Toby Maloney in Chicago. Das Rezept ist eine Abwandlung eines Last Word, der wiederum eine Abwandlung des klassischen Corpse Reviver #2 ist.",
     "source": "https://iba-world.com/paper-plane/",
     "garnish": null,
     "abv": 17.2,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -78,7 +78,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",

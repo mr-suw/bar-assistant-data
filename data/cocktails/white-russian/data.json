@@ -1,19 +1,19 @@
 {
     "_id": "white-russian",
     "name": "White Russian",
-    "instructions": "1. Combine the vodka, coffee liqueur and ice cubes in a cocktail shaker\n2. Shake well and strain into an ice-filled short tumbler\n3. Lightly beat the single cream until just frothy and pour onto the drink over the back of a spoon, to help make it float",
+    "instructions": "1. Wodka, Kaffeelikör und Eiswürfel in einen Shaker geben.\n2. Gut schütteln und in einen mit Eis gefüllten Tumbler abseihen.\n3. Die Sahne leicht schaumig schlagen und vorsichtig über den Rücken eines Löffels auf den Drink geben, sodass sie obenauf schwimmt.",
     "created_at": null,
     "updated_at": null,
-    "description": "Misleadingly, this sophisticated cocktail is not in fact Russian in origin, but gets its name from vodka being the base spirit. Traditionally a Black Russian, it becomes a White Russian with the addition of cream.",
+    "description": "Fälschlicherweise stammt dieser raffinierte Cocktail nicht aus Russland, sondern verdankt seinen Namen der Basisspirituose Wodka. Traditionell ein Black Russian, wird er durch die Zugabe von Sahne zum White Russian.",
     "source": "https://www.sainsburysmagazine.co.uk/recipes/drinks/white-russian",
-    "garnish": "Freshly grated nutmeg",
+    "garnish": "Frisch geriebene Muskatnuss",
     "abv": 20,
     "tags": [
-        "Coffee",
-        "Savory"
+        "Kaffee",
+        "Herzhaft"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 3,
             "amount": 30,
             "units": "ml",

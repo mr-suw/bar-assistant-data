@@ -1,18 +1,18 @@
 {
     "_id": "adonis",
     "name": "Adonis",
-    "instructions": "Stir all ingredients with ice and strain into chilled glass.",
+    "instructions": "Rühre alle Zutaten mit Eis und seihe sie in ein vorgekühltes Glas ab.",
     "created_at": null,
     "updated_at": null,
-    "description": "The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway.",
+    "description": "Der Cocktail wurde zu Ehren des Musicals 'Adonis' aus dem Jahr 1884 kreiert, nachdem die Show den Meilenstein von mehr als 500 Aufführungen am Broadway erreicht hatte.",
     "source": "https://en.wikipedia.org/wiki/Adonis_(cocktail)",
-    "garnish": "Orange zest and peel",
+    "garnish": "Orangenzeste und -schale",
     "abv": 14.44,
     "tags": [
-        "Wine"
+        "Wein"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 3,
             "amount": 2,
             "units": "dashes",

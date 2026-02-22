@@ -1,18 +1,18 @@
 {
     "_id": "juliet-romeo",
     "name": "Juliet & Romeo",
-    "instructions": "1. Combine cucumber and salt in a mixing tin and muddle.\n2. Add all remaining ingredients and shake with ice.\n3. Strain into a chilled coupe.\n4. Garnish with mint leaf, 1 dash of rosewater on the mint leaf and 3 dashes of Angostura bitters.",
+    "instructions": "1. Gurke und Salz in einen Shaker geben und zerdrücken (muddlen).\n2. Alle restlichen Zutaten hinzufügen und mit Eis schütteln.\n3. In eine gekühlte Coupette abseihen.\n4. Mit einem Minzblatt garnieren. Ein Spritzer Rosenwasser auf das Minzblatt geben und 3 Spritzer Angostura Bitters hinzufügen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A gin cocktail recipe that would appeal to gin haters. A mix of gin, lime juice, cucumber, sugar, mint, salt and rose water.",
+    "description": "Ein Gin-Cocktail, der auch jenen schmeckt, die eigentlich keinen Gin mögen. Eine Mischung aus Gin, Limettensaft, Gurke, Zucker, Minze, Salz und Rosenwasser.",
     "source": "https://punchdrink.com/recipes/juliet-romeo/",
-    "garnish": "mint leaf, 1 dash of rosewater, 3 dashes of Angostura bitters.",
+    "garnish": "Minzblatt, 1 Spritzer Rosenwasser, 3 Spritzer Angostura Bitters",
     "abv": 18.29,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,12 +34,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Beefeater",
+            "note": "vorzugsweise Beefeater",
             "substitutes": []
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "cucumber",
-            "name": "Cucumber",
+            "name": "Gurke",
             "sort": 4,
             "amount": 3,
             "units": "slice",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 5,
             "amount": 1,
             "units": "sprigs",

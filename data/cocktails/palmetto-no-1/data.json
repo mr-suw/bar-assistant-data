@@ -1,18 +1,18 @@
 {
     "_id": "palmetto-no-1",
     "name": "Palmetto No. 1",
-    "instructions": "1. Stir with ice.\n2. Strain into a coupe.",
+    "instructions": "1. Mit Eis verrühren.\n2. In eine Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://alpenz.com/recipe-B5xMGa5Nyp.html",
-    "garnish": "Garnish with orange peel.",
+    "garnish": "Mit einer Orangenzeste garnieren.",
     "abv": 27.2,
     "tags": [
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 3,
             "amount": 2,
             "units": "dash",

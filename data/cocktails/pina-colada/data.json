@@ -1,20 +1,20 @@
 {
     "_id": "pina-colada",
     "name": "Piña Colada",
-    "instructions": "Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws.\n\n**Note:**\nHistorically a few drops of fresh lime juice were added to taste. 4 slices of fresh pineapple can be used instead of juice",
+    "instructions": "Alle Zutaten mit Eis in einem Elektromixer mixen, in ein großes Glas gießen und mit Strohhalmen servieren.\n\n**Hinweis:**\nHistorisch wurden ein paar Tropfen frischer Limettensaft nach Geschmack hinzugefügt. 4 Scheiben frische Ananas können anstelle von Saft verwendet werden.",
     "created_at": null,
     "updated_at": null,
-    "description": "The name piña colada (Spanish) literally means \"strained pineapple\", a reference to the freshly pressed and strained pineapple juice used in the drink's preparation.",
+    "description": "Der Name Piña Colada (spanisch) bedeutet wörtlich „passierte Ananas“, ein Hinweis auf den frisch gepressten und passierten Ananassaft, der bei der Zubereitung des Getränks verwendet wird.",
     "source": "https://iba-world.com/pina-colada/",
-    "garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
+    "garnish": "Mit einer Ananasscheibe mit einer Cocktailkirsche garnieren.",
     "abv": 12.31,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
         "Tiki"
     ],
-    "glass": "Hurricane",
-    "method": "Blend",
+    "glass": "Hurricane-Glas",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 50,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "cream-of-coconut",
-            "name": "Cream of Coconut",
+            "name": "Kokoscreme",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 3,
             "amount": 50,
             "units": "ml",

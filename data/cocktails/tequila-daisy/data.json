@@ -9,12 +9,12 @@
     "garnish": "sugar (to rim the glass), orange flower water",
     "abv": 24,
     "tags": [
-        "Classics",
+        "Klassiker",
         "Sour",
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",

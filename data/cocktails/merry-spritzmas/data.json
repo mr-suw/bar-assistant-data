@@ -1,21 +1,21 @@
 {
     "_id": "merry-spritzmas",
     "name": "Merry Spritzmas",
-    "instructions": "1. Add the fig preserves and lemon juice to a shaker and stir until the preserves are at least partially dissolved. Add the Aperol, port, Cognac, falernum, and bitters, and shake with ice. Double strain into the glass, then gently stir in the Prosecco and add fresh ice cubes to fill. Garnish with a lemon wedge on the rim stuck with a cocktail parasol.",
+    "instructions": "1. Feigenmarmelade und Zitronensaft in einen Shaker geben und rühren, bis die Marmelade zumindest teilweise aufgelöst ist. Aperol, Portwein, Cognac, Falernum und Bitter hinzufügen und mit Eis schütteln. Doppelt in das Glas abseihen, dann vorsichtig den Prosecco einrühren und frische Eiswürfel hinzufügen, um es aufzufüllen. Mit einem Zitronenschnitz am Glasrand, der mit einem Cocktail-Sonnenschirmchen steckt, garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "As a longtime cocktail historian, writer, and now owner of Beachbum Berry’s Latitude 29 in New Orleans, Jeff “Beachbum” Berry knows his way around tropical drinks, but creating a wintry spritz with island vibes for the annual Sippin’ Santa’s Surf Shack pop-up was a different challenge altogether. “How do you do a mashup of Christmas vacation and a tropical island vacation by using flavors that remind people of each but still harmonize in a glass?” says Berry. “In this case, fig jam and port wine fill the winter holiday bill, with falernum and cardamom lending a tropical touch. The Christmas-y flavors and the tropical spices complement one another surprisingly well, especially with the festive spritz of sparkling wine to tie it all together.”",
+    "description": "Als langjähriger Cocktail-Historiker, Autor und nun Besitzer von Beachbum Berry’s Latitude 29 in New Orleans kennt sich Jeff „Beachbum“ Berry mit tropischen Drinks aus, aber einen winterlichen Spritz mit Insel-Vibes für den jährlichen Sippin’ Santa’s Surf Shack Pop-up zu kreieren, war eine ganz andere Herausforderung. „Wie schafft man eine Verschmelzung von Weihnachtsferien und einem tropischen Inselurlaub, indem man Aromen verwendet, die an beides erinnern, aber dennoch in einem Glas harmonieren?“, sagt Berry. „In diesem Fall erfüllen Feigenmarmelade und Portwein die Winterferien-Anforderungen, wobei Falernum und Kardamom eine tropische Note verleihen. Die weihnachtlichen Aromen und die tropischen Gewürze ergänzen sich überraschend gut, besonders mit dem festlichen Spritzer Sekt, der alles miteinander verbindet.“",
     "source": "https://imbibemagazine.com/recipe/merry-spritzmas-tropical-winter-spritz/",
-    "garnish": "Lemon wedge, paper parasol",
+    "garnish": "Zitronenschnitz, Papierschirmchen",
     "abv": 9.82,
     "tags": [
-        "Sweet",
-        "Tropical",
-        "Citrusy",
+        "Süß",
+        "Tropisch",
+        "Zitrusbetont",
         "Spritz"
     ],
-    "glass": "Tiki",
-    "method": "Shake",
+    "glass": "Tiki-Becher",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -42,7 +42,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 0.75,
             "units": "oz",
@@ -73,7 +73,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Berry uses Ansac VS",
+            "note": "Berry verwendet Ansac VS",
             "substitutes": []
         },
         {
@@ -90,7 +90,7 @@
         },
         {
             "_id": "fig-jam",
-            "name": "Fig jam",
+            "name": "Feigenmarmelade",
             "sort": 6,
             "amount": 2,
             "units": "barspoon",
@@ -102,7 +102,7 @@
         },
         {
             "_id": "cardamom-bitters",
-            "name": "Cardamom bitters",
+            "name": "Kardamom-Bitters",
             "sort": 7,
             "amount": 1,
             "units": "dash",

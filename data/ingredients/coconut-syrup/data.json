@@ -1,12 +1,12 @@
 {
     "_id": "coconut-syrup",
     "_parent_id": "syrups",
-    "name": "Coconut Syrup",
+    "name": "Kokossirup",
     "strength": 0,
-    "description": "Syrup infused with coconut flavor",
-    "origin": "Tropical",
+    "description": "Sirup mit Kokosgeschmack",
+    "origin": "Tropisch",
     "color": "#ffffff",
-    "category": "Sweeteners > Syrups",
+    "category": "Süßungsmittel > Sirupe",
     "created_at": null,
     "updated_at": null,
     "images": [

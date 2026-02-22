@@ -1,16 +1,16 @@
 {
     "_id": "wray-and-ting",
     "name": "Wray and Ting",
-    "instructions": "1. Add ice to a collins glass.\n2. Measure in the rum.\n3. Top with Ting and garnish if you'd like.",
+    "instructions": "1. Ein Highball-Glas mit Eis füllen.\n2. Den Rum hinzufügen.\n3. Mit Ting auffüllen und nach Belieben garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Wray and Ting is a simple highball cocktail made with delicious overproof Jamaican rum and a refreshing grapefruit soda. Perfect for summer cookouts.",
+    "description": "Wray and Ting ist ein einfacher Highball-Cocktail aus jamaikanischem Overproof Rum und einer erfrischenden Grapefruit-Limonade (Ting). Perfekt für sommerliche Grillabende.",
     "source": "https://drinkinghobby.com/wray-and-ting-cocktail/",
     "garnish": null,
     "abv": 9.92,
     "tags": [],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Bauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Weißer Rum (Overproof)",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "ting",
-            "name": "Ting",
+            "name": "Ting (Grapefruit-Limonade)",
             "sort": 2,
             "amount": 4,
             "units": "oz",

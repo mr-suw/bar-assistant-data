@@ -1,19 +1,19 @@
 {
     "_id": "naked-and-famous",
     "name": "Naked and Famous",
-    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Naked and Famous cocktail is \"the bastard love child of a classic Last Word and a Paper Plane, conceived in the mountains of Oaxaca.\". First created at the well renowned New York City bar, Death & Co. (also featured in the cocktail book of the same name).",
+    "description": "Der Cocktail Naked and Famous ist „das uneheliche Kind eines klassischen Last Word und eines Paper Plane, gezeugt in den Bergen von Oaxaca.“ Erstmals kreiert in der bekannten New Yorker Bar Death & Co. (auch im gleichnamigen Cocktailbuch enthalten).",
     "source": "https://iba-world.com/naked-and-famous/",
     "garnish": null,
     "abv": 18.2,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "yellow-chartreuse",
-            "name": "Yellow Chartreuse",
+            "name": "Gelber Chartreuse",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -72,7 +72,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",

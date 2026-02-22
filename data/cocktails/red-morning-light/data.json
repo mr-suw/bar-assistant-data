@@ -1,18 +1,18 @@
 {
     "_id": "red-morning-light",
     "name": "Red Morning Light",
-    "instructions": "1. Stir all of the ingredients in a mixing glass with ice until chilled.\n2. Strain into a glass holding a large ice cube.\n3. Use an atomizer to spray the drink with a smoky scotch, then garnish. (Alternately, drip several drops of scotch atop the drink, then garnish.)",
+    "instructions": "1. Alle Zutaten in einem Rührglas mit Eis verrühren, bis sie kalt sind.\n2. In ein Glas auf einen großen Eiswürfel abseihen.\n3. Den Drink mit einem Zerstäuber mit rauchigem Scotch besprühen und dann garnieren. (Alternativ einige Tropfen Scotch über den Drink träufeln und garnieren.)",
     "created_at": null,
     "updated_at": null,
-    "description": "Smoky scotch and bittersweet Campari combine for the perfect cold-weather sipper from Vegas.",
+    "description": "Rauchiger Scotch und bittersüßer Campari vereinen sich zu einem perfekten Drink für die kalte Jahreszeit aus Vegas.",
     "source": "https://imbibemagazine.com/recipe/scotch-cocktail-red-morning-light/",
-    "garnish": "Orange twist",
+    "garnish": "Orangenzeste",
     "abv": 25.55,
     "tags": [
-        "Smokey"
+        "Rauchig"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 4,
             "amount": 15,
             "units": "ml",

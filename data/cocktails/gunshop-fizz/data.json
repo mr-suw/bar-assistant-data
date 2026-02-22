@@ -1,19 +1,19 @@
 {
     "_id": "gunshop-fizz",
     "name": "Gunshop Fizz",
-    "instructions": "1. Combine all the ingredients except the Sanbitter in a mixing glass. Muddle and set aside for two minutes.\n2. Add ice to mixing glass and shake until chilled.\n3. Strain into a Collins glass over ice.\n4. Top with Sanbitter.",
+    "instructions": "1. Alle Zutaten außer Sanbitter in ein Rührglas geben. Muddeln und zwei Minuten beiseite stellen.\n2. Eis in das Rührglas geben und schütteln, bis es gekühlt ist.\n3. Über Eis in ein Collins-Glas abseihen.\n4. Mit Sanbitter auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Gunshop Fizz was the signature cocktail of the original Rogue Cocktails, self-published in 2009 by Maks Pazuniak and Kirk Estopinal, two bartenders at Cure in New Orleans. It was the drink that first caught everyone’s attention, and no wonder. The improbable Gunshop Fizz uses a full two ounces of Peychaud’s bitters, which is usually used only in dashes. It’s enough to make the same drink’s use of Sanbitter, a bright-red bitter Italian soda, seem almost dull. The rest of the drink includes lemon juice, simple syrup, strawberries, cucumbers and several twists of orange and grapefruit. It was a through-the-looking glass take on the Pimm’s Cup recipe at Chicago’s Violet Hour, where Estopinal had worked.",
+    "description": "Der Gunshop Fizz war der Signature-Cocktail der Original Rogue Cocktails, die 2009 von Maks Pazuniak und Kirk Estopinal, zwei Barkeepern von Cure in New Orleans, selbst veröffentlicht wurden. Es war der Drink, der zuerst die Aufmerksamkeit aller auf sich zog, und kein Wunder. Der unwahrscheinliche Gunshop Fizz verwendet volle zwei Unzen Peychaud's Bitters, die normalerweise nur in Dashes verwendet werden. Das reicht aus, um die Verwendung von Sanbitter, einem leuchtend roten bitteren italienischen Soda, fast langweilig erscheinen zu lassen. Der Rest des Drinks enthält Zitronensaft, Zuckersirup, Erdbeeren, Gurken und mehrere Zesten von Orange und Grapefruit. Es war eine durch den Spiegel geblickte Interpretation des Pimm's Cup Rezepts im Chicagoer Violet Hour, wo Estopinal gearbeitet hatte.",
     "source": "https://punchdrink.com/recipes/gunshop-fizz/",
-    "garnish": "Cucumber slice",
+    "garnish": "Gurkenscheibe",
     "abv": 14,
     "tags": [
-        "Sweet",
-        "Fruity"
+        "Süß",
+        "Fruchtig"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitters",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "strawberry",
-            "name": "Strawberry",
+            "name": "Erdbeere",
             "sort": 4,
             "amount": 2,
             "units": "whole",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "cucumber",
-            "name": "Cucumber",
+            "name": "Gurke",
             "sort": 5,
             "amount": 3,
             "units": "slice",

@@ -1,82 +1,82 @@
 [
     {
-        "name": "Mixing glass",
-        "description": "A glass with a heavy base that doesn't tip over when stirring."
+        "name": "Rührglas",
+        "description": "Schweres Glas, das beim Rühren nicht kippt."
     },
     {
         "name": "Shaker",
-        "description": "A recipient in 2 parts to shake cocktails vigorously."
+        "description": "Zweiteiliges Gefäß, um Cocktails kräftig zu schütteln."
     },
     {
-        "name": "Bar spoon",
-        "description": "A long and heavy spiraled spoon used to stir or layer cocktails."
+        "name": "Barlöffel",
+        "description": "Langer, spiraliger Löffel zum Rühren oder Schichten."
     },
     {
-        "name": "Julep Strainer",
-        "description": "A style of strainer used when using a mixing glass to strain the ice out."
+        "name": "Julep-Sieb",
+        "description": "Siebform zum Abseihen aus dem Rührglas."
     },
     {
-        "name": "Hawthorne Strainer",
-        "description": "A style of strainer used when using a shaker to strain the ice out."
+        "name": "Hawthorne-Sieb",
+        "description": "Siebform mit Feder für den Shaker."
     },
     {
-        "name": "Mesh Strainer",
-        "description": "A simple mesh strainer used to double strain cocktails in order to avoid any ice in the final drink, or to avoid pulp when juicing fruits."
+        "name": "Feinsieb",
+        "description": "Feines Sieb zum Doppelt-Abseihen, damit keine Eisstücke oder Fruchtfasern im Drink landen."
     },
     {
-        "name": "Atomizer",
-        "description": "Refillable glass spray bottle to spray and mist very small amounts of aromatics. Used for absinthe rinses, and bitter sprays."
+        "name": "Zerstäuber",
+        "description": "Nachfüllbare Sprühflasche für minimale Mengen Aromaten wie Absinthe oder Bitters."
     },
     {
-        "name": "Muddler",
-        "description": "Essential tool to crush fruits, berries and herbs and extract the juice out of them."
+        "name": "Stößel",
+        "description": "Werkzeug zum Zerdrücken von Früchten, Beeren und Kräutern."
     },
     {
         "name": "Jigger",
-        "description": "Small cup used to quickly measure volumes in the bar."
+        "description": "Kleiner Messbecher für schnelle Volumenmessung an der Bar."
     },
     {
         "name": "Zester",
-        "description": "Rasp used to zest fruits, nuts, or even chocolate for garnishes."
+        "description": "Reibe zum Abreiben von Zesten, Nüssen oder Schokolade."
     },
     {
-        "name": "Channel knife",
-        "description": "Knife designed to make long and thin citrus peels."
+        "name": "Zestenmesser",
+        "description": "Messer für lange, dünne Zitrusschalen."
     },
     {
-        "name": "Y Peeler",
-        "description": "Kitchen tool designed to peel fruits and vegetables. In the bar, used for large peels to extract the oils from."
+        "name": "Y-Schäler",
+        "description": "Küchenwerkzeug zum Schälen von Obst und Gemüse; liefert breite Zesten."
     },
     {
-        "name": "Bar knife",
-        "description": "A small sharp knife to peel and cut fruits."
+        "name": "Barmesser",
+        "description": "Kleines, scharfes Messer zum Schälen und Schneiden von Früchten."
     },
     {
-        "name": "Ice carving knife",
-        "description": "A knife with a significantly tougher spine designed to handle ice carving."
+        "name": "Eis-Schnitzmesser",
+        "description": "Messer mit verstärktem Rücken zum Bearbeiten von Eisblöcken."
     },
     {
-        "name": "Ice chipper",
-        "description": "A three-pronged tool to chip away and break ice."
+        "name": "Eishacke",
+        "description": "Dreizinkiges Werkzeug zum Zerkleinern von Eis."
     },
     {
-        "name": "Ice pick",
-        "description": "A pick to break and chip away at ice."
+        "name": "Eispickel",
+        "description": "Spitzes Werkzeug zum Brechen und Formen von Eis."
     },
     {
-        "name": "Cocktail smoker",
-        "description": "A device used to add smokey flavor to cocktails by burning different wood escences."
+        "name": "Cocktail-Smoker",
+        "description": "Gerät, das mit Holzrauch zusätzliche Aromen in Cocktails bringt."
     },
     {
-        "name": "Juicer",
-        "description": "Extract juice from citrus fruits."
+        "name": "Saftpresse",
+        "description": "Zum Auspressen von Zitrusfrüchten."
     },
     {
-        "name": "Straight tongs",
-        "description": "Small precision tongs to place garnishes."
+        "name": "Gerade Pinzette",
+        "description": "Feine Pinzette zum präzisen Platzieren von Garnituren."
     },
     {
-        "name": "Ice tongs",
-        "description": "Tongs made to grab ice cubes."
+        "name": "Eiszange",
+        "description": "Zange zum Greifen von Eiswürfeln."
     }
 ]

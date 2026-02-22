@@ -1,20 +1,20 @@
 {
     "_id": "bramble",
     "name": "Bramble",
-    "instructions": "If crème de mûre is unavailable, many bartenders will substitute creme de cassis for it.\n\n1. Pour all ingredients into a cocktail shaker except the Crème de Mûre\n2. Shake well with ice\n3. Strain into chilled old fashioned glass filled with crushed ice\n4. Pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+    "instructions": "Falls Crème de Mûre nicht verfügbar ist, ersetzen viele Barkeeper diese durch Crème de Cassis.\n\n1. Alle Zutaten außer der Crème de Mûre in einen Cocktailshaker geben.\n2. Kräftig mit Eis schütteln.\n3. In ein gekühltes Old Fashioned Glas mit Crushed Ice abseihen.\n4. Den Brombeerlikör (Crème de Mûre) kreisförmig über den Drink gießen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Bramble was created in London, in 1984, by Dick Bradsell. At the time, Bradsell worked at a bar in Soho called Fred&#039;s Club, and he wanted to create a British cocktail. Memories of going blackberrying in his childhood on the Isle of Wight provided the inspiration for the Bramble.",
+    "description": "Der Bramble wurde 1984 in London von Dick Bradsell kreiert. Zu dieser Zeit arbeitete Bradsell in einer Bar in Soho namens Fred's Club, und er wollte einen britischen Cocktail kreieren. Erinnerungen an das Brombeerpflücken in seiner Kindheit auf der Isle of Wight lieferten die Inspiration für den Bramble.",
     "source": "https://iba-world.com/bramble/",
-    "garnish": "Garnish optionally with a lemon slice and blackberries.",
+    "garnish": "Optional mit einer Zitronenscheibe und Brombeeren garnieren.",
     "abv": 20.66,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks",
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 25,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 12,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "creme-de-mure",
-            "name": "Crème de mûre",
+            "name": "Crème de Mûre",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -76,7 +76,7 @@
             "substitutes": [
                 {
                     "_id": "creme-de-cassis",
-                    "name": "Crème de cassis",
+                    "name": "Crème de Cassis",
                     "amount": null,
                     "units": null,
                     "amount_max": null

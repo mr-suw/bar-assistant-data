@@ -1,18 +1,18 @@
 {
     "_id": "gin-tonic",
     "name": "Gin & Tonic",
-    "instructions": "1. Add lots of ice to a large cocktail or wine glass and stir to chill the glass. Drain any melted water.\n2. Pour in the gin. Add the garnishes. Pour the tonic water onto a bar spoon into the glass (to increase the bubbles). Stir once and serve.",
+    "instructions": "1. Viel Eis in ein großes Cocktail- oder Weinglas geben und umrühren, um das Glas zu kühlen. Geschmolzenes Wasser abgießen.\n2. Gin eingießen. Die Garnituren hinzufügen. Das Tonic Water mit einem Barlöffel ins Glas gießen (um die Bläschen zu erhöhen). Einmal umrühren und servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Called a “G and T” or gin tonic in some countries, this refreshing drink is made in countries all around the world. The Gin and Tonic was invented in the 1850’s by British soldiers, who mixed gin with their tonic water as a way to drink quinine (which was thought to cure malaria). Tonic water of today no longer has quinine, but the drink stuck around!",
+    "description": "In einigen Ländern als „G and T“ oder Gin Tonic bezeichnet, wird dieser erfrischende Drink in Ländern auf der ganzen Welt zubereitet. Der Gin und Tonic wurde in den 1850er Jahren von britischen Soldaten erfunden, die Gin mit ihrem Tonic Water mischten, um Chinin zu trinken (das angeblich Malaria heilen sollte). Das heutige Tonic Water enthält kein Chinin mehr, aber der Drink hat sich gehalten!",
     "source": "https://www.acouplecooks.com/best-gin-and-tonic/",
-    "garnish": "Any of the following to spice your cocktail: Lime, lemon, cucumber, mint, orange peel, juniper berries, blood orange slice, rosemary",
+    "garnish": "Beliebige der folgenden Zutaten, um Ihren Cocktail aufzupeppen: Limette, Zitrone, Gurke, Minze, Orangenschale, Wacholderbeeren, Blutorangenscheibe, Rosmarin",
     "abv": 12.12,
     "tags": [
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 2,
             "amount": 120,
             "units": "ml",

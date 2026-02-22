@@ -1,18 +1,18 @@
 {
     "_id": "blood-and-sand",
     "name": "Blood and Sand",
-    "instructions": "1. Combine all ingredients with ice and shake\n2. Strain into a coupe\n3. Flame orange peel and garnish",
+    "instructions": "1. Alle Zutaten mit Eis schütteln.\n2. In eine Coupette abseihen.\n3. Eine Orangenzeste über dem Drink flambieren und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "An exceptionally smooth classic with an optional smoky finish",
+    "description": "Ein außergewöhnlich sanfter Klassiker mit einem optionalen rauchigen Finish.",
     "source": "https://tuxedono2.com/blood-and-sand-cocktail-recipe",
-    "garnish": "Orange peel",
+    "garnish": "Orangenschale",
     "abv": 15.8,
     "tags": [
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 22.5,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "cherry-heering",
-            "name": "Cherry heering",
+            "name": "Cherry Heering",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",

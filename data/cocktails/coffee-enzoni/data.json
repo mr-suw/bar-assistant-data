@@ -1,18 +1,18 @@
 {
     "_id": "coffee-enzoni",
     "name": "Coffee Enzoni",
-    "instructions": "1. In a cocktail shaker, muddle the grapes\n2. Add the remaining ingredients\n3. Shake with ice for 10-12 seconds\n4. Double strain over ice into an old fashioned glass\n5. Garnish with 3 skewered black grapes",
+    "instructions": "1. In einem Cocktailshaker die Trauben muddeln.\n2. Die restlichen Zutaten hinzufügen.\n3. Mit Eis 10-12 Sekunden lang schütteln.\n4. Doppelt über Eis in ein Old Fashioned Glas abseihen.\n5. Mit 3 aufgespießten schwarzen Trauben garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Enzoni is a personal favorite of mine. I first shared it in 2020 and the video has received almost 700,000 views (other people love it too!). I also featured it more recently in my top 3 cocktails video a few weeks ago before stumbling across Dan Fellows' caffeinated version. I knew I had to try it immediately and it did not disappoint!The Coffee Enzoni is a pretty straight forward variation on the original Enzoni with the use of black grapes (sable grapes if available) instead of green, and the addition of coffee liqueur. Whilst the original Enzoni is bright and bitter, the Coffee Enzoni is dark, rich and brooding. It features rich bitter coffee notes and a juicy, muscat grape flavor.Worth noting... Dan used an extra dry coffee liqueur with 100g of sugar per litre. Mr Black has 250g per litre. For comparison, Kahlua has 400g per litre. As a result, he adds 10 ml of a 2:1 light muscovado syrup to balance the drink. Because I used Mr Black, the additional syrup isn't required.",
+    "description": "Der Enzoni ist ein persönlicher Favorit von mir. Ich habe ihn erstmals 2020 geteilt und das Video hat fast 700.000 Aufrufe erhalten (andere Leute lieben ihn auch!). Ich habe ihn auch kürzlich in meinem Top-3-Cocktails-Video vor ein paar Wochen vorgestellt, bevor ich auf Dan Fellows' koffeinhaltige Version stieß. Ich wusste, dass ich ihn sofort probieren musste, und er hat mich nicht enttäuscht! Der Coffee Enzoni ist eine ziemlich einfache Variation des ursprünglichen Enzoni mit der Verwendung von schwarzen Trauben (Sable-Trauben, falls verfügbar) anstelle von grünen und der Zugabe von Kaffeelikör. Während der ursprüngliche Enzoni hell und bitter ist, ist der Coffee Enzoni dunkel, reichhaltig und düster. Er bietet reichhaltige bittere Kaffeenoten und einen saftigen Muskateller-Traubengeschmack. Es ist erwähnenswert... Dan verwendete einen extra trockenen Kaffeelikör mit 100 g Zucker pro Liter. Mr. Black hat 250 g pro Liter. Zum Vergleich: Kahlua hat 400 g pro Liter. Infolgedessen fügt er 10 ml eines 2:1 hellen Muscovado-Sirups hinzu, um den Drink auszubalancieren. Da ich Mr. Black verwendet habe, ist der zusätzliche Sirup nicht erforderlich.",
     "source": "https://stevethebartender.com.au/coffee-enzoni-cocktail-recipe/",
-    "garnish": null,
+    "garnish": "3 aufgespießte schwarze Trauben",
     "abv": 17,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,14 +39,14 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "see notes above",
+            "note": "siehe Anmerkungen oben",
             "substitutes": []
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -75,19 +75,19 @@
         },
         {
             "_id": "grapes",
-            "name": "Grapes",
+            "name": "Trauben",
             "sort": 5,
             "amount": 8,
             "units": "parts",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Black grapes, muddled",
+            "note": "schwarze Trauben, gemuddelt",
             "substitutes": []
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 6,
             "amount": 5,
             "units": "drops",

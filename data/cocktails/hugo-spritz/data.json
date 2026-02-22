@@ -1,20 +1,20 @@
 {
     "_id": "hugo-spritz",
     "name": "Hugo Spritz",
-    "instructions": "Combine everything in wine glass with ice",
+    "instructions": "Alle Zutaten in ein Weinglas mit Eis geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "As reported by the magazines Mixology and Der Spiegel, the Hugo was conceived in 2005 by Naturns bar manager Roland Gruber (aka A.K.) at San Zeno Bar, as an alternative to Spritz Veneziano, and quickly spread beyond the borders of South Tyrol. Initially, the recipe provided for the use of lemon balm syrup, then in practice replaced by elderflower syrup, more easily available.",
+    "description": "Wie die Zeitschriften Mixology und Der Spiegel berichteten, wurde der Hugo 2005 vom Naturnser Barmanager Roland Gruber (alias A.K.) in der San Zeno Bar als Alternative zum Spritz Veneziano konzipiert und verbreitete sich schnell über die Grenzen Südtirols hinaus. Ursprünglich sah das Rezept die Verwendung von Zitronenmelissensirup vor, wurde dann aber in der Praxis durch den leichter verfügbaren Holunderblütensirup ersetzt.",
     "source": "https://en.wikipedia.org/wiki/Hugo_(cocktail)?useskin=vector",
-    "garnish": "Mint sprig and lime wedge",
+    "garnish": "Minzzweig und Limettenspalte",
     "abv": 11.06,
     "tags": [
-        "Wine",
+        "Wein",
         "Spritz",
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -65,7 +65,7 @@
                 },
                 {
                     "_id": "white-wine",
-                    "name": "White wine",
+                    "name": "Weißwein",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -86,7 +86,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 3,
             "amount": 30,
             "units": "ml",

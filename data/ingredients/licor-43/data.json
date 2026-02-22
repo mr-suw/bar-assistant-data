@@ -3,10 +3,10 @@
     "_parent_id": "liqueurs",
     "name": "Licor 43",
     "strength": 31,
-    "description": "Licor 43 is a Spanish liqueur produced in Cartagena, Spain, known for its complex and intriguing flavor profile. It's a sweet, creamy liqueur with a distinctive velvety texture, achieved through a unique blend of 43 different ingredients. These ingredients are kept secret, but are rumored to include vanilla, caramel, chocolate, citrus, and a variety of spices, creating a layered and nuanced taste experience. The production process involves careful maceration, distillation, and aging, resulting in a rich and satisfying spirit.",
-    "origin": "Spain",
+    "description": "Licor 43 ist ein spanischer Likör, der in Cartagena, Spanien, hergestellt wird und für sein komplexes und faszinierendes Geschmacksprofil bekannt ist. Es ist ein süßer, cremiger Likör mit einer unverwechselbaren samtigen Textur, die durch eine einzigartige Mischung aus 43 verschiedenen Zutaten erreicht wird. Diese Zutaten werden geheim gehalten, sollen aber Vanille, Karamell, Schokolade, Zitrusfrüchte und eine Vielzahl von Gewürzen enthalten, die ein vielschichtiges und nuanciertes Geschmackserlebnis schaffen. Der Herstellungsprozess umfasst eine sorgfältige Mazeration, Destillation und Reifung, was zu einem reichen und befriedigenden Destillat führt.",
+    "origin": "Spanien",
     "color": "#D4A35C",
-    "category": "Liqueurs",
+    "category": "Liköre",
     "created_at": null,
     "updated_at": null,
     "images": [

@@ -11,8 +11,8 @@
     "tags": [
         "Autumn"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",

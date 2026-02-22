@@ -1,19 +1,19 @@
 {
     "_id": "scorpion-reef",
-    "name": "Scorpion Reef",
-    "instructions": "1. Add all ingredients except the Angostura bitters\n2. Half fill with crushed / pebble ice\n3. Swizzle until glass is frosted\n4. Finish with Angostura bitters and five spice",
+    "name": "Skorpionriff",
+    "instructions": "1. Alle Zutaten außer den Angostura Bitters hinzufügen.\n2. Halb mit Crushed Ice / Pebble Ice füllen.\n3. Rühren, bis das Glas gefrostet ist.\n4. Mit Angostura Bitters und Five Spice abschließen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Scorpion Reef is a creation of Marshall Davis from the Gallo Pelón Mezcaleria. Marshall drew inspiration from a smoked pineapple flan that he was working on for the dessert list. He noted that “After swizzling, you’ve got a tropical potion with just enough overproof heat to keep you on your toes with the sensation of caramelized pineapple fresh off the grill.”.",
+    "description": "Das Skorpionriff ist eine Kreation von Marshall Davis von der Gallo Pelón Mezcaleria. Marshall ließ sich von einem geräucherten Ananasflan inspirieren, an dem er für die Dessertkarte arbeitete. Er bemerkte: „Nach dem Swizzeln hat man einen tropischen Zaubertrank mit gerade genug überprozentiger Hitze, um einen mit dem Gefühl von karamellisierter Ananas frisch vom Grill in Atem zu halten.“",
     "source": "https://stevethebartender.com.au/scorpion-reef-rum-cocktail/?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%8D%AB%20Cocktails%20with%20Chocolate%20Bitters!%20-%2017325570",
     "garnish": null,
     "abv": 15.15,
     "tags": [
-        "Tropical",
-        "Smokey"
+        "Tropisch",
+        "Rauchig"
     ],
-    "glass": null,
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 5,
             "amount": 22.5,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "angostura-cocoa-bitters",
-            "name": "Angostura cocoa bitters",
+            "name": "Angostura Kakao-Bitters",
             "sort": 6,
             "amount": 2,
             "units": "dash",
@@ -100,14 +100,14 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 7,
             "amount": 5,
             "units": "dash",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "floated",
+            "note": "geschwebt",
             "substitutes": []
         }
     ]

@@ -1,18 +1,18 @@
 {
     "_id": "single-village-fix",
     "name": "Single Village Fix",
-    "instructions": "1. Add all ingredients to a shaker with ice\n2. Shake and strain into a chilled coupe.",
+    "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben.\n2. Schütteln und in eine vorgekühlte Cocktailschale abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This three-ingredient mezcal cocktail from bartender Thad Vogler has become a modern classic.",
+    "description": "Dieser aus nur drei Zutaten bestehende Mezcal-Cocktail des Bartenders Thad Vogler ist zu einem modernen Klassiker geworden.",
     "source": "https://punchdrink.com/recipes/single-village-fix/",
     "garnish": null,
     "abv": 16,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,8 +29,8 @@
             "_id": "mezcal",
             "name": "Mezcal",
             "sort": 1,
-            "amount": 1.5,
-            "units": "oz",
+            "amount": 45,
+            "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -39,10 +39,10 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
-            "amount": 0.75,
-            "units": "oz",
+            "amount": 22.5,
+            "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -51,14 +51,14 @@
         },
         {
             "_id": "pineapple-syrup",
-            "name": "Pineapple Syrup",
+            "name": "Ananassirup",
             "sort": 3,
-            "amount": 0.75,
-            "units": "oz",
+            "amount": 22.5,
+            "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Small Hand Foods",
+            "note": "vorzugsweise Small Hand Foods",
             "substitutes": []
         }
     ]

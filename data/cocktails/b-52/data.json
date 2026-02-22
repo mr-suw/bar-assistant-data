@@ -1,18 +1,18 @@
 {
     "_id": "b-52",
     "name": "B-52",
-    "instructions": "Refrigerate ingredients then layer in chilled glass by carefully pouring in the ingredient order.",
+    "instructions": "Zutaten kühlen, dann vorsichtig in der angegebenen Reihenfolge in ein gekühltes Glas schichten.",
     "created_at": null,
     "updated_at": null,
-    "description": "The origins of the B-52 are not well documented, but one claim is that the B-52 was invented by Peter Fich, a head bartender at the Banff Springs Hotel in Alberta, Canada. Fich named all of his new drinks after favorite bands, albums, and songs, and he supposedly named the drink after the band of the same name, not directly after the US B-52 Stratofortress bomber after which the band was named.",
+    "description": "Die Ursprünge des B-52 sind nicht gut dokumentiert, aber eine Behauptung besagt, dass der B-52 von Peter Fich, einem Chef-Bartender im Banff Springs Hotel in Alberta, Kanada, erfunden wurde. Fich benannte alle seine neuen Drinks nach Lieblingsbands, Alben und Liedern, und er benannte den Drink angeblich nach der gleichnamigen Band, nicht direkt nach dem US-Bomber B-52 Stratofortress, nach dem die Band benannt wurde.",
     "source": "https://en.wikipedia.org/wiki/B-52_(cocktail)",
     "garnish": null,
     "abv": 25.67,
     "tags": [
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Shot",
-    "method": "Layer",
+    "glass": "Shotglas",
+    "method": "Schichten",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 1,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "grand-marnier",
-            "name": "Grand Marnier",
+            "name": "Grand Marnier (Orangenlikör)",
             "sort": 3,
             "amount": 15,
             "units": "ml",

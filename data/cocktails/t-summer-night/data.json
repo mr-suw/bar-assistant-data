@@ -1,19 +1,19 @@
 {
     "_id": "t-summer-night",
     "name": "T. Summer Night",
-    "instructions": "1. Cut your lime ready for squeeze and garnish and get your mint leaves and mint sprig\n2. Fill your wine glass with cubed ice\n3. Smash the mint in your hand and put it in the glass\n4. Pour your gin, elderflower liqueur, and lime juice over the ice\n5. Using your bar spoon, stir all the ingredients together well\n6. Add more ice if needed and fill up with prosecco\n7. Top up with soda\n8. Stir gently and garnish with lime and mint sprig",
+    "instructions": "1. Die Limette für Saft und Garnitur vorbereiten und Minzblätter sowie Minzzweig bereitlegen.\n2. Ein Weinglas mit Eiswürfeln füllen.\n3. Die Minze in der Hand kurz anschlagen und in das Glas geben.\n4. Gin, Holunderblütenlikör und Limettensaft über das Eis gießen.\n5. Mit einem Barlöffel alle Zutaten gut verrühren.\n6. Bei Bedarf mehr Eis hinzufügen und mit Prosecco auffüllen.\n7. Mit einem Schluck Sodawasser toppen.\n8. Vorsichtig umrühren und mit Limette und Minzzweig garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A special twist on the Hugo cocktail by Tjuvholmen.&nbsp;This breezy sparkling elderflower cocktail will take you straight to Italy in the summertime. And it couldn&#8217;t be easier to make.&nbsp;Bartender Tip:Add gin and mint for this special twist",
+    "description": "Eine besondere Variation des Hugo-Cocktails von Tjuvholmen. Dieser luftige, prickelnde Holunderblüten-Cocktail versetzt dich direkt in den italienischen Sommer. Und er könnte nicht einfacher zuzubereiten sein. Tipp vom Bartender: Füge Gin und Minze für diesen speziellen Twist hinzu.",
     "source": "https://cocktailclub.com/cocktails/hugo-summertime",
-    "garnish": null,
+    "garnish": "Limettenscheibe und Minzzweig",
     "abv": 11.71,
     "tags": [
         "Spritz",
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -64,10 +64,10 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 6,
-            "units": "leaves",
+            "units": "Blätter",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -76,7 +76,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 6,
             "amount": 20,
             "units": "ml",

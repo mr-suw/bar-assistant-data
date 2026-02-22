@@ -1,12 +1,12 @@
 {
     "_id": "allspice",
     "_parent_id": "spices",
-    "name": "Allspice",
+    "name": "Piment",
     "strength": 0,
-    "description": "Allspice berries are the dried, unripe fruit of the *Pimenta dioica* tree, native to the Caribbean and Central America. The name 'allspice' is derived from the fact that the berries possess a complex flavor profile reminiscent of a combination of several spices, including cinnamon, nutmeg, cloves, and pepper. They are harvested while still green and allowed to dry, which concentrates their aromatic compounds and creates a robust, intensely fragrant spice. Historically, allspice has been used both as a culinary ingredient and in traditional medicine throughout the regions where it is grown.",
-    "origin": "Jamaica",
+    "description": "Pimentbeeren sind die getrockneten, unreifen Früchte des Baumes *Pimenta dioica*, der in der Karibik und Zentralamerika beheimatet ist. Der englische Name 'Allspice' leitet sich von der Tatsache ab, dass die Beeren ein komplexes Geschmacksprofil besitzen, das an eine Kombination mehrerer Gewürze erinnert, darunter Zimt, Muskatnuss, Nelken und Pfeffer. Sie werden geerntet, solange sie noch grün sind, und getrocknet, wodurch sich ihre aromatischen Verbindungen konzentrieren und ein robustes, intensiv duftendes Gewürz entsteht. Historisch gesehen wurde Piment in den Anbaugebieten sowohl als kulinarische Zutat als auch in der traditionellen Medizin verwendet.",
+    "origin": "Jamaika",
     "color": "#8B4513",
-    "category": "Spices",
+    "category": "Gewürze",
     "created_at": null,
     "updated_at": null,
     "images": [

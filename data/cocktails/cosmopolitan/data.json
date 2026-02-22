@@ -1,19 +1,19 @@
 {
     "_id": "cosmopolitan",
     "name": "Cosmopolitan",
-    "instructions": "Add all ingredients into a cocktail shaker filled with ice. Shake well and strain into a large cocktail glass.",
+    "instructions": "Alle Zutaten in einen mit Eis gefüllten Cocktailshaker geben. Gut schütteln und in ein großes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A cosmopolitan, or informally a cosmo, is a relative of cranberry coolers.\n\nThe cosmopolitan gained popularity in the 1990s. It was further popularized among young women by its frequent mention on the television program Sex and the City, where Sarah Jessica Parker's character, Carrie Bradshaw, commonly ordered the drink when out with her girlfriends. The film adaptation made a reference to its popularity when Miranda asks why they stopped drinking them, Carrie replies \"because everyone else started.\"",
+    "description": "Ein Cosmopolitan, oder informell ein Cosmo, ist ein Verwandter von Cranberry-Coolern.\n\nDer Cosmopolitan wurde in den 1990er Jahren populär. Er wurde unter jungen Frauen durch seine häufige Erwähnung in der Fernsehsendung Sex and the City weiter popularisiert, wo Sarah Jessica Parkers Figur, Carrie Bradshaw, das Getränk häufig bestellte, wenn sie mit ihren Freundinnen ausging. Die Verfilmung spielte auf seine Popularität an, als Miranda fragte, warum sie aufhörten, sie zu trinken, antwortete Carrie: „weil alle anderen angefangen haben.“",
     "source": "https://iba-world.com/cosmopolitan/",
-    "garnish": "Garnish with a lemon twist.",
+    "garnish": "Mit einer Zitronenzeste garnieren.",
     "abv": 17.6,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 40,
             "units": "ml",
@@ -60,7 +60,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -72,7 +72,7 @@
         },
         {
             "_id": "cranberry-juice",
-            "name": "Cranberry juice",
+            "name": "Cranberrysaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",

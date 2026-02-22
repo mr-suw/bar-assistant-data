@@ -1,19 +1,19 @@
 {
     "_id": "kiwi-swizzle",
     "name": "Kiwi Swizzle",
-    "instructions": "Muddle kiwi and syrup in the bottom of highball glass\nAdd remaining ingredients and crushed ice until glass is about two-thirds full\nStir 20 seconds and top with more crushed ice and garnish",
+    "instructions": "Kiwi und Sirup am Boden eines Highball-Glases zerdrücken (muddlen). Die restlichen Zutaten sowie Crushed Ice hinzufügen, bis das Glas etwa zu zwei Dritteln gefüllt ist. 20 Sekunden lang rühren (swizzlen), mit mehr Crushed Ice auffüllen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Kiwi is underrated and underused! Tiki is the obvious first cocktail style to work kiwi in to, plus tiki and kiwi are surprisingly similar words... Fun! Chartreuse's herbal explosion is tempered by the unrefined cane character of our Demerara Gum Syrup. This is a stellar and novel tropical cocktail.",
+    "description": "Kiwi wird unterschätzt und zu selten verwendet! Tiki ist der naheliegendste Cocktail-Stil, um Kiwi einzubauen. Außerdem klingen Tiki und Kiwi überraschend ähnlich... das macht Spaß! Die Kräuterexplosion von Chartreuse wird durch den unraffinierten Zuckerrohrcharakter unseres Demerara Gum Syrup gemildert. Ein herausragender und neuartiger tropischer Cocktail.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/kiwi-swizzle",
-    "garnish": "pineapple fronds slice of kiwi",
+    "garnish": "Ananasblätter und eine Kiwispalte",
     "abv": 21.72,
     "tags": [
-        "Citrusy",
+        "Zitrusbetont",
         "Swizzle"
     ],
-    "glass": "Highball",
-    "method": "Muddle",
+    "glass": "Highball-Glas",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 6,
             "amount": 30,
             "units": "ml",

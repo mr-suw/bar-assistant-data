@@ -1,19 +1,19 @@
 {
     "_id": "sunflower-cocktail-recipe",
-    "name": "Sunflower Cocktail Recipe",
-    "instructions": "1. In a cocktail shaker, combine all the ingredients\n2. Shake with ice for 10-12 seconds\n3. Double strain into an absinthe-rinsed, chilled coupe",
+    "name": "Sonnenblumen-Cocktail-Rezept",
+    "instructions": "1. In einem Cocktailshaker alle Zutaten kombinieren.\n2. 10-12 Sekunden mit Eis schütteln.\n3. Doppelt in ein mit Absinth ausgespültes, gekühltes Coupette-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Sunflower is a creation of well known bartender Sam Ross. A simple variation on the classic Corpse Reviver #2 - substituting Elderflower liqueur in place of the original Lillet or Cocchi Americano.Sam Ross is known for creating numerous modern classic cocktails such as the Penicillin, Paper Plane and the Too Soon?",
+    "description": "Der Sunflower ist eine Kreation des bekannten Barkeepers Sam Ross. Eine einfache Variante des klassischen Corpse Reviver #2 – der Holunderblütenlikör ersetzt den originalen Lillet oder Cocchi Americano. Sam Ross ist bekannt für die Kreation zahlreicher moderner klassischer Cocktails wie Penicillin, Paper Plane und Too Soon?",
     "source": "https://stevethebartender.com.au/sunflower-gin-elderflower-cocktail-recipe/",
-    "garnish": "Garnish with a lemon twist",
+    "garnish": "Mit einer Zitronenschale garnieren",
     "abv": 20,
     "tags": [
         "Floral",
         "Sour"
     ],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 5,
             "amount": 1,
             "units": "rinse",

@@ -1,18 +1,18 @@
 {
     "_id": "drifter",
     "name": "Drifter",
-    "instructions": "1. Add all ingredients to a mixing glass with ice and stir gently.\n2. Strain into a double rocks glass over a large ice cube.\n3. Garnish with a grapefruit twist.",
+    "instructions": "1. Alle Zutaten mit Eis in ein Rührglas geben und vorsichtig umrühren.\n2. Über einen großen Eiswürfel in ein doppelwandiges Rocks-Glas abseihen.\n3. Mit einer Grapefruitzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "At ABV in San Francisco, the concept is simple: The menu is built around the spirits that the owners want to drink, and the drinks they want to make from them. This cocktail, the Drifter, is a straightforward mixture of Japanese whisky, blanc vermouth, Amaro Nonino and Peychaud’s bitters, garnished with a grapefruit twist.",
+    "description": "Im ABV in San Francisco ist das Konzept einfach: Die Speisekarte basiert auf den Spirituosen, die die Besitzer trinken möchten, und den Drinks, die sie daraus zubereiten möchten. Dieser Cocktail, der Drifter, ist eine einfache Mischung aus japanischem Whiskey, weißem Wermut, Amaro Nonino und Peychauds Bitters, garniert mit einer Grapefruitzeste.",
     "source": "https://punchdrink.com/recipes/drifter/",
-    "garnish": "grapefruit twist",
+    "garnish": "Grapefruitzeste",
     "abv": 26.92,
     "tags": [
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,26 +27,26 @@
     "ingredients": [
         {
             "_id": "japanese-whiskey",
-            "name": "Japanese Whiskey",
+            "name": "Japanischer Whiskey",
             "sort": 1,
             "amount": 45,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Suntory Toki Japanese Whisky",
+            "note": "vorzugsweise Suntory Toki Japanese Whisky",
             "substitutes": []
         },
         {
             "_id": "vermouth-bianco",
-            "name": "Vermouth Bianco",
+            "name": "Wermut Bianco",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Dolin Blanc Vermouth",
+            "note": "vorzugsweise Dolin Blanc Wermut",
             "substitutes": []
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitters",
             "sort": 4,
             "amount": 3,
             "units": "dash",

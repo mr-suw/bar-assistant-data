@@ -1,19 +1,19 @@
 {
     "_id": "the-st-germain-spritz",
     "name": "The St-Germain Spritz",
-    "instructions": "1. Combine ingredients in a Collins glass over ice.\n2. Stir.",
+    "instructions": "1. Zutaten in ein Collins-Glas über Eis geben.\n2. Umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The St-Germain Cocktail recipe is the classic spritz variation fueled by the iconic elderflower liqueur, Champagne and soda water.",
+    "description": "Das St-Germain Cocktailrezept ist die klassische Spritz-Variante, die von dem ikonischen Holunderblütenlikör, Champagner und Sodawasser angetrieben wird.",
     "source": "https://punchdrink.com/recipes/the-st-germain-cocktail/",
-    "garnish": "Garnish with a lemon twist.",
+    "garnish": "Mit einer Zitronenzeste garnieren.",
     "abv": 8.18,
     "tags": [
         "Spritz",
         "Floral"
     ],
-    "glass": "Highball",
-    "method": "Stir",
+    "glass": "Highball-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "champagne",
-            "name": "Champagne",
+            "name": "Champagner",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 3,
             "amount": 60,
             "units": "ml",

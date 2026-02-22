@@ -1,20 +1,20 @@
 {
     "_id": "rabo-de-galo",
     "name": "Rabo de Galo",
-    "instructions": "1. Pour the cachaça, vermouth and Cynar into a mixing glass with ice and stir until chilled.\n2. Strain into a rocks glass with ice.\n3. Garnish with a lime twist.",
+    "instructions": "1. Cachaça, Wermut und Cynar in ein Rührglas mit Eis geben und rühren, bis der Drink gut gekühlt ist.\n2. In einen Tumbler (Rocks-Glas) auf Eis abseihen.\n3. Mit einer Limettenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Rabo de Galo is a classic cocktail made of cachaça, sweet vermouth and Cynar from Brazil. This bittersweet recipe is aperitivo-ready.",
+    "description": "Rabo de Galo ist ein klassischer brasilianischer Cocktail aus Cachaça, süßem Wermut und Cynar. Dieses herb-süße Rezept ist der perfekte Aperitif.",
     "source": "https://punchdrink.com/recipes/rabo-de-galo/",
-    "garnish": "lime twist",
+    "garnish": "Limettenzeste",
     "abv": 25.88,
     "tags": [
-        "Classics",
+        "Klassiker",
         "Bitter",
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",

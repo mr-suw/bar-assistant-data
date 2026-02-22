@@ -1,18 +1,18 @@
 {
     "_id": "matador",
     "name": "Matador",
-    "instructions": "1. Combine all ingredients in a mixing tin and shake with ice.\n2. Strain into a cocktail glass.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben und mit Eis schütteln.\n2. In ein Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "One of two historic Matador cocktail recipe that have inspired a number of modern riffs, this is Café Royal's equal parts concoction.",
+    "description": "Dies ist das Rezept des Café Royal im Verhältnis zu gleichen Teilen – eines von zwei historischen Matador-Rezepten, die zahlreiche moderne Interpretationen inspiriert haben.",
     "source": "https://punchdrink.com/recipes/cafe-royals-matador/",
     "garnish": null,
     "abv": 26.13,
     "tags": [
-        "Classics"
+        "Klassiker"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

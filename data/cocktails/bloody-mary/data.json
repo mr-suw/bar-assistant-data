@@ -1,20 +1,20 @@
 {
     "_id": "bloody-mary",
     "name": "Bloody Mary",
-    "instructions": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass.",
+    "instructions": "Alle Zutaten vorsichtig in einem Rührglas mit Eis rühren und in einen Tumbler geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "If requested served with ice, pour into highball glass.",
+    "description": "Wird er auf Eis gewünscht, in ein Highball-Glas servieren.",
     "source": "https://iba-world.com/bloody-mary/",
-    "garnish": "Celery, Lemon Wedge (Optional)",
+    "garnish": "Sellerie, Zitronenspalte (optional)",
     "abv": 10.89,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
-        "Savory"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
+        "Herzhaft"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "tomato-juice",
-            "name": "Tomato juice",
+            "name": "Tomatensaft",
             "sort": 2,
             "amount": 90,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -89,7 +89,7 @@
         },
         {
             "_id": "pepper",
-            "name": "Pepper",
+            "name": "Pfeffer",
             "sort": 6,
             "amount": 1,
             "units": "pinch",

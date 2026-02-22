@@ -1,16 +1,16 @@
 {
     "_id": "campbeltown",
     "name": "Campbeltown",
-    "instructions": "1. Add the Springbank 10-year-old scotch, Cherry Heering liqueur, and green Chartreuse into a mixing glass with ice and stir until well-chilled.\n2. Strain into a chilled Nick &amp; Nora glass.\n3. Express the oil of a lemon peel over the drink and discard.",
+    "instructions": "1. Springbank 10-jährigen Scotch, Cherry Heering Likör und Chartreuse Verte in ein Rührglas mit Eis geben und rühren, bis der Drink gut gekühlt ist.\n2. In ein vorgekühltes Nick & Nora Glas abseihen.\n3. Die ätherischen Öle einer Zitronenzeste über dem Drink ausdrücken und die Zeste danach entsorgen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Three ingredients add up to one perfect sip in this expensive and utterly delicious Scottish cocktail",
+    "description": "Drei Zutaten ergeben einen perfekten Schluck in diesem kostbaren und absolut köstlichen schottischen Cocktail.",
     "source": "https://www.liquor.com/recipes/campbeltown/",
     "garnish": null,
     "abv": 30.6,
     "tags": [],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "cherry-heering",
-            "name": "Cherry heering",
+            "name": "Cherry Heering",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "green-chartreuse",
-            "name": "Green Chartreuse",
+            "name": "Chartreuse Verte",
             "sort": 3,
             "amount": 15,
             "units": "ml",

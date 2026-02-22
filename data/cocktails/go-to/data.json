@@ -1,16 +1,16 @@
 {
     "_id": "go-to",
     "name": "Go-To",
-    "instructions": "1. In a cocktail shaker, combine all the ingredients except the ginger beer\n2. Shake briefly with ice to combine\n3. Strain over ice into a highball glass\n4. Top with ginger beer",
+    "instructions": "1. Alle Zutaten außer dem Ginger Beer in einen Shaker geben.\n2. Kurz mit Eis schütteln, um alles zu vermischen.\n3. Auf frisches Eis in ein Highball-Glas abseihen.\n4. Mit Ginger Beer auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Created by Rob Krueger, Extra Fancy, Brooklyn NY.He mentioned this to a guest one night, to which she responded, \"Oh, so it's your go-to?\" inspiring the cocktail's name.",
+    "description": "Erfunden von Rob Krueger, Extra Fancy, Brooklyn NY. Er schlug diesen Drink eines Abends einem Gast vor, woraufhin diese fragte: „Oh, ist das Ihr Default-Drink (Go-to)?“, was den Namen des Cocktails inspirierte.",
     "source": "https://stevethebartender.com.au/go-to-st-germain-cocktail-recipe/",
-    "garnish": "Garnish with a mint sprig and cucumber wheels",
+    "garnish": "Minzzweig und Gurkenscheiben",
     "abv": 22.15,
     "tags": [],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -32,7 +32,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "originally Ford's",
+            "note": "ursprünglich Ford's",
             "substitutes": []
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 5,
             "amount": 8,
             "units": "leaves",

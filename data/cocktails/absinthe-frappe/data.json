@@ -1,18 +1,18 @@
 {
     "_id": "absinthe-frappe",
     "name": "Absinthe Frappé",
-    "instructions": "1. Combine syrup and absinthe in a shaker filled with ice\n2. Shake for 10 seconds\n3. Strain into a chilled glass filled with crushed ice",
+    "instructions": "1. Sirup und Absinth in einen mit Eis gefüllten Shaker geben.\n2. 10 Sekunden lang kräftig schütteln.\n3. In ein vorgekühltes, mit Crushed Ice gefülltes Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A dreamy classic that makes absinthe approachable and surprisingly refreshing.",
+    "description": "Ein traumhafter Klassiker, der Absinth zugänglich und überraschend erfrischend macht.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/absinthe-frappe",
-    "garnish": "Fresh mint",
+    "garnish": "Frische Minze",
     "abv": 12,
     "tags": [
-        "Herbacious"
+        "Kräuterig"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 3,
             "amount": 60,
             "units": "ml",

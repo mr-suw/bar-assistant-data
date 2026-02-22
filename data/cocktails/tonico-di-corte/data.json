@@ -1,18 +1,18 @@
 {
     "_id": "tonico-di-corte",
     "name": "Tonico di Corte",
-    "instructions": "1. Add tonic, Italicus, and gin to a highball glass filled with ice\n2. Top with soda water and stir",
+    "instructions": "1. Tonic Water, Italicus und Gin in ein Highball-Glas mit Eis geben.\n2. Mit Sodawasser auffüllen und umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Put a little dinamismo in your G&T!",
+    "description": "Bring ein wenig 'dinamismo' in deinen G&T!",
     "source": "https://www.liberandcompany.com/collections/recipes/products/tonico-di-corte",
-    "garnish": "dehydrated lime wheel",
+    "garnish": "getrocknete Limettenscheibe",
     "abv": 18,
     "tags": [
         "Bitter"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 1,
             "units": "topup",

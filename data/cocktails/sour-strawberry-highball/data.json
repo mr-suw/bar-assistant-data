@@ -1,18 +1,18 @@
 {
     "_id": "sour-strawberry-highball",
     "name": "Sour Strawberry Highball",
-    "instructions": "1. Add the tequila and strawberry shrub to a chilled highball glass. Briefly stir to mix. Nearly fill with ice. Pour seltzer down the neck of a barspoon to top. Garnish with a lime wedge.\nStrawberry Shrub SyrupWash, trim, and quarter 1 lb. of ripe strawberries. Add to a mixing bowl with 2 cups of granulated sugar and toss to coat. Gently mash the fruit with a fork. Cover and let stand at room temperature for 1 hour, then refrigerate for at least 1 day (but 2 is ideal), periodically shaking the container to redistribute the contents. Mix in 1 1/2 cups of apple cider vinegar, then strain and transfer the mixture into a resealable bottle, squeezing out as much liquid as you can. Refrigerate and use within 2 weeks.",
+    "instructions": "1. Tequila und Strawberry Shrub in ein gekühltes Highball-Glas geben. Kurz umrühren. Fast vollständig mit Eis füllen. Sodawasser über den Rücken eines Barlöffels aufgießen. Mit einer Limettenspalte garnieren.\n\nErdbeer-Shrub-Sirup: 500g reife Erdbeeren waschen, putzen und vierteln. Mit 400g Kristallzucker in eine Schüssel geben und vermengen. Die Früchte vorsichtig mit einer Gabel zerdrücken. Abdecken und 1 Stunde bei Raumtemperatur stehen lassen, dann für mindestens 1 Tag (ideal sind 2 Tage) in den Kühlschrank stellen; dabei den Behälter gelegentlich schütteln. 350ml Apfelessig unterrühren, dann die Mischung durch ein Sieb in eine verschließbare Flasche abseihen (dabei so viel Flüssigkeit wie möglich ausdrücken). Gekühlt innerhalb von 2 Wochen verbrauchen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Can a compelling cocktail be made with just two ingredients? That's the basis for Roger Kamholz's book Pour Together, which features classic two-ingredient drinks like the Dark & Stormy and the Gibson. But he also includes a few recipes that, although still simple, do require some assembly, such as this Sour Strawberry Highball. A homemade strawberry shrub brings a punch of tart sweetness but, Kamholz says, don't stop there. \"You’re welcome to mingle with other spirits and other fruits\" in this highly modifiable highball recipe.",
+    "description": "Kann ein überzeugender Cocktail aus nur zwei Zutaten bestehen? Das ist die Grundlage für Roger Kamholz' Buch \"Pour Together\", das Klassiker wie den Dark & Stormy und den Gibson vorstellt. Er enthält aber auch einige Rezepte, die zwar einfach sind, aber etwas Vorbereitung erfordern, wie dieser Sour Strawberry Highball. Ein hausgemachter Erdbeer-Shrub bringt eine kräftige säuerliche Süße mit. Kamholz sagt jedoch: \"Fühlen Sie sich frei, auch mit anderen Spirituosen und Früchten zu experimentieren\" – ein äußerst wandelbares Highball-Rezept.",
     "source": "https://imbibemagazine.com/recipe/sour-strawberry-highball/",
-    "garnish": "Lime wedge",
+    "garnish": "Limettenspalte",
     "abv": 22.22,
     "tags": [
         "Dessert"
     ],
-    "glass": "Highball",
-    "method": "Stir",
+    "glass": "Highball-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 3,
             "amount": 1,
             "units": "topup",

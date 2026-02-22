@@ -1,18 +1,18 @@
 {
     "_id": "apb-melrose-gin-tonic",
     "name": "APB Melrose Gin & Tonic",
-    "instructions": "1. Add the first 4 ingredients to a shaker with ice. Shake until chilled, then strain into a glass over fresh ice. Add the tonic, top with pebble ice, then drizzle the blue Chareau on top. Garnish.\n2. Blue ChareauAnd 1/8 tsp. of blue spirulina to 1/2 cup Chareau and whisk. Will keep in the refrigerator for 2 weeks.",
+    "instructions": "1. Die ersten 4 Zutaten mit Eis in einen Shaker geben. Kalt shaken und dann in ein Glas über frisches Eis abseihen. Das Tonic hinzufügen, mit Crushed Ice auffüllen und dann den blauen Chareau darüber träufeln. Garnieren.\n2. Blauer Chareau: 1/8 Teelöffel blaue Spirulina zu 1/2 Tasse Chareau geben und verquirlen. Hält sich im Kühlschrank 2 Wochen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This mesmerizingly azure-topped gin and tonic from Los Angeles' APB (A Plant Bar) Melrose draws inspiration from the state of California. Drink creator Julian Cox selected the Golden State's Gray Whale gin for its Californian ingredients, such as citrus and sea kelp. But he says that a botanical forward new Western gin can also be used in its place. \"The cocktail takes you on a journey of floral and citrus flavors,\" Cox says. \"It starts with a light and effervescent quality that lingers through the finish.\"",
+    "description": "Dieser faszinierend azurblau gekrönte Gin Tonic von der APB (A Plant Bar) Melrose in Los Angeles ist vom Bundesstaat Kalifornien inspiriert. Der Schöpfer des Drinks, Julian Cox, wählte den Gray Whale Gin aus dem Golden State wegen seiner kalifornischen Zutaten wie Zitrusfrüchten und Seetang. Aber er sagt, dass stattdessen auch ein botanischer New Western Gin verwendet werden kann. 'Der Cocktail nimmt Sie mit auf eine Reise der blumigen und zitrusartigen Aromen', sagt Cox. 'Er beginnt mit einer leichten und sprudelnden Qualität, die bis zum Abgang anhält.'",
     "source": "https://imbibemagazine.com/recipe/gin-and-tonic-from-apb-melrose/",
-    "garnish": "Thin lemon wheel; viola flowers (optional)",
+    "garnish": "Dünne Zitronenscheibe; Veilchenblüten (optional)",
     "abv": 10.7,
     "tags": [
         "Bitter"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 5,
             "amount": 45,
             "units": "ml",

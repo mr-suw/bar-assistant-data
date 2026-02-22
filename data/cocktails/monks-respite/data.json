@@ -1,18 +1,18 @@
 {
     "_id": "monks-respite",
     "name": "Monk’s Respite",
-    "instructions": "1. Combine the ingredients in a blender and add 10 oz. of crushed ice\n2. Blend for 10 seconds, then pour into a coconut shell or double Old Fashioned glass",
+    "instructions": "1. Alle Zutaten in einen Mixer (Blender) geben und ca. 300 ml Crushed Ice hinzufügen.\n2. 10 Sekunden lang mixen, dann in eine Kokosnussschale oder ein Double Old Fashioned Glas gießen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Some drink coconut water to stay hydrated—others because it mixes great with booze. Our 2017 Bartender of the Year, Steven Liles from Smuggler's Cove, is among the latter with this original recipe.",
+    "description": "Manche trinken Kokoswasser, um hydriert zu bleiben – andere, weil es hervorragend zu Alkohol passt. Steven Liles aus dem Smuggler's Cove, unser Bartender des Jahres 2017, gehört mit diesem Originalrezept zur letzteren Gruppe.",
     "source": "https://imbibemagazine.com/recipe/monks-respite-from-smugglers-cove/",
-    "garnish": "Orchid and mint sprig",
+    "garnish": "Orchidee und Minzzweig",
     "abv": 8.64,
     "tags": [
         "Tiki"
     ],
-    "glass": "Lowball",
-    "method": "Blend",
+    "glass": "Tumbler",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "coconut-water",
-            "name": "Coconut water",
+            "name": "Kokoswasser",
             "sort": 1,
             "amount": 90,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 6,
             "amount": 30,
             "units": "ml",
@@ -99,7 +99,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 7,
             "amount": 1,
             "units": "dash",

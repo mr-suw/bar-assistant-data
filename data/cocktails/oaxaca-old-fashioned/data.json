@@ -1,19 +1,19 @@
 {
     "_id": "oaxaca-old-fashioned",
     "name": "Oaxaca Old Fashioned",
-    "instructions": "Combine all the ingredients except the orange twist in an Old Fashioned glass filled with one large ice cube. Stir until chilled. To top with a flamed orange twist, carefully hold a piece of orange peel about the size of a silver dollar, skin side down, over the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink, quickly squeeze the peel in the direction of the match. The oil from the peel will briefly ignite, landing over the drink’s surface.",
+    "instructions": "Alle Zutaten außer der Orangenzeste in ein Old Fashioned Glas mit einem großen Eiswürfel geben. Rühren, bis es gekühlt ist. Um mit einer geflammten Orangenzeste zu garnieren, ein Stück Orangenschale, etwa so groß wie ein Silberdollar, mit der Hautseite nach unten über das Getränk halten. Ein Streichholz anzünden und damit die Hautseite der Schale erwärmen. Das Streichholz ein paar Zentimeter über dem Getränk halten und die Schale schnell in Richtung des Streichholzes drücken. Das Öl aus der Schale entzündet sich kurz und landet auf der Oberfläche des Getränks.",
     "created_at": null,
     "updated_at": null,
-    "description": "A Mexican-accented Old Fashioned riff, created by Phil Ward, mixes reposado tequila with mezcal and mole bitters.",
+    "description": "Eine mexikanisch angehauchte Old Fashioned-Variante, kreiert von Phil Ward, mischt Reposado Tequila mit Mezcal und Mole-Bitters.",
     "source": "https://imbibemagazine.com/recipe/oaxaca-old-fashioned-recipe/",
-    "garnish": "orange twist",
+    "garnish": "Orangenzeste",
     "abv": 29.63,
     "tags": [
         "Old Fashioned",
-        "Smokey"
+        "Rauchig"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -58,7 +58,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavendicksaft",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -81,7 +81,7 @@
             "substitutes": [
                 {
                     "_id": "angostura-aromatic-bitters",
-                    "name": "Angostura aromatic bitters",
+                    "name": "Angostura Aromatic Bitters",
                     "amount": null,
                     "units": null,
                     "amount_max": null

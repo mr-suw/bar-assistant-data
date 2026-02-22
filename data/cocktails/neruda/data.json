@@ -1,18 +1,18 @@
 {
     "_id": "neruda",
     "name": "Neruda",
-    "instructions": "Shake the first 3 ingredients together, then pour into an ice-filled glass and top with chilled soda water. Garnish.",
+    "instructions": "Die ersten drei Zutaten miteinander schütteln, dann in ein mit Eis gefülltes Glas geben und mit kaltem Sodawasser auffüllen. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This spirit-free highball skips the booze but not the flavor. “It’s a liquid play on a Sour Patch candy,” says Lore head bartender Marina Markovic. “It’s sweet, refreshing, and gives just enough kick.”",
+    "description": "Dieser alkoholfreie Highball verzichtet zwar auf Spirituosen, aber nicht auf Geschmack. „Es ist eine flüssige Hommage an Sour-Patch-Süßigkeiten“, sagt Chef-Bartenderin Marina Markovic aus dem Lore. „Er ist süß, erfrischend und hat genau den richtigen Kick.“",
     "source": "https://imbibemagazine.com/recipe/neruda-a-spirit-free-highball/",
-    "garnish": "cherries",
+    "garnish": "Kirschen",
     "abv": 0,
     "tags": [
-        "Virgin"
+        "Alkoholfrei"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "cinnamon-syrup",
-            "name": "Cinnamon syrup",
+            "name": "Zimtsirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 1,
             "units": "topup",

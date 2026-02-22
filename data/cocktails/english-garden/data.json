@@ -1,19 +1,19 @@
 {
     "_id": "english-garden",
     "name": "English Garden",
-    "instructions": "1. Combine all the ingredients into your cocktail shaker\n2. Shake with ice for 12-15 seconds\n3. Strain over fresh ice into a high ball",
+    "instructions": "1. Alle Zutaten in Ihren Cocktailshaker geben.\n2. 12-15 Sekunden lang mit Eis schütteln.\n3. Über frisches Eis in ein Highball-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The English Garden brings together some classic pairings for St-Germain Elderflower liqueur - gin, apple, lime &amp; cucumber. Served long, this one is filled with quintessential English flavours.",
+    "description": "Der English Garden vereint klassische Kombinationen für St-Germain Holunderblütenlikör – Gin, Apfel, Limette & Gurke. Lang serviert, ist dieser Drink voller typisch englischer Aromen.",
     "source": "https://stevethebartender.com.au/english-garden-cocktail-recipe/",
-    "garnish": "Garnish with cucumber",
+    "garnish": "Mit Gurke garnieren",
     "abv": 14.22,
     "tags": [
-        "Herbacious",
-        "Fruity"
+        "Kräuterig",
+        "Fruchtig"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "apple-juice",
-            "name": "Apple Juice",
+            "name": "Apfelsaft",
             "sort": 3,
             "amount": 50,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 10,
             "units": "ml",

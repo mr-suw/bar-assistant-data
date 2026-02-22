@@ -1,18 +1,18 @@
 {
     "_id": "cardinale",
     "name": "Cardinale",
-    "instructions": "Stir the gin, Campari, and vermouth with ice in an Old Fashioned glass, then garnish.",
+    "instructions": "Gin, Campari und Wermut mit Eis in einem Old Fashioned Glas verrühren und dann garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "In Dale DeGroff’s revised and updated The New Craft of the Cocktail, he details the backstory of the Cardinale cocktail, a 1950’s-era variation on the classic Negroni. “Giovanni Raimondo, the bartender at the Hotel Excelsior, crafted this variation in an effort to re-create the favorite of a German cardinal who occasionally sought refreshment at the bar of the great hotel; the use of dry vermouth created a closer match to the cardinal’s robes.”",
+    "description": "In Dale DeGroffs überarbeitetem und aktualisiertem Buch 'The New Craft of the Cocktail' beschreibt er die Hintergrundgeschichte des Cardinale Cocktails, einer Variante des klassischen Negroni aus den 1950er Jahren. 'Giovanni Raimondo, der Barkeeper des Hotel Excelsior, kreierte diese Variante, um den Favoriten eines deutschen Kardinals nachzubilden, der gelegentlich in der Bar des großen Hotels Erfrischung suchte; die Verwendung von trockenem Wermut schuf eine genauere Übereinstimmung mit den Roben des Kardinals.'",
     "source": "https://imbibemagazine.com/recipe/cardinale-negroni/",
     "garnish": null,
     "abv": 23.06,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -21,7 +21,7 @@
             "uri": "file:///cardinale-1.jpg",
             "sort": 1,
             "placeholder_hash": "2kgGHwi5lpiglXdydReYSId4VUBYBYMG",
-            "copyright": "Imbibe |  Daniel Krieger"
+            "copyright": "Imbibe | Daniel Krieger"
         }
     ],
     "ingredients": [
@@ -51,7 +51,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 3,
             "amount": 30,
             "units": "ml",

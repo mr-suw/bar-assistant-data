@@ -1,20 +1,20 @@
 {
     "_id": "grog",
     "name": "Grog",
-    "instructions": "1. Shake all ingredients with ice.\n2. into ice-filled glass.",
+    "instructions": "1. Alle Zutaten mit Eis schütteln.\n2. In ein mit Eis gefülltes Glas.",
     "created_at": null,
     "updated_at": null,
-    "description": "For over 300 years, the British Navy issued a daily 'tot' of rum, sometimes with double issues before battle. In 1740, as an attempt to combat drunkenness, Admiral Vernon gave orders that the standard daily issue of half a pint of neat, high-proof rum be replaced with two servings of a quarter of a pint, diluted 4:1 with water. The Admiral was nicknamed 'Old Grogram' due to the waterproof grogram cloak he wore, so the mixture he introduced became known as 'grog'. Lime juice was often added to the grog in an attempt to prevent scurvy, lending British sailors their 'limey' nickname.\n\nThe 'tot' tradition, which was started by the British Navy in Jamaica in 1665, was finally broken on 31st July 1970, a day known as Black Tot Day, although by then, the 'tot' had been reduced to a meagre two ounces.\n\nI hate to let the truth ruin a good story, but historians now say that grog emanates from an earlier period than Old Grogram.",
+    "description": "Über 300 Jahre lang verteilte die britische Marine täglich eine „Ration“ Rum, manchmal mit doppelten Rationen vor dem Kampf. 1740, in einem Versuch, Trunkenheit zu bekämpfen, ordnete Admiral Vernon an, dass die standardmäßige tägliche Ration von einem halben Pint reinem, hochprozentigem Rum durch zwei Portionen von einem Viertel Pint ersetzt wird, verdünnt 4:1 mit Wasser. Der Admiral erhielt den Spitznamen „Old Grogram“ wegen des wasserdichten Grogram-Mantels, den er trug, so dass die von ihm eingeführte Mischung als „Grog“ bekannt wurde. Limettensaft wurde oft dem Grog hinzugefügt, um Skorbut vorzubeugen, was den britischen Seeleuten ihren Spitznamen „Limey“ einbrachte.\n\nDie „Ration“-Tradition, die 1665 von der britischen Marine in Jamaika begonnen wurde, wurde schließlich am 31. Juli 1970 gebrochen, einem Tag, der als Black Tot Day bekannt ist, obwohl die „Ration“ zu diesem Zeitpunkt auf magere zwei Unzen reduziert worden war.\n\nIch hasse es, die Wahrheit eine gute Geschichte ruinieren zu lassen, aber Historiker sagen heute, dass Grog aus einer früheren Periode als Old Grogram stammt.",
     "source": null,
-    "garnish": "Garnish with lime wedge.",
+    "garnish": "Mit Limettenspalte garnieren.",
     "abv": 17.86,
     "tags": [
         "Historical",
         "Sour",
-        "Classics"
+        "Klassiker"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "water",
-            "name": "Water",
+            "name": "Wasser",
             "sort": 4,
             "amount": 45,
             "units": "ml",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 2,
             "units": "dash",

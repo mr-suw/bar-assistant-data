@@ -1,19 +1,19 @@
 {
     "_id": "old-salt",
     "name": "Old Salt",
-    "instructions": "1. Combine all ingredients in a cocktail shaker, but do not shake.\n2. Pour directly over ice into a 10-ounce Collins glass.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben, aber nicht schütteln.\n2. Direkt über frisches Eis in ein ca. 300 ml fassendes Collins-Glas gießen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A cross between the Paloma and Salty Dog cocktails, this gin or tequila drink recipe calls for fluffy grapefruit juice and saline solution.",
+    "description": "Dieser Cocktail auf Gin- oder Tequila-Basis ist eine Kreuzung aus Paloma und Salty Dog und besticht durch frischen Grapefruitsaft und eine Prise Salzlösung.",
     "source": "https://punchdrink.com/recipes/old-salt/",
-    "garnish": "Garnish with an oversized salted grapefruit wedge on top.",
+    "garnish": "Ein großes, gesalzenes Grapefruit-Achtel",
     "abv": 8.36,
     "tags": [
         "Sour",
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": "paloma",
     "year": null,
@@ -48,7 +48,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -60,7 +60,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -72,7 +72,7 @@
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 4,
             "amount": 2,
             "units": "dash",
@@ -84,7 +84,7 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 5,
             "amount": 120,
             "units": "ml",

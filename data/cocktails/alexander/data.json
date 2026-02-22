@@ -1,20 +1,20 @@
 {
     "_id": "alexander",
     "name": "Alexander",
-    "instructions": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+    "instructions": "1. Alle Zutaten in einen mit Eiswürfeln gefüllten Shaker geben.\n2. Shaken und in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro’s Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark.\n\nThroughout its history, Alexander has given rise to many other variations:\n\n**Grasshopper**: This variant is also part of the Iba list and involves the use of crème de menthe verde instead of cognac.\n\n**Alexandra**: Use the light cocoa cream instead of the dark one and replace the nutmeg with cocoa.\n\n**Alexander’s Sister**: Use crème de menthe instead of crème de cacao\n\n**Alejandro**: Replace cognac with rum",
+    "description": "Der Alexander-Cocktail wurde 1922 in London von Henry Mc Elhone im Ciro's Club zu Ehren einer berühmten Braut kreiert. Anfangs hieß er Panama, es wurde Gin anstelle von Cognac und helle Kakaocreme anstelle von dunkler verwendet.\n\nIm Laufe seiner Geschichte hat der Alexander viele weitere Variationen hervorgebracht:\n\n**Grasshopper**: Diese Variante ist ebenfalls Teil der IBA-Liste und verwendet grüne Crème de Menthe anstelle von Cognac.\n\n**Alexandra**: Verwenden Sie helle Kakaocreme anstelle der dunklen und ersetzen Sie die Muskatnuss durch Kakao.\n\n**Alexander's Sister**: Verwenden Sie Crème de Menthe anstelle von Crème de Cacao.\n\n**Alejandro**: Ersetzen Sie Cognac durch Rum.",
     "source": "https://iba-world.com/alexander/",
-    "garnish": "Sprinkle ground nutmeg on top.",
+    "garnish": "Mit gemahlener Muskatnuss bestreuen.",
     "abv": 17.33,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
-        "Savory"
+        "Herzhaft"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "creme-de-cacao-dark",
-            "name": "Crème de Cacao (Dark)",
+            "name": "Crème de Cacao (Dunkel)",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 3,
             "amount": 30,
             "units": "ml",

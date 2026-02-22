@@ -1,9 +1,9 @@
 {
     "_id": "wines",
     "_parent_id": null,
-    "name": "Wines",
+    "name": "Weine",
     "strength": 0,
-    "description": "Wines, in the context of cocktails, extend beyond just the sparkling varieties, offering a diverse palette of flavors and textures. Still wines—red, white, and rosé—can contribute acidity, fruit notes, tannins, and body, allowing for lower-alcohol drinks or a nuanced complexity not easily achieved with spirits alone. Fortified wines like Sherry and Port are particularly versatile, adding richness, nuttiness, or oxidative notes that can elevate a cocktail's depth and mouthfeel, often acting as a bridge between spirits and other ingredients. While often used for spritzers or Sangrias, modern mixology increasingly explores wine's full potential to create sophisticated, balanced, and unique libations.",
+    "description": "Weine bieten im Kontext von Cocktails weit mehr als nur spritzige Varianten und eröffnen eine vielfältige Palette an Aromen und Texturen. Stillweine – Rot, Weiß und Rosé – können Säure, Fruchtnoten, Tannine und Körper beisteuern, was leichtere Drinks oder eine nuancierte Komplexität ermöglicht, die mit Spirituosen allein schwer zu erreichen ist. Verstärkte Weine wie Sherry und Portwein sind besonders vielseitig und verleihen Reichhaltigkeit, Nussigkeit oder oxidative Noten, die Tiefe und Mundgefühl eines Cocktails heben können. Während Wein oft für Schorlen oder Sangrias verwendet wird, erkundet die moderne Mixologie zunehmend sein volles Potenzial für anspruchsvolle, ausgewogene und einzigartige Kreationen.",
     "origin": null,
     "color": null,
     "category": null,

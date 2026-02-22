@@ -1,20 +1,20 @@
 {
     "_id": "aviation",
     "name": "Aviation",
-    "instructions": "1. Add all ingredients into a cocktail shaker.\n2. Shake with cracked ice and strain into a chilled cocktail glass.",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben.\n2. Mit gestoßenem Eis schütteln und in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Aviation was created in New York at the Walkick hotel by the head bartender Hugo Ensslin while he was writing his book “Recipes for Mixed Drinks” (1916) one of the last cocktail books published before the start of American Prohibition.\n\nLately David Wondrich found the aviation recipe in a 1911 magazine, so the recipe is thought to have been born earlier then 1916.\n\nIn his book Ensslin also indicates the type of Gin to be used ‘El Bart Gin “and the recipe is made up in addition to gin, with lemon juice, maraschino and Creme di Violette.\n\nThe recipe is found again in Harry Craddock’s 1930 Savoy Cocktail Book but without the Creme de Violette, this probably due to the difficulty of finding the violet cream during the post-war period In the 1960s it was still unavailable and therefore, simply, the basic ingredient of the Aviation cocktail was discontinued and the bartenders definitively gave up the characteristic blue color of the drink.\n\nThe IBA proposes it today in its original version with the creme de violette which is now on the market again.  This fragrant ingredient not only gave the mix a sweetly floral taste, but also gave it a beautiful sky blue color.",
+    "description": "Die Aviation wurde in New York im Walkick Hotel vom Barkeeper Hugo Ensslin kreiert, während er sein Buch 'Recipes for Mixed Drinks' (1916) schrieb, eines der letzten Cocktailbücher, die vor Beginn der amerikanischen Prohibition veröffentlicht wurden.\n\nKürzlich fand David Wondrich das Aviation-Rezept in einem Magazin von 1911, so dass das Rezept vermutlich schon vor 1916 entstanden ist.\n\nIn seinem Buch gibt Ensslin auch die zu verwendende Gin-Sorte 'El Bart Gin' an, und das Rezept besteht neben Gin aus Zitronensaft, Maraschino und Crème de Violette.\n\nDas Rezept findet sich wieder in Harry Craddocks 'Savoy Cocktail Book' von 1930, jedoch ohne die Crème de Violette. Dies ist wahrscheinlich auf die Schwierigkeit zurückzuführen, die Veilchencreme in der Nachkriegszeit zu finden. In den 1960er Jahren war sie immer noch nicht erhältlich, und so wurde die Grundzutat des Aviation-Cocktails einfach eingestellt und die Barkeeper gaben die charakteristische blaue Farbe des Getränks endgültig auf.\n\nDie IBA schlägt es heute in ihrer ursprünglichen Version mit der Crème de Violette vor, die heute wieder auf dem Markt ist. Diese duftende Zutat verlieh der Mischung nicht nur einen süßlich-blumigen Geschmack, sondern auch eine wunderschöne himmelblaue Farbe.",
     "source": "https://iba-world.com/692/",
-    "garnish": "Maraschino Cherry.",
+    "garnish": "Maraschino-Kirsche.",
     "abv": 21.58,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
-        "Herbacious"
+        "Kräuterig"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -47,7 +47,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",

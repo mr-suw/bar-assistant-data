@@ -1,16 +1,16 @@
 {
     "_id": "prince-charles-dont-surf",
     "name": "Prince Charles Don’t Surf",
-    "instructions": "1. Combine all ingredients except beer, and shake with ice.\n2. Strain into an ice-filled glass, top with beer and garnish.",
+    "instructions": "1. Alle Zutaten außer Bier kombinieren und mit Eis schütteln.\n2. In ein mit Eis gefülltes Glas abseihen, mit Bier auffüllen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A riff on the Army & Navy cocktail, this San Diego sipper adds gin and citrus to an orgeat-rich highball topped with beer. The drink’s unexpected elements find a harmonious balance “that creates a refreshingly daytime, sun-is-out drinking experience,” says San Diego bartender David Kinsey.",
+    "description": "Eine Abwandlung des Army & Navy Cocktails, dieser San Diego Sipper fügt Gin und Zitrusfrüchte zu einem Orgeat-reichen Highball hinzu, der mit Bier aufgefüllt wird. Die unerwarteten Elemente des Drinks finden ein harmonisches Gleichgewicht, „das ein erfrischendes Tagesgetränk-Erlebnis schafft, wenn die Sonne scheint“, sagt der Barkeeper David Kinsey aus San Diego.",
     "source": "https://imbibemagazine.com/recipe/beer-cocktail-prince-charles-dont-surf/",
-    "garnish": "Lemon wheel",
+    "garnish": "Zitronenscheibe",
     "abv": 7.52,
     "tags": [],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -37,7 +37,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 1,
             "units": "dash",
@@ -73,14 +73,14 @@
         },
         {
             "_id": "beer",
-            "name": "Beer",
+            "name": "Bier",
             "sort": 5,
             "amount": 120,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Blonde ale",
+            "note": "Blondes Ale",
             "substitutes": []
         }
     ]

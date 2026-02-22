@@ -1,12 +1,12 @@
 {
     "_id": "grapefruit-bitters",
     "_parent_id": "bitters",
-    "name": "Grapefruit bitters",
+    "name": "Grapefruit-Bitters",
     "strength": 44,
-    "description": "These grapefruit bitters are best friends to gin, vodka, Blanco tequila, and light rum and are a wonderful ingredient for drinks that may otherwise taste excessively sweet. Give a modern twist to a classic Gin & Tonic, add a few dashes to a Daiquiri or Margarita or add a new layer of complexity to cocktails that traditionally didn’t include bitters.",
+    "description": "Bitters mit Grapefruit-Schwerpunkt, ideal zu Gin, Vodka, hellem Rum oder Blanco-Tequila und zum Ausbalancieren süßer Drinks.",
     "origin": "Worldwide",
     "color": "#fbd3ac",
-    "category": "Bitters",
+    "category": "Bitter",
     "created_at": null,
     "updated_at": null,
     "images": [

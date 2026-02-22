@@ -1,19 +1,19 @@
 {
     "_id": "hot-toddy",
     "name": "Hot Toddy",
-    "instructions": "1. Add spirit and honey or maple syrup to a mug.\n2. Top with hot water and stir gently to dissolve honey or maple syrup.\n3. Garnish with a lemon wheel and a cinnamon stick.",
+    "instructions": "1. Spirituose und Honig (oder Ahornsirup) in eine Tasse geben.\n2. Mit heißem Wasser auffüllen und vorsichtig rühren, bis sich der Honig oder Sirup aufgelöst hat.\n3. Mit einer Zitronenscheibe und einer Zimtstange garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This version of the hot toddy recipe is a template prime for riffing with a base of any dark spirit, hot water, citrus, honey and spices.",
+    "description": "Diese Version des Hot Toddy ist eine Vorlage, die sich hervorragend für Variationen eignet – mit einer Basis aus beliebigen dunklen Spirituosen, heißem Wasser, Zitrusfrüchten, Honig und Gewürzen.",
     "source": "https://punchdrink.com/recipes/hot-toddy/",
-    "garnish": "lemon wheel and cinnamon stick",
+    "garnish": "Zitronenscheibe und Zimtstange",
     "abv": 8.73,
     "tags": [
-        "Savory",
+        "Herzhaft",
         "Hot"
     ],
-    "glass": "Glass mug",
-    "method": "Build",
+    "glass": "Glasbecher",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -46,7 +46,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -58,7 +58,7 @@
         },
         {
             "_id": "water",
-            "name": "Water",
+            "name": "Wasser",
             "sort": 3,
             "amount": 120,
             "units": "ml",

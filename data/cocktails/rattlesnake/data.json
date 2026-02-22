@@ -1,19 +1,19 @@
 {
     "_id": "rattlesnake",
     "name": "Rattlesnake",
-    "instructions": "1. Add all ingredients to a shaker and dry shake, without ice.\n2. Add ice and shake again until chilled.\n3. Fine-strain into a coupe glass.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben und trocken schütteln, ohne Eis.\n2. Eis hinzufügen und erneut schütteln, bis es gekühlt ist.\n3. Fein in ein Coupette-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Rattlesnake is a classic whiskey cocktail recipe combining rye, absinthe, lemon juice, simple syrup and an egg white.",
+    "description": "Der Rattlesnake ist ein klassisches Whiskey-Cocktailrezept, das Roggen, Absinth, Zitronensaft, Zuckersirup und Eiweiß kombiniert.",
     "source": "https://punchdrink.com/recipes/rattlesnake/",
-    "garnish": "Garnish with an Angostura bitters swirl.",
+    "garnish": "Mit einem Angostura Bitters-Strudel garnieren.",
     "abv": 18.37,
     "tags": [
-        "Classics",
+        "Klassiker",
         "Bitter"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 4,
             "amount": 2,
             "units": "dash",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 5,
             "amount": 1,
             "units": "whole",

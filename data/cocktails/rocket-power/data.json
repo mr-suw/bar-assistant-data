@@ -1,19 +1,19 @@
 {
     "_id": "rocket-power",
     "name": "Rocket Power",
-    "instructions": "Add arugula into your shaking tin, add ice, and shake for 10 seconds. Add remaining ingredients, shake until chilled. Double strain into chilled glass over fresh ice.",
+    "instructions": "Rucola in den Shaker geben, Eis hinzufügen und 10 Sekunden schütteln. Restliche Zutaten hinzufügen, schütteln, bis es gekühlt ist. Doppelt in ein gekühltes Glas über frisches Eis abseihen.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://www.statelinedistillery.com/recipes/2024/3/18/rocket-power",
-    "garnish": "Garnish with fresh arugula.",
+    "garnish": "Mit frischem Rucola garnieren.",
     "abv": 18.29,
     "tags": [
-        "Herbacious",
+        "Kräuterig",
         "Sour"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "balsamic-vinegar",
-            "name": "Balsamic vinegar",
+            "name": "Balsamico-Essig",
             "sort": 4,
             "amount": 3,
             "units": "drops",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "arugula",
-            "name": "Arugula",
+            "name": "Rucola",
             "sort": 5,
             "amount": 8,
             "units": "leaves",

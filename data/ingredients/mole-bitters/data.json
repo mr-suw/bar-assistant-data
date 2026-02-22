@@ -1,12 +1,12 @@
 {
     "_id": "mole-bitters",
     "_parent_id": "bitters",
-    "name": "Mole Bitters",
+    "name": "Mole Bitter",
     "strength": 53,
-    "description": "Mole (pronounced MO-lay) bitters are inspired by mole, a spicy Mexican chocolate sauce",
+    "description": "Mole (ausgesprochen MO-lay) Bitter sind inspiriert von Mole, einer würzigen mexikanischen Schokoladensauce",
     "origin": "Mexico",
     "color": "#3a0118",
-    "category": "Bitters",
+    "category": "Bitter",
     "created_at": null,
     "updated_at": null,
     "images": [

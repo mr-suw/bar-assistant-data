@@ -1,21 +1,21 @@
 {
     "_id": "maracuya-mojito",
     "name": "Maracuyá Mojito",
-    "instructions": "1. Add all ingredients except club soda to a cocktail shaker with ice\n2. Shake for 15 seconds and strain into glass\n3. Top with club soda and garnish with mint",
+    "instructions": "1. Alle Zutaten außer dem Sodawasser in einen Shaker mit Eis geben.\n2. 15 Sekunden lang kräftig schütteln und in ein Glas abseihen.\n3. Mit Sodawasser auffüllen und mit Minze garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This refreshing, rum based cocktail carries summer poolside/porch-side vibes. As a Cuban mojito riff, it has the essential mojito ingredients like mint, rum, and club soda, but adds tropical flavor with the passionfruit syrup. For extra mint flavor, muddle the mint with the syrup in the bottom of your highball glass. Otherwise, shaking hard for 15 seconds with the mint in the shaker is enough.",
+    "description": "Dieser erfrischende Cocktail auf Rumbasis versprüht Sommer-Vibes für den Pool oder die Veranda. Als Variation des kubanischen Mojito enthält er die wesentlichen Zutaten wie Minze, Rum und Sodawasser, ergänzt diese jedoch um die tropische Note von Passionsfruchtsirup. Für ein intensiveres Minzaroma können Sie die Minze mit dem Sirup am Boden Ihres Highball-Glases zerdrücken (muddlen). Ansonsten reicht kräftiges Schütteln im Shaker für 15 Sekunden völlig aus.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/maracuya-mojito",
-    "garnish": "mint",
+    "garnish": "Minze",
     "abv": 17.07,
     "tags": [
-        "Summer",
-        "Tropical",
+        "Sommer",
+        "Tropisch",
         "Tiki",
         "Mojito"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -42,7 +42,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -54,7 +54,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -66,7 +66,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 4,
             "units": "leaves",
@@ -78,7 +78,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 1,
             "units": "topup",

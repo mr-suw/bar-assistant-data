@@ -1,7 +1,7 @@
 {
     "_id": "the-ole-bull",
     "name": "The Ole Bull",
-    "instructions": "Shake ingredients",
+    "instructions": "Zutaten schütteln",
     "created_at": null,
     "updated_at": null,
     "description": null,
@@ -9,10 +9,10 @@
     "garnish": null,
     "abv": 18.86,
     "tags": [
-        "Herbacious"
+        "Kräuterig"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "cinnamon-syrup",
-            "name": "Cinnamon syrup",
+            "name": "Zimtsirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "creme-de-cacao-white",
-            "name": "Crème de Cacao (White)",
+            "name": "Crème de Cacao (weiß)",
             "sort": 5,
             "amount": 7.5,
             "units": "ml",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "maple-syrup",
-            "name": "Maple syrup",
+            "name": "Ahornsirup",
             "sort": 6,
             "amount": 7.5,
             "units": "ml",
@@ -99,7 +99,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 7,
             "amount": 1,
             "units": "whole",

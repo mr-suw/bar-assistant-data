@@ -1,18 +1,18 @@
 {
     "_id": "hot-buttered-rum",
     "name": "Hot Buttered Rum",
-    "instructions": "1. To a tempered mug, add 2 tablespoons of batter.\n2. Top with hot water and stir in the spirit to incorporate.\n3. Garnish with a cinnamon stick.",
+    "instructions": "1. Geben Sie 2 Esslöffel des Batters in einen hitzebeständigen Becher.\n2. Mit heißem Wasser auffüllen und die Spirituose einrühren, um alles zu vermengen.\n3. Mit einer Zimtstange garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "At his NOLA bar, Jewel of the South, Chris Hannah relies on a number of flavored batters to kick up the Hot Buttered Rum cocktail recipe.",
+    "description": "In seiner Bar Jewel of the South in NOLA vertraut Chris Hannah auf eine Reihe von aromatisierten Battern, um dem Hot Buttered Rum das gewisse Etwas zu verleihen.",
     "source": "https://punchdrink.com/recipes/chris-hannahs-hot-buttered-rum/",
-    "garnish": "cinnamon stick",
+    "garnish": "Zimtstange",
     "abv": 33.33,
     "tags": [
-        "Hot"
+        "Heiß"
     ],
     "glass": null,
-    "method": "Stir",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 1.75,
             "units": "oz",
@@ -42,7 +42,7 @@
             "name": "Batter",
             "sort": 2,
             "amount": 2,
-            "units": "tablespoon",
+            "units": "Esslöffel",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -51,14 +51,14 @@
         },
         {
             "_id": "water",
-            "name": "Water",
+            "name": "Wasser",
             "sort": 3,
             "amount": 1,
             "units": "topup",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Hot",
+            "note": "Heiß",
             "substitutes": []
         }
     ]

@@ -1,18 +1,18 @@
 {
     "_id": "gin-it",
     "name": "Gin & It",
-    "instructions": "1. Add all ingredients to a mixing glass and stir with ice.\n2. Strain into a glass on the rocks.\n3. Garnish with a lemon twist.",
+    "instructions": "1. Alle Zutaten in ein Rührglas geben und mit Eis verrühren.\n2. In ein Glas auf Eis abseihen.\n3. Mit einer Zitronenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Gin & It is a classic cocktail recipe made with London dry gin, sweet vermouth, Angostura bitters. Here's how to make it.",
+    "description": "Der Gin & It ist ein klassisches Cocktailrezept mit London Dry Gin, süßem Wermut und Angostura Bitters. So wird er zubereitet.",
     "source": "https://punchdrink.com/recipes/gin-it/",
-    "garnish": "lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 27.29,
     "tags": [
-        "Wine"
+        "Wein"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,19 +39,19 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 1,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Carpano Antica",
+            "note": "vorzugsweise Carpano Antica",
             "substitutes": []
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 2,
             "units": "dash",

@@ -1,12 +1,12 @@
 {
     "_id": "pineapple-rum",
     "_parent_id": "rum",
-    "name": "Pineapple Rum",
+    "name": "Ananas-Rum",
     "strength": 40,
-    "description": "Pineapple rum is a captivating blend of Caribbean tradition and tropical fruit essence. It begins with a base of high-quality rum, typically aged to impart a smooth, mellow character. This rum is then infused with the vibrant flavor of pineapple, often utilizing juice or extract to achieve a rich, fruity profile. The resulting spirit offers a complex interplay of warm, molasses notes from the rum, balanced by the bright, tangy sweetness of the pineapple. It's a versatile ingredient, appreciated for its distinct flavor and aromatic complexity.",
-    "origin": "Caribbean Islands",
+    "description": "Ananas-Rum ist eine fesselnde Mischung aus karibischer Tradition und tropischer Fruchtesenz. Er beginnt mit einer Basis aus hochwertigem Rum, der typischerweise gereift wird, um einen weichen, milden Charakter zu verleihen. Dieser Rum wird dann mit dem lebhaften Geschmack von Ananas infundiert, oft unter Verwendung von Saft oder Extrakt, um ein reichhaltiges, fruchtiges Profil zu erzielen. Die resultierende Spirituose bietet ein komplexes Zusammenspiel von warmen Melassenoten des Rums, ausgeglichen durch die helle, würzige Süße der Ananas. Es ist eine vielseitige Zutat, die für ihren ausgeprägten Geschmack und ihre aromatische Komplexität geschätzt wird.",
+    "origin": "Karibische Inseln",
     "color": "#F0E68C",
-    "category": "Spirits > Sugarcane-based spirits > Rum",
+    "category": "Spirituosen > Zuckerrohr-basierte Spirituosen > Rum",
     "created_at": null,
     "updated_at": null,
     "images": [

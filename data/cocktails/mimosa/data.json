@@ -1,20 +1,20 @@
 {
     "_id": "mimosa",
     "name": "Mimosa",
-    "instructions": "Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently.\n\nNote:\nAlso known as Buck’s Fizz.",
+    "instructions": "Orangensaft in ein Flötenglas gießen und vorsichtig den Sekt dazugießen. Vorsichtig umrühren.\n\nHinweis:\nAuch bekannt als Buck’s Fizz.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://iba-world.com/mimosa/",
-    "garnish": "Garnish with an orange twist (optional).",
+    "garnish": "Mit einer Orangenzeste garnieren (optional).",
     "abv": 5,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
-        "Wine"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
+        "Wein"
     ],
-    "glass": "Champagne",
-    "method": "Build",
+    "glass": "Champagnerglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 1,
             "amount": 75,
             "units": "ml",

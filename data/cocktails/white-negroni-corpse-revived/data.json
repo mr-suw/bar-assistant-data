@@ -1,19 +1,19 @@
 {
     "_id": "white-negroni-corpse-revived",
     "name": "White Negroni (Corpse revived)",
-    "instructions": "Build in glass over ice",
+    "instructions": "Im Glas auf Eis aufbauen.",
     "created_at": null,
     "updated_at": null,
-    "description": "We went nearly a century before a handful of rowdy boozehounds in NYC decided the Negroni needed more gin and less of everything else, but it took less than a decade for those same bartenders to tinker with Collins' White Negroni. I think that was a mistake. \n\nWhile a classic Negroni can very easily handle an increase in gin to punch through the Campari and sweet red vermouth, there is far less sugar for the gin to fight in a White Negroni, rendering an increase of gin unnecessary and oftentimes detrimental. \n\nThe best version of this cocktail then, in my opinion, adheres to the original Negroni format, stays true to the original White Negroni flavor profile, and improves upon the original.",
+    "description": "Es dauerte fast ein Jahrhundert, bis eine Handvoll ungestümer Genießer in NYC beschlossen, dass der Negroni mehr Gin und weniger von allem anderen brauchte, aber es dauerte weniger als ein Jahrzehnt, bis dieselbe Bartender an Collins' White Negroni herumbastelten. Ich denke, das war ein Fehler. \n\nWährend ein klassischer Negroni eine Erhöhung des Gins sehr gut vertragen kann, um gegen den Campari und den süßen roten Wermut anzukommen, gibt es in einem White Negroni weit weniger Zucker, gegen den der Gin ankämpfen muss, was eine Erhöhung des Gins unnötig und oft sogar nachteilig macht. \n\nDie beste Version dieses Cocktails hält sich meiner Meinung nach an das ursprüngliche Negroni-Format, bleibt dem ursprünglichen Geschmacksprofil des White Negroni treu und verbessert das Original.",
     "source": "https://www.corpserevived.com/post/the-ultimate-guide-to-the-white-negroni",
-    "garnish": "Orange twist",
+    "garnish": "Orangenzeste",
     "abv": 22.12,
     "tags": [
         "Negroni",
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -35,7 +35,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Plymouth",
+            "note": "vorzugsweise Plymouth",
             "substitutes": []
         },
         {
@@ -52,14 +52,14 @@
         },
         {
             "_id": "vermouth-bianco",
-            "name": "Vermouth Bianco",
+            "name": "Wermut (Bianco)",
             "sort": 3,
             "amount": 30,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Contratto",
+            "note": "vorzugsweise Contratto",
             "substitutes": []
         }
     ]

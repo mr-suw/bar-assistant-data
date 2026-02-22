@@ -1,18 +1,18 @@
 {
     "_id": "mezcal-margarita",
     "name": "Mezcal Margarita",
-    "instructions": "1. Combine all ingredients in a mixing tin and shake with ice.\n2. Strain into a chilled coupe or into a rocks glass over a large ice cube.\n3. Garnish with a lime wedge.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben und mit Eis schütteln.\n2. In ein gekühltes Glas (Coupe) oder in ein Rocks-Glas auf einen großen Eiswürfel abseihen.\n3. Mit einem Limettenschnitz garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Potent, piquant, perfectly balanced, this simple mezcal Margarita recipe comes from Phil Ward's now-shuttered agave bar, Mayahuel.",
+    "description": "Kräftig, pikant und perfekt ausbalanciert: Dieses einfache Rezept für eine Mezcal Margarita stammt aus Phil Wards mittlerweile geschlossener Agaven-Bar Mayahuel.",
     "source": "https://punchdrink.com/recipes/mayahuel-mezcal-margarita/",
-    "garnish": "lime wedge",
+    "garnish": "Limettenschnitz",
     "abv": 25.6,
     "tags": [
         "Margarita"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": "margarita",
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",

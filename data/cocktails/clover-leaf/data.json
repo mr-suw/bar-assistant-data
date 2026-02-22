@@ -1,16 +1,16 @@
 {
     "_id": "clover-leaf",
     "name": "Clover Leaf",
-    "instructions": "1. Combine the Chambord or grenadine, lemon juice, egg white or half-and-half, and gin in a cocktail shaker with ice cubes.\n2. Shake vigorously for 10 seconds, until the ingredients are cold and the mix is frothy with a pink blush.\n3. Strain into a Martini or coupe cocktail glass, making sure there is a thin layer of foam and a few small ice chips floating on top.\n4. Garnish with the mint leaf.",
+    "instructions": "1. Chambord oder Grenadine, Zitronensaft, Eiweiß oder Half-and-half und Gin in einen Cocktailshaker mit Eiswürfeln geben.\n2. 10 Sekunden lang kräftig schütteln, bis die Zutaten kalt sind und die Mischung mit einem rosa Schimmer schaumig ist.\n3. In ein Martini- oder Coupette-Cocktailglas abseihen, dabei darauf achten, dass eine dünne Schaumschicht und ein paar kleine Eisstückchen obenauf schwimmen.\n4. Mit einem Minzblatt garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This recipe from James Beard Award-winning culinary historian and journalist Toni Tipton-Martin is a modern take on a century-old relative of the Clover Club cocktail, utilizing a base of gin and Chambord to create a berry-forward delight.",
+    "description": "Dieses Rezept von der James Beard Award-prämierten Kulinarikhistorikerin und Journalistin Toni Tipton-Martin ist eine moderne Interpretation eines jahrhundertealten Verwandten des Clover Club Cocktails, das eine Basis aus Gin und Chambord verwendet, um einen beerenlastigen Genuss zu kreieren.",
     "source": "https://www.liquor.com/clover-leaf-cocktail-recipe-8576334",
-    "garnish": null,
+    "garnish": "Minzblatt",
     "abv": null,
     "tags": [],
-    "glass": "Coupe",
-    "method": null,
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -36,7 +36,7 @@
             "substitutes": [
                 {
                     "_id": "grenadine-syrup",
-                    "name": "Grenadine Syrup",
+                    "name": "Grenadine",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -45,7 +45,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -57,7 +57,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 3,
             "amount": 30,
             "units": "ml",

@@ -1,18 +1,18 @@
 {
     "_id": "bloody-caesar",
     "name": "Bloody Caesar",
-    "instructions": "1. Coat the rim of a tall glass with celery salt, fill with ice and set aside.\n2. Add the vodka, Clamato juice, Worcestershire sauce, Tabasco and horseradish into a mixing glass with ice.\n3. Pour back and forth into another mixing glass a few times to combine.\n4. Strain into the prepared glass.\n5. Garnish with a celery stalk, cucumber spear and lime wedge.",
+    "instructions": "1. Den Rand eines hohen Glases mit Selleriesalz bestreichen, mit Eis füllen und beiseite stellen.\n2. Wodka, Clamato-Saft, Worcestershire-Sauce, Tabasco und Meerrettich in ein Rührglas mit Eis geben.\n3. Einige Male hin und her in ein anderes Rührglas gießen, um alles zu vermischen.\n4. In das vorbereitete Glas abseihen.\n5. Mit einem Selleriestängel, einem Gurkenspeer und einem Limettenschnitz garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Bloody Caesar is a clam-juice-spiked riff on the Bloody Mary. And it’s the national cocktail of Canada.",
+    "description": "Der Bloody Caesar ist eine Abwandlung der Bloody Mary mit Muschelsaft. Und er ist der Nationalcocktail Kanadas.",
     "source": "https://www.liquor.com/recipes/bloody-caesar/",
-    "garnish": null,
+    "garnish": "Selleriestängel, Gurkenspeer, Limettenschnitz",
     "abv": null,
     "tags": [
-        "Savory"
+        "Herzhaft"
     ],
-    "glass": null,
-    "method": null,
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": "bloody-mary",
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "clamato-juice",
-            "name": "Clamato juice",
+            "name": "Clamato-Saft",
             "sort": 2,
             "amount": 4,
             "units": "oz",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "worcestershire-sauce",
-            "name": "Worcestershire Sauce",
+            "name": "Worcestershiresauce",
             "sort": 3,
             "amount": 2,
             "units": "dash",
@@ -75,14 +75,14 @@
         },
         {
             "_id": "horseradish",
-            "name": "Horseradish",
+            "name": "Meerrettich",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "to taste",
+            "note": "nach Geschmack",
             "substitutes": []
         }
     ]

@@ -1,20 +1,20 @@
 {
     "_id": "four-points",
     "name": "Four Points",
-    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 20 seconds\n3. Strain into a chilled coupe",
+    "instructions": "1. Alle Zutaten in einen Shaker geben.\n2. Eis hinzufügen und 20 Sekunden lang kräftig schütteln.\n3. In eine gekühlte Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A very tropical Last Word. Bright, funky and perfectly balanced.",
+    "description": "Ein sehr tropisch angehauchter Last Word. Hell, charaktervoll und perfekt ausbalanciert.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/four-points",
-    "garnish": "3 cherries",
+    "garnish": "3 Kirschen",
     "abv": 22.4,
     "tags": [
-        "Sweet",
-        "Fruity",
+        "Süß",
+        "Fruchtig",
         "Sour"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 37.5,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "green-chartreuse",
-            "name": "Green Chartreuse",
+            "name": "Chartreuse Verte",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",

@@ -1,12 +1,12 @@
 {
     "_id": "angostura-aromatic-bitters",
     "_parent_id": "bitters",
-    "name": "Angostura aromatic bitters",
+    "name": "Angostura Aromatic Bitters",
     "strength": 44.7,
-    "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+    "description": "Angostura Bitter ist ein konzentrierter Bitter (pflanzliche alkoholische Zubereitung) und ein hocharomatisches Würzmittel, das bei der Zubereitung von Cocktails und verschiedenen kulinarischen Anwendungen verwendet wird. Es ist eine dunkelbraune Flüssigkeit, die aus einer geheimen Mischung von Kräutern und Gewürzen besteht und vom Haus Angostura in Trinidad und Tobago hergestellt wird. Trotz seines Namens enthält Angostura Bitter keine Angosturarinde; stattdessen enthält es eine proprietäre Kombination botanischer Zutaten.\n\nAngostura Bitter wird typischerweise in kleinen Flaschen mit einem charakteristischen übergroßen Etikett und einem integrierten Dosieraufsatz geliefert, der ein kontrolliertes und präzises Ausgießen ermöglicht.\n\nTrotz des Namens ist Angostura Bitter in dem Sinne nicht-alkoholisch, dass es nicht in großen Mengen konsumiert wird und eher als Würzmittel denn als eigenständiges Getränk verwendet wird.\n\nAngostura Bitter ist zu einer ikonischen und unverzichtbaren Zutat in der Welt der Cocktails geworden, geschätzt für seine Fähigkeit, das gesamte Trinkerlebnis zu veredeln und zu verbessern.",
     "origin": "Trinidad & Tobago",
     "color": "#e95310",
-    "category": "Bitters",
+    "category": "Bitter",
     "created_at": null,
     "updated_at": null,
     "images": [

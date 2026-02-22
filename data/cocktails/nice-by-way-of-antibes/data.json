@@ -1,16 +1,16 @@
 {
     "_id": "nice-by-way-of-antibes",
-    "name": "Nice (by Way of Antibes)",
-    "instructions": "1. Fill a cocktail shaker halfway with ice. Add the gin, Benedictine and grapefruit juice. Shake well, then double-strain into a highball glass filled with ice cubes.\n2. Top with sparkling water and stir gently. Garnish with the twist of lime peel.",
+    "name": "Nice (auf dem Weg nach Antibes)",
+    "instructions": "1. Einen Cocktailshaker halb mit Eis füllen. Gin, Benedictine und Grapefruitsaft hinzufügen. Gut schütteln, dann doppelt in ein Highball-Glas mit Eiswürfeln abseihen.\n2. Mit Sprudelwasser auffüllen und vorsichtig umrühren. Mit einer Limettenschale garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Antibes cocktail was one of the first of Jason Wilson's favorites, published in this column six years ago.",
+    "description": "Der Cocktail Antibes war einer der ersten Favoriten von Jason Wilson, der vor sechs Jahren in dieser Kolumne veröffentlicht wurde.",
     "source": "https://www.washingtonpost.com/recipes/nice-by-way-of-antibes/",
-    "garnish": null,
+    "garnish": "Limettenschale",
     "abv": 13.71,
     "tags": [],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -49,7 +49,7 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 3,
             "amount": 60,
             "units": "ml",
@@ -61,14 +61,14 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 60,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Apollonaris brand",
+            "note": "vorzugsweise Apollonaris Marke",
             "substitutes": []
         }
     ]

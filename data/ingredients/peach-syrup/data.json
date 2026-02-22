@@ -1,12 +1,12 @@
 {
     "_id": "peach-syrup",
     "_parent_id": "syrups",
-    "name": "Peach syrup",
+    "name": "Pfirsichsirup",
     "strength": 0,
-    "description": "Peach Simple Syrup is a 3-ingredient homemade add-in that’s used to sweeten all of your favorite cocktails, lemonades, and teas! Ready in just 45 minutes!",
-    "origin": "Worldwide",
+    "description": "Hausgemachter Pfirsichsirup ist ein aus drei Zutaten bestehender Zusatz, mit dem Sie all Ihre Lieblingscocktails, Limonaden und Tees süßen können! Fertig in nur 45 Minuten!",
+    "origin": "Weltweit",
     "color": "#f3da76",
-    "category": "Sweeteners > Syrups",
+    "category": "Süßungsmittel > Sirupe",
     "created_at": null,
     "updated_at": null,
     "images": [

@@ -1,18 +1,18 @@
 {
     "_id": "metexa",
     "name": "Metexa",
-    "instructions": "1. Combine all ingredients in a mixing glass.\n2. Stir with ice.\n3. Strain into a chilled coupe.",
+    "instructions": "1. Alle Zutaten in ein Rührglas geben.\n2. Mit Eis rühren.\n3. In eine gekühlte Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Metexa is a tequila drink made with blanco tequila, Lillet and Swedish punsch. Here, Cocchi Americano swaps in for the Lillet.",
+    "description": "Der Metexa ist ein Tequila-Drink, der aus Blanco Tequila, Lillet und schwedischem Punsch hergestellt wird. Hier ersetzt Cocchi Americano den Lillet.",
     "source": "https://punchdrink.com/recipes/metexa/",
-    "garnish": "Garnish with a grapefruit twist.",
+    "garnish": "Mit einer Grapefruitzeste garnieren.",
     "abv": 19.25,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "swedish-punsch",
-            "name": "Swedish punsch",
+            "name": "Schwedischer Punsch",
             "sort": 3,
             "amount": 15,
             "units": "ml",

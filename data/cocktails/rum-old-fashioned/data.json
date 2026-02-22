@@ -1,18 +1,18 @@
 {
     "_id": "rum-old-fashioned",
     "name": "Rum Old Fashioned",
-    "instructions": "Add all ingredients to a stirring glass, fill with ice, stir and strain.",
+    "instructions": "Alle Zutaten in ein Rührglas geben, mit Eis füllen, umrühren und abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The oldest recipe for this cocktail appeared in cocktail guides around 1860 and called for it to be made with gin. A couple of decades later it was made with bourbon, apparently by James E. Pepper, bartender and esteemed bourbon aristocrat, at the Pendennis Club in Louisville, Kentucky. You'll love how delicious the Old Fashioned tastes when made with Reserva Exclusiva. It almost seems like the foundation of the Old Fashioned was laid out with this rum in mind. An incredible mix of rich, bitter and citrusy makes our version of rum a choice for all fans of the old fashion.",
+    "description": "Das älteste Rezept für diesen Cocktail erschien um 1860 in Cocktail-Führern und sah vor, ihn mit Gin zuzubereiten. Ein paar Jahrzehnte später wurde er mit Bourbon hergestellt, offenbar von James E. Pepper, Barkeeper und angesehenem Bourbon-Aristokraten, im Pendennis Club in Louisville, Kentucky. Sie werden begeistert sein, wie köstlich der Old Fashioned schmeckt, wenn er mit Reserva Exclusiva zubereitet wird. Es scheint fast, als wäre die Grundlage des Old Fashioned mit diesem Rum im Hinterkopf gelegt worden. Eine unglaubliche Mischung aus reichhaltig, bitter und zitrusartig macht unsere Rum-Version zu einer Wahl für alle Fans des Old Fashioned.",
     "source": "https://rondiplomatico.com/cocktail-list/old-fashioned/",
-    "garnish": "Orange peel",
+    "garnish": "Orangenschale",
     "abv": 30.3,
     "tags": [
         "Old Fashioned"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 50,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 3,
             "units": "dashes",

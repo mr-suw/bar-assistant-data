@@ -1,20 +1,20 @@
 {
     "_id": "mexican-firing-squad",
-    "name": "Mexican Firing Squad",
-    "instructions": "1. Add all ingredients to a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Strain into a rocks glass over ice.",
+    "name": "Mexican Firing Squad",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben.\n2. Eis hinzufügen und schütteln, bis es gekühlt ist.\n3. Über Eis in ein Rocks-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A classic first illustrated in Charles H. Baker’s The Gentlemen’s Companion, the Mexican Firing Squad is a tequila cocktail that deserves attention. It’s served at Ward III in New York City, where bartender Kenneth McCoy says he added it to his summer menu because “it’s fun and delicious and a bit more under the radar than a Margarita or a Paloma.”",
+    "description": "Ein Klassiker, der zuerst in Charles H. Bakers 'The Gentlemen’s Companion' illustriert wurde, ist der Mexican Firing Squad ein Tequila-Cocktail, der Aufmerksamkeit verdient. Er wird im Ward III in New York City serviert, wo Barkeeper Kenneth McCoy sagt, er habe ihn in seine Sommerkarte aufgenommen, weil „er Spaß macht und köstlich ist und etwas unauffälliger als eine Margarita oder eine Paloma ist.“",
     "source": "https://punchdrink.com/recipes/mexican-firing-squad/",
-    "garnish": "Garnish with a lime wheel.",
+    "garnish": "Mit einer Limettenscheibe garnieren.",
     "abv": 18.54,
     "tags": [
-        "Summer",
-        "Sweet",
-        "Citrusy"
+        "Sommer",
+        "Süß",
+        "Zitrusbetont"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 5,
             "units": "dash",

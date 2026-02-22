@@ -1,19 +1,19 @@
 {
     "_id": "poets-dream",
     "name": "Poet’s Dream",
-    "instructions": "Combine all ingredients in a mixing glass and stir with ice. Strain into a chilled coupe and garnish.",
+    "instructions": "Alle Zutaten in ein Rührglas geben und auf Eis rühren. In eine gekühlte Coupette abseihen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Manhattan’s Lantern’s Keep adapted this poetic sipper from a 1930s English bar guide. 2 oz. gin 3/4 oz. dry vermouth 1/4 oz. Bénédictine 2 dash orange bitters Tools: mixing glass, barspoon, strainer Glass: coupe Garnish: lemon twist Combine all ingredients in a mixing glass and stir with ice. Strain into a chilled coupe and garnish. […]",
+    "description": "Das Lantern’s Keep in Manhattan hat diesen poetischen Sipper aus einem englischen Bar-Guide der 1930er Jahre adaptiert.",
     "source": "https://imbibemagazine.com/recipe/poets-dream-recipe/",
-    "garnish": "lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 26.43,
     "tags": [
         "Herbal",
-        "Classics"
+        "Klassiker"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -64,7 +64,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 2,
             "units": "dash",

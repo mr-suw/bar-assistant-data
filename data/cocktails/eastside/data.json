@@ -1,18 +1,18 @@
 {
     "_id": "eastside",
     "name": "Eastside",
-    "instructions": "1. Add three cucumbers slices and mint leaves to a shaker.\n2. Muddle gently for 5-7 seconds.\n3. Add gin, lime juice, simple syrup, and cubed ice to shaker.\n4. Shake for 10-20 seconds.\n5. Fine strain into a cocktail glass.",
+    "instructions": "1. Drei Gurkenscheiben und Minzblätter in einen Shaker geben.\n2. 5-7 Sekunden lang sanft muddeln.\n3. Gin, Limettensaft, Zuckersirup und Eiswürfel in den Shaker geben.\n4. 10-20 Sekunden lang schütteln.\n5. Fein in ein Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Eastside is a gin-based cocktail recipe that was created by George Delgado at Libation in New York City, New York. This variation was adapted from the book Steve The Bartender's Cocktail Guide by Steve Roennfeldt.",
+    "description": "Der Eastside ist ein Gin-basierendes Cocktailrezept, das von George Delgado im Libation in New York City, New York, kreiert wurde. Diese Variation wurde aus dem Buch 'Steve The Bartender's Cocktail Guide' von Steve Roennfeldt adaptiert.",
     "source": "https://sipsfromscripts.com/eastside-cocktail-recipe/",
-    "garnish": "Garnish with remaining cucumber slice and mint sprig.",
+    "garnish": "Mit der restlichen Gurkenscheibe und Minzzweig garnieren.",
     "abv": 17.07,
     "tags": [
-        "Herbacious"
+        "Kräuterig"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "cucumber",
-            "name": "Cucumber",
+            "name": "Gurke",
             "sort": 4,
             "amount": 4,
             "units": "slice",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 5,
             "amount": 8,
             "units": "leaves",

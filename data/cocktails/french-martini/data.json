@@ -1,19 +1,19 @@
 {
     "_id": "french-martini",
     "name": "French Martini",
-    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "It was invented in the 1980s at one of Keith McNally's New York City bars. It next appeared on the drinks menu at McNally's Balthazar in SoHo in 1996. The cocktail was produced during the 1980s–1990s cocktail renaissance.\n\nIt is not a true martini, but is one of many drinks that incorporate the term martini into their names. The key ingredient that makes a martini \"French\" is Chambord, a black raspberry liqueur that has been produced in France since 1685.",
+    "description": "Er wurde in den 1980er Jahren in einer von Keith McNallys New Yorker Bars erfunden. Danach erschien er 1996 auf der Getränkekarte von McNallys Balthazar in SoHo. Der Cocktail wurde während der Cocktail-Renaissance der 1980er bis 1990er Jahre produziert.\n\nEs ist kein echter Martini, aber einer von vielen Drinks, die den Begriff Martini in ihren Namen aufnehmen. Die Schlüsselzutat, die einen Martini 'französisch' macht, ist Chambord, ein schwarzer Himbeerlikör, der seit 1685 in Frankreich hergestellt wird.",
     "source": "https://iba-world.com/french-martini/",
-    "garnish": "Squeeze oil from lemon peel onto the drink.",
+    "garnish": "Öl aus Zitronenschale auf den Drink pressen.",
     "abv": 21.84,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Fizzio",
-    "method": "Shake",
+    "glass": "Fizzio-Schale",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

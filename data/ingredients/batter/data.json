@@ -1,9 +1,9 @@
 {
     "_id": "batter",
     "_parent_id": null,
-    "name": "Batter",
+    "name": "Batter (Gewürzmischung)",
     "strength": 0,
-    "description": "- 1 pound butter, softened to room temperature\n- 1 pound light or dark brown sugar (replace up to 1/2 pound with confectioner’s sugar)\n- 1 tablespoon cinnamon\n- 1 tablespoon nutmeg\n- 1/2 teaspoon ground cloves\n\nOptional: Add 2 tablespoons cocoa powder; or 1 tablespoon powdered galangal and 4 tablespoons ground, dried hibiscus; or 1 tablespoon ground, toasted fennel, 1 tablespoon ground ginger, 1 teaspoon clove  \n\nAdd butter, sugar and spices to a stand mixer or mixing bowl, and combine until all ingredients are evenly incorporated. Store covered in the refrigerator.",
+    "description": "- 500g Butter, zimmerwarm\n- 500g heller oder dunkler brauner Zucker (bis zu 250g können durch Puderzucker ersetzt werden)\n- 1 Esslöffel Zimt\n- 1 Esslöffel Muskatnuss\n- 1/2 Teelöffel gemahlene Nelken\n\nOptional: 2 Esslöffel Kakaopulver hinzufügen; oder 1 Esslöffel Galgantpulver und 4 Esslöffel gemahlener, getrockneter Hibiskus; oder 1 Esslöffel gemahlener, gerösteter Fenchel, 1 Esslöffel gemahlener Ingwer, 1 Teelöffel Nelke\n\nButter, Zucker und Gewürze in eine Küchenmaschine oder Rührschüssel geben und vermengen, bis alle Zutaten gleichmäßig eingearbeitet sind. Abgedeckt im Kühlschrank lagern.",
     "origin": null,
     "color": "#b5835a",
     "category": null,

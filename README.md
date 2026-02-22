@@ -1,3 +1,10 @@
+## Lokalisierung (Deutsch)
+
+Dieses Repository enthält eine deutsche Übersetzung der Cocktail-Datenbank.
+- Übersetzte Felder: `name`, `description`, `instructions`, `origin`, `category`, `ingridients`. 
+- Datenintegrität: Alle `_id`-Felder und technischen Referenzen bleiben identisch zur englischen Version, um die Kompatibilität mit der App zu gewährleisten.
+- Terminologie: Es wurde Wert auf fachlich korrekte Bar-Terminologie gelegt (z.B. "Abseihen" statt "Filtern").
+
 # Bar Assistant Public Data
 
 This is default data that gets imported when creating a new bar in Bar Assistant.
@@ -12,7 +19,6 @@ Data structure is defined by JSON schema.
 - You can add multiple images and reference them by their filename when adding a new recipe.
 - It's recommended that you add images as the following filename format: `{recipe_slug}-{image-number}.{extension}`, for example: `old_fashioned-1.jpg`, `old_fashioned-2.webp`, `gin-1.png`.
 - All images must have copyright information, preferebly author of the image. For example: `Punch | John Doe`, `Imbibe magazine`, `Salvador Dali`
-
 ## Contributing
 
 Merge requests with new recipes suggestions, or recipe edits are welcome.

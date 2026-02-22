@@ -1,19 +1,19 @@
 {
     "_id": "martinez",
     "name": "Martinez",
-    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "instructions": "Alle Zutaten mit Eiswürfeln in ein Rührglas geben. Gut umrühren. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Martinez is a classic cocktail that is widely regarded as the direct precursor to the Martini.\nIt serves as the basis for many modern cocktails, and several different versions of the original exist.\nThese are generally distinguished by the accompaniment of either Maraschino or Curacao, as well as differences in gin or bitters. ",
+    "description": "Der Martinez ist ein klassischer Cocktail, der weithin als direkter Vorläufer des Martini gilt.\nEr dient als Basis für viele moderne Cocktails, und es existieren mehrere verschiedene Versionen des Originals.\nDiese unterscheiden sich im Allgemeinen durch die Begleitung entweder von Maraschino oder Curacao, sowie durch Unterschiede im Gin oder Bitter.",
     "source": "https://iba-world.com/martinez/",
-    "garnish": "Lemon zest.",
+    "garnish": "Zitronenzeste.",
     "abv": 24.17,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 2,
             "units": "dashes",

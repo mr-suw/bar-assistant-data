@@ -1,20 +1,20 @@
 {
     "_id": "barracuda",
     "name": "Barracuda",
-    "instructions": "1. Pour all ingredients into cocktail shaker except the Prosecco\n2. Shake well with ice\n3. Strain into chilled highball glass filled with ice\n4. Top up with Prosecco",
+    "instructions": "1. Alle Zutaten außer dem Prosecco in einen Cocktailshaker geben.\n2. Kräftig mit Eis schütteln.\n3. In ein gekühltes, mit Eis gefülltes Highball-Glas abseihen.\n4. Mit Prosecco auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Barracuda cocktail is a bright yellow Rum cocktail. Its origin lies in Italy, where barkeeper Benito Cuppari created the recipe while working on a cruise ship.",
+    "description": "Der Barracuda Cocktail ist ein leuchtend gelber Rum-Cocktail. Sein Ursprung liegt in Italien, wo Barkeeper Benito Cuppari das Rezept während seiner Arbeit auf einem Kreuzfahrtschiff kreierte.",
     "source": "https://iba-world.com/barracuda/",
-    "garnish": "Pineapple and Cherry, optional mint sprig for additional aroma.",
+    "garnish": "Ananas und Kirsche, optional ein Minzzweig für zusätzliches Aroma.",
     "abv": 16.17,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks",
         "Tiki"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "brown-rum",
-            "name": "Brown Rum",
+            "name": "Brauner Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 1,
             "units": "dash",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 5,
             "amount": 60,
             "units": "ml",

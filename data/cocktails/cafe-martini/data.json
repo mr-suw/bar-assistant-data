@@ -9,10 +9,10 @@
     "garnish": "3 coffee beans",
     "abv": 20,
     "tags": [
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

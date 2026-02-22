@@ -1,18 +1,18 @@
 {
     "_id": "missionarys-downfall",
     "name": "Missionary’s Downfall",
-    "instructions": "1. Combine all ingredients in a blender.\n2. Blend for 10 seconds and serve in a snifter glass.\n3. Garnish with a pineapple wedge, mint, powdered sugar and an orchid.",
+    "instructions": "1. Alle Zutaten in einen Mixer geben.\n2. 10 Sekunden lang mixen und in ein Schnapsglas servieren.\n3. Mit einem Ananas-Keil, Minze, Puderzucker und einer Orchidee garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Adapted from a recipe created in the late 1930s by Donn Beach at his Don The Beachcomber restaurant in Hollywood, California, USA.",
+    "description": "Adaptiert nach einem Rezept, das Ende der 1930er Jahre von Donn Beach in seinem Restaurant Don The Beachcomber in Hollywood, Kalifornien, USA, kreiert wurde.",
     "source": "https://punchdrink.com/recipes/scotty-schuders-missionarys-downfall/",
-    "garnish": "pineapple wedge, bouquet of fresh mint, powdered sugar and an orchid",
+    "garnish": "Ananas-Keil, Bouquet frischer Minze, Puderzucker und eine Orchidee",
     "abv": 12.31,
     "tags": [
         "Tiki"
     ],
-    "glass": "Hurricane",
-    "method": "Blend",
+    "glass": "Hurricane-Glas",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 15,
             "units": "leaves",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "peach-liqueur",
-            "name": "Peach liqueur",
+            "name": "Pfirsichlikör",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 6,
             "amount": 15,
             "units": "ml",

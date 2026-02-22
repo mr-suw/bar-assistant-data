@@ -1,19 +1,19 @@
 {
     "_id": "russian-spring-punch",
     "name": "Russian Spring Punch",
-    "instructions": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
+    "instructions": "Alle Zutaten außer Sekt in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes hohes Tumblerglas mit Eis abseihen und mit Sekt auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Russian Spring Punch was created in London, England by Dick Bradsell in the 1980s. He claims not to remember which bar he was working at at the time, but tells the story of how he created the recipe for personal friends wishing to hold a cocktail party while minimizing the amount of money they had to spend on alcohol. Participants were provided with the vodka, cassis, sugar syrup and lemon juice, and were asked to bring their own sparkling wine. It is named for the russian vodka, and the Tom Collins, which is a spring drink.",
+    "description": "Der Russian Spring Punch wurde in den 1980er Jahren in London, England, von Dick Bradsell kreiert. Er behauptet, sich nicht erinnern zu können, in welcher Bar er zu dieser Zeit arbeitete, erzählt aber die Geschichte, wie er das Rezept für persönliche Freunde kreierte, die eine Cocktailparty veranstalten wollten, während sie die Menge an Geld, die sie für Alkohol ausgeben mussten, minimierten. Die Teilnehmer erhielten Wodka, Cassis, Zuckersirup und Zitronensaft und wurden gebeten, ihren eigenen Sekt mitzubringen. Er ist nach dem russischen Wodka und dem Tom Collins benannt, einem Frühlingsgetränk.",
     "source": "https://iba-world.com/russian-spring-punch/",
-    "garnish": "Garnish with blackberries and optionally a lemon slice as well.",
+    "garnish": "Mit Brombeeren und optional auch einer Zitronenscheibe garnieren.",
     "abv": 14.67,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 25,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 25,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "creme-de-cassis",
-            "name": "Crème de cassis",
+            "name": "Crème de Cassis",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 10,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "champagne",
-            "name": "Champagne",
+            "name": "Champagner",
             "sort": 5,
             "amount": 1,
             "units": "topup",

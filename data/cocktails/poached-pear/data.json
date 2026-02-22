@@ -1,19 +1,19 @@
 {
     "_id": "poached-pear",
-    "name": "Poached Pear",
-    "instructions": "1. Combine all of the ingredients except for the spiced wine syrup in a shaker with ice.\n2. Shake until the shaker is cold and frosty, about 10-15 seconds.\n3. Strain into a large rocks glass with fresh ice.\n4. Add the spiced wine syrup by sinking it to the bottom of the glass.",
+    "name": "Pochierte Birne",
+    "instructions": "1. Alle Zutaten außer dem gewürzten Weinsirup in einen Shaker mit Eis geben.\n2. Schütteln, bis der Shaker kalt und frostig ist, etwa 10-15 Sekunden lang.\n3. In ein großes Rocks-Glas mit frischem Eis abseihen.\n4. Den gewürzten Weinsirup hinzufügen, indem man ihn auf den Boden des Glases sinken lässt.",
     "created_at": null,
     "updated_at": null,
-    "description": "It turns out the flavors of a classic French dessert, the red wine poached pear, work beautifully as a fall/winter cocktail. \"Cooler weather naturally brings these flavors to the forefront: fuller red wines, baking spices, and pome fruits — evoking the true feeling of the season in each sip,\" says Siri, lead bartender of Philadelphia's 48 Record Bar. Instead of simply floating his Poached Pear cocktail with red wine a la a New York Sour, he makes a spiced syrup with red wine to imbue it with those baking spices. The result is a cocktail that's dessert-like but not too sweet.",
+    "description": "Es stellt sich heraus, dass die Aromen eines klassischen französischen Desserts, der in Rotwein pochierte Birne, wunderbar als Herbst-/Wintercocktail funktionieren. „Kühleres Wetter bringt diese Aromen auf natürliche Weise in den Vordergrund: vollere Rotweine, Backgewürze und Kernobst – die das wahre Gefühl der Saison in jedem Schluck hervorrufen“, sagt Siri, Barchefin der Philadelphiaer 48 Record Bar. Anstatt seinen Poached Pear Cocktail einfach mit Rotwein à la New York Sour zu ergänzen, stellt er einen gewürzten Sirup mit Rotwein her, um ihn mit diesen Backgewürzen zu versehen. Das Ergebnis ist ein Cocktail, der dessertartig, aber nicht zu süß ist.",
     "source": "https://imbibemagazine.com/recipe/poached-pear-cocktail/",
     "garnish": null,
     "abv": 14.44,
     "tags": [
-        "Fruity",
+        "Fruchtig",
         "Warm"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 1.25,
             "units": "oz",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavendicksaft",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "pear-liqueur",
-            "name": "Pear liqueur",
+            "name": "Birnenlikör",
             "sort": 4,
             "amount": 0.75,
             "units": "oz",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "spiced-wine-syrup",
-            "name": "Spiced wine syrup",
+            "name": "Gewürzter Weinsirup",
             "sort": 5,
             "amount": 0.25,
             "units": "oz",

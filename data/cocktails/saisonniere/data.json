@@ -1,18 +1,18 @@
 {
     "_id": "saisonniere",
     "name": "Saisonnière",
-    "instructions": "1. Add all ingredients to a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Strain into a chilled coupe glass.\n4. Garnish with a sage leaf and a lemon twist.",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben.\n2. Eis hinzufügen und schütteln, bis es gekühlt ist.\n3. In ein gekühltes Coupette-Glas abseihen.\n4. Mit einem Salbeiblatt und einer Zitronenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The winter version of Lafayette's seasonally changing staple cocktail recipe—hence, the name Saisonnière—is an herbal riff on the basic sour.",
+    "description": "Die Winterversion von Lafayettes saisonal wechselndem Hauptcocktailrezept – daher der Name Saisonnière – ist eine Kräuter-Variante des einfachen Sours.",
     "source": "https://punchdrink.com/recipes/saisonniere/",
-    "garnish": "sage leaf and a lemon twist",
+    "garnish": "Salbeiblatt und eine Zitronenzeste",
     "abv": 17.23,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "pear-brandy-williams",
-            "name": "Pear Brandy (Williams)",
+            "name": "Birnenbrand (Williams)",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",

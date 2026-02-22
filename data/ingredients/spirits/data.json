@@ -1,9 +1,9 @@
 {
     "_id": "spirits",
     "_parent_id": null,
-    "name": "Spirits",
+    "name": "Spirituosen",
     "strength": 0,
-    "description": "Alcoholic drinks produced by distillation of grains, fruits, vegetables, or sugar, that have already gone through alcoholic fermentation.",
+    "description": "Alkoholische Getränke, die durch Destillation von bereits vergorenen Getreiden, Früchten, Gemüse oder Zucker gewonnen werden.",
     "origin": null,
     "color": null,
     "category": null,

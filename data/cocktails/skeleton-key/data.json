@@ -1,10 +1,10 @@
 {
     "_id": "skeleton-key",
     "name": "Skeleton Key",
-    "instructions": "1. Fill a highball glass with ice (or clear ice). Pour in the bourbon, St Germain, and lemon juice. Top with the ginger beer.\n2. Shake in 6 to 8 dashes Angostura bitters. Serve immediately.",
+    "instructions": "1. Ein Highball-Glas mit Eis (oder klarem Eis) füllen. Bourbon, St. Germain und Zitronensaft eingießen. Mit Ginger Beer auffüllen.\n2. 6 bis 8 Spritzer Angostura Bitters hineinschütteln. Sofort servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Skeleton Key cocktail is the ideal blend of bourbon, elderflower, and ginger beer! This fun drink is easy to mix up right in the glass.",
+    "description": "Der Cocktail Skeleton Key ist die ideale Mischung aus Bourbon, Holunderblüten und Ginger Beer! Dieser lustige Drink ist einfach direkt im Glas zuzubereiten.",
     "source": "https://www.acouplecooks.com/skeleton-key-cocktail/",
     "garnish": null,
     "abv": 12.17,
@@ -12,11 +12,11 @@
         "Sour",
         "Fizz",
         "Floral",
-        "Spicy",
-        "Refreshing"
+        "Würzig",
+        "Erfrischend"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -43,7 +43,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 2,
             "amount": 0.75,
             "units": "oz",
@@ -55,7 +55,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
@@ -67,7 +67,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 4,
             "amount": 3,
             "units": "oz",
@@ -79,7 +79,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 6,
             "units": "dash",

@@ -1,16 +1,16 @@
 {
     "_id": "el-presidente",
     "name": "El Presidente",
-    "instructions": "Add all ingredients to a mixing glass with ice and stir until well-chilled. ",
+    "instructions": "Alle Zutaten mit Eis in ein Rührglas geben und schütteln, bis es gut gekühlt ist.",
     "created_at": null,
     "updated_at": null,
-    "description": "The El Presidente earned its acclaim in Havana during the 1920s through the 1940s during the American Prohibition. It quickly became the preferred drink of the Cuban upper class.",
+    "description": "Der El Presidente erlangte seinen Ruhm in Havanna in den 1920er bis 1940er Jahren während der amerikanischen Prohibition. Er wurde schnell zum bevorzugten Getränk der kubanischen Oberschicht.",
     "source": "https://www.liquor.com/recipes/el-presidente/",
     "garnish": null,
     "abv": 26.17,
     "tags": [],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -57,7 +57,7 @@
         },
         {
             "_id": "orange-curacao",
-            "name": "Orange Curaçao",
+            "name": "Orangen Curaçao",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -69,7 +69,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 4,
             "amount": 1,
             "units": "teaspoon",

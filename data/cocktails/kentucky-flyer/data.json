@@ -1,18 +1,18 @@
 {
     "_id": "kentucky-flyer",
     "name": "Kentucky Flyer",
-    "instructions": "1. Add the rye whiskey, maraschino liqueur and lemon juice to a shaker with ice and shake until well-chilled.\n2. Strain into a chilled cocktail glass or coupe.",
+    "instructions": "1. Rye Whiskey, Maraschino-Likör und Zitronensaft in einen Shaker mit Eis geben und schütteln, bis der Drink gut gekühlt ist.\n2. In ein gekühltes Cocktailglas oder eine Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Created by San Francisco bartender Sierra Zimei, the Kentucky Flyer is a variation on the classic Aviation cocktail that subs rye whiskey for gin.",
+    "description": "Der vom San Franciscoer Bartender Sierra Zimei kreierte Kentucky Flyer ist eine Variation des klassischen Aviation-Cocktails, bei der Rye Whiskey den Gin ersetzt.",
     "source": "https://www.liquor.com/recipes/kentucky-flyer/",
-    "garnish": "Garnish with 2 brandied cherries and a mint sprig speared on a pick.",
+    "garnish": "Zwei Belegkirschen und ein Minzzweig auf einem Spieß",
     "abv": 25.6,
     "tags": [
         "Sour"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

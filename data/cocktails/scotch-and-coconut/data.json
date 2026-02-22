@@ -1,16 +1,16 @@
 {
     "_id": "scotch-and-coconut",
     "name": "Scotch and Coconut",
-    "instructions": "1. A day ahead of making the cocktail, freeze the coconut water in a large ice cube mold.\n2. When ready to make the drink, combine the ingredients in a shaker with ice and stir until chilled.\n3. Strain into a rocks glass over the frozen coconut water ice.",
+    "instructions": "1. Einen Tag im Voraus das Kokoswasser in einer großen Eiswürfelform einfrieren.\n2. Wenn Sie bereit sind, den Drink zuzubereiten, die Zutaten in einem Rührglas mit Eis verrühren, bis sie gut gekühlt sind.\n3. In einen Tumbler auf den gefrorenen Kokoswasser-Eiswürfel abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A split base of rum and Scotch might sound like the perfect match for cold-weather sipping, but when curaçao and coconut water enter the equation, the combo takes a turn for the tropical.",
+    "description": "Eine Basis aus Rum und Scotch mag wie die perfekte Kombination für kalte Tage klingen, aber wenn Curaçao und Kokoswasser ins Spiel kommen, schlägt die Mischung eine tropische Richtung ein.",
     "source": "https://imbibemagazine.com/recipe/scotch-and-coconut-cocktail/",
     "garnish": null,
     "abv": 28.19,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "coconut-water",
-            "name": "Coconut water",
+            "name": "Kokoswasser",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",

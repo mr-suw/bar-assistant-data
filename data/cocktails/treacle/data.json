@@ -1,20 +1,20 @@
 {
     "_id": "treacle",
     "name": "Treacle",
-    "instructions": "1. Build in a double rocks glass filled with ice.\n2. Float cloudy apple juice on top.",
+    "instructions": "1. In einem doppelten Rocks-Glas mit Eis zubereiten.\n2. Trüber Apfelsaft obenauf schwimmen lassen.",
     "created_at": null,
     "updated_at": null,
-    "description": "One of the simplest of Bradsell’s inventions to have found lasting popularity, this is an Old-Fashioned variation. An inventive use of rum for the time. Bradsell preferred rum in this drink is Myers, and he advocated for cheap, store brand apple juice, such at Mott’s, not the fresh-pressed apple juice young mixologists sometimes opted for, thinking they were improving the drink. More popular in the UK than in the U.S., where it is rarely seen. The drink’s exact place and year of birth are unknown.",
-    "source": "Dick Bradsell, 1990s",
+    "description": "Eine der einfachsten Erfindungen von Bradsell, die dauerhafte Popularität gefunden hat, ist diese Old-Fashioned-Variante. Eine erfinderische Verwendung von Rum für die damalige Zeit. Bradsell bevorzugte Myers-Rum in diesem Drink, und er plädierte für billigen Apfelsaft der Eigenmarke, wie Mott's, nicht den frisch gepressten Apfelsaft, für den sich junge Mixologen manchmal entschieden, in dem Glauben, sie würden den Drink verbessern. In Großbritannien beliebter als in den USA, wo er selten zu sehen ist. Der genaue Entstehungsort und das Geburtsjahr des Drinks sind unbekannt.",
+    "source": "Dick Bradsell, 1990er",
     "garnish": null,
     "abv": 26.55,
     "tags": [
-        "Fruity",
-        "Sweet",
+        "Fruchtig",
+        "Süß",
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -22,7 +22,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -34,7 +34,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 7.5,
             "units": "ml",
@@ -46,7 +46,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 2,
             "units": "dash",
@@ -58,7 +58,7 @@
         },
         {
             "_id": "apple-juice",
-            "name": "Apple Juice",
+            "name": "Apfelsaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",

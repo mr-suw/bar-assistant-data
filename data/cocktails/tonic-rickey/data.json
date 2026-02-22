@@ -1,18 +1,18 @@
 {
     "_id": "tonic-rickey",
     "name": "Tonic Rickey",
-    "instructions": "1. In a lowball glass filled with ice, add the lime juice and simple syrup. Stir to combine.\n2. Slowly stir in the tonic water and seltzer water.\n3. Top with the bitters and serve.",
+    "instructions": "1. Limettensaft und Zuckersirup in einen mit Eis gefüllten Tumbler geben und umrühren.\n2. Vorsichtig das Tonic Water und das Sodawasser unterrühren.\n3. Mit den Bitters abrunden und servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This simple non-alcoholic Tonic Rickey from cocktail blogger Camille Wilson combines lime juice, simple syrup, tonic water, seltzer water, and Angostura bitters.",
+    "description": "Dieser einfache, alkoholfreie Tonic Rickey der Cocktail-Bloggerin Camille Wilson kombiniert Limettensaft, Zuckersirup, Tonic Water, Sodawasser und Angostura Bitters.",
     "source": "https://www.liquor.com/tonic-rickey-cocktail-recipe-7091318",
     "garnish": "Bitters",
     "abv": 0.29,
     "tags": [
-        "Virgin"
+        "Alkoholfrei"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 1,
             "amount": 15,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 45,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 3,
             "units": "dash",

@@ -1,18 +1,18 @@
 {
     "_id": "caribbean-parachute",
     "name": "Caribbean Parachute",
-    "instructions": "1. Add all of the ingredients except tonic water to a shaker with no ice.\n2. Shake to combine, then add ice and shake well until chilled and foamy.\n3. Add chilled tonic water to an empty Collins glass, then strain the cocktail into the tonic until the top of the drink is half an inch below the rim.\n4. Wait for the foam to completely settle, then finish straining the remainder of the cocktail.",
+    "instructions": "1. Alle Zutaten außer dem Tonic Water ohne Eis in einen Shaker geben.\n2. Schütteln, um die Zutaten zu vermengen, dann Eis hinzufügen und kräftig schütteln, bis der Drink kalt und schaumig ist.\n3. Gekühltes Tonic Water in ein leeres Highball-Glas geben, dann den Cocktail vorsichtig auf das Tonic abseihen, bis der Schaum etwa einen halben Zoll (ca. 1 cm) unter dem Rand steht.\n4. Warten, bis sich der Schaum gesetzt hat, dann den Rest des Cocktails vorsichtig nachgießen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This rum and tonic adds the building blocks of a Silver Fizz and the balance of a rich amaro, resulting in a beautifully textured highball.",
+    "description": "Dieser Rum & Tonic kombiniert die Grundelemente eines Silver Fizz mit der Ausgewogenheit eines reichhaltigen Amaro, was zu einem Highball mit wunderschöner Textur führt.",
     "source": "https://imbibemagazine.com/recipe/caribbean-parachute-rum-highball/",
     "garnish": null,
     "abv": 9.15,
     "tags": [
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",

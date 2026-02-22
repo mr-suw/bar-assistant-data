@@ -1,20 +1,20 @@
 {
     "_id": "shannon-tebays-paloma",
     "name": "Shannon Tebay’s Paloma",
-    "instructions": "1. Salt the rim of the Collins glass, then add the Topo Chico and set aside.\n2. Combine all the remaining ingredients in a cocktail shaker with ice and shake until chilled.\n3. Strain into the Collins glass, add ice, and garnish with a lime wedge.",
+    "instructions": "1. Den Rand eines Collins-Glases salzen, dann das Sodawasser hinzufügen und beiseite stellen.\n2. Alle restlichen Zutaten in einen Cocktailshaker mit Eis geben und kräftig schütteln, bis der Drink gut gekühlt ist.\n3. In das Collins-Glas abseihen, Eis hinzufügen und mit einer Limettenspalte garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Coming in on top in our Paloma tasting was this cocktail by Shannon Tebay of Death & Co. New York, using El Tesoro Blanco tequila.",
+    "description": "Als Sieger unserer Paloma-Verkostung ging dieser Cocktail von Shannon Tebay (Death & Co. New York) hervor, bei dem El Tesoro Blanco Tequila verwendet wurde.",
     "source": "https://punchdrink.com/recipes/shannon-tebays-paloma/",
-    "garnish": "salt rim, lime wedge",
+    "garnish": "Salzrand, Limettenspalte",
     "abv": 9.48,
     "tags": [
-        "Refreshing",
-        "Citrusy",
-        "Bright"
+        "Erfrischend",
+        "Zitrusbetont",
+        "Hell"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": "paloma",
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 1,
             "amount": 2,
             "units": "oz",
@@ -48,12 +48,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as El Tesoro",
+            "note": "z. B. El Tesoro",
             "substitutes": []
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 3,
             "amount": 1.5,
             "units": "oz",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 0.75,
             "units": "oz",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 5,
             "amount": 0.5,
             "units": "oz",

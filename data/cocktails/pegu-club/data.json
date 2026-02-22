@@ -1,18 +1,18 @@
 {
     "_id": "pegu-club",
     "name": "Pegu Club",
-    "instructions": "1. Gather the ingredients.\n2. Pour the ingredients into a cocktail shaker filled with ice.\n3. Shake well.\n4. Strain into a chilled cocktail glass.\n5. Garnish with a lime wedge or twist. Serve and enjoy.",
+    "instructions": "1. Zutaten bereitlegen.\n2. Die Zutaten in einen mit Eis gefüllten Cocktailshaker geben.\n3. Gut schütteln.\n4. In ein gekühltes Cocktailglas abseihen.\n5. Mit einem Limettenschnitz oder einer Zeste garnieren. Servieren und genießen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A classic sour, the Pegu Club Cocktail is a fantastic gin drink with orange and lime accents. Get the recipe and mix up this old-school favorite.",
+    "description": "Als klassischer Sour ist der Pegu Club Cocktail ein fantastisches Gin-Getränk mit Orangen- und Limettenakzenten. Holen Sie sich das Rezept und mixen Sie diesen Old-School-Favoriten.",
     "source": "https://www.thespruceeats.com/pegu-club-cocktail-760109",
-    "garnish": null,
+    "garnish": "Limettenschnitz oder Zeste",
     "abv": 27.09,
     "tags": [
-        "Dry"
+        "Trocken"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 1,
             "units": "dash",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 5,
             "amount": 1,
             "units": "dash",

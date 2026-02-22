@@ -1,18 +1,18 @@
 {
     "_id": "hurricane-2",
     "name": "Hurricane",
-    "instructions": "1. Add all ingredients to a shaker with ice and shake vigorously\n2. Pour into a tall chilled glass full of crushed ice and garnish",
+    "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben und kräftig schütteln.\n2. In ein hohes, gekühltes Glas voll mit Crushed Ice gießen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A surprisingly simple and unique tiki drink that’s long been misunderstood",
+    "description": "Ein überraschend einfacher und einzigartiger Tiki-Drink, der lange Zeit missverstanden wurde.",
     "source": "https://tuxedono2.com/hurricane-cocktail-recipe",
     "garnish": null,
     "abv": 16,
     "tags": [
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Hurricane",
-    "method": "Shake",
+    "glass": "Hurricane-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 120,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 2,
             "amount": 60,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 60,
             "units": "ml",

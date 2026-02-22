@@ -1,18 +1,18 @@
 {
     "_id": "frozen-margarita",
     "name": "Frozen Margarita",
-    "instructions": "1. Prepare the glass, if using the lime-salt rim. Moisten half the rim of a double rocks glass with a lime wheel, then dip gently in kosher salt.\n2. Combine all ingredients in a blender.\n3. Fill a 13-ounce double rocks glass with a heaping scoop of pebble ice (see Editor’s Note).\n4. Add ice to the blender and blend until smooth.\n5. Pour into a double rocks glass.",
+    "instructions": "1. Bereiten Sie das Glas vor, falls Sie den Limetten-Salz-Rand verwenden möchten. Befeuchten Sie die Hälfte des Randes eines Tumblers mit einem Limettenrad und tauchen Sie ihn vorsichtig in koscheres Salz.\n2. Geben Sie alle Zutaten in einen Mixer.\n3. Füllen Sie einen Tumbler mit einer gehäuften Schaufel Pebble-Ice (siehe Anmerkung der Redaktion).\n4. Fügen Sie Eis in den Mixer hinzu und mixen Sie, bis die Masse glatt ist.\n5. In den Tumbler gießen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A frozen Margarita cocktail recipe made with tequila, Cointreau, fresh lime and orange juices and raw agave.",
+    "description": "Ein Rezept für eine gefrorene Margarita, zubereitet mit Tequila, Cointreau, frischem Limetten- und Orangensaft sowie roher Agave.",
     "source": "https://punchdrink.com/recipes/haley-traubs-frozen-margarita/",
-    "garnish": "lime and kosher salt rim, optional",
+    "garnish": "Limettenzeste und Salzrand (optional)",
     "abv": 20,
     "tags": [
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Lowball",
-    "method": "Blend",
+    "glass": "Tumbler",
+    "method": "Mixen",
     "utensils": [],
     "parent_cocktail_id": "margarita",
     "year": null,
@@ -34,7 +34,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Milagro Silver",
+            "note": "vorzugsweise Milagro Silver",
             "substitutes": []
         },
         {
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 1,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 4,
             "amount": 0.25,
             "units": "oz",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavensirup",
             "sort": 5,
             "amount": 0.25,
             "units": "oz",

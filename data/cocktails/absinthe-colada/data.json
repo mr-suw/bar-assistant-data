@@ -1,20 +1,20 @@
 {
     "_id": "absinthe-colada",
     "name": "Absinthe Colada",
-    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 10 seconds\n3. Strain into a hurricane glass filled with crushed ice",
+    "instructions": "1. Alle Zutaten in einen Shaker geben.\n2. Eis hinzufügen und 10 Sekunden lang kräftig schütteln.\n3. In ein Hurricane-Glas auf frisches Crushed Ice abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Mint and coconut are an excellent pairing that's underused in cocktails. This piña colada variant from Maison Premiere in Brooklyn employs mint in two ways in this boldly flavored cocktail.",
+    "description": "Minze und Kokosnuss sind eine hervorragende Kombination, die in Cocktails oft zu wenig genutzt wird. Diese Piña Colada-Variante aus dem Maison Premiere in Brooklyn nutzt Minze auf zwei Arten in diesem kräftig aromatisierten Cocktail.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/absinthe-colada",
-    "garnish": "fresh mint",
+    "garnish": "Frische Minze",
     "abv": 16,
     "tags": [
         "Tiki",
-        "Summer",
-        "Herbacious"
+        "Sommer",
+        "Kräuterig"
     ],
-    "glass": "Hurricane",
-    "method": "Shake",
+    "glass": "Hurricane-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "rhum-agricole",
-            "name": "Rhum agricole",
+            "name": "Rum Agricole",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "coconut-syrup",
-            "name": "Coconut Syrup",
+            "name": "Kokosnusssirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "creme-de-menthe",
-            "name": "Crème de menthe",
+            "name": "Crème de Menthe",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 5,
             "amount": 30,
             "units": "ml",

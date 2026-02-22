@@ -1,12 +1,12 @@
 {
     "_id": "rose-wine",
     "_parent_id": "wines",
-    "name": "Rosé wine",
+    "name": "Roséwein",
     "strength": 17,
-    "description": "Rosé wine is a type of wine that falls between red and white wine, characterized by its pink or blush color. It is typically made from red grape varieties, where the grape skins are in contact with the grape juice for a shorter period compared to red wine production. The result is a wine with a range of pink hues, from pale salmon to deep rose, depending on the grape variety and winemaking process.\n\nRosé wines can exhibit a diverse array of flavors, ranging from light and crisp to more full-bodied and fruit-forward. They are known for their refreshing qualities and are often enjoyed chilled. Rosé wines can be produced in various regions around the world and are popular choices for warm-weather drinking and versatile food pairings.",
+    "description": "Roséwein ist eine Weinsorte, die zwischen Rot- und Weißwein liegt und sich durch ihre rosa oder lachsfarbene Farbe auszeichnet. Er wird typischerweise aus roten Rebsorten hergestellt, wobei die Traubenschalen im Vergleich zur Rotweinproduktion kürzer mit dem Traubensaft in Kontakt bleiben. Das Ergebnis ist ein Wein mit einer Reihe von Rosatönen, von hellem Lachsrosa bis zu tiefem Rosé, abhängig von der Rebsorte und dem Weinherstellungsprozess.\n\nRoséweine können eine vielfältige Palette von Aromen aufweisen, die von leicht und knackig bis zu vollmundiger und fruchtiger reichen. Sie sind bekannt für ihre erfrischenden Eigenschaften und werden oft gekühlt genossen. Roséweine können in verschiedenen Regionen der Welt hergestellt werden und sind beliebte Optionen für sommerliche Getränke und vielseitige Essensbegleiter.",
     "origin": null,
     "color": "#bf573d",
-    "category": "Wines",
+    "category": "Weine",
     "created_at": null,
     "updated_at": null,
     "images": [

@@ -1,12 +1,12 @@
 {
     "_id": "arrack",
     "_parent_id": "sugarcane-based-spirits",
-    "name": "Arrack",
+    "name": "Arrak",
     "strength": 40,
-    "description": "Arrack is a distilled alcoholic drink typically produced in India, Sri Lanka and Southeast Asia, made from the fermented sap of coconut flowers or sugarcane, and also with grain (e.g. red rice) or fruit depending upon the country of origin.",
-    "origin": "India",
+    "description": "Arrak ist eine destillierte alkoholische Spirituose, die typischerweise in Indien, Sri Lanka und Südostasien hergestellt wird. Sie wird aus dem vergorenen Saft von Kokosblüten oder Zuckerrohr sowie je nach Herkunftsland auch aus Getreide (z. B. rotem Reis) oder Früchten gewonnen.",
+    "origin": "Indien",
     "color": "#cb5d0e",
-    "category": "Spirits > Sugarcane-based spirits",
+    "category": "Spirituosen > Spirituosen auf Zuckerrohrbasis",
     "created_at": null,
     "updated_at": null,
     "images": [

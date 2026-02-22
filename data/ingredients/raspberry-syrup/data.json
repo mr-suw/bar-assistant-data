@@ -1,12 +1,12 @@
 {
     "_id": "raspberry-syrup",
     "_parent_id": "syrups",
-    "name": "Raspberry Syrup",
+    "name": "Himbeersirup",
     "strength": 0,
-    "description": "Fruit syrup made from raspberries.",
+    "description": "Fruchtsirup aus Himbeeren.",
     "origin": null,
     "color": "#b71f23",
-    "category": "Sweeteners > Syrups",
+    "category": "Süßungsmittel > Sirups",
     "created_at": null,
     "updated_at": null,
     "images": [

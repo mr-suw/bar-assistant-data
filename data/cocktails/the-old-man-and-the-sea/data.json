@@ -1,16 +1,16 @@
 {
     "_id": "the-old-man-and-the-sea",
-    "name": "The Old Man and the Sea",
-    "instructions": "1. In a shaker filled with ice, combine the rum, grapefruit juice, coconut water, and lime juice.\n2. Shake well to combine and strain into a rocks glass filled with ice.\n3. Sprinkle the salt over the drink.",
+    "name": "Der alte Mann und das Meer",
+    "instructions": "1. In einem mit Eis gefüllten Shaker Rum, Grapefruitsaft, Kokoswasser und Limettensaft kombinieren.\n2. Gut schütteln, um sie zu verbinden, und in ein Rocks-Glas mit Eis abseihen.\n3. Das Salz über den Drink streuen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Coconut water and a pinch of salt make Whitney Otawka's Hemingway Daiquiri riff a standout.",
+    "description": "Kokoswasser und eine Prise Salz machen Whitney Otawkas Hemingway Daiquiri-Variante zu einem Highlight.",
     "source": "https://imbibemagazine.com/recipe/the-old-man-and-the-sea-hemingway-daiquiri/",
-    "garnish": "Salt, grapefruit",
+    "garnish": "Salz, Grapefruit",
     "abv": 9.14,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 2,
             "amount": 60,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "coconut-water",
-            "name": "Coconut water",
+            "name": "Kokoswasser",
             "sort": 3,
             "amount": 60,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "salt",
-            "name": "Salt",
+            "name": "Salz",
             "sort": 5,
             "amount": 1,
             "units": "pinch",

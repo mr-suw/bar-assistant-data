@@ -1,18 +1,18 @@
 {
     "_id": "charles-dickens-punch",
-    "name": "Charles Dickens’ Punch",
-    "instructions": "1. A few hours before preparing the punch, peel 4 lemons with a vegetable peeler or paring knife to create 4 long spirals of peel. Put them in a heatproof bowl with 3/4 of a cup of demerara sugar. Muddle the peels and\nthe sugar together and let sit at room temperature. Juice the 4 peeled lemons (and any extra needed) through a strainer to yield 6 oz. of strained juice. Set aside in the fridge.\n2. Measure the rum and Cognac into a pitcher or other pouring vessel. To prepare the punch, boil the water and place the bowl containing the lemon peels and sugar on a wooden cutting board or other heat-resistant surface in an open area (free from clutter, flammable items, or nearby curtains or light fixtures) where everyone can gather around at a safe distance.\n3. Pour the Cognac and rum into the bowl. Use a long-handled barspoon to remove a spoonful of the rum-cognac mixture. Light the spoonful on fire with a match and hold it just above the surface of the bowl in order to ignite the rest of the liquid. Stir with the barspoon or a heatproof ladle to help dissolve the sugar. Let the mixture burn for 2 or 3 minutes, occasionally lifting out one of the lemon peels with the ladle or spoon to show the flames running down it.\n4. Cover the bowl with a large heatproof dish or tray to extinguish the flames. Add the lemon juice and the hot water. (For cold punch, replace the hot water with 3 cups of cold water and add a 1-quart block of ice, made by freezing a quart bowl of water for 24 hours.) Stir. Grate fresh nutmeg over the top and ladle out in 3-ounce servings.",
+    "name": "Charles Dickens’ Punsch",
+    "instructions": "1. Einige Stunden vor der Zubereitung des Punschs 4 Zitronen mit einem Gemüseschäler oder Schälmesser schälen, um 4 lange Schalen spiralen zu erzeugen. Diese mit 180 ml Demerara-Zucker in eine hitzebeständige Schüssel geben. Schalen und Zucker vermischen und bei Raumtemperatur ziehen lassen. Die 4 geschälten Zitronen (und alle zusätzlich benötigten) durch ein Sieb pressen, um 180 ml gesiebten Saft zu erhalten. Im Kühlschrank beiseitestellen.\n2. Rum und Cognac in eine Kanne oder ein anderes Ausgießgefäß füllen. Um den Punsch zuzubereiten, Wasser kochen und die Schüssel mit den Zitronenschalen und Zucker auf ein Holzschneidebrett oder eine andere hitzebeständige Oberfläche an einem offenen Ort (frei von Unordnung, brennbaren Gegenständen oder nahegelegenen Vorhängen oder Leuchten) stellen, wo sich alle in sicherer Entfernung versammeln können.\n3. Cognac und Rum in die Schüssel gießen. Mit einem langstieligen Barlöffel einen Löffel der Rum-Cognac-Mischung entnehmen. Den Löffel mit einem Streichholz anzünden und ihn direkt über die Oberfläche der Schüssel halten, um den Rest der Flüssigkeit zu entzünden. Mit dem Barlöffel oder einer hitzebeständigen Kelle umrühren, um den Zucker aufzulösen. Die Mischung 2 oder 3 Minuten brennen lassen, dabei gelegentlich eine der Zitronenschalen mit der Kelle oder dem Löffel anheben, um die Flammen daran herunterlaufen zu sehen.\n4. Die Schüssel mit einem großen hitzebeständigen Deckel oder Tablett abdecken, um die Flammen zu löschen. Zitronensaft und heißes Wasser hinzufügen. (Für kalten Punsch das heiße Wasser durch 1 Liter kaltes Wasser ersetzen und einen 1-Liter-Eisblock hinzufügen, der durch Einfrieren einer Liter-Schüssel Wasser für 24 Stunden hergestellt wird.) Umrühren. Frische Muskatnuss darüber reiben und in 90-ml-Portionen schöpfen.",
     "created_at": null,
     "updated_at": null,
-    "description": "“Dickens was a dedicated punch-maker and an inveterate showman,” says drinks historian David Wondrich, offering as proof this historic flaming punch from his 2010 book Punch: The Delights (and Dangers) of the Flowing Bowl. And with a simple list of ingredients and some fireproof tools, you, too, can add some razzle dazzle to your own holiday gathering. Be sure to use a heatproof bowl with a capacity of at least one gallon.",
+    "description": "„Dickens war ein engagierter Punschmacher und ein eingefleischter Schausteller“, sagt der Getränkehistoriker David Wondrich und bietet als Beweis diesen historischen flambierten Punsch aus seinem Buch „Punch: The Delights (and Dangers) of the Flowing Bowl“ von 2010 an. Und mit einer einfachen Zutatenliste und einigen feuerfesten Werkzeugen können auch Sie Ihrer eigenen Weihnachtsfeier etwas Glanz verleihen. Verwenden Sie unbedingt eine hitzebeständige Schüssel mit einem Fassungsvermögen von mindestens einem Gallonen (ca. 3,8 Liter).",
     "source": "https://imbibemagazine.com/recipe/charles-dickens-punch/",
-    "garnish": "Grated nutmeg",
+    "garnish": "Geriebene Muskatnuss",
     "abv": 15.43,
     "tags": [
         "Punch"
     ],
     "glass": null,
-    "method": "Muddle",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "brown-rum",
-            "name": "Brown Rum",
+            "name": "Brauner Rum",
             "sort": 1,
             "amount": 10,
             "units": "oz",
@@ -39,14 +39,14 @@
         },
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 2,
             "amount": 10,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "high-proof Jamaican rum",
+            "note": "hochprozentiger Jamaika-Rum",
             "substitutes": []
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 6,
             "units": "oz",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "sugar",
-            "name": "Sugar",
+            "name": "Zucker",
             "sort": 5,
             "amount": 0.75,
             "units": "cup",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "lemon",
-            "name": "Lemon",
+            "name": "Zitrone",
             "sort": 6,
             "amount": 4,
             "units": "whole",
@@ -99,14 +99,14 @@
         },
         {
             "_id": "water",
-            "name": "Water",
+            "name": "Wasser",
             "sort": 7,
             "amount": 32,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Boiling, to top",
+            "note": "kochend, zum Auffüllen",
             "substitutes": []
         }
     ]

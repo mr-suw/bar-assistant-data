@@ -1,18 +1,18 @@
 {
     "_id": "valkyrie",
     "name": "Valkyrie",
-    "instructions": "Stir with ice and strain into a rocks glass.",
+    "instructions": "Auf Eis rühren und in einen Tumbler abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "After the Snake in the Grass at Temple Bar, bartender Sam Gabrielli wanted to showcase a drink he created called the Valkyrie. Sam described how he was influenced by Evan Harrison&#039;s Peralta with its rye, Cynar, and grapefruit elements.",
+    "description": "Nach dem \"Snake in the Grass\" in der Temple Bar wollte Barkeeper Sam Gabrielli einen von ihm kreierten Drink namens \"Valkyrie\" präsentieren. Sam beschrieb, wie er von Evan Harrisons \"Peralta\" mit seinen Rye-, Cynar- und Grapefruit-Elementen beeinflusst wurde.",
     "source": "https://cocktailvirgin.blogspot.com/2012/06/valkyrie.html?m=1",
-    "garnish": "Twist a grapefruit peel over the top and discard",
+    "garnish": "Eine Grapefruitzeste über dem Drink aromatisieren (ausdrücken) und anschließend verwerfen.",
     "abv": 26.86,
     "tags": [
         "Manhattan"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",

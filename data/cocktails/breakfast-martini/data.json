@@ -1,19 +1,19 @@
 {
     "_id": "breakfast-martini",
     "name": "Breakfast Martini",
-    "instructions": "1. Stir the marmalade with the lemon juice at the bottom of a cocktail shaker until it dissolves.\n2. Add the gin and Curaçao. Shake with ice. Fine strain into a chilled cocktail coupe.\n3. Shred some orange peel on the top of the drink as a garnish.",
+    "instructions": "1. Die Orangenmarmelade mit dem Zitronensaft am Boden eines Shakers verrühren, bis sie sich aufgelöst hat.\n2. Gin und Curaçao hinzufügen. Mit Eis schütteln. Fein in eine gekühlte Coupette abseihen.\n3. Etwas Orangenschale über dem Drink als Garnitur abreiben.",
     "created_at": null,
     "updated_at": null,
-    "description": "This cocktail recipe is one of the earliest—and still the most famous—examples of jam as an ingredient in a cocktail revival era.",
+    "description": "Dieses Cocktailrezept ist eines der frühesten – und immer noch das bekannteste – Beispiele für die Verwendung von Konfitüre als Zutat in der Ära des Cocktail-Revivals.",
     "source": "https://punchdrink.com/recipes/breakfast-martini/",
-    "garnish": "orange peel",
+    "garnish": "Orangenzeste",
     "abv": 24.47,
     "tags": [
-        "Citrusy",
-        "Light"
+        "Zitrusartig",
+        "Leicht"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,10 +40,10 @@
         },
         {
             "_id": "marmalade",
-            "name": "Marmalade",
+            "name": "Orangenmarmelade",
             "sort": 2,
             "amount": 1,
-            "units": "barspoon",
+            "units": "Barlöffel",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

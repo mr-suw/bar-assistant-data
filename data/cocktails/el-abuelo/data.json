@@ -1,16 +1,16 @@
 {
     "_id": "el-abuelo",
     "name": "El Abuelo",
-    "instructions": "1. Add all of the ingredients to a mixing glass with ice and stir for approximately 10 seconds.\n2. Strain over a large ice cube into the glass.\n3. Garnish.",
+    "instructions": "1. Alle Zutaten in ein Rührglas mit Eis geben und etwa 10 Sekunden lang rühren.\n2. In das Glas auf einen großen Eiswürfel abseihen.\n3. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This Old Fashioned-inspired cocktail by Carolina González of Chicago's Trino adds warmth and depth to the whiskey cocktail using the earthy herbaceousness of a Mexican amaro and the baking spices of a spiced brown nectar. \"It’s the kind of drink you want when it’s cold out, sitting by a fire, or winding down after dinner,\" says González.",
+    "description": "Dieser vom Old Fashioned inspirierte Cocktail von Carolina González aus dem Trino in Chicago verleiht dem Whiskey-Cocktail Wärme und Tiefe durch die erdige Kräuternote eines mexikanischen Amaro und die Backgewürze eines Spiced Brown Nectar. „Es ist die Art von Drink, die man möchte, wenn es draußen kalt ist, man am Feuer sitzt oder den Abend nach dem Essen ausklingen lässt“, sagt González.",
     "source": "https://imbibemagazine.com/recipe/el-abuelo-old-fashioned/",
-    "garnish": "Sprig of thyme and an orange swath",
+    "garnish": "Thymianzweig und eine Orangenzeste",
     "abv": 28.17,
     "tags": [],
     "glass": null,
-    "method": "Stir",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -44,7 +44,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Trino uses Maxico Mistico Licor del Sobador",
+            "note": "Trino verwendet Maxico Mistico Licor del Sobador",
             "substitutes": []
         },
         {
@@ -61,7 +61,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 1,
             "units": "dash",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 1,
             "units": "dash",
@@ -85,7 +85,7 @@
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 6,
             "amount": 2,
             "units": "drops",

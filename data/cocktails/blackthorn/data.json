@@ -1,16 +1,16 @@
 {
     "_id": "blackthorn",
     "name": "Blackthorn",
-    "instructions": "1. Stir all of the ingredients with ice, then strain into a glass filled with fresh ice, and garnish.",
+    "instructions": "1. Alle Zutaten mit Eis rühren, dann in ein Glas auf frisches Eis abseihen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "With roots dating back to 19th-century New Orleans, the Blackthorn cocktail is one of the few classics to highlight Irish whiskey. Here's how they make it at Lazy Bird in Chicago.",
+    "description": "Mit Wurzeln, die bis ins New Orleans des 19. Jahrhunderts zurückreichen, ist der Blackthorn einer der wenigen Klassiker, die Irish Whiskey hervorheben. Hier wird gezeigt, wie er im Lazy Bird in Chicago zubereitet wird.",
     "source": "https://imbibemagazine.com/recipe/blackthorn-cocktail/",
-    "garnish": "Lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 27.31,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "irish-whiskey",
-            "name": "Irish whiskey",
+            "name": "Irish Whisky",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 2,
             "units": "dash",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 5,
             "amount": 1,
             "units": "dash",

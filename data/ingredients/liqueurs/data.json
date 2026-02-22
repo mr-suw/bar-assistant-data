@@ -1,9 +1,9 @@
 {
     "_id": "liqueurs",
     "_parent_id": null,
-    "name": "Liqueurs",
+    "name": "Liköre",
     "strength": 0,
-    "description": "Alcoholic drinks composed of spirits (often rectified spirit) and additional flavorings such as sugar, fruits, herbs, and spices.",
+    "description": "Alkoholische Getränke, die aus Spirituosen (oft Rektifikationsalkohol) und zusätzlichen Aromastoffen wie Zucker, Früchten, Kräutern und Gewürzen bestehen.",
     "origin": null,
     "color": null,
     "category": null,

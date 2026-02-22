@@ -1,18 +1,18 @@
 {
     "_id": "st-regis-julep",
     "name": "St. Regis Julep",
-    "instructions": "1. Add all the ingredients to the julep tin and muddle the mint gently with barspoon. Add 2 cubes of cracked ice, stirring to chill. Add crushed ice to fill halfway; let chill. Add more to fill. Garnish.",
+    "instructions": "1. Alle Zutaten in den Julep-Becher geben und die Minze vorsichtig mit einem Barlöffel muddeln. 2 Eiswürfel hinzufügen und rühren, bis es gekühlt ist. Crushed Ice bis zur Hälfte füllen; kühlen lassen. Mehr hinzufügen, um es zu füllen. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "\"The St. Regis Julep was created by the famous John Swago of the old St. Regis in New Orleans. It is one of the first drinks I ever made from Famous New Orleans Drinks and How to Mix 'Em by Stanley Clisby Arthur,\" says Cure bartender Ryan Gannon. \"It is a funky, awesome riff on a julep that I try to make anytime I get a request for a julep.\"",
+    "description": "„Der St. Regis Julep wurde von dem berühmten John Swago vom alten St. Regis in New Orleans kreiert. Es ist einer der ersten Drinks, die ich je aus 'Famous New Orleans Drinks and How to Mix 'Em' von Stanley Clisby Arthur zubereitet habe“, sagt Cure-Barkeeper Ryan Gannon. „Es ist eine funky, großartige Variante eines Juleps, die ich jedes Mal versuche zuzubereiten, wenn ich eine Anfrage für einen Julep bekomme.“",
     "source": "https://imbibemagazine.com/recipe/st-regis-julep/",
-    "garnish": "Fresh mint bouquet",
+    "garnish": "Frischer Minzstrauß",
     "abv": 31.17,
     "tags": [
         "Julep"
     ],
-    "glass": "Julep",
-    "method": "Muddle",
+    "glass": "Julep-Becher",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -39,19 +39,19 @@
         },
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Gannon uses Hamilton Pot Still",
+            "note": "Gannon verwendet Hamilton Pot Still",
             "substitutes": []
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 3,
             "amount": 0.25,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 4,
             "amount": 0.5,
             "units": "barspoon",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 5,
             "amount": 6,
             "units": "leaves",

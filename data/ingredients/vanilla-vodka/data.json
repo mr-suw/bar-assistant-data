@@ -1,12 +1,12 @@
 {
     "_id": "vanilla-vodka",
     "_parent_id": "vodka",
-    "name": "Vanilla Vodka",
+    "name": "Vanille-Wodka",
     "strength": 40,
-    "description": "Vodka with added vanilla essence.",
-    "origin": "Russia",
+    "description": "Wodka mit Zusatz von Vanilleessenz.",
+    "origin": "Russland",
     "color": "#ffffff",
-    "category": "Spirits > Vodka",
+    "category": "Spirituosen > Wodka",
     "created_at": null,
     "updated_at": null,
     "images": [

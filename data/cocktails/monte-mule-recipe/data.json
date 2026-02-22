@@ -1,18 +1,18 @@
 {
     "_id": "monte-mule-recipe",
-    "name": "Monte Mule Recipe",
-    "instructions": "1. Add the ingredients to a rocks glass, then add crushed ice.\n2. Stir to chill.\n3. Garnish.",
+    "name": "Monte Mule Rezept",
+    "instructions": "1. Die Zutaten in ein Rocks-Glas geben, dann Crushed Ice hinzufügen.\n2. Umrühren, um zu kühlen.\n3. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The classic Moscow Mule recipe gets an Italian twist via the addition of Amaro Montenegro.",
+    "description": "Das klassische Moscow Mule Rezept erhält durch die Zugabe von Amaro Montenegro eine italienische Note.",
     "source": "https://imbibemagazine.com/recipe/monte-mule-recipe/",
-    "garnish": "mint sprig",
+    "garnish": "Minzzweig",
     "abv": 15,
     "tags": [
         "Mule"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",

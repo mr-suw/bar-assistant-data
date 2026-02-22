@@ -1,12 +1,12 @@
 {
     "_id": "lemon-juice",
     "_parent_id": "citrus-juice",
-    "name": "Lemon juice",
+    "name": "Zitronensaft",
     "strength": 0,
-    "description": "Freshly squeezed lemon juice.",
+    "description": "Frisch gepresster Zitronensaft.",
     "origin": null,
     "color": "#f3efda",
-    "category": "Juices > Citrus juice",
+    "category": "Säfte > Zitrussaft",
     "created_at": null,
     "updated_at": null,
     "images": [

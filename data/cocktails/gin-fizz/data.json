@@ -1,20 +1,20 @@
 {
     "_id": "gin-fizz",
     "name": "Gin Fizz",
-    "instructions": "1. Shake all ingredients with ice except soda water.\n2. Pour into thin tall Tumbler glass\n3. Top with a splash soda water\n4. Serve without ice",
+    "instructions": "1. Alle Zutaten außer Sodawasser mit Eis schütteln.\n2. In ein dünnes, hohes Tumbler-Glas gießen.\n3. Mit einem Schuss Sodawasser auffüllen.\n4. Ohne Eis servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A gin fizz is the best-known cocktail in the fizz family. The drink is similar to a Tom Collins, with a possible distinction being a Tom Collins historically used \"Old Tom Gin\" (a slightly sweeter precursor to London Dry Gin), whereas the kind of gin historically used in a gin fizz is unknown.",
+    "description": "Ein Gin Fizz ist der bekannteste Cocktail in der Fizz-Familie. Das Getränk ähnelt einem Tom Collins, wobei ein möglicher Unterschied darin besteht, dass ein Tom Collins historisch 'Old Tom Gin' (ein etwas süßerer Vorläufer des London Dry Gin) verwendete, während die Art des historisch in einem Gin Fizz verwendeten Gins unbekannt ist.",
     "source": "https://iba-world.com/gin-fizz/",
-    "garnish": "Garnish with a lemon slice, optional lemon zest.",
+    "garnish": "Mit einer Zitronenscheibe, optional Zitronenzeste, garnieren.",
     "abv": 16.94,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
         "Fizz"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 10,
             "units": "ml",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 1,
             "units": "splash",

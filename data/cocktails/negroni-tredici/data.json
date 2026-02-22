@@ -1,7 +1,7 @@
 {
     "_id": "negroni-tredici",
     "name": "Negroni Tredici",
-    "instructions": "Add ingreds to mixing glass and stir with ice to chill; strain into rocks glass over large cube, garnish.",
+    "instructions": "Zutaten in ein Rührglas geben und mit Eis verrühren, bis es gekühlt ist; in ein Rocks-Glas über einen großen Würfel abseihen, garnieren.",
     "created_at": null,
     "updated_at": null,
     "description": null,
@@ -11,8 +11,8 @@
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 5,
             "amount": 2,
             "units": "dash",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 6,
             "amount": 2,
             "units": "drops",

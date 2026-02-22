@@ -1,16 +1,16 @@
 {
     "_id": "the-perfect-bqe",
     "name": "The Perfect BQE",
-    "instructions": "1. Add all ingredients to a mixing glass.\n2. Add ice and stir until chilled.\n3. Strain into a Nick & Nora glass.\n4. Garnish with a cherry.",
+    "instructions": "1. Alle Zutaten in ein Rührglas geben.\n2. Eis hinzufügen und rühren, bis es gekühlt ist.\n3. In ein Nick & Nora Glas abseihen.\n4. Mit einer Kirsche garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This cocktail recipe, inspired by the iconic New York highway, is made with equal parts dry and sweet vermouth.",
+    "description": "Dieses Cocktailrezept, inspiriert von der ikonischen New Yorker Autobahn, wird mit gleichen Teilen trockenem und süßem Wermut hergestellt.",
     "source": "https://punchdrink.com/recipes/perfect-bqe/",
-    "garnish": "Luxardo cherry",
+    "garnish": "Luxardo Kirsche",
     "abv": 28.56,
     "tags": [],
-    "glass": "Nick and Nora",
-    "method": "Stir",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "green-chartreuse",
-            "name": "Green Chartreuse",
+            "name": "Grüner Chartreuse",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",

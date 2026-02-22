@@ -1,18 +1,18 @@
 {
     "_id": "spaghetti-western",
     "name": "Spaghetti Western",
-    "instructions": "1. Add ingredients and cubed ice to a mixing glass.\n3. Stir for 30-45 seconds.\n4. Strain into a lowball glass over a clear ice cube.\n5. Garnish with grapefruit twist.",
+    "instructions": "1. Zutaten und Eiswürfel in ein Rührglas geben.\n3. 30-45 Sekunden rühren.\n4. Über einen klaren Eiswürfel in ein Lowball-Glas abseihen.\n5. Mit Grapefruitzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Spaghetti Western is a tequila-based cocktail recipe that was created in 2011 by Jessica Gonzalez at Death & Company in New York City, New York. This variation was adapted from the book Mezcal + Tequila Cocktails: Mixed Drinks for the Golden Age of Agave by Robert Simonson.",
+    "description": "Der Spaghetti Western ist ein Tequila-basierter Cocktail, der 2011 von Jessica Gonzalez in Death & Company in New York City, New York, kreiert wurde. Diese Variante wurde aus dem Buch Mezcal + Tequila Cocktails: Mixed Drinks for the Golden Age of Agave von Robert Simonson adaptiert.",
     "source": "https://sipsfromscripts.com/spaghetti-western-cocktail-recipe/",
-    "garnish": "Grapefruit Twist",
+    "garnish": "Grapefruitzeste",
     "abv": 31.9,
     "tags": [
-        "Dry"
+        "Trocken"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -69,7 +69,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 1,
             "units": "dash",

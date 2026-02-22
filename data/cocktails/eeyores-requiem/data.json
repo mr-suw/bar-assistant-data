@@ -1,19 +1,19 @@
 {
     "_id": "eeyores-requiem",
     "name": "Eeyore’s Requiem",
-    "instructions": "1. Combine all ingredients in a mixing glass with ice and stir until chilled.\n2. Strain into a chilled coupe glass.\n3. Express three orange twists over the surface of the drink, discarding the first two and saving the third for garnish.",
+    "instructions": "1. Alle Zutaten in ein Rührglas mit Eis geben und rühren, bis sie gut gekühlt sind.\n2. In eine vorgekühlte Coupette abseihen.\n3. Drei Orangenzesten über der Oberfläche des Drinks ausdrücken; die ersten beiden entsorgen und die dritte als Garnitur verwenden.",
     "created_at": null,
     "updated_at": null,
-    "description": "Three bitter amari, including Fernet-Branca, get amped up with aromatic French vermouth and juniper-rich gin in this cocktail recipe.",
+    "description": "Drei bittere Amari, darunter Fernet-Branca, werden in diesem Cocktailrezept mit aromatischem französischem Wermut und wacholderreichem Gin verstärkt.",
     "source": "https://punchdrink.com/recipes/eeyores-requiem/",
-    "garnish": "orange twist",
+    "garnish": "Orangenzeste",
     "abv": 20.58,
     "tags": [
         "Bitter",
         "Herbal"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -47,7 +47,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Dolin",
+            "note": "z. B. Dolin",
             "substitutes": []
         },
         {
@@ -59,7 +59,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Tanqueray",
+            "note": "z. B. Tanqueray",
             "substitutes": []
         },
         {
@@ -88,7 +88,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 6,
             "amount": 2,
             "units": "dash",

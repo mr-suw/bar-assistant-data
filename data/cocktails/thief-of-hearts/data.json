@@ -1,18 +1,18 @@
 {
     "_id": "thief-of-hearts",
     "name": "Thief of Hearts",
-    "instructions": "1. Stir all of the ingredients (except the peaty scotch) with ice, then strain into a chilled coupe.\n2. Float a cucumber slice on top of the drink, and top with 3 drops of the peaty scotch.",
+    "instructions": "1. Alle Zutaten (außer dem rauchigen Scotch) mit Eis rühren und in eine vorgekühlte Coupette abseihen.\n2. Eine Gurkenscheibe auf den Drink legen und mit 3 Tropfen des rauchigen Scotch beträufeln.",
     "created_at": null,
     "updated_at": null,
-    "description": "Emily Mistell describes this winter cocktail, named for a 1984 erotic drama, as an elegant Manhattan riff with seductive aromatics.",
+    "description": "Emily Mistell beschreibt diesen nach einem Erotikdrama von 1984 benannten Winter-Cocktail als elegante Manhattan-Variante mit verführerischer Aromatik.",
     "source": "https://imbibemagazine.com/recipe/thief-of-hearts-winter-cocktail/",
-    "garnish": "Cucumber slice",
+    "garnish": "Gurkenscheibe",
     "abv": 25.26,
     "tags": [
-        "Smokey"
+        "Rauchig"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Schottischer Whiskey (Scotch)",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "pear-brandy-williams",
-            "name": "Pear Brandy (Williams)",
+            "name": "Birnenbrand (Williams)",
             "sort": 5,
             "amount": 7.5,
             "units": "ml",
@@ -87,10 +87,10 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 6,
             "amount": 1,
-            "units": "barspoon",
+            "units": "Barlöffel",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -99,7 +99,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 7,
             "amount": 1,
             "units": "dash",
@@ -114,7 +114,7 @@
             "name": "Islay Scotch Whiskey",
             "sort": 8,
             "amount": 3,
-            "units": "drops",
+            "units": "Tropfen",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

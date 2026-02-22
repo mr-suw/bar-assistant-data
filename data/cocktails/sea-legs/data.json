@@ -1,18 +1,18 @@
 {
     "_id": "sea-legs",
     "name": "Sea Legs",
-    "instructions": "1. Add all ingredients to a Hybrid Cocktail Shaker.\n2. Add ice and shake hard for 20 seconds.\n3. Strain into a chilled coupe.",
+    "instructions": "1. Alle Zutaten in einen Hybrid-Cocktailshaker geben.\n2. Eis hinzufügen und 20 Sekunden lang kräftig schütteln.\n3. In eine gekühlte Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Sea Legs cocktail encapsulates \"a nautical feel without the kitsch\", says its creator Alejandro Olivares. Big smoke flavor from the scotch and mezcal is lightened up with fresh lime and almond orgeat... and don't skip the celery bitters on this one.",
+    "description": "Der Cocktail Sea Legs vermittelt „ein nautisches Gefühl ohne den Kitsch“, sagt sein Schöpfer Alejandro Olivares. Großer Rauchgeschmack vom Scotch und Mezcal wird durch frische Limette und Mandelorat – und vergessen Sie nicht die Selleriebitter – aufgelockert.",
     "source": "https://elevatedcraft.com/blogs/cocktail-recipes/sea-legs",
-    "garnish": "Garnish with a salted rim and lime wheel.",
+    "garnish": "Mit einem gesalzenen Rand und einer Limettenscheibe garnieren.",
     "abv": 18.39,
     "tags": [
-        "Smokey"
+        "Rauchig"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "islay-scotch-whiskey",
-            "name": "Islay Scotch Whiskey",
+            "name": "Islay Scotch Whisky",
             "sort": 1,
             "amount": 1,
             "units": "oz",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 0.75,
             "units": "oz",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "celery-bitters",
-            "name": "Celery bitters",
+            "name": "Sellerie Bitter",
             "sort": 5,
             "amount": 2,
             "units": "dash",

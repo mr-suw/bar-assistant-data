@@ -1,19 +1,19 @@
 {
     "_id": "margarita-soda",
     "name": "Margarita Soda",
-    "instructions": "1. Rim a Collins glass with sea salt.\n2. Add the first three ingredients to a shaker with ice and shake until chilled.\n3. Pour into the prepared Collins glass, top with club soda and stir.\n4. Garnish with a lime wedge.",
+    "instructions": "1. Ein Collins-Glas mit Meersalz umranden.\n2. Die ersten drei Zutaten mit Eis in einen Shaker geben und schütteln, bis es gekühlt ist.\n3. In das vorbereitete Collins-Glas gießen, mit Sodawasser auffüllen und umrühren.\n4. Mit einem Limettenschnitz garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Margarita Soda from Hellbender Nighttime Café combines tequila, agave syrup, lime juice and club soda for a refreshing drink.",
+    "description": "Die Margarita Soda vom Hellbender Nighttime Café kombiniert Tequila, Agavendicksaft, Limettensaft und Sodawasser zu einem erfrischenden Getränk.",
     "source": "https://punchdrink.com/recipes/margarita-soda/",
-    "garnish": "sea salt, lime wedge",
+    "garnish": "Meersalz, Limettenschnitz",
     "abv": 16,
     "tags": [
-        "Citrusy",
+        "Zitrusbetont",
         "Light"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -35,12 +35,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Pueblo Viejo Blanco",
+            "note": "vorzugsweise Pueblo Viejo Blanco",
             "substitutes": []
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavendicksaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 1,
             "units": "topup",

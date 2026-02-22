@@ -1,22 +1,22 @@
 {
     "_id": "hurricane",
     "name": "Hurricane",
-    "instructions": "1. Combine all the ingredients to your cocktail shaker\n2. Whip shake with pebble ice to chill and dilute\n3. Pour over pebble ice into a hurricane glass\n4. Top with more pebble ice",
+    "instructions": "1. Alle Zutaten in den Cocktailshaker geben.\n2. Kräftig mit Crushed Ice schütteln, um zu kühlen und zu verdünnen.\n3. Über Crushed Ice in ein Hurricane-Glas gießen.\n4. Mit weiterem Crushed Ice auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Hurricane was created in New Orleans back in the 1940s. It was created out of necessity, when whiskey was in short supply due to the war. Rum was in abundance, and some suppliers would only sell a case of whiskey if it was accompanied by two cases of rum. Bars then had plenty of rum on hand, which forced them to get creative to move the stock!This drink is large and boozy but you can always halve the measurements for a more responsible version.",
+    "description": "Der Hurricane wurde in den 1940er Jahren in New Orleans kreiert. Er entstand aus der Notwendigkeit heraus, als Whiskey kriegsbedingt knapp war. Rum war im Überfluss vorhanden, und einige Lieferanten verkauften einen Kasten Whiskey nur, wenn er von zwei Kisten Rum begleitet wurde. Die Bars hatten dann reichlich Rum zur Verfügung, was sie zwang, kreativ zu werden, um den Bestand zu bewegen! Dieser Drink ist groß und hochprozentig, aber man kann die Mengen immer halbieren für eine verantwortungsvollere Version.",
     "source": "https://stevethebartender.com.au/hurricane-rum-cocktail-recipe/",
-    "garnish": "Garnish with a lemon wheel, or pineapple &amp; maraschino",
+    "garnish": "Mit einer Zitronenscheibe oder Ananas & Maraschino garnieren",
     "abv": 16,
     "tags": [
-        "Tropical",
-        "Sweet",
-        "Fruity",
+        "Tropisch",
+        "Süß",
+        "Fruchtig",
         "Tiki",
         "Sour"
     ],
-    "glass": "Hurricane",
-    "method": "Shake",
+    "glass": "Hurricane-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -31,7 +31,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 120,
             "units": "ml",
@@ -43,7 +43,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 60,
             "units": "ml",
@@ -55,7 +55,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 3,
             "amount": 60,
             "units": "ml",

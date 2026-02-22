@@ -3,10 +3,10 @@
     "_parent_id": "gentian-liqueur",
     "name": "Suze",
     "strength": 15,
-    "description": "Bitter flavored drink made with the roots of the plant gentian.",
-    "origin": "Switzerland",
+    "description": "Bitterer Likör, der aus den Wurzeln der Enzian-Pflanze hergestellt wird.",
+    "origin": "Schweiz",
     "color": "#f5dda1",
-    "category": "Liqueurs > Gentian Liqueur",
+    "category": "Liköre > Enzianlikör",
     "created_at": null,
     "updated_at": null,
     "images": [

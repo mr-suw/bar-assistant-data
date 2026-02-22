@@ -1,19 +1,19 @@
 {
     "_id": "2-to-2",
     "name": "2 to 2",
-    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 10 seconds\n3. Strain into a chilled glass\n4. Garnish with an orange peel",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben.\n2. Eis hinzufügen und 10 Sekunden kräftig shaken.\n3. In ein vorgekühltes Glas abseihen.\n4. Mit einer Orangenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A bittersweet cocktail that's more accessible than its ingredient list may suggest.",
+    "description": "Ein bittersüßer Drink, der zugänglicher ist, als die Zutatenliste vermuten lässt.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/2-to-2",
-    "garnish": "Orange peel",
+    "garnish": "Orangenzeste",
     "abv": 12.08,
     "tags": [
-        "Citrusy",
-        "Summer"
+        "Zitrusbetont",
+        "Sommer"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 5,
             "amount": 1,
             "units": "dash",

@@ -1,16 +1,16 @@
 {
     "_id": "going-out-west",
     "name": "Going Out West",
-    "instructions": "1. Add rye whiskey, mezcal, amaro, and simple syrup to a mixing glass.\n2. Add a good amount of ice and string for 20-30 seconds.\n3. Strain into an old fashioned glass with a large cube.\n4. Get an orange peel, squeeze it to express oils, and throw the garnish into the glass.",
+    "instructions": "1. Rye Whisky, Mezcal, Amaro und Zuckersirup in ein Rührglas geben.\n2. Eine großzügige Menge Eis hinzufügen und 20–30 Sekunden lang rühren.\n3. In einen Tumbler auf einen großen Eiswürfel abseihen.\n4. Eine Orangenzeste über dem Drink ausdrücken und als Garnitur ins Glas geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "This smoky sipper is the perfect Wild West-ish twist on the Old Fashioned, featuring rye whiskey, mezcal for a touch of smoke, and Averna amaro for depth.",
+    "description": "Dieser rauchige Sipper ist eine perfekte Twist-Variante des Old Fashioned im Wild-West-Stil. Er kombiniert Rye Whisky, eine Note Rauch durch Mezcal und Tiefe durch Amaro Averna.",
     "source": "https://www.reddit.com/r/cocktails/comments/1c6ddka/going_out_west/",
-    "garnish": "Orange peel for garnish",
+    "garnish": "Orangenzeste",
     "abv": 28.65,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whisky",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 2,
             "units": "dashes",

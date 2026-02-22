@@ -1,12 +1,12 @@
 {
     "_id": "orgeat-syrup",
     "_parent_id": "simple-syrup",
-    "name": "Orgeat Syrup",
+    "name": "Orgeat (Mandelsirup)",
     "strength": 0,
-    "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+    "description": "Süßer Sirup aus Mandeln, Zucker und Rosenwasser oder Orangenblütenwasser.",
     "origin": null,
     "color": "#d9ca9f",
-    "category": "Sweeteners > Syrups > Simple Syrup",
+    "category": "Süßungsmittel > Sirupe > Einfacher Sirup",
     "created_at": null,
     "updated_at": null,
     "images": [

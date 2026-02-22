@@ -1,20 +1,20 @@
 {
     "_id": "mosquito",
     "name": "Mosquito",
-    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a chilled coupe.\n3. Garnish with candied ginger.",
+    "instructions": "1. Alle Zutaten mit Eis in einen Cocktailshaker geben und schütteln, bis es gekühlt ist.\n2. In eine gekühlte Coupette abseihen.\n3. Mit kandiertem Ingwer garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Mosquito is an easy mezcal cocktail recipe from New York bar Attaboy. It combines the agave spirit, Campari and lemon and ginger juice.",
+    "description": "Der Mosquito ist ein einfaches Mezcal-Cocktailrezept von der New Yorker Bar Attaboy. Es kombiniert den Agaven-Spiritus, Campari sowie Zitronen- und Ingwersaft.",
     "source": "https://punchdrink.com/recipes/mosquito/",
-    "garnish": "candied ginger",
+    "garnish": "Kandierter Ingwer",
     "abv": 13,
     "tags": [
-        "Citrusy",
+        "Zitrusbetont",
         "Bitter",
-        "Smokey"
+        "Rauchig"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 0.75,
             "units": "oz",
@@ -53,14 +53,14 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Sweetened Ginger Juice",
+            "note": "Gesüßter Ingwersaft",
             "substitutes": []
         },
         {

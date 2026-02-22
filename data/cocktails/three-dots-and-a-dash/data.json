@@ -1,20 +1,20 @@
 {
     "_id": "three-dots-and-a-dash",
     "name": "Three Dots and a Dash",
-    "instructions": "1. Add all ingredients to a cocktail shaker.\n2. Add crushed ice and shake briefly.\n3. Strain into a tiki mug or a snifter filled with crushed ice.\n4. Garnish with pineapple leaves, pineapple spear, an orchid and three brandied cherries.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben.\n2. Crushed Ice hinzufügen und kurz schütteln.\n3. In einen Tiki-Becher oder einen mit Crushed Ice gefüllten Schwenker abseihen.\n4. Mit Ananasblättern, einem Ananasstück, einer Orchidee und drei Cocktailkirschen garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A tiki drink cocktail recipe made with rum, rhum agricole, dry curaçao, falernum, allspice dram liqueur, lime juice and honey syrup.",
+    "description": "Ein Tiki-Cocktail-Rezept mit Rum, Rhum Agricole, Dry Curaçao, Falernum, Allspice-Dram-Likör, Limettensaft und Honigsirup.",
     "source": "https://punchdrink.com/recipes/three-dots-and-a-dash/",
-    "garnish": "pineapple leaves, pineapple spear, an orchid and three brandied cherries",
+    "garnish": "Ananasblätter, Ananasstück, eine Orchidee und drei Cocktailkirschen",
     "abv": 20.5,
     "tags": [
         "Tiki",
-        "Tropical",
-        "Sweet"
+        "Tropisch",
+        "Süß"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,26 +29,26 @@
     "ingredients": [
         {
             "_id": "rhum-agricole",
-            "name": "Rhum agricole",
+            "name": "Rhum Agricole",
             "sort": 1,
             "amount": 30,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Duquesne Agricole Eleve Sous Bois",
+            "note": "vorzugsweise Duquesne Agricole Eleve Sous Bois",
             "substitutes": []
         },
         {
             "_id": "brown-rum",
-            "name": "Brown Rum",
+            "name": "Brauner Rum",
             "sort": 2,
             "amount": 30,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably El Dorado 5 Year",
+            "note": "vorzugsweise El Dorado 5 Year",
             "substitutes": []
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "_id": "allspice-dram",
-            "name": "Allspice dram",
+            "name": "Allspice Dram",
             "sort": 5,
             "amount": 0.25,
             "units": "oz",
@@ -89,7 +89,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 6,
             "amount": 1,
             "units": "oz",
@@ -101,7 +101,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 7,
             "amount": 0.5,
             "units": "oz",
@@ -113,7 +113,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 8,
             "amount": 3,
             "units": "dash",

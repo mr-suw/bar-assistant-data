@@ -1,19 +1,19 @@
 {
     "_id": "southside",
     "name": "Southside",
-    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.\nNote:\nIf egg white is used shake vigorously.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, kräftig mit Eis schütteln und doppelt in ein vorgekühltes Glas abseihen.\nHinweis:\nBei Verwendung von Eiweiß besonders intensiv schütteln (Dry Shake empfohlen).",
     "created_at": null,
     "updated_at": null,
-    "description": "Its origins are subject to speculation. It has been proposed that it gets its name from either the South Side district of the city of Chicago, Illinois, or from the Southside Sportsmen's Club on Long Island.",
+    "description": "Seine Ursprünge sind Gegenstand von Spekulationen. Es wird vermutet, dass der Name entweder auf das Viertel South Side in Chicago oder den Southside Sportsmen's Club auf Long Island zurückgeht.",
     "source": "https://iba-world.com/southside/",
-    "garnish": "Garnish with mint springs.",
+    "garnish": "Mit einem Minzzweig garnieren.",
     "abv": 19.69,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 5,
             "units": "leaves",

@@ -3,10 +3,10 @@
     "_parent_id": "tequila",
     "name": "Tequila Blanco",
     "strength": 40,
-    "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
-    "origin": "Mexico",
+    "description": "Tequila ist ein destilliertes alkoholisches Getränk, das aus dem fermentierten Saft der blauen Agavenpflanze hergestellt wird, die hauptsächlich in der Region Jalisco in Mexiko angebaut wird. Die Tequila-Produktion wird durch mexikanisches Recht reguliert, das die geografischen Gebiete, in denen er hergestellt werden darf, und die dabei verwendeten Methoden festlegt.\n\nTequila Blanco, auch als Tequila Silver oder Tequila Plata bekannt, ist eine Tequila-Sorte, die typischerweise ungelagert oder nur sehr kurz gelagert wird. Er ist der reinste Ausdruck des blauen Agavengeschmacks, da er nicht von den Eigenschaften der Reifung in Eichenfässern beeinflusst wird.\n\nBlanco Tequila ist eine beliebte Wahl für diejenigen, die das wahre Wesen der Agavenpflanze ohne den Einfluss der Reifung erleben möchten. Er bietet eine lebendige und authentische Darstellung des Hauptbestandteils von Tequila.",
+    "origin": "Mexiko",
     "color": "#ffffff",
-    "category": "Spirits > Mezcal > Tequila",
+    "category": "Spirituosen > Mezcal > Tequila",
     "created_at": null,
     "updated_at": null,
     "images": [

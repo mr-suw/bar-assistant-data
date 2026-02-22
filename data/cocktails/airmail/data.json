@@ -1,18 +1,18 @@
 {
     "_id": "airmail",
     "name": "Airmail",
-    "instructions": "1. Combine all ingredients except for the champagne in a mixer and shake for ten seconds\n2. Strain into a flute and top with champagne",
+    "instructions": "1. Alle Zutaten außer dem Champagner in einen Shaker geben und zehn Sekunden lang schütteln.\n2. In eine Flöte abseihen und mit Champagner auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "An endlessly drinkable sparkler of debated origin",
+    "description": "Ein unendlich süffiger Drink mit umstrittener Herkunft.",
     "source": "https://en.wikipedia.org/wiki/Airmail_(cocktail)",
-    "garnish": "Orange or lime peel",
+    "garnish": "Orangen- oder Limettenzeste",
     "abv": 16.46,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -33,7 +33,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -45,7 +45,7 @@
         },
         {
             "_id": "champagne",
-            "name": "Champagne",
+            "name": "Champagner",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -57,7 +57,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -69,7 +69,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -80,7 +80,7 @@
             "substitutes": [
                 {
                     "_id": "simple-syrup",
-                    "name": "Simple Syrup",
+                    "name": "Zuckersirup",
                     "amount": null,
                     "units": null,
                     "amount_max": null

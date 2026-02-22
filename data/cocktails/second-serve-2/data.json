@@ -6,13 +6,13 @@
     "updated_at": null,
     "description": "As a lower-alcohol, softer-hitting cocktail recipe, this combination of Amaro Montenegro and fino sherry is a Spain vs. Italy matchup.",
     "source": "https://punchdrink.com/recipes/second-serve/",
-    "garnish": "half orange wheel",
+    "garnish": "Halbe Orangenscheibe",
     "abv": 8.53,
     "tags": [
-        "Savory"
+        "Herzhaft"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 1,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 0.75,
             "units": "oz",

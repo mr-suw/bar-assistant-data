@@ -1,20 +1,20 @@
 {
     "_id": "brandy-crusta",
     "name": "Brandy Crusta",
-    "instructions": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
+    "instructions": "Alle Zutaten mit Eiswürfeln in einem Rührglas mischen und in ein vorbereitetes schmales Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The cocktail, named for the crust of sugar on the rim, was invented by Joseph Santini, a bartender in New Orleans at his bar, Jewel of the South.\n\nJerry Thomas was the first to publish the recipe in his 1862 cocktail manual.",
+    "description": "Der Cocktail, benannt nach dem Zuckerrand ('crust' = Kruste) am Glas, wurde von Joseph Santini, einem Barkeeper in New Orleans, in seiner Bar Jewel of the South erfunden.\n\nJerry Thomas veröffentlichte das Rezept erstmals in seinem Cocktailhandbuch von 1862.",
     "source": "https://iba-world.com/brandy-crusta/",
-    "garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+    "garnish": "Eine Orangenscheibe (oder Zitrone) um den Glasrand reiben und diese in pulverisierten weißen Zucker tauchen, so dass der Zucker am Glasrand haftet. Die Orangen-/Zitronenschale vorsichtig gewellt um das Innere des Glases legen.",
     "abv": 23.85,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
         "Brandy"
     ],
-    "glass": "Nick and Nora",
-    "method": "Stir",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -53,7 +53,7 @@
         },
         {
             "_id": "orange-curacao",
-            "name": "Orange Curaçao",
+            "name": "Orangen Curaçao",
             "sort": 3,
             "amount": 1,
             "units": "barspoon",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",
@@ -89,7 +89,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 6,
             "amount": 2,
             "units": "dashes",

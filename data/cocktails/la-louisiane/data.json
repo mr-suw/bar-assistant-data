@@ -1,16 +1,16 @@
 {
     "_id": "la-louisiane",
     "name": "La Louisiane",
-    "instructions": "Add all ingredients to a cocktail mixing glass (or any other type of glass). Fill the mixing glass with 1 handful ice and stir continuously for 30 seconds until very cold.",
+    "instructions": "Alle Zutaten in ein Cocktail-Rührglas (oder jede andere Art von Glas) geben. Das Rührglas mit 1 Handvoll Eis füllen und 30 Sekunden lang ununterbrochen rühren, bis es sehr kalt ist.",
     "created_at": null,
     "updated_at": null,
-    "description": "The La Louisiane cocktail is an improvement on the Sazerac! Absinthe, rye whiskey and vermouth make this spirit-forward cocktail a stunner.",
+    "description": "Der La Louisiane Cocktail ist eine Verbesserung des Sazerac! Absinth, Roggenwhiskey und Wermut machen diesen spirituosenlastigen Cocktail zu einem Hingucker.",
     "source": "https://www.acouplecooks.com/la-louisiane-cocktail/",
-    "garnish": "Garnish with a Luxardo cherry.",
+    "garnish": "Mit einer Luxardo-Kirsche garnieren.",
     "abv": 28.93,
     "tags": [],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 4,
             "amount": 5,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitters",
             "sort": 5,
             "amount": 3,
             "units": "dashes",

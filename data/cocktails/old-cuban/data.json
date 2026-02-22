@@ -1,19 +1,19 @@
 {
     "_id": "old-cuban",
     "name": "Old Cuban",
-    "instructions": "Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine.",
+    "instructions": "Alle Zutaten außer dem Wein in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes, elegantes Cocktailglas abseihen. Mit Sekt auffüllen.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://iba-world.com/old-cuban/",
-    "garnish": "Garnish with mint springs.",
+    "garnish": "Mit Minzzweigen garnieren.",
     "abv": 12.8,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 3,
             "amount": 6,
             "units": "sprigs",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 30,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 2,
             "units": "dashes",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "champagne",
-            "name": "Champagne",
+            "name": "Champagner",
             "sort": 6,
             "amount": 60,
             "units": "ml",

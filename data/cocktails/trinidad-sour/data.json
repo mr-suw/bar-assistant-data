@@ -1,20 +1,20 @@
 {
     "_id": "trinidad-sour",
     "name": "Trinidad Sour",
-    "instructions": "1. Pour all ingredients into a cocktail shaker\n2. Shake well with ice\n3. Strain into a chilled cocktail glass.",
+    "instructions": "1. Alle Zutaten in einen Cocktail-Shaker geben.\n2. Kräftig auf Eis schütteln.\n3. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Unusually for a cocktail, it uses Angostura bitters as a base spirit rather than as a flavoring, the bitters being the single largest component of the drink in its IBA formulation.",
+    "description": "Ungewöhnlich für einen Cocktail wird Angostura Bitters hier als Basisspirituose verwendet und nicht nur zum Aromatisieren; in der IBA-Rezeptur ist der Bitters die Hauptkomponente des Drinks.",
     "source": "https://iba-world.com/trinidad-sour/",
     "garnish": null,
     "abv": 18.57,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks",
         "Sour"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 4,
             "amount": 15,
             "units": "ml",

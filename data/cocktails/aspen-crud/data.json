@@ -1,18 +1,18 @@
 {
     "_id": "aspen-crud",
     "name": "Aspen Crud",
-    "instructions": "1. Add bourbon and ice cream to a blender and blitz until creamy.\n2. Pour into a pint glass or Mason jar and garnish with cherries, if using. Serve with a straw.",
+    "instructions": "1. Bourbon und Eiscreme in einen Mixer geben und mixen (blenden), bis die Mischung cremig ist.\n2. In ein Pint-Glas oder Einmachglas gießen und nach Belieben mit Kirschen garnieren. Mit einem Strohhalm servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Invented at Hotel Jerome during Prohibition, the Aspen Crud cocktail is a symbol of the ski town's pre-glitz history and an enduring staple.",
+    "description": "Der Aspen Crud wurde während der Prohibition im Hotel Jerome erfunden und ist ein Symbol für die Geschichte des Skiortes vor dem großen Glamour sowie ein dauerhafter Klassiker.",
     "source": "https://punchdrink.com/recipes/aspen-crud/",
-    "garnish": "2 Luxardo cherries (optional)",
+    "garnish": "2 Luxardo-Kirschen (optional)",
     "abv": 32,
     "tags": [
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Lowball",
-    "method": "Blend",
+    "glass": "Tumbler",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,19 +34,19 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Buffalo Trace",
+            "note": "vorzugsweise Buffalo Trace",
             "substitutes": []
         },
         {
             "_id": "ice-cream",
-            "name": "Ice cream",
+            "name": "Eiscreme",
             "sort": 2,
             "amount": 3,
             "units": "scoop",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Vanilla",
+            "note": "Vanille",
             "substitutes": []
         }
     ]

@@ -1,16 +1,16 @@
 {
     "_id": "the-west-8th",
     "name": "The West 8th",
-    "instructions": "Muddle the mint and cucumber in a mixing tin. Add ice, vodka, lemon juice and simple syrup and shake to chill. Strain into a chilled coupe and top with the soda.",
+    "instructions": "Minze und Gurke in einem Rührbecher zerstoßen. Eis, Wodka, Zitronensaft und Zuckersirup hinzufügen und schütteln, um es zu kühlen. In eine gekühlte Coupette abseihen und mit Soda auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "One of the bestsellers at Analogue in New York City, the West 8th is a Southside cocktail riff with cucumber and vodka.",
+    "description": "Als Bestseller im Analogue in New York City ist der West 8th eine Southside Cocktail-Variante mit Gurke und Wodka.",
     "source": "https://imbibemagazine.com/recipe/southside-cocktail-riff-the-west-8th/",
     "garnish": null,
     "abv": 12.8,
     "tags": [],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 45,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "cucumber",
-            "name": "Cucumber",
+            "name": "Gurke",
             "sort": 5,
             "amount": 3,
             "units": "slice",
@@ -85,7 +85,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 6,
             "amount": 2,
             "units": "sprigs",

@@ -9,8 +9,8 @@
     "garnish": null,
     "abv": 10.29,
     "tags": [],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,19 +25,19 @@
     "ingredients": [
         {
             "_id": "rhum-agricole",
-            "name": "Rhum agricole",
+            "name": "Rum Agricole",
             "sort": 1,
             "amount": 45,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably J.M Rhum Agricole Blanc",
+            "note": "preferably J.M Rum Agricole Blanc",
             "substitutes": []
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 2,
             "amount": 0.75,
             "units": "barspoon",

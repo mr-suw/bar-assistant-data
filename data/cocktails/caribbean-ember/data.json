@@ -1,16 +1,16 @@
 {
     "_id": "caribbean-ember",
     "name": "Caribbean Ember",
-    "instructions": "1. Add the ingredients, except the ginger beer, with ice in a shaker. Shake and strain over fresh ice in a glass. Top with ginger beer. Garnish.",
+    "instructions": "1. Alle Zutaten außer dem Ginger Beer mit Eis in einen Shaker geben. Schütteln und auf frisches Eis in ein Glas abseihen. Mit Ginger Beer auffüllen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Tyler Malone of Zasu New Orleans wanted to create a rum cocktail with depth and warmth, one that bridges the gap between Old Fashioned-style cocktails and tropical drinks—\"two worlds that don't often meet,\" he says. He succeeded by matching rum with the spice of rye whiskey and the richness of dark maple syrup. \"It’s a cocktail that feels both familiar and unexpected. Bold, layered, and easy to drink,” he says.",
+    "description": "Tyler Malone vom Zasu New Orleans wollte einen Rum-Cocktail mit Tiefe und Wärme kreieren, der die Lücke zwischen Cocktails im Old-Fashioned-Stil und tropischen Drinks schließt – „zwei Welten, die sich nicht oft begegnen“, sagt er. Es gelang ihm, indem er Rum mit der Würze von Rye Whiskey und der Reichhaltigkeit von dunklem Ahornsirup kombinierte. „Es ist ein Cocktail, der sich sowohl vertraut als auch unerwartet anfühlt. Kräftig, vielschichtig und leicht zu trinken“, sagt er.",
     "source": "https://imbibemagazine.com/recipe/caribbean-ember-from-zasu-new-orleans/",
-    "garnish": "Mint bouquet",
+    "garnish": "Minzzweig",
     "abv": 21.58,
     "tags": [],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "maple-syrup",
-            "name": "Maple syrup",
+            "name": "Ahornsirup",
             "sort": 4,
             "amount": 0.25,
             "units": "oz",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 0.25,
             "units": "oz",
@@ -85,7 +85,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 6,
             "amount": 5,
             "units": "dash",
@@ -97,7 +97,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 7,
             "amount": 1,
             "units": "topup",

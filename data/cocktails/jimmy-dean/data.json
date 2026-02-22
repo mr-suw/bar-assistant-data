@@ -1,16 +1,16 @@
 {
     "_id": "jimmy-dean",
     "name": "Jimmy Dean",
-    "instructions": "Fill a shaker with ice. Bruise 3 mint leaves between your fingers, then add them to the shaker. Add bourbon, Bärenjäger and orange juice. Shake and strain into a chilled, ice-filled Collins glass. Top with brewed tea, then garnish.",
+    "instructions": "Einen Shaker mit Eis füllen. 3 Minzblätter zwischen den Fingern anreiben und in den Shaker geben. Bourbon, Bärenjäger und Orangensaft hinzufügen. Schütteln und in ein vorgekühltes, mit Eis gefülltes Highball-Glas abseihen. Mit Tee auffüllen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This brunch cocktail plays off the classic southern flavors of sweet tea and mint, and adds orange juice, bourbon and honey liqueur to the mix.",
+    "description": "Dieser Brunch-Cocktail spielt mit den klassischen Südstaaten-Aromen von süßem Tee und Minze und ergänzt sie um Orangensaft, Bourbon und Honiglikör.",
     "source": "https://imbibemagazine.com/recipe/jimmy-dean-cocktail-recipe/",
-    "garnish": "mint sprig",
+    "garnish": "Minzzweig",
     "abv": 9.93,
     "tags": [],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,10 +25,10 @@
     "ingredients": [
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 1,
             "amount": 3,
-            "units": "leaves",
+            "units": "Stück",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -49,7 +49,7 @@
         },
         {
             "_id": "honey-liqueur",
-            "name": "Honey liqueur",
+            "name": "Honiglikör",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",
@@ -73,14 +73,14 @@
         },
         {
             "_id": "tea",
-            "name": "Tea",
+            "name": "Tee",
             "sort": 5,
             "amount": 120,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "cold black tea",
+            "note": "kalter Schwarztee",
             "substitutes": []
         }
     ]

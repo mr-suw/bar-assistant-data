@@ -1,18 +1,18 @@
 {
     "_id": "irish-maid",
     "name": "Irish Maid",
-    "instructions": "1. Muddle the cucumber slices in a shaker.\n2. Add the Irish whiskey, St-Germain, lemon juice and simple syrup into a shaker with ice and shake until well-chilled.\n3. Fine-strain into a chilled rocks glass over fresh ice.",
+    "instructions": "1. Die Gurkenscheiben in einem Shaker muddeln.\n2. Irischen Whiskey, St-Germain, Zitronensaft und Zuckersirup mit Eis in einen Shaker geben und schütteln, bis es gut gekühlt ist.\n3. Fein in ein gekühltes Rocks-Glas über frisches Eis abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Irish Maid is a Whiskey Sour variation featuring Irish whiskey, lemon juice and fresh cucumber. It makes the case for whiskey as a summer drink.",
+    "description": "Der Irish Maid ist eine Whiskey Sour Variation mit irischem Whiskey, Zitronensaft und frischer Gurke. Er plädiert für Whiskey als Sommergetränk.",
     "source": "https://www.liquor.com/recipes/irish-maid/",
-    "garnish": "Garnish with a cucumber slice.",
+    "garnish": "Mit einer Gurkenscheibe garnieren.",
     "abv": 18,
     "tags": [
         "Sour"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "irish-whiskey",
-            "name": "Irish whiskey",
+            "name": "Irischer Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -75,14 +75,14 @@
         },
         {
             "_id": "cucumber",
-            "name": "Cucumber",
+            "name": "Gurke",
             "sort": 5,
             "amount": 2,
             "units": "slice",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "cut into quarter-inch",
+            "note": "in Viertelzoll geschnitten",
             "substitutes": []
         }
     ]

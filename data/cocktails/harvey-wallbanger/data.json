@@ -1,20 +1,20 @@
 {
     "_id": "harvey-wallbanger",
     "name": "Harvey Wallbanger",
-    "instructions": "1. Stir the vodka and orange juice with ice in the glass\n2. Float the Galliano on top\n3. Garnish and serve",
+    "instructions": "1. Wodka und Orangensaft mit Eis im Glas verrühren.\n2. Galliano obenauf schwimmen lassen.\n3. Garnieren und servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Harvey Wallbanger was created in 1969 as a marketing campaign by McKesson Imports Company, importer of Galliano, as a means of driving sales of Galliano. The campaign was headed by George Bednar, marketing director of McKesson, and a cartoon character was commissioned from graphic artist William J. \"Bill\" Young in Lima, New York, with the tagline that Bednar claimed to have penned: \"Harvey Wallbanger is the name. And I can be made!\". The Harvey Wallbanger character was a surfer, appearing in various ads during the campaign, and was mentioned in print as early as 1969, continuing into the 1970s.",
+    "description": "Der Harvey Wallbanger wurde 1969 als Marketingkampagne von McKesson Imports Company, dem Importeur von Galliano, ins Leben gerufen, um den Verkauf von Galliano anzukurbeln. Die Kampagne wurde von George Bednar, Marketingdirektor von McKesson, geleitet, und eine Zeichentrickfigur wurde von dem Grafiker William J. „Bill“ Young aus Lima, New York, mit dem Slogan in Auftrag gegeben, den Bednar angeblich verfasst hatte: „Harvey Wallbanger ist der Name. Und ich kann gemacht werden!“ Der Harvey Wallbanger-Charakter war ein Surfer, der während der Kampagne in verschiedenen Anzeigen erschien und bereits 1969 in gedruckter Form erwähnt wurde und sich bis in die 1970er Jahre fortsetzte.",
     "source": "https://en.wikipedia.org/wiki/Harvey_Wallbanger",
-    "garnish": "long curl of orange peel",
+    "garnish": "lange Orangenschalenspirale",
     "abv": 14.75,
     "tags": [
-        "Classics",
-        "Sweet",
-        "Citrusy"
+        "Klassiker",
+        "Süß",
+        "Zitrusbetont"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 2,
             "amount": 90,
             "units": "ml",

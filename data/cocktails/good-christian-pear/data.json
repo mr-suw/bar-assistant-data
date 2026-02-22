@@ -1,19 +1,19 @@
 {
     "_id": "good-christian-pear",
     "name": "Good Christian Pear",
-    "instructions": "1. Shake with ice\n2. Double-strain into a coupe.",
+    "instructions": "1. Mit Eis schütteln.\n2. Doppelt in eine Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
     "description": "David Burnette, South on Main, Little Rock, Arkansas",
     "source": "https://alpenz.com/recipe-RsPGn5chya.html",
-    "garnish": "Garnish with a pear slice or lemon wheel.",
+    "garnish": "Mit einer Birnenscheibe oder einer Zitronenscheibe garnieren.",
     "abv": 16.16,
     "tags": [
-        "Fruity",
-        "Citrusy"
+        "Fruchtig",
+        "Zitrusbetont"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "pear-brandy-williams",
-            "name": "Pear Brandy (Williams)",
+            "name": "Birnenbrand (Williams)",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 4,
             "amount": 3,
             "units": "dash",

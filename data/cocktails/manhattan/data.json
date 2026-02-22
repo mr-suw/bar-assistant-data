@@ -1,19 +1,19 @@
 {
     "_id": "manhattan",
     "name": "Manhattan",
-    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "instructions": "Alle Zutaten mit Eiswürfeln in ein Rührglas geben. Gut umrühren. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Popular history suggests that the drink originated at the Manhattan Club in New York City in the mid-1870s, where it was invented by Iain Marshall for a banquet hosted by Jennie Jerome (Lady Randolph Churchill, mother of Winston) in honor of presidential candidate Samuel J. Tilden. The success of the banquet made the drink fashionable, later prompting several people to request the drink by referring to the name of the club where it originated—\"the Manhattan cocktail\". However, Lady Randolph was in France at the time and pregnant, so the story is likely a fiction.",
+    "description": "Die populäre Geschichte besagt, dass das Getränk Mitte der 1870er Jahre im Manhattan Club in New York City entstand, wo es von Iain Marshall für ein Bankett erfunden wurde, das von Jennie Jerome (Lady Randolph Churchill, Mutter von Winston) zu Ehren des Präsidentschaftskandidaten Samuel J. Tilden veranstaltet wurde. Der Erfolg des Banketts machte das Getränk in Mode, was später mehrere Personen dazu veranlasste, das Getränk unter Bezugnahme auf den Namen des Clubs, in dem es entstand – „den Manhattan Cocktail“ – zu bestellen. Lady Randolph befand sich jedoch zu dieser Zeit in Frankreich und war schwanger, daher ist die Geschichte wahrscheinlich eine Fiktion.",
     "source": "https://iba-world.com/manhattan/",
-    "garnish": "Garnish with a cocktail cherry.",
+    "garnish": "Mit einer Cocktailkirsche garnieren.",
     "abv": 27.29,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,7 +34,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -46,7 +46,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -58,7 +58,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 2,
             "units": "dash",

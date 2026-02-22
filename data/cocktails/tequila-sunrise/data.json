@@ -1,19 +1,19 @@
 {
     "_id": "tequila-sunrise",
     "name": "Tequila Sunrise",
-    "instructions": "Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
+    "instructions": "Tequila und Orangensaft direkt in ein mit Eiswürfeln gefülltes Highball-Glas gießen. Grenadinesirup hinzufügen, um einen chromatischen Effekt (Sonnenaufgang) zu erzeugen, nicht umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The original tequila sunrise contained tequila, creme de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.",
+    "description": "Der originale Tequila Sunrise enthielt Tequila, Crème de Cassis, Limettensaft und Sodawasser und wurde im Arizona Biltmore Hotel serviert, wo er in den 1930er oder 1940er Jahren von Gene Sulit kreiert wurde.",
     "source": "https://iba-world.com/tequila-sunrise/",
-    "garnish": "Garnish with half orange slice or an orange zest",
+    "garnish": "Mit einer halben Orangenscheibe oder einer Orangenzeste garnieren",
     "abv": 10.91,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 2,
             "amount": 90,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 3,
             "amount": 15,
             "units": "ml",

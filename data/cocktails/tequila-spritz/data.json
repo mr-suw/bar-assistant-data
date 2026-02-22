@@ -1,19 +1,19 @@
 {
     "_id": "tequila-spritz",
     "name": "Tequila Spritz",
-    "instructions": "1. In a 750ml bottle, combine the tequila, Aperol, sweet vermouth and bitters. Cap the bottle securely, then shake well to mix. Store in the freezer.\n2. To serve, pour into a wine glass filled halfway with ice cubes and an orange slice. Top with tonic water.\n3. NOTEStarting with a full bottle Pour off 15 oz. (450ml). Makes 5 to 7 cocktails.",
+    "instructions": "1. In einer 750-ml-Flasche Tequila, Aperol, süßen Wermut und Bitter mischen. Die Flasche sicher verschließen und gut schütteln. Im Gefrierfach aufbewahren.\n2. Zum Servieren in ein Weinglas gießen, das zur Hälfte mit Eiswürfeln und einer Orangenscheibe gefüllt ist. Mit Tonic Water auffüllen.\n3. HINWEIS: Bei einer vollen Flasche entnehme ca. 450 ml, um Platz zu schaffen. Ergibt 5 bis 7 Cocktails.",
     "created_at": null,
     "updated_at": null,
-    "description": "For those times when it's just too hot to make an effort, Freezer Door Cocktails author J.M. Hirsch shared 75 cocktails that can be built right in the liquor bottle and stored in the freezer. His batched Tequila Spritz is especially perfect for poolside sipping. \"This cocktail lives in a happy place somewhere between sangria and an Aperol Spritz,\" he writes. For those who prefer it without the tonic water, Hirsch suggests serving it in a coupe that's filled halfway with crushed ice.",
+    "description": "Für die Zeiten, in denen es einfach zu heiß ist, um sich viel Mühe zu geben, hat J.M. Hirsch, Autor von 'Freezer Door Cocktails', 75 Rezepte zusammengestellt, die man direkt in der Schnapsflasche mischen und im Gefrierfach aufbewahren kann. Sein vorgemischter Tequila Spritz eignet sich besonders gut für den Genuss am Pool. 'Dieser Cocktail bewegt sich auf einer glücklichen Ebene irgendwo zwischen Sangria und einem Aperol Spritz', schreibt er. Wer ihn lieber ohne Tonic Water mag, dem empfiehlt Hirsch, ihn in einer Cocktailschale auf Crushed Ice zu servieren.",
     "source": "https://imbibemagazine.com/recipe/tequila-spritz-a-freezer-door-cocktail/",
-    "garnish": "Orange slice",
+    "garnish": "Orangenscheibe",
     "abv": 23.05,
     "tags": [
         "Spritz",
         "Batch"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 202.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 0.25,
             "units": "barspoon",
@@ -76,14 +76,14 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 5,
             "amount": 1,
             "units": "topup",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "to serve",
+            "note": "zum Servieren",
             "substitutes": []
         }
     ]

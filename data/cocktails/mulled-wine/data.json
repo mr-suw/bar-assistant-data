@@ -1,18 +1,18 @@
 {
     "_id": "mulled-wine",
-    "name": "Mulled Wine",
-    "instructions": "Put everything except the rum into a pot and heat slowly on low/lowest heat, lid off. The longer this takes, the better, as the spices should infuse into the wine.\n\nDo not boil!\n\nOnce hot, stir in the sugar until dissolved.\n\nAdd rum.\n\nStrain and serve.",
+    "name": "Glühwein",
+    "instructions": "Alles außer dem Rum in einen Topf geben und langsam bei niedriger/niedrigster Hitze, ohne Deckel, erhitzen. Je länger dies dauert, desto besser, da die Gewürze in den Wein ziehen sollen.\n\nNicht kochen lassen!\n\nSobald es heiß ist, den Zucker einrühren, bis er aufgelöst ist.\n\nRum hinzufügen.\n\nAbseihen und servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Mulled Wine, or Hypocras, is one of those drinks that predates the era of cocktails. The earliest mentions of heated, spiced wine date back to ancient Rome. Right after they built all those roads, they used them to bring mulled wine all over Europe. It's been a common tradition in Germany, France, and England ever since and is especially popular around Christmas time. ⁣ ⁣",
+    "description": "Glühwein, oder Hypocras, ist eines jener Getränke, die älter sind als die Ära der Cocktails. Die frühesten Erwähnungen von erhitztem, gewürztem Wein gehen auf das antike Rom zurück. Gleich nachdem sie all diese Straßen gebaut hatten, nutzten sie diese, um Glühwein in ganz Europa zu verbreiten. Seitdem ist es in Deutschland, Frankreich und England eine weit verbreitete Tradition und besonders beliebt zur Weihnachtszeit.",
     "source": "https://www.reddit.com/r/cocktails/comments/zhqrbx/gl%C3%BChwein_traditional_german_mulled_wine/",
-    "garnish": "Cinnamon stick, orange slice",
+    "garnish": "Zimtstange, Orangenscheibe",
     "abv": 10.59,
     "tags": [
-        "Wine"
+        "Wein"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "white-wine",
-            "name": "White wine",
+            "name": "Weißwein",
             "sort": 1,
             "amount": 1000,
             "units": "ml",
@@ -38,7 +38,7 @@
             "substitutes": [
                 {
                     "_id": "red-wine",
-                    "name": "Red wine",
+                    "name": "Rotwein",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -47,7 +47,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 2,
             "amount": 90,
             "units": "ml",
@@ -71,7 +71,7 @@
         },
         {
             "_id": "clove",
-            "name": "Clove",
+            "name": "Nelke",
             "sort": 4,
             "amount": 7,
             "units": "whole",
@@ -83,7 +83,7 @@
         },
         {
             "_id": "star-anise",
-            "name": "Star anise",
+            "name": "Sternanis",
             "sort": 5,
             "amount": 1,
             "units": "whole",
@@ -95,7 +95,7 @@
         },
         {
             "_id": "sugar",
-            "name": "Sugar",
+            "name": "Zucker",
             "sort": 6,
             "amount": 50,
             "units": "g",
@@ -118,7 +118,7 @@
             "substitutes": [
                 {
                     "_id": "dark-rum",
-                    "name": "Dark Rum",
+                    "name": "Dunkler Rum",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -127,7 +127,7 @@
         },
         {
             "_id": "candied-ginger",
-            "name": "Candied Ginger",
+            "name": "Kandierter Ingwer",
             "sort": 8,
             "amount": 3,
             "units": "whole",

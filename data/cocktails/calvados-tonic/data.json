@@ -1,19 +1,19 @@
 {
     "_id": "calvados-tonic",
-    "name": "Calvados & Tonic",
-    "instructions": "1. Pour the Calvados into a Burgundy glass over ice.\n2. Top with tonic water.\n3. Garnish with a lemon twist.",
+    "name": "Calvados & Tonic",
+    "instructions": "1. Den Calvados in ein Burgunderglas über Eis gießen.\n2. Mit Tonic Water auffüllen.\n3. Mit einer Zitronenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Calvados & Tonic is a staple in Normandy. Sarah Morrissey presents hers in a Burgundy glass with heaps of ice and a ton of tonic.",
+    "description": "Der Calvados & Tonic ist ein Grundnahrungsmittel in der Normandie. Sarah Morrissey präsentiert ihren in einem Burgunderglas mit viel Eis und viel Tonic.",
     "source": "https://punchdrink.com/recipes/calvados-tonic/",
-    "garnish": "Lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 15,
     "tags": [
-        "Fruity",
+        "Fruchtig",
         "Bitter"
     ],
-    "glass": "Wine",
-    "method": "Layer",
+    "glass": "Weinglas",
+    "method": "Schichten",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,7 +34,7 @@
     "ingredients": [
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -46,7 +46,7 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 2,
             "amount": 100,
             "units": "ml",

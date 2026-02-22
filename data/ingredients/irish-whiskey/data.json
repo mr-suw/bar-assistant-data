@@ -1,12 +1,12 @@
 {
     "_id": "irish-whiskey",
     "_parent_id": "whiskey",
-    "name": "Irish whiskey",
+    "name": "Irischer Whiskey",
     "strength": 40,
-    "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+    "description": "Hergestellt in Irland, oft aus einer Mischung aus gemälzter und ungemälzter Gerste und für einen Mindestzeitraum in Holzfässern gereift. Stile umfassen Single Malt, Single Pot Still, Blended Irish Whiskey und andere.",
     "origin": "Ireland",
     "color": "#d54a06",
-    "category": "Spirits > Whiskey",
+    "category": "Spirituosen > Whisky",
     "created_at": null,
     "updated_at": null,
     "images": [

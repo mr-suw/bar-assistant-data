@@ -3,10 +3,10 @@
     "_parent_id": "liqueurs",
     "name": "Umeshu",
     "strength": 15,
-    "description": "Umeshu is a traditional Japanese alcoholic beverage made by steeping Ume (Japanese plums) in liquor, typically a neutral spirit like shochu or brandy, and allowing them to macerate with sugar. The process results in a sweet, fruity liqueur with a complex flavor profile that balances the tartness of the plums with the sweetness of the added sugar. The plums used in Umeshu are typically harvested when they are still green and unripe, which contributes to the characteristic tartness of the final product. The aging process can vary, with some Umeshu being ready to consume relatively quickly, while others are aged for extended periods to develop more nuanced flavors.",
+    "description": "Umeshu ist ein traditionelles japanisches alkoholisches Getränk, das durch das Einlegen von Ume (japanische Pflaumen) in Alkohol, typischerweise eine neutrale Spirituose wie Shochu oder Brandy, und deren Mazeration mit Zucker hergestellt wird. Der Prozess führt zu einem süßen, fruchtigen Likör mit einem komplexen Geschmacksprofil, das die Säure der Pflaumen mit der Süße des zugesetzten Zuckers ausgleicht. Die für Umeshu verwendeten Pflaumen werden typischerweise geerntet, wenn sie noch grün und unreif sind, was zur charakteristischen Säure des Endprodukts beiträgt. Der Reifeprozess kann variieren, wobei einige Umeshu relativ schnell konsumiert werden können, während andere über längere Zeiträume gereift werden, um nuanciertere Geschmacksaromen zu entwickeln.",
     "origin": "Japan",
     "color": "#E2D1B3",
-    "category": "Liqueurs",
+    "category": "Liköre",
     "created_at": null,
     "updated_at": null,
     "images": [

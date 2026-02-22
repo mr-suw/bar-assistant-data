@@ -1,18 +1,18 @@
 {
     "_id": "wiz-fizz",
     "name": "Wiz Fizz",
-    "instructions": "1. Fill a highball glass 1/5 full with root beer and set aside.\n2. Combine the remaining ingredients, except the cream, in a mixing tin and dry shake without ice.\n3. Add the cream and dry shake again.\n4. Add ice and shake again for 30 to 40 seconds.\n5. Strain the ice out of the shaker and dry shake once more for 1 minute.\n6. Pour the contents of the shaker into the highball glass and allow to settle before adding a final topper.",
+    "instructions": "1. Ein Highball-Glas zu einem Fünftel mit Root Beer füllen und beiseite stellen.\n2. Die restlichen Zutaten (außer der Sahne) im Shaker vermengen und ohne Eis schütteln (Dry Shake).\n3. Die Sahne hinzufügen und erneut ohne Eis schütteln.\n4. Eis hinzufügen und für 30 bis 40 Sekunden kräftig schütteln.\n5. Das Eis aus dem Shaker abseihen und nochmals eine Minute lang ohne Eis schütteln.\n6. Den Inhalt des Shakers in das Highball-Glas gießen, absetzen lassen und mit einem letzten Schuss auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "In this fizzy cocktail recipe, gin, Cynar, lemon, and vanilla syrup act as a base, while egg white and heavy cream combine for a rich body.",
+    "description": "In diesem spritzigen Cocktail bilden Gin, Cynar, Zitrone und Vanillesirup die Basis, während Eiweiß und Schlagsahne für einen reichen Körper sorgen.",
     "source": "https://punchdrink.com/recipes/wiz-fizz/",
-    "garnish": "Garnish with grated nutmeg and a straw.",
+    "garnish": "Mit frisch geriebener Muskatnuss garnieren und mit einem Strohhalm servieren.",
     "abv": 9.93,
     "tags": [
         "Fizz"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Vanillesirup",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 5,
             "amount": 1,
             "units": "1",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 6,
             "amount": 30,
             "units": "ml",
@@ -99,7 +99,7 @@
         },
         {
             "_id": "root-beer",
-            "name": "Root beer",
+            "name": "Root Beer",
             "sort": 7,
             "amount": 30,
             "units": "ml",

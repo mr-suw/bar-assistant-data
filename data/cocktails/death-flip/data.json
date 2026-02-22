@@ -1,18 +1,18 @@
 {
     "_id": "death-flip",
     "name": "Death Flip",
-    "instructions": "1. Combine all ingredients in a mixing tin and shake with ice. Strain into a sour glass.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben und mit Eis schütteln. In ein Sour-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "When this cocktail first appeared on the menu at the Black Pearl in Melbourne, in 2010, no ingredients were listed. And if you asked what was in the drink, the bartender would not tell you. The only thing offering the customer a hint as to what they were getting into was the ominous description: “You don’t wanna meet this cocktail in a dark alley.”\n\nOf course, plenty of people stepped up to take the bait, and many ended up liking the cocktail—something that likely wouldn’t have happened if the ingredients were listed: tequila, yellow Chartreuse, Jägermeister and a whole egg. To date, it is the only flip to become a modern classic.",
+    "description": "Als dieser Cocktail 2010 zum ersten Mal auf der Speisekarte der Black Pearl in Melbourne erschien, waren keine Zutaten aufgeführt. Und wenn man fragte, was in dem Drink enthalten sei, sagte es der Barkeeper nicht. Das Einzige, was dem Kunden einen Hinweis darauf gab, worauf er sich einließ, war die ominöse Beschreibung: „Diesen Cocktail will man nicht in einer dunklen Gasse treffen.“\n\nNatürlich stellten sich viele Leute der Herausforderung, und viele mochten den Cocktail – etwas, das wahrscheinlich nicht passiert wäre, wenn die Zutaten aufgeführt worden wären: Tequila, gelber Chartreuse, Jägermeister und ein ganzes Ei. Bis heute ist er der einzige Flip, der zu einem modernen Klassiker geworden ist.",
     "source": "https://punchdrink.com/recipes/death-flip/",
-    "garnish": "Garnish with freshly grated nutmeg.",
+    "garnish": "Mit frisch geriebener Muskatnuss garnieren.",
     "abv": 30.84,
     "tags": [
         "Flip"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "yellow-chartreuse",
-            "name": "Yellow Chartreuse",
+            "name": "Gelber Chartreuse",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 1,
             "units": "dash",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "egg",
-            "name": "Egg",
+            "name": "Ei",
             "sort": 5,
             "amount": 1,
             "units": "whole",

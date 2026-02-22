@@ -1,21 +1,21 @@
 {
     "_id": "espresso-martini",
     "name": "Espresso Martini",
-    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, kräftig auf Eis schütteln und in ein vorgekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "It is not a true martini as it contains neither gin nor vermouth, but is one of many drinks that incorporate the term martini into their names.",
+    "description": "Es handelt sich nicht um einen echten Martini, da er weder Gin noch Wermut enthält, aber er ist einer von vielen Drinks, die den Begriff Martini in ihrem Namen tragen.",
     "source": "https://iba-world.com/espresso-martini/",
     "garnish": null,
     "abv": 23.11,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks",
-        "Sweet",
-        "Coffee"
+        "Süß",
+        "Kaffee"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 50,
             "units": "ml",
@@ -42,7 +42,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -54,7 +54,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 10,
             "units": "ml",

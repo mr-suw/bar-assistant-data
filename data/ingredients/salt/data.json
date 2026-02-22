@@ -1,9 +1,9 @@
 {
     "_id": "salt",
     "_parent_id": null,
-    "name": "Salt",
+    "name": "Salz",
     "strength": 0,
-    "description": "Salt",
+    "description": "Salz",
     "origin": null,
     "color": null,
     "category": null,

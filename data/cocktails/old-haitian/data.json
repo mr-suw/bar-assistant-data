@@ -1,18 +1,18 @@
 {
     "_id": "old-haitian",
     "name": "Old Haitian",
-    "instructions": "1. Combine all ingredients in a swizzle glass over crushed ice.\n2. Garnish with a bouquet of mint.",
+    "instructions": "1. Alle Zutaten in einem Swizzle-Glas mit Crushed Ice vermengen.\n2. Mit einem üppigen Minzzweig garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Orlando Franklin McCray's update on the modern classic, the Old Cuban, calls on a base of Haitian clairin and gets served over crushed ice.",
+    "description": "Orlando Franklin McCrays Update des modernen Klassikers Old Cuban setzt auf eine Basis aus haitianischem Clairin und wird auf Crushed Ice serviert.",
     "source": "https://punchdrink.com/recipes/old-haitian/",
-    "garnish": "mint",
+    "garnish": "Minze",
     "abv": 17.31,
     "tags": [
         "Swizzle"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,19 +27,19 @@
     "ingredients": [
         {
             "_id": "rhum-agricole",
-            "name": "Rhum agricole",
+            "name": "Rhum Agricole",
             "sort": 1,
             "amount": 45,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Boukman Rhum",
+            "note": "vorzugsweise Boukman Rhum",
             "substitutes": []
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 3,
             "units": "dash",

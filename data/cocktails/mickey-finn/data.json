@@ -1,19 +1,19 @@
 {
     "_id": "mickey-finn",
     "name": "Mickey Finn",
-    "instructions": "1. Combine the ingredients in a mixing glass over cracked ice and stir until well-chilled.\n2. Strain into a chilled coupe.",
+    "instructions": "1. Die Zutaten in ein Rührglas über gestoßenem Eis geben und rühren, bis es gut gekühlt ist.\n2. In eine gekühlte Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Mickey Finn is a classic stirred cocktail recipe combining navy-strength dry gin, vermouth, absinthe and crème de menthe.",
+    "description": "Der Mickey Finn ist ein klassisches gerührtes Cocktailrezept, das Navy-Strength Dry Gin, Wermut, Absinth und Crème de Menthe kombiniert.",
     "source": "https://punchdrink.com/recipes/mickey-finn/",
     "garnish": null,
     "abv": 34.58,
     "tags": [
-        "Herbal",
-        "Minty"
+        "Kräuterig",
+        "Minzig"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -35,43 +35,43 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Plymouth",
+            "note": "wie Plymouth",
             "substitutes": []
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Dolin",
+            "note": "wie Dolin",
             "substitutes": []
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Pernod Absinthe Superieure",
+            "note": "wie Pernod Absinthe Superieure",
             "substitutes": []
         },
         {
             "_id": "creme-de-menthe",
-            "name": "Crème de menthe",
+            "name": "Crème de Menthe",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Giffard Menthe-Pastille",
+            "note": "wie Giffard Menthe-Pastille",
             "substitutes": []
         }
     ]

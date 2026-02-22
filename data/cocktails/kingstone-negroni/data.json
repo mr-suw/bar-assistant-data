@@ -1,18 +1,18 @@
 {
     "_id": "kingstone-negroni",
-    "name": "Kingstone Negroni",
-    "instructions": "Combine all ingredients and stir with ice. Strain into a rocks glass over a large ice cube and garnish with a long, trimmed orange peel.",
+    "name": "Kingston Negroni",
+    "instructions": "Alle Zutaten vermischen und mit Eis rühren. In einen Tumbler auf einen großen Eiswürfel abseihen und mit einer langen, zurechtgeschnittenen Orangenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "First created in 2009 by Joaquín Simó, partner at New York’s Pouring Ribbons, the Kingston Negroni was an immediate hit. Simó credits the creation to his first taste of Smith & Cross overproof Jamaican rum. “It’s certainly not the most imaginative thing I’ve ever done—I simply Mr. Potato-Headed rum for gin in a classic Negroni spec—but it still strikes me as strange that the first thought I had when smelling and tasting a huge, funky, estery, hogo-reeking, grilled banana bread, smoking allspice branches–laden brute of an overproof Jamaican rum was wondering how it would work in a stirred aperitivo,” says Simó. “Smith & Cross is no shrinking violet, so it stands up to the bombastic chocolate and bitter orange notes in the vermouth while drying out the Campari’s richness and tempering its bitterness. Further evidence that less can sometimes be quite a bit more.”",
+    "description": "Der 2009 von Joaquín Simó (Partner im New Yorker Pouring Ribbons) kreierte Kingston Negroni war sofort ein Erfolg. Simó schreibt die Kreation seinem ersten Geschmackserlebnis von Smith & Cross overproof Jamaican Rum zu. „Es ist sicher nicht das fantasievollste, was ich je gemacht habe – ich habe einfach in einem klassischen Negroni-Rezept den Gin durch Rum ersetzt – aber es kommt mir immer noch seltsam vor, dass mein erster Gedanke beim Riechen und Schmecken dieses wuchtigen, funkigen, Ester-strotzenden jamaikanischen Rums mit Noten von gegrilltem Bananenbrot und rauchigen Pimentzweigen war, wie er wohl in einem gerührten Aperitivo funktionieren würde“, sagt Simó. „Smith & Cross ist kein zurückhaltender Geist, daher hält er den bombastischen Schokoladen- und Bitterorangennoten des Wermuts stand, während er die Üppigkeit des Camparis trocken auffängt und dessen Bitterkeit mildert. Ein weiterer Beweis dafür, dass weniger manchmal deutlich mehr sein kann.“",
     "source": "https://imbibemagazine.com/recipe/kingston-negroni-recipe/",
-    "garnish": "orange slice",
+    "garnish": "Orangenzeste",
     "abv": 23.06,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": "negroni",
     "year": null,
@@ -33,7 +33,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -44,7 +44,7 @@
             "substitutes": [
                 {
                     "_id": "dark-rum",
-                    "name": "Dark Rum",
+                    "name": "Dunkler Rum",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -53,7 +53,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",

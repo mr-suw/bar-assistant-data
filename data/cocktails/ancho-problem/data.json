@@ -1,19 +1,19 @@
 {
     "_id": "ancho-problem",
     "name": "Ancho Problem",
-    "instructions": "1. Shake all ingredients with ice.\n2. Strain into chilled cocktail glass.",
+    "instructions": "1. Alle Zutaten mit Eis schütteln.\n2. In eine gekühlte Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "In response to the request for \"something spicy, with tequila,\" Ezra Star whips up this chile- and blanco tequila-spiked cocktail recipe.",
+    "description": "Als Antwort auf die Bitte nach \"etwas Würzigem mit Tequila\" kreierte Ezra Star dieses Rezept mit Chile-Likör und Blanco Tequila.",
     "source": "https://punchdrink.com/recipes/ancho-problem/",
     "garnish": null,
     "abv": 21.33,
     "tags": [
-        "Citrusy",
-        "Spicy"
+        "Zitrusbetont",
+        "Würzig"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",

@@ -1,12 +1,12 @@
 {
     "_id": "coffee",
     "_parent_id": "beverages",
-    "name": "Coffee",
+    "name": "Kaffee",
     "strength": 0,
-    "description": "Coffee is a beverage made from roasted coffee beans. The beans are ground and brewed with hot water to produce a flavorful and aromatic drink. Coffee is enjoyed worldwide and comes in various styles, including espresso, drip coffee, and specialty beverages. It contains caffeine, a natural stimulant, and is often consumed for its energizing effects and rich, complex taste.",
-    "origin": "Africa",
+    "description": "Kaffee ist ein Getränk, das aus gerösteten Kaffeebohnen hergestellt wird. Die Bohnen werden gemahlen und mit heißem Wasser aufgebrüht, um ein aromatisches und duftendes Getränk zu erzeugen. Kaffee wird weltweit genossen und kommt in verschiedenen Stilen vor, darunter Espresso, Filterkaffee und Spezialgetränke. Er enthält Koffein, ein natürliches Stimulans, und wird oft wegen seiner belebenden Wirkung und seines reichen, komplexen Geschmacks konsumiert.",
+    "origin": "Afrika",
     "color": "#654332",
-    "category": "Beverages",
+    "category": "Getränke",
     "created_at": null,
     "updated_at": null,
     "images": [

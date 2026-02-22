@@ -1,20 +1,20 @@
 {
     "_id": "apple-amaretto-sour",
-    "name": "Apple Amaretto Sour",
-    "instructions": "Shake",
+    "name": "Apfel Amaretto Sour",
+    "instructions": "Schütteln",
     "created_at": null,
     "updated_at": null,
-    "description": "Autumn variation of Amaretto Sour by Anders",
+    "description": "Herbstliche Variante des Amaretto Sour von Anders",
     "source": "https://www.youtube.com/watch?v=_nIr7E-cMOs",
-    "garnish": "Express lemon oils, add cocktail cherry",
+    "garnish": "Zitronenöle ausdrücken, Cocktailkirsche hinzufügen",
     "abv": 15.09,
     "tags": [
         "Sour",
-        "Sweet",
-        "Fruity"
+        "Süß",
+        "Fruchtig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [
         "Shaker"
     ],
@@ -43,7 +43,7 @@
         },
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -55,7 +55,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -67,7 +67,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -78,7 +78,7 @@
             "substitutes": [
                 {
                     "_id": "cinnamon-syrup",
-                    "name": "Cinnamon syrup",
+                    "name": "Zimtsirup",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -87,7 +87,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 5,
             "amount": 1,
             "units": "whole",

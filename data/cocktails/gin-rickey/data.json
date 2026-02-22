@@ -9,13 +9,13 @@
     "garnish": "straw, lemon and lime ribbons, fresh basil",
     "abv": 18.29,
     "tags": [
-        "Citrusy",
-        "Refreshing",
+        "Zitrusbetont",
+        "Erfrischend",
         "Classic",
-        "Herbacious"
+        "Kräuterig"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -42,7 +42,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -54,7 +54,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -66,7 +66,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 1,
             "units": "topup",

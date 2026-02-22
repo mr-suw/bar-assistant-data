@@ -1,12 +1,12 @@
 {
     "_id": "sage",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Sage",
+    "name": "Salbei",
     "strength": 0,
-    "description": "Sage is an evergreen shrub with fragrant gray-green leaves used for cooking. The scent and flavor are often associated with holiday cooking (like Thanksgiving stuffing in the US). In cocktails the leaves impart a savory, comforting note.",
+    "description": "Salbei ist ein immergrüner Strauch mit duftenden graugrünen Blättern, die zum Kochen verwendet werden. Der Geruch und Geschmack werden oft mit dem Kochen zu Feiertagen (wie der Thanksgiving-Füllung in den USA) in Verbindung gebracht. In Cocktails verleihen die Blätter eine herzhafte, wohltuende Note.",
     "origin": null,
     "color": "#2e5c12",
-    "category": "Fruits and vegetables",
+    "category": "Früchte und Gemüse",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -23,5 +23,5 @@
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": null,
-    "units": "leaves"
+    "units": "Blätter"
 }

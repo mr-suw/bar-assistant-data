@@ -1,19 +1,19 @@
 {
     "_id": "pink-lady",
     "name": "Pink Lady",
-    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Fill with ice and shake for 10 seconds\n3. Strain into a chilled coupe",
+    "instructions": "1. Alle Zutaten in einen Shaker geben.\n2. Mit Eis füllen und 10 Sekunden lang kräftig schütteln.\n3. In eine gekühlte Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A tart, silken drink from the 1930s.",
+    "description": "Ein herber, seidiger Drink aus den 1930er Jahren.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/pink-lady",
-    "garnish": "brandied cherry",
+    "garnish": "Belegkirsche (Brandied Cherry)",
     "abv": 15.06,
     "tags": [
         "Sour",
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",

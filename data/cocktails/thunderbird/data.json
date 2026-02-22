@@ -6,13 +6,13 @@
     "updated_at": null,
     "description": "At Philadelphia's Zahav, this gin fizz variation strikes an appealing balance between citrus-first refresher and creamy, sweet dessert drink.",
     "source": "https://punchdrink.com/recipes/thunderbird/",
-    "garnish": "orange wheel",
+    "garnish": "Orangenscheibe",
     "abv": 14.4,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 0.75,
             "units": "oz",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 6,
             "amount": 0.5,
             "units": "oz",
@@ -99,7 +99,7 @@
         },
         {
             "_id": "sugar",
-            "name": "Sugar",
+            "name": "Zucker",
             "sort": 7,
             "amount": 0.5,
             "units": "barspoon",

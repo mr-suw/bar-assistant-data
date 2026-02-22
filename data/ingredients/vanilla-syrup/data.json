@@ -1,12 +1,12 @@
 {
     "_id": "vanilla-syrup",
     "_parent_id": "simple-syrup",
-    "name": "Vanilla syrup",
+    "name": "Vanillesirup",
     "strength": 0,
-    "description": "Vanilla syrup is a sweet, aromatic ingredient created by infusing vanilla beans in a sugar and water solution. The process extracts the complex flavor compounds within the vanilla bean, resulting in a syrup that carries a distinctively rich and warm profile. This syrup is incredibly versatile, contributing a subtly sweet and intensely fragrant foundation to a variety of beverages and culinary applications. It’s a favored addition to enhance flavor and balance acidity.",
-    "origin": "Worldwide",
+    "description": "Vanillesirup ist eine süße, aromatische Zutat, die durch das Infusionieren von Vanilleschoten in einer Zucker-Wasser-Lösung entsteht. Der Prozess extrahiert die komplexen Geschmacksstoffe aus der Vanilleschote, was zu einem Sirup mit einem ausgeprägt reichen und warmen Profil führt. Dieser Sirup ist unglaublich vielseitig und trägt zu einer Vielzahl von Getränken und kulinarischen Anwendungen eine subtil süße und intensiv duftende Grundlage bei. Er ist eine beliebte Ergänzung, um den Geschmack zu verbessern und die Säure auszugleichen.",
+    "origin": "Weltweit",
     "color": "#F5F5DC",
-    "category": "Sweeteners > Syrups > Simple Syrup",
+    "category": "Süßungsmittel > Sirupe > Zuckersirup",
     "created_at": null,
     "updated_at": null,
     "images": [

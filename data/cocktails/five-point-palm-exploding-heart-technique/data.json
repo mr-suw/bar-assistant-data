@@ -1,20 +1,20 @@
 {
     "_id": "five-point-palm-exploding-heart-technique",
     "name": "Five Point Palm Exploding Heart Technique",
-    "instructions": "1. In a mixing glass, combine the ingredients\n2. Stir until chilled\n3. Strain over ice into a rocks glass",
+    "instructions": "1. Die Zutaten in ein Rührglas geben.\n2. Rühren, bis der Drink kalt ist.\n3. Auf Eis in einen Tumbler abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This smoky, bittersweet cocktail combines mezcal’s earthy intensity with the bitter depth of Punt e Mes and the richness of coffee liqueur. Chocolate bitters tie everything together with a roasty, slightly bitter finish. A brooding, complex drink with martial-arts-level impact—sip slowly and with respect.\n\nCreated by Erick Castro",
+    "description": "Dieser rauchige, bittersüße Cocktail kombiniert die erdige Intensität von Mezcal mit der bitteren Tiefe von Punt e Mes und der Reichhaltigkeit von Kaffeelikör. Chocolate Bitters binden alles mit einem röstigen, leicht bitteren Finish zusammen. Ein düsterer, komplexer Drink mit der Wucht einer Kampfkunsttechnik – langsam und mit Respekt genießen.\n\nErstellt von Erick Castro",
     "source": "https://www.reddit.com/r/cocktails/comments/1m90u9t/five_point_palm_exploding_heart_technique/",
     "garnish": null,
     "abv": 29.39,
     "tags": [
-        "Smokey",
+        "Rauchig",
         "Bitter",
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -53,7 +53,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "angostura-cocoa-bitters",
-            "name": "Angostura cocoa bitters",
+            "name": "Angostura Cocoa Bitters",
             "sort": 4,
             "amount": 2,
             "units": "dashes",

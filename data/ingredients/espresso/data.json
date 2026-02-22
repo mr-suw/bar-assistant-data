@@ -3,10 +3,10 @@
     "_parent_id": "coffee",
     "name": "Espresso",
     "strength": 0,
-    "description": "Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey.",
+    "description": "Espresso ist im Allgemeinen dicker als Kaffee, der mit anderen Methoden gebrüht wird, mit einer Viskosität, die der von warmem Honig ähnelt.",
     "origin": "Italy",
     "color": "#743c0e",
-    "category": "Beverages > Coffee",
+    "category": "Getränke > Kaffee",
     "created_at": null,
     "updated_at": null,
     "images": [

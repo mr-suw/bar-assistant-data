@@ -1,12 +1,12 @@
 {
     "_id": "cranberries",
     "_parent_id": "fruits-and-vegetables",
-    "name": "Cranberries",
+    "name": "Moosbeeren",
     "strength": 0,
-    "description": "Cranberries are a tart and vibrant fruit native to North America, specifically the regions of eastern North America. These small berries possess a uniquely astringent flavor profile, stemming from their high acidity and low sugar content. The taste can be surprisingly complex, initially tart and sharply acidic, evolving into a subtly sweet and refreshing finish. Historically, cranberries have been utilized by indigenous populations for both sustenance and medicinal purposes, and they remain an iconic symbol of the fall harvest season.",
-    "origin": "North America",
+    "description": "Moosbeeren sind eine herbe und leuchtende Frucht, die in Nordamerika beheimatet ist, genauer gesagt in den Regionen des östlichen Nordamerikas. Diese kleinen Beeren besitzen ein einzigartig herbes Geschmacksprofil, das von ihrem hohen Säuregehalt und geringen Zuckergehalt herrührt. Der Geschmack kann überraschend komplex sein, anfänglich herb und scharf säuerlich, entwickelt sich aber zu einem subtil süßen und erfrischenden Abgang. Historisch wurden Moosbeeren von den indigenen Völkern sowohl zur Ernährung als auch zu medizinischen Zwecken genutzt, und sie bleiben ein ikonisches Symbol der herbstlichen Erntezeit.",
+    "origin": "Nordamerika",
     "color": "#DC263D",
-    "category": "Fruits and vegetables",
+    "category": "Früchte und Gemüse",
     "created_at": null,
     "updated_at": null,
     "images": [

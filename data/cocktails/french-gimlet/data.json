@@ -1,19 +1,19 @@
 {
     "_id": "french-gimlet",
     "name": "French Gimlet",
-    "instructions": "1. Combine all the ingredients into your cocktail shaker\n2. Shake with ice for 12-15 seconds\n3. Strain into a chilled coupe glass",
+    "instructions": "1. Alle Zutaten in Ihren Cocktailshaker geben.\n2. 12-15 Sekunden lang mit Eis schütteln.\n3. In ein gekühltes Coupette-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A simple 3-ingredient riff on a classic Gimlet. St-Germain Elderflower Liqueur is used as the sweetener to balance the tart lime juice. The French Gimlet highlights the bright, citrusy and floral notes of St Germain.",
+    "description": "Eine einfache 3-Zutaten-Variante eines klassischen Gimlets. St-Germain Holunderblütenlikör wird als Süßungsmittel verwendet, um den herben Limettensaft auszugleichen. Der French Gimlet hebt die hellen, zitrusartigen und floralen Noten von St-Germain hervor.",
     "source": "https://stevethebartender.com.au/st-germain-elderflower-french-gimlet/",
-    "garnish": "Garnish with a lime wheel",
+    "garnish": "Mit einer Limettenscheibe garnieren",
     "abv": 22,
     "tags": [
-        "Citrusy",
-        "Sweet"
+        "Zitrusbetont",
+        "Süß"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

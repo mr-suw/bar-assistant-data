@@ -1,12 +1,12 @@
 {
     "_id": "rosemary",
     "_parent_id": "spices",
-    "name": "Rosemary",
+    "name": "Rosmarin",
     "strength": 0,
-    "description": "Rosemary is an aromatic evergreen herb belonging to the mint family, known for its distinctive piney and resinous fragrance. The plant itself is a woody shrub with needle-like leaves that are typically used fresh or dried in culinary applications. The intense aroma comes from volatile oils within the leaves, which contribute to a complex, slightly camphoraceous flavor profile. It's commonly used to infuse oils, vinegars, and other flavorings, and its strong scent makes it a versatile addition to both sweet and savory dishes.",
-    "origin": "Mediterranean",
+    "description": "Rosmarin ist ein aromatisches, immergrünes Kraut aus der Familie der Lippenblütler, bekannt für seinen unverwechselbaren pinienartigen und harzigen Duft. Die Pflanze selbst ist ein holziger Strauch mit nadelartigen Blättern, die typischerweise frisch oder getrocknet in kulinarischen Anwendungen verwendet werden. Das intensive Aroma stammt von flüchtigen Ölen in den Blättern, die zu einem komplexen, leicht kampferartigen Geschmacksprofil beitragen. Es wird häufig verwendet, um Öle, Essige und andere Aromen zu infundieren, und sein starker Duft macht es zu einer vielseitigen Ergänzung sowohl für süße als auch herzhafte Gerichte.",
+    "origin": "Mittelmeer",
     "color": "#556B2F",
-    "category": "Spices",
+    "category": "Gewürze",
     "created_at": null,
     "updated_at": null,
     "images": [

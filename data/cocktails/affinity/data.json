@@ -1,18 +1,18 @@
 {
     "_id": "affinity",
     "name": "Affinity",
-    "instructions": "1. Stir all of the ingredients with ice to chill\n2. Strain into a chilled glass",
+    "instructions": "1. Alle Zutaten mit Eis verrühren, um sie zu kühlen.\n2. In ein gekühltes Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This off-the-radar classic cocktail was originally made with equal measures of Scotch whisky, dry vermouth, and sweet vermouth. At Bramble in Edinburgh, co-owner Jason Scott has developed, well, an affinity for the Affinity, brushing up the original recipe by using a Highland single malt (Glenmorangie 10 year old) and swapping in Byrrh Grand Quinquina for the sweet vermouth. The crowning touch? Bramble ages its mixture in barrels; they originally used small casks custom-made for the cocktails by Glenmorangie and are currently using 50-liter barrels that previously held oloroso sherry, aging the cocktail for between three and nine months and using a solera system for consistency. Until you can get to Edinburgh to try one of Bramble’s barrel-aged Affinity cocktails in person, here’s the base recipe, which should give you a delicious taste of the possibilities.",
+    "description": "Dieser kaum bekannte Cocktail-Klassiker wurde ursprünglich zu gleichen Teilen aus Scotch Whisky, trockenem Wermut und süßem Wermut hergestellt. Im Bramble in Edinburgh hat Mitinhaber Jason Scott eine gewisse 'Affinität' für den Affinity entwickelt und das Originalrezept aufgepeppt, indem er einen Highland Single Malt (Glenmorangie 10 Jahre) verwendet und den süßen Wermut durch Byrrh Grand Quinquina ersetzt. Der Clou? Bramble reift seine Mischung in Fässern; ursprünglich verwendeten sie kleine Fässer, die von Glenmorangie speziell für die Cocktails angefertigt wurden, und verwenden derzeit 50-Liter-Fässer, in denen zuvor Oloroso-Sherry lagerte. Der Cocktail reift zwischen drei und neun Monaten und wird für die Konsistenz in einem Solera-System verwendet. Bis Sie nach Edinburgh kommen, um einen von Brambles fassgereiften Affinity-Cocktails persönlich zu probieren, finden Sie hier das Basisrezept, das Ihnen einen köstlichen Vorgeschmack auf die Möglichkeiten geben sollte.",
     "source": "https://imbibemagazine.com/recipe/affinity-cocktail/",
-    "garnish": "Cherry and lemon twist",
+    "garnish": "Kirsche und Zitronenzeste",
     "abv": 21.11,
     "tags": [
-        "Wine"
+        "Wein"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 1,
             "units": "dashes",

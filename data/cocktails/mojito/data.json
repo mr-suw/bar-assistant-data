@@ -1,20 +1,20 @@
 {
     "_id": "mojito",
     "name": "Mojito",
-    "instructions": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
+    "instructions": "Minzzweige mit Zucker und Limettensaft mischen. Einen Spritzer Sodawasser hinzufügen und das Glas mit Eis füllen. Rum eingießen und mit Sodawasser auffüllen. Leicht umrühren, um alle Zutaten zu verbinden.",
     "created_at": null,
     "updated_at": null,
-    "description": "The combination of mint, lime, and rum creates a delightful balance of sweetness, acidity, and herbal freshness. Mojitos are popular in bars and restaurants and are often associated with a laid-back and tropical vibe. They are a favorite cocktail for summer gatherings and outdoor events.",
+    "description": "Die Kombination aus Minze, Limette und Rum schafft eine wunderbare Balance aus Süße, Säure und kräuteriger Frische. Mojitos sind in Bars und Restaurants beliebt und werden oft mit einer entspannten und tropischen Atmosphäre assoziiert. Sie sind ein beliebter Cocktail für Sommerfeste und Veranstaltungen im Freien.",
     "source": "https://iba-world.com/mojito/",
-    "garnish": "Garnish with sprigs of mint and slice of lime.",
+    "garnish": "Mit Minzzweigen und Limettenscheibe garnieren.",
     "abv": 24.24,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
         "Mojito"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 3,
             "amount": 6,
             "units": "sprigs",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "sugar",
-            "name": "Sugar",
+            "name": "Zucker",
             "sort": 4,
             "amount": 2,
             "units": "tsp",
@@ -76,7 +76,7 @@
             "substitutes": [
                 {
                     "_id": "simple-syrup",
-                    "name": "Simple Syrup",
+                    "name": "Zuckersirup",
                     "amount": 22.5,
                     "units": "ml",
                     "amount_max": null
@@ -85,7 +85,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 1,
             "units": "topup",

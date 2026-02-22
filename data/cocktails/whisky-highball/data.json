@@ -1,18 +1,18 @@
 {
     "_id": "whisky-highball",
     "name": "Whisky Highball",
-    "instructions": "1. Cut a lemon ready for garnishing and squeezing\n2. Fill your highball with ice\n3. Pour all the ingredients into your glass\n4. Top up with soda water\n5. Stir the drink gently together, mixing all the ingredients\n6. Garnish with the lemon wedge",
+    "instructions": "1. Eine Zitrone für die Garnierung und zum Auspressen vorbereiten.\n2. Das Highball-Glas mit Eis füllen.\n3. Alle Zutaten in das Glas geben.\n4. Mit Sodawasser auffüllen.\n5. Den Drink vorsichtig umrühren, um alle Zutaten zu vermischen.\n6. Mit einer Zitronenspalte garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Initially, the most common highball was made with Scotch whisky and carbonated water, known simply as a \"Scotch and soda\". New York barman Patrick Duffy claimed the highball was brought to the U.S. in 1894 from England by actor E. J. Ratcliffe. Bartender Tip:Simple and refreshing cocktail with surprising complexity. One part whisky, two parts mixer, garnished with a lemon wedge and served over ice in a highball glass; the whisky highball is as simple as it is delicious",
+    "description": "Ursprünglich wurde der gängigste Highball aus Scotch Whisky und kohlensäurehaltigem Wasser hergestellt, einfach bekannt als \"Scotch and Soda\". Der New Yorker Barmann Patrick Duffy behauptete, der Highball sei 1894 vom Schauspieler E. J. Ratcliffe aus England in die USA gebracht worden. Bartender-Tipp: Ein einfacher und erfrischender Cocktail mit überraschender Komplexität. Ein Teil Whisky, zwei Teile Mixer, garniert mit einer Zitronenspalte und auf Eis in einem Highball-Glas serviert; der Whisky Highball ist so einfach wie köstlich.",
     "source": "https://cocktailclub.com/cocktails/whisky-highball-2",
     "garnish": null,
     "abv": 29.09,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "whiskey",
-            "name": "Whiskey",
+            "name": "Whisky",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 2,
             "amount": 120,
             "units": "topup",
@@ -50,7 +50,7 @@
             "substitutes": [
                 {
                     "_id": "ginger-beer",
-                    "name": "Ginger beer",
+                    "name": "Ginger Beer",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -59,7 +59,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

@@ -1,19 +1,19 @@
 {
     "_id": "john-collins",
     "name": "John Collins",
-    "instructions": "Pour all ingredients directly into a highball filled with ice. Stir gently.\n\nNOTE:\n\nUse ‘Old Tom’ Gin for Tom Collins.",
+    "instructions": "Alle Zutaten direkt in ein mit Eis gefülltes Highball-Glas geben. Vorsichtig umrühren.\n\nHINWEIS:\n\nVerwenden Sie „Old Tom“ Gin für Tom Collins.",
     "created_at": null,
     "updated_at": null,
-    "description": "A John Collins is a cocktail which was attested in 1869, but may be older. It is believed to have originated with a headwaiter of that name who worked at Limmer's Old House in Conduit Street in Mayfair, which was a popular London hotel and coffee house around 1790–1817.",
+    "description": "Ein John Collins ist ein Cocktail, der 1869 belegt wurde, aber älter sein könnte. Es wird angenommen, dass er von einem Oberkellner dieses Namens stammt, der im Limmer's Old House in der Conduit Street in Mayfair arbeitete, einem beliebten Londoner Hotel und Kaffeehaus um 1790–1817.",
     "source": "https://iba-world.com/john-collins/",
-    "garnish": "Garnish with a lemon slice and maraschino cherry.",
+    "garnish": "Mit einer Zitronenscheibe und Maraschino-Kirsche garnieren.",
     "abv": 11.64,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -54,7 +54,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -66,7 +66,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -78,7 +78,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 60,
             "units": "ml",

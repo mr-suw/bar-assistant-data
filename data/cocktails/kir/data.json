@@ -1,20 +1,20 @@
 {
     "_id": "kir",
     "name": "KIR",
-    "instructions": "Pour Crème de cassis into glass, top up with white wine.\n\nNote:\n\nKIR ROYAL – Use Champagne instead of white wine",
+    "instructions": "Crème de cassis in das Glas gießen, mit Weißwein auffüllen.\n\nHinweis:\n\nKIR ROYAL – Champagner anstelle von Weißwein verwenden",
     "created_at": null,
     "updated_at": null,
-    "description": "In France it is usually drunk as an apéritif before a meal or snack. It was originally made with Bourgogne Aligoté, a white wine of Burgundy, but today various white wines are used throughout France, according to the region and the barkeeper. Many prefer a white Chardonnay-based Burgundy, such as Chablis.",
+    "description": "In Frankreich wird er normalerweise als Aperitif vor einer Mahlzeit oder einem Snack getrunken. Ursprünglich wurde er mit Bourgogne Aligoté, einem Weißwein aus Burgund, hergestellt, aber heute werden in ganz Frankreich verschiedene Weißweine verwendet, je nach Region und Barkeeper. Viele bevorzugen einen weißen Burgunder auf Chardonnay-Basis, wie z.B. Chablis.",
     "source": "https://iba-world.com/kir/",
     "garnish": null,
     "abv": 11.27,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
-        "Wine"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
+        "Wein"
     ],
-    "glass": "Champagne",
-    "method": "Build",
+    "glass": "Champagnerglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "white-wine",
-            "name": "White wine",
+            "name": "Weißwein",
             "sort": 1,
             "amount": 90,
             "units": "ml",

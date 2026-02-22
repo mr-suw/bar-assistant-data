@@ -1,12 +1,12 @@
 {
     "_id": "dry-vermouth",
     "_parent_id": "fortified-wine",
-    "name": "Dry Vermouth",
+    "name": "Trockener Wermut",
     "strength": 18,
-    "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
-    "origin": "Worldwide",
+    "description": "Trockener Wermut ist eine Art verstärkter Wein, der mit verschiedenen Botanicals, darunter Kräuter, Gewürze und manchmal Zitrusschalen, aromatisiert wird. Er zeichnet sich durch sein trockenes und weniger süßes Profil im Vergleich zu süßem Wermut aus. Trockener Wermut ist eine Schlüsselzutat in klassischen Cocktails wie dem Martini und dem Manhattan, wo er dem Getränk Komplexität und eine subtile Kräuternote verleiht. Er ist typischerweise weiß oder hellgelb und wird oft als gekühlter Aperitif pur genossen. Der Alkoholgehalt von trockenem Wermut wird mit zusätzlichen Spirituosen, normalerweise Traubenbrand, verstärkt, was auch zu seinem Geschmack und seiner Haltbarkeit beiträgt.",
+    "origin": "Weltweit",
     "color": "#ffffff",
-    "category": "Fortified wine",
+    "category": "Likörwein",
     "created_at": null,
     "updated_at": null,
     "images": [

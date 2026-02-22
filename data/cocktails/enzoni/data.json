@@ -1,18 +1,18 @@
 {
     "_id": "enzoni",
     "name": "Enzoni",
-    "instructions": "Muddle grapes, add ingredients, shake then double strain. Garnish with more green grapes on a cocktail pick.",
+    "instructions": "Trauben muddeln, Zutaten hinzufügen, schütteln und dann doppelt abseihen. Mit weiteren grünen Trauben an einem Cocktailspieß garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Enzoni Cocktail is a true modern classic that will impress your guests! This gin-based drink is perfect for any occasion and is a fun and delicious take on some of your favorite classic cocktails!",
+    "description": "Der Enzoni Cocktail ist ein wahrer moderner Klassiker, der Ihre Gäste beeindrucken wird! Dieser Gin-basierte Drink ist perfekt für jeden Anlass und eine lustige und köstliche Interpretation einiger Ihrer Lieblingsklassiker!",
     "source": "https://www.reddit.com/r/cocktails/comments/10cogce/enzoni/",
-    "garnish": "Grapes on a pick",
+    "garnish": "Trauben am Spieß",
     "abv": 16,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -57,7 +57,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -69,7 +69,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -81,7 +81,7 @@
         },
         {
             "_id": "grapes",
-            "name": "Grapes",
+            "name": "Trauben",
             "sort": 5,
             "amount": 5,
             "units": "whole",

@@ -1,12 +1,12 @@
 {
     "_id": "milk",
     "_parent_id": "beverages",
-    "name": "Milk",
+    "name": "Milch",
     "strength": 0,
-    "description": "Milk in cocktails primarily serves to add richness, body, and a creamy texture, transforming the mouthfeel of a drink. While straightforward additions create creamy concoctions like the White Russian or Brandy Milk Punch, a more sophisticated application is in \"clarified milk punches.\" In this technique, milk is intentionally curdled with acidic ingredients (like citrus juice or other spirits), and the resulting curds are then strained out, leaving behind a crystal-clear liquid. This process not only removes harsh notes and astringency, but also imparts a remarkably smooth, velvety texture and subtle richness to the cocktail without making it opaque or heavy.",
+    "description": "Milch in Cocktails dient primär dazu, Reichtum, Körper und eine cremige Textur hinzuzufügen und das Mundgefühl eines Getränks zu verändern. Während einfache Zugaben cremige Mischungen wie den White Russian oder Brandy Milk Punch erzeugen, ist eine anspruchsvollere Anwendung in „geklärten Milchpunschs“. Bei dieser Technik wird Milch absichtlich mit sauren Zutaten (wie Zitrussaft oder anderen Spirituosen) geronnen, und die resultierenden Gerinnsel werden dann abgesiebt, wobei eine kristallklare Flüssigkeit zurückbleibt. Dieser Prozess entfernt nicht nur herbe Noten und Adstringenz, sondern verleiht dem Cocktail auch eine bemerkenswert glatte, samtige Textur und subtile Reichhaltigkeit, ohne ihn undurchsichtig oder schwer zu machen.",
     "origin": "Cows",
     "color": "#ffffff",
-    "category": "Beverages",
+    "category": "Getränke",
     "created_at": null,
     "updated_at": null,
     "images": [

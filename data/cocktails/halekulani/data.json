@@ -1,18 +1,18 @@
 {
     "_id": "halekulani",
     "name": "Halekulani",
-    "instructions": "1. Combine all ingredients over ice and shake\n2. Strain into a chilled coupe glass and garnish",
+    "instructions": "1. Alle Zutaten auf Eis geben und schütteln.\n2. In eine gekühlte Coupette abseihen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A cross between a classic bourbon sour and a tiki drink",
+    "description": "Eine Mischung aus einem klassischen Bourbon Sour und einem Tiki-Drink.",
     "source": "https://tuxedono2.com/halekulani-cocktail-recipe",
-    "garnish": "pineapple wedge, citrus wheel, or pineapple fronds, for garnish",
+    "garnish": "Ananasspalte, Zitrusrad oder Ananasblätter",
     "abv": 13.78,
     "tags": [
         "Tiki"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 3,
             "amount": 1,
             "units": "tsp",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 6,
             "amount": 1,
             "units": "dash",

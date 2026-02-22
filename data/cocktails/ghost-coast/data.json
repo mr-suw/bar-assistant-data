@@ -1,19 +1,19 @@
 {
     "_id": "ghost-coast",
     "name": "Ghost Coast",
-    "instructions": "1. Combine all ingredients over ice and shake\n2. Strain into a rocks glass over ice and garnish",
+    "instructions": "1. Alle Zutaten mit Eis im Shaker mischen und schütteln.\n2. In einen Tumbler auf frisches Eis abseihen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "An unforgettable tour of western America in cocktail form",
+    "description": "Eine unvergessliche Tour durch den Westen Amerikas in Cocktailform.",
     "source": "https://tuxedono2.com/ghost-coast-cocktail-recipe",
-    "garnish": "eucalyptus leaf and/or banana chip for garnish",
+    "garnish": "Eukalyptusblatt und/oder Bananenchip",
     "abv": 13.71,
     "tags": [
-        "Herbacious",
-        "Fruity"
+        "Kräuterig",
+        "Fruchtig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "maple-syrup",
-            "name": "Maple syrup",
+            "name": "Ahornsirup",
             "sort": 6,
             "amount": 7.5,
             "units": "ml",
@@ -100,7 +100,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 7,
             "amount": 2,
             "units": "dashes",

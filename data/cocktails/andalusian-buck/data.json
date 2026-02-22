@@ -1,18 +1,18 @@
 {
     "_id": "andalusian-buck",
     "name": "Andalusian Buck",
-    "instructions": "1. Combine gin, sherry, lime juice, and Demerara syrup in a cocktail shaker with ice.\n2. Shake until cold.\n3. I like to add the ginger beer directly to the shaker, then pour slowly over fresh ice in a chilled Collins glass.",
+    "instructions": "1. Gin, Sherry, Limettensaft und Demerara-Sirup in einen Shaker mit Eis geben.\n2. Kalt schütteln.\n3. Das Ginger Beer direkt in den Shaker geben, dann langsam über frisches Eis in ein gekühltes Highball-Glas gießen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This drink is great because it doesn’t go too far any any direction. It’s not too sweet, there’s only a teaspoon of sugar in the whole thing. It’s not too sour, there’a barely half a lime’s worth of juice. And it’s not too strong, it only calls for an ounce of gin. And between the ginger beer and the Amontillado sherry, it’s absolutely bursting with flavor. In sort, it’s refreshing and crushable, but still interesting, which was exactly the type of drink we specialized in at Clyde Common.",
+    "description": "Dieser Drink ist großartig, weil er in keine Richtung zu extrem ist. Er ist nicht zu süß (nur ein Teelöffel Zucker im gesamten Drink), nicht zu sauer (kaum der Saft einer halben Limette) und nicht zu stark (nur 30 ml Gin). Doch durch die Kombination aus Ginger Beer und Amontillado Sherry strotzt er geradezu vor Geschmack. Kurz gesagt: Er ist erfrischend und süffig, aber dennoch interessant – genau die Art von Drink, auf die wir uns im Clyde Common spezialisiert haben.",
     "source": "https://jeffreymorgenthaler.com/andalusian-buck/",
-    "garnish": "Garnish with a lime wheel.",
+    "garnish": "Mit einem Limettenrad garnieren.",
     "abv": 10.13,
     "tags": [
-        "Savory"
+        "Herzhaft"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",

@@ -1,12 +1,12 @@
 {
     "_id": "egg",
     "_parent_id": "dairy",
-    "name": "Egg",
+    "name": "Ei",
     "strength": 0,
-    "description": "Chicken eggs are a versatile and commonly consumed food product, used in various culinary applications for their nutritional content and cooking properties.\n\nWhole egg is commonly used in \"flip\" style of cocktails.\n\nThe term \"flip\" refers to a category of cocktails that traditionally includes a combination of spirits, sweeteners, and a whole egg. Flips are characterized by their smooth and frothy texture, achieved by vigorously shaking or \"flipping\" the ingredients, which incorporates air and emulsifies the egg.\n\nThe ingredients are shaken together without ice first (a \"dry shake\") to emulsify the egg, and then ice is added for a second round of shaking to chill the mixture. The final drink is strained into a glass, and a sprinkle of nutmeg on top is a common finishing touch.",
-    "origin": "Worldwide",
+    "description": "Hühnereier sind ein vielseitiges und häufig konsumiertes Lebensmittel, das in verschiedenen kulinarischen Anwendungen aufgrund seines Nährstoffgehalts und seiner Kocheigenschaften verwendet wird.\n\nGanzes Ei wird häufig in Cocktails im 'Flip'-Stil verwendet.\n\nDer Begriff 'Flip' bezieht sich auf eine Kategorie von Cocktails, die traditionell eine Kombination aus Spirituosen, Süßungsmitteln und einem ganzen Ei enthält. Flips zeichnen sich durch ihre glatte und schaumige Textur aus, die durch kräftiges Schütteln oder 'Flippen' der Zutaten erreicht wird, wodurch Luft eingearbeitet und das Ei emulgiert wird.\n\nDie Zutaten werden zuerst ohne Eis geschüttelt (ein 'Dry Shake'), um das Ei zu emulgieren, und dann wird Eis für eine zweite Runde des Schüttelns hinzugefügt, um die Mischung zu kühlen. Das fertige Getränk wird in ein Glas abgeseiht, und eine Prise Muskatnuss obenauf ist eine übliche letzte Geste.",
+    "origin": "Weltweit",
     "color": "#e19f26",
-    "category": "Dairy",
+    "category": "Milchprodukte",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -23,5 +23,5 @@
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": null,
-    "units": "whole"
+    "units": "ganz"
 }

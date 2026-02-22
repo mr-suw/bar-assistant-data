@@ -1,18 +1,18 @@
 {
     "_id": "cafe-ireland",
     "name": "Cafe Ireland",
-    "instructions": "1. Combine all of the ingredients with ice and stir very briefly, only for 5 seconds or so. Strain into the glass and serve.",
+    "instructions": "1. Alle Zutaten mit Eis kombinieren und nur sehr kurz rühren, etwa 5 Sekunden lang. In ein Glas abseihen und servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Likening this cocktail to a dry Irish whiskey Manhattan, Yanni Kehagiaras notes that the drinkshould be stirred very briefly with ice. “It’s about retaining the texture and viscosity,” says Kehagiaras, co-owner of Stoa in San Francisco, one of this year’s Imbibe 75 Places to Watch. “Just a brief chill and it’s good.”",
+    "description": "Yanni Kehagiaras vergleicht diesen Cocktail mit einem trockenen Irish Whisky Manhattan und betont, dass der Drink nur sehr kurz mit Eis gerührt werden sollte. „Es geht darum, die Textur und Viskosität zu erhalten“, sagt Kehagiaras, Miteigentümer des Stoa in San Francisco. „Nur kurz kühlen und er ist perfekt.“",
     "source": "https://imbibemagazine.com/recipe/cafe-ireland-irish-whiskey-cocktail/",
     "garnish": null,
     "abv": 26.33,
     "tags": [
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "irish-whiskey",
-            "name": "Irish whiskey",
+            "name": "Irish Whisky",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 3,
             "amount": 15,
             "units": "ml",

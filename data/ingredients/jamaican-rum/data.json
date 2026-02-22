@@ -1,12 +1,12 @@
 {
     "_id": "jamaican-rum",
     "_parent_id": "rum",
-    "name": "Jamaican Rum",
+    "name": "Jamaikanischer Rum",
     "strength": 40,
-    "description": "Jamaican rum refers to rum produced in Jamaica, a Caribbean island known for its rich history of rum production. Jamaican rum is renowned for its bold and distinctive flavor profile, often characterized by robust and complex notes.\n\nJamaican rum has a strong cultural and historical significance, and the island is home to several well-known distilleries, each with its unique approach to rum production. Brands such as Appleton Estate and Wray & Nephew are examples of Jamaican rums that have gained international acclaim.",
+    "description": "Jamaikanischer Rum bezieht sich auf Rum, der auf Jamaika hergestellt wird, einer karibischen Insel, die für ihre reiche Geschichte der Rumproduktion bekannt ist. Jamaikanischer Rum ist bekannt für sein kühles und unverwechselbares Geschmacksprofil, das oft durch robuste und komplexe Noten gekennzeichnet ist.\n\nJamaikanischer Rum hat eine starke kulturelle und historische Bedeutung, und die Insel beherbergt mehrere bekannte Destillerien, jede mit ihrem einzigartigen Ansatz zur Rumproduktion. Marken wie Appleton Estate und Wray & Nephew sind Beispiele für jamaikanische Rums, die international Anerkennung gefunden haben.",
     "origin": "Jamaica",
     "color": "#ca5210",
-    "category": "Spirits > Sugarcane-based spirits > Rum",
+    "category": "Spirituosen > Zuckerrohrbasierte Spirituosen > Rum",
     "created_at": null,
     "updated_at": null,
     "images": [

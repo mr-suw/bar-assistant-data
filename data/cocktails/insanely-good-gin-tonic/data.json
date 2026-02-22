@@ -1,18 +1,18 @@
 {
     "_id": "insanely-good-gin-tonic",
     "name": "Insanely Good Gin & Tonic",
-    "instructions": "1. Add gin, Suze, lime cordial and bitters to a chilled Collins glass.\n2. Top with ice and tonic.\n3. Garnish with a lime wheel",
+    "instructions": "1. Gin, Suze, Lime Cordial und Bitters in ein gekühltes Collins-Glas geben.\n2. Mit Eis auffüllen und mit Tonic Water toppen.\n3. Mit einer Limettenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A Gin & Tonic cocktail recipe adds a measure of Suze, the herbal liqueur, for added bitterness in the effervescent classic.",
+    "description": "Dieses Gin & Tonic Rezept fügt eine Portion Suze hinzu. Der Kräuterlikör verleiht dem spritzigen Klassiker eine zusätzliche Bitternote.",
     "source": "https://punchdrink.com/recipes/insanely-good-gin-tonic/",
-    "garnish": "lime wheel",
+    "garnish": "Limettenscheibe",
     "abv": 27.33,
     "tags": [
         "Bitter"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 0.25,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 1,
             "units": "dash",

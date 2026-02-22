@@ -1,19 +1,19 @@
 {
     "_id": "dark-n-stormy",
-    "name": "Dark ‘n’ stormy",
-    "instructions": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+    "name": "Dark ‘n’ Stormy",
+    "instructions": "In ein Highball-Glas mit Eis das Ginger Beer gießen und mit dem Rum auffüllen, der darauf schwimmt.",
     "created_at": null,
     "updated_at": null,
-    "description": "This drink is very similar to the Moscow mule except that the Dark 'n' Stormy has dark rum instead of vodka. The original Dark 'n' Stormy was made with Gosling Black Seal rum and Barritt's Ginger Beer, but after the partnership between the two failed and the companies parted ways, Gosling Brothers created its own ginger beer.\n\nGosling Brothers claims that the drink was invented in Bermuda just after World War I.",
+    "description": "Dieses Getränk ähnelt dem Moscow Mule sehr, außer dass der Dark 'n' Stormy dunklen Rum anstelle von Wodka enthält. Der originale Dark 'n' Stormy wurde mit Gosling Black Seal Rum und Barritt's Ginger Beer hergestellt, aber nachdem die Partnerschaft zwischen den beiden scheiterte und die Unternehmen getrennte Wege gingen, entwickelte Gosling Brothers sein eigenes Ginger Beer.\n\nGosling Brothers behauptet, dass das Getränk kurz nach dem Ersten Weltkrieg auf Bermuda erfunden wurde.",
     "source": "https://iba-world.com/dark-n-stormy/",
-    "garnish": "Garnish with a lime wedge or slice.",
+    "garnish": "Mit einem Limettenschnitz oder einer -scheibe garnieren.",
     "abv": 12.47,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 2,
             "amount": 100,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

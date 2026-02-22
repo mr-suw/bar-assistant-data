@@ -3,10 +3,10 @@
     "_parent_id": "beverages",
     "name": "Ting",
     "strength": 0,
-    "description": "Ting is a unique non-alcoholic sparkling beverage crafted in Malaysia, blending the sweetness of grapefruit with a subtle herbal complexity. It's characterized by a refreshing, clean taste profile achieved through a careful balance of fruit and botanicals. The resulting liquid offers a pleasing effervescence and a delicate aroma that makes it a versatile mixer or a delightful standalone drink.\n\nBeyond its taste, Ting's appeal lies in its versatility. It complements a wide range of flavors, enhancing rather than overpowering other ingredients. Its subtle sweetness and herbaceous undertones make it an exceptional accompaniment to a variety of foods, from savory to sweet, and provides an interesting dimension to its pairings.",
+    "description": "Ting ist ein einzigartiges nicht-alkoholisches prickelndes Getränk, das in Malaysia hergestellt wird und die Süße von Grapefruit mit einer subtilen Kräuterkomplexität verbindet. Es zeichnet sich durch ein erfrischendes, klares Geschmacksprofil aus, das durch eine sorgfältige Balance von Früchten und Botanicals erreicht wird. Die resultierende Flüssigkeit bietet eine angenehme Spritzigkeit und ein zartes Aroma, das es zu einem vielseitigen Mixer oder einem köstlichen eigenständigen Getränk macht.\n\nNeben seinem Geschmack liegt Tings Reiz in seiner Vielseitigkeit. Es ergänzt eine breite Palette von Aromen und verstärkt andere Zutaten, anstatt sie zu überlagern. Seine subtile Süße und die kräuterigen Untertöne machen es zu einer außergewöhnlichen Begleitung zu einer Vielzahl von Speisen, von herzhaft bis süß, und verleihen seinen Kombinationen eine interessante Dimension.",
     "origin": "Malaysia",
     "color": "#FFC700",
-    "category": "Beverages",
+    "category": "Getränke",
     "created_at": null,
     "updated_at": null,
     "images": [

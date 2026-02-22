@@ -1,12 +1,12 @@
 {
     "_id": "gentian-liqueur",
     "_parent_id": "liqueurs",
-    "name": "Gentian Liqueur",
+    "name": "Enzianlikör",
     "strength": 0,
-    "description": "Gentian root is a common beverage flavouring for bitters. The soft drink Moxie contains gentian root. The French apéritif Suze is made with gentian. Americano apéritifs contain gentian root for bitter flavoring. It is an ingredient in the Italian liqueur Aperol. It is also used as the main flavor in the German after-dinner digestif called Underberg, and the main ingredient in Angostura bitters and Peychaud's Bitters.",
+    "description": "Enzianwurzel ist eine häufige Geschmacksrichtung für Bittergetränke. Das Erfrischungsgetränk Moxie enthält Enzianwurzel. Der französische Aperitif Suze wird mit Enzian hergestellt. Americano Aperitifs enthalten Enzianwurzel zur bitteren Aromatisierung. Es ist eine Zutat im italienischen Likör Aperol. Es wird auch als Hauptgeschmack im deutschen Digestif namens Underberg und als Hauptbestandteil in Angostura Bitters und Peychaud's Bitters verwendet.",
     "origin": null,
     "color": null,
-    "category": "Liqueurs",
+    "category": "Liköre",
     "created_at": null,
     "updated_at": null,
     "images": [

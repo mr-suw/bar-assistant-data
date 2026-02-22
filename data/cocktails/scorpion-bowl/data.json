@@ -1,18 +1,18 @@
 {
     "_id": "scorpion-bowl",
     "name": "Scorpion Bowl",
-    "instructions": "1. Put everything in a blender.\n2. Blend for up to 10 seconds.\n3. Pour unstrained into a Tiki bowl.",
+    "instructions": "1. Alles in einen Mixer geben.\n2. Bis zu 10 Sekunden mixen.\n3. Ungefiltert in eine Tiki-Schale gießen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Scorpion, like many tiki cocktails, has gone through countless iterations, from a gin and wine-laced libation to this contemporary version of Trader Vic’s 1946 recipe (even he prescribes several riffs in his own books). It’s difficult to know where the original recipe ends and the contemporary begins, especially when so much rum is involved. But it is thought that, while in Hawaii, Vic first tried the punch from which the Scorpion was modeled, which mostly likely contained okolehao, an indigenous spirit distilled from the Polynesian ti plant. Orgeat is a constant ingredient in most interpretations and is key to the balance of dark rum and fruit.",
+    "description": "Der Scorpion, wie viele Tiki-Cocktails, hat unzählige Iterationen durchlaufen, von einer Gin- und Wein-durchzogenen Libation bis zu dieser zeitgenössischen Version von Trader Vics Rezept aus dem Jahr 1946 (sogar er schreibt mehrere Variationen in seinen eigenen Büchern vor). Es ist schwierig zu wissen, wo das Originalrezept endet und das Zeitgenössische beginnt, besonders wenn so viel Rum im Spiel ist. Es wird jedoch angenommen, dass Vic, als er auf Hawaii war, zuerst den Punsch probierte, von dem der Scorpion abgeleitet wurde, der höchstwahrscheinlich Okolehao enthielt, einen indigenen Spiritus, der aus der polynesischen Ti-Pflanze destilliert wurde. Orgeat ist eine konstante Zutat in den meisten Interpretationen und ist der Schlüssel zum Gleichgewicht von dunklem Rum und Frucht.",
     "source": "Trader Vic",
-    "garnish": "Garnish with a gardenia.",
+    "garnish": "Mit einer Gardenie garnieren.",
     "abv": 6.49,
     "tags": [
         "Tiki"
     ],
-    "glass": "Tiki",
-    "method": "Blend",
+    "glass": "Tiki-Becher",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 1,
             "amount": 180,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 120,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 3,
             "amount": 45,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 4,
             "amount": 180,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "grape-brandy",
-            "name": "Grape Brandy",
+            "name": "Traubenbrandy",
             "sort": 5,
             "amount": 30,
             "units": "ml",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "crushed-ice",
-            "name": "Crushed ice",
+            "name": "Crushed Ice",
             "sort": 6,
             "amount": 480,
             "units": "ml",

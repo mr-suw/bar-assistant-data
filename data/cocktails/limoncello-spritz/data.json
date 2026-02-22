@@ -1,19 +1,19 @@
 {
     "_id": "limoncello-spritz",
     "name": "Limoncello Spritz",
-    "instructions": "Build all ingredients into ice-filled glass and briefly stir.",
+    "instructions": "Alle Zutaten in ein mit Eis gefülltes Glas geben und kurz umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Limoncello Spritz is a refreshing and easy Italian cocktail made with Limoncello liqueur and sparkling water.",
+    "description": "Der Limoncello Spritz ist ein erfrischender und einfacher italienischer Cocktail aus Limoncello-Likör und Mineralwasser.",
     "source": "https://www.diffordsguide.com/cocktails/recipe/4242/limoncello-spritz",
-    "garnish": "Lemon slice",
+    "garnish": "Zitronenscheibe",
     "abv": 14.35,
     "tags": [
         "Spritz",
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 3,
             "amount": 20,
             "units": "ml",

@@ -1,19 +1,19 @@
 {
     "_id": "daiquiri",
     "name": "Daiquiri",
-    "instructions": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar.\n3. Add ice and shake.\n4. Strain into chilled cocktail glass.",
+    "instructions": "1. In einem Cocktailshaker alle Zutaten hinzufügen.\n2. Gut umrühren, um den Zucker aufzulösen.\n3. Eis hinzufügen und schütteln.\n4. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Daiquirí is also the name of a beach and an iron mine near Santiago de Cuba, and is a word of Taíno origin. The drink was supposedly invented by an American mining engineer named Jennings Cox, who was in Cuba (then at the tail-end of the Spanish Captaincy-General government) at the time of the Spanish–American War. It is also possible that William A. Chanler, a US congressman who purchased the Santiago iron mines in 1902, introduced the daiquiri to clubs in New York in that year.",
+    "description": "Daiquirí ist auch der Name eines Strandes und einer Eisenmine in der Nähe von Santiago de Cuba und ist ein Wort taínoischen Ursprungs. Das Getränk wurde angeblich von einem amerikanischen Bergbauingenieur namens Jennings Cox erfunden, der sich zur Zeit des Spanisch-Amerikanischen Krieges in Kuba (damals am Ende der spanischen Generalkapitänregelung) befand. Es ist auch möglich, dass William A. Chanler, ein US-Kongressabgeordneter, der 1902 die Eisenminen von Santiago kaufte, den Daiquiri in diesem Jahr in New Yorker Clubs einführte.",
     "source": "https://iba-world.com/daiquiri/",
-    "garnish": "Lime wedge",
+    "garnish": "Limettenspalte",
     "abv": 18.29,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
             "substitutes": [
                 {
                     "_id": "sugar",
-                    "name": "Sugar",
+                    "name": "Zucker",
                     "amount": 2,
                     "units": "barspoon",
                     "amount_max": null

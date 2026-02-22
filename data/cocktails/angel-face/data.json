@@ -1,20 +1,20 @@
 {
     "_id": "angel-face",
     "name": "Angel Face",
-    "instructions": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+    "instructions": "1. Alle Zutaten in einen mit Eiswürfeln gefüllten Shaker geben.\n2. Shaken und in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Although the origin of the cocktail is not known, the main hypotheses assume that it was born in the twenties of the twentieth century in France: this thesis would prove the presence of calvados, a liqueur commonly used in France and, in particular, in that period, as an epidemic of phylloxera in European vineyards had limited the production of brandy.\nOn this basis, one of the most frequent hypotheses has it that the cocktail was created by Harry MacElhone, founder of Harry’s New York Bar in Paris on July 19, 1919, in honor of the celebrations for the victory of the First World War.\nThe first reliable evidence, however, dates back to 1930 when Harry Craddock included the Angel Face among the recipes of his book “Savoy cocktail book”. Some sources indicate that the name derives from that of an American gangster active during Prohibition; less likely the dedication to Rick Blaine, the protagonist of Casablanca played by Humphrey Bogart, as the film follows the first testimonies (1942).",
+    "description": "Obwohl der Ursprung des Cocktails nicht bekannt ist, gehen die Haupthypothesen davon aus, dass er in den zwanziger Jahren des zwanzigsten Jahrhunderts in Frankreich entstanden ist: Diese These würde durch die Anwesenheit von Calvados gestützt, einem in Frankreich häufig verwendeten Likör, insbesondere in jener Zeit, da eine Reblausplage in den europäischen Weinbergen die Produktion von Brandy eingeschränkt hatte.\nAuf dieser Grundlage besagt eine der häufigsten Hypothesen, dass der Cocktail von Harry MacElhone, dem Gründer von Harry's New York Bar in Paris, am 19. Juli 1919 zu Ehren der Feierlichkeiten für den Sieg im Ersten Weltkrieg kreiert wurde.\nDer erste verlässliche Beweis stammt jedoch aus dem Jahr 1930, als Harry Craddock den Angel Face in die Rezepte seines Buches 'Savoy Cocktail Book' aufnahm. Einige Quellen geben an, dass der Name von einem amerikanischen Gangster stammt, der während der Prohibition aktiv war; weniger wahrscheinlich ist die Widmung an Rick Blaine, den von Humphrey Bogart gespielten Protagonisten von Casablanca, da der Film nach den ersten Zeugnissen (1942) erschien.",
     "source": "https://iba-world.com/angel-face/",
     "garnish": "",
     "abv": 32,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "apricot-brandy",
-            "name": "Apricot Brandy",
+            "name": "Aprikosenbrand",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 3,
             "amount": 30,
             "units": "ml",

@@ -1,18 +1,18 @@
 {
     "_id": "see-you-on-wednesday",
     "name": "See You on Wednesday",
-    "instructions": "1. At the bottom of a shaker, muddle the jalapeño, cilantro, and agave nectar.\n2. Add the celery juice, lime juice, and salt solution. Add ice and shake until well chilled.\n3. Fine-strain into a Tajín-rimmed double rocks glass over large-format ice.",
+    "instructions": "1. Im Shaker Jalapeño, Koriander und Agavensirup zerstoßen (muddlen).\n2. Selleriesaft, Limettensaft und Salzlösung hinzufügen. Eis hinzufügen und schütteln, bis der Drink gut gekühlt ist.\n3. Fein in einen mit Tajín gesäumten Tumbler auf einen großen Eiswürfel abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This zero-proof Spicy Margarita variation from Natasha David combines celery juice, lime juice, jalapeno, cilantro, agave nectar, and salt.",
+    "description": "Diese alkoholfreie Spicy-Margarita-Variante von Natasha David kombiniert Selleriesaft, Limettensaft, Jalapeño, Koriander, Agavensirup und Salz.",
     "source": "https://www.liquor.com/see-you-on-wednesday-cocktail-recipe-7091325",
-    "garnish": "Garnish with a celery spear.",
+    "garnish": "Selleriestange",
     "abv": 0,
     "tags": [
-        "Virgin"
+        "Alkoholfrei"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,19 +27,19 @@
     "ingredients": [
         {
             "_id": "chilli-pepper",
-            "name": "Chilli Pepper",
+            "name": "Chili-Pfeffer",
             "sort": 1,
             "amount": 2,
             "units": "slice",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": null,
+            "note": "Jalapeño",
             "substitutes": []
         },
         {
             "_id": "cilantro",
-            "name": "Cilantro",
+            "name": "Koriander",
             "sort": 2,
             "amount": 1,
             "units": "sprigs",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavensirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 5,
             "amount": 3,
             "units": "drops",

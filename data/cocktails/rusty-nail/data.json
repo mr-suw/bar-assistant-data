@@ -1,19 +1,19 @@
 {
     "_id": "rusty-nail",
     "name": "Rusty Nail",
-    "instructions": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.",
+    "instructions": "Alle Zutaten direkt in ein Old Fashioned Glas mit Eis geben. Vorsichtig umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A Rusty Nail can be served in an old-fashioned glass on the rocks, or \"up\" in a stemmed glass. It is most commonly served over ice. A Rusty Nail served without ice is sometimes called a Straight Up Nail.\n\n  - **The Rusty Bob**, which substitutes Bourbon whiskey for blended Scotch whisky\n  - **The Rusty Ale**, in which a shot of Drambuie is added to any beer, served without ice.\n  - **The Smoky Nail**, which uses Islay whisky (very smoky in flavor) in place of blended Scotch whisky.\n  - **The Clavo Ahumado** (Spanish for \"smoky nail\"), using mezcal instead of blended Scotch whisky.\n  - **The Railroad Spike**, often served at brunch and made with approximately four parts Cold brewed coffee to one part Drambuie in a tall glass over ice.\n  - **The Donald Sutherland**, which substitutes Canadian rye whisky for blended Scotch whisky.",
+    "description": "Ein Rusty Nail kann in einem Old-Fashioned-Glas auf Eis oder „up“ in einem Stielglas serviert werden. Er wird am häufigsten auf Eis serviert. Ein Rusty Nail, der ohne Eis serviert wird, wird manchmal als Straight Up Nail bezeichnet.\n\n- **The Rusty Bob**, der Bourbon Whiskey durch Blended Scotch Whisky ersetzt.\n- **The Rusty Ale**, bei dem ein Schuss Drambuie zu jedem Bier hinzugefügt wird, ohne Eis serviert.\n- **The Smoky Nail**, der Islay Whisky (sehr rauchig im Geschmack) anstelle von Blended Scotch Whisky verwendet.\n- **The Clavo Ahumado** (spanisch für „rauchiger Nagel“), der Mezcal anstelle von Blended Scotch Whisky verwendet.\n- **The Railroad Spike**, oft beim Brunch serviert und mit etwa vier Teilen Cold Brew Kaffee zu einem Teil Drambuie in einem hohen Glas über Eis zubereitet.\n- **The Donald Sutherland**, der kanadischen Roggenwhiskey durch Blended Scotch Whisky ersetzt.",
     "source": "https://iba-world.com/rusty-nail/",
-    "garnish": "Garnish with lemon zest.",
+    "garnish": "Mit Zitronenzeste garnieren.",
     "abv": 36.36,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 45,
             "units": "ml",

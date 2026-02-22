@@ -1,19 +1,19 @@
 {
     "_id": "ti-punch",
     "name": "Ti’ Punch",
-    "instructions": "1. Slice half a lime into wedges\n2. Muddle limes and syrup in a rocks glass\n3. Add 2-3 pieces of ice and stir until melted",
+    "instructions": "1. Eine halbe Limette in Spalten schneiden.\n2. Limetten und Sirup in einem Tumbler zerstoßen.\n3. 2-3 Eiswürfel hinzufügen und rühren, bis sie fast geschmolzen sind.",
     "created_at": null,
     "updated_at": null,
-    "description": "This Caribbean favorite is the laid back cousin to the daiquiri. Kick your feet up with the 'Ti Punch.",
+    "description": "Dieser karibische Favorit ist der entspannte Cousin des Daiquiri. Legen Sie die Füße hoch mit einem Ti’ Punch.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/ti-punch",
     "garnish": null,
     "abv": 38.96,
     "tags": [
-        "Citrusy",
-        "Summer"
+        "Zitrusbetont",
+        "Sommer"
     ],
-    "glass": "Lowball",
-    "method": "Muddle",
+    "glass": "Tumbler",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "rhum-agricole",
-            "name": "Rhum agricole",
+            "name": "Rum Agricole",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 7.5,
             "units": "ml",
@@ -52,10 +52,10 @@
         },
         {
             "_id": "lime",
-            "name": "Lime",
+            "name": "Limette",
             "sort": 3,
             "amount": 1,
-            "units": "whole",
+            "units": "Stück",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

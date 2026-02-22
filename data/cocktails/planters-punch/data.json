@@ -1,20 +1,20 @@
 {
     "_id": "planters-punch",
     "name": "Planter’s Punch",
-    "instructions": "Pour all ingredients directly in a small tumbler or a typical terracotta glass.\nNOTE:\nAdd dilution up to taste, it can be given by water, ice or juices.",
+    "instructions": "Alle Zutaten direkt in ein kleines Tumbler-Glas oder ein typisches Terrakotta-Glas geben.\nHINWEIS:\nVerdünnung nach Geschmack hinzufügen, diese kann durch Wasser, Eis oder Säfte erfolgen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The cocktail has been said to have originated at the Planters Hotel in Charleston, South Carolina, but actually originated in Jamaica.",
+    "description": "Es heißt, der Cocktail sei im Planters Hotel in Charleston, South Carolina, entstanden, stammt aber tatsächlich aus Jamaika.",
     "source": "https://iba-world.com/planters-punch/",
-    "garnish": "Garnish with orange zest.",
+    "garnish": "Mit Orangenzeste garnieren.",
     "abv": 18.41,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
         "Tiki"
     ],
-    "glass": "Hurricane",
-    "method": "Build",
+    "glass": "Hurricane-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 3,
             "units": "dash",

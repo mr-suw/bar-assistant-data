@@ -1,18 +1,18 @@
 {
     "_id": "diki-diki",
     "name": "Diki-Diki",
-    "instructions": "1. Combine all ingredients over ice and shake\n2. Strain into a chilled cocktail glass, serve up",
+    "instructions": "1. Alle Zutaten mit Eis in einen Shaker geben und schütteln\n2. In ein gekühltes Cocktailglas abseihen, pur servieren",
     "created_at": null,
     "updated_at": null,
-    "description": "A revived golden-era cocktail and fabulous way to tinker with Swedish Punsch",
+    "description": "Ein wiederbelebter Cocktail der goldenen Ära und eine fabelhafte Art, mit Swedish Punsch zu experimentieren",
     "source": "https://tuxedono2.com/diki-diki-cocktail-recipe",
     "garnish": null,
     "abv": 23.36,
     "tags": [
         "Brandy"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "swedish-punsch",
-            "name": "Swedish punsch",
+            "name": "Swedish Punsch",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

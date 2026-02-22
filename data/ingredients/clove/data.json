@@ -1,12 +1,12 @@
 {
     "_id": "clove",
     "_parent_id": "spices",
-    "name": "Clove",
+    "name": "Nelke",
     "strength": 0,
-    "description": "The spice, cloves, is known for its warm, sweet, and aromatic flavor with a hint of spiciness. It has a strong, pungent aroma and is used in both culinary and medicinal applications. Cloves are often used in spice blends, such as pumpkin pie spice and garam masala, and are a key ingredient in many cuisines.",
-    "origin": "Indonesia",
+    "description": "Das Gewürz Nelke ist bekannt für seinen warmen, süßen und aromatischen Geschmack mit einem Hauch von Würze. Es hat ein starkes, scharfes Aroma und wird sowohl in kulinarischen als auch in medizinischen Anwendungen verwendet. Nelken werden oft in Gewürzmischungen wie Kürbiskuchengewürz und Garam Masala verwendet und sind eine Schlüsselzutat in vielen Küchen.",
+    "origin": "Indonesien",
     "color": "#782803",
-    "category": "Spices",
+    "category": "Gewürze",
     "created_at": null,
     "updated_at": null,
     "images": [

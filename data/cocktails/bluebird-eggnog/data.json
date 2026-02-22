@@ -1,16 +1,16 @@
 {
     "_id": "bluebird-eggnog",
     "name": "Bluebird Eggnog",
-    "instructions": "1. Add all ingredients to a shaker and dry-shake vigorously.\n2. Add ice, and quickly hard-shake.\n3. Double-strain into a rocks glass with light ice.\n4. To garnish, place a white chocolate eggshell on top of the cocktail.\n\n\n ## Editors note:\n\n### White Chocolate Eggshell\n\nTemper high-quality white chocolate. While the chocolate is heating, blow up water balloons to roughly the size of an extra-large egg, and assemble a cold water bath. \n\nWhen the white chocolate is tempered, dip the balloon halfway and allow the chocolate to drip off, then place directly into the cold water to set.\n\nOnce the chocolate has set, pop the balloon with a paring knife or scissors, and peel it away from the chocolate shell. Chocolate eggs may be stored in the freezer until ready to use.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben und kräftig trocken schütteln (dry-shake).\n2. Eis hinzufügen und schnell kräftig schütteln (hard-shake).\n3. Doppelt in ein Rocks-Glas mit wenig Eis abseihen.\n4. Zur Garnierung eine weiße Schokoladen-Eierschale auf den Cocktail legen.\n\n\n ## Anmerkung der Redaktion:\n\n### Eierschale aus weißer Schokolade\n\nHochwertige weiße Schokolade temperieren. Während die Schokolade erhitzt wird, Wasserballons auf die Größe eines extra großen Eis aufblasen und ein Kaltwasserbad vorbereiten.\n\nWenn die weiße Schokolade temperiert ist, den Ballon zur Hälfte eintauchen und die Schokolade abtropfen lassen, dann direkt in das kalte Wasser legen, damit sie fest wird.\n\nSobald die Schokolade fest ist, den Ballon mit einem Schälmesser oder einer Schere platzen lassen und von der Schokoladenhülle abziehen. Schokoladeneier können bis zur Verwendung im Gefrierschrank aufbewahrt werden.",
     "created_at": null,
     "updated_at": null,
-    "description": "This eggnog cocktail recipe from Baltimore bar The Bluebird combines cream, rum, apple brandy, an egg and simple syrup.",
+    "description": "Dieses Eggnog-Cocktailrezept von der Baltimore Bar The Bluebird kombiniert Sahne, Rum, Apfelbrand, ein Ei und Zuckersirup.",
     "source": "https://punchdrink.com/recipes/bluebird-eggnog/?utm_source=Sailthru&utm_medium=email&utm_campaign=20241214_Punch_Content_5%20Things%20to%20Drink%20and%20Read%20This%20Weekend&utm_term=Punch%20-%20Latest%20%28LIST%20TO%20SEND%20TO%29%20%2A%2ASecond%20Attempt%2A%2A",
-    "garnish": "white chocolate eggshell (see Editor’s Note)",
+    "garnish": "Eierschale aus weißer Schokolade (siehe Anmerkung der Redaktion)",
     "abv": 12.8,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -37,19 +37,19 @@
         },
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 2,
             "amount": 1,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Lyon White Rum",
+            "note": "vorzugsweise Lyon White Rum",
             "substitutes": []
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",
@@ -73,14 +73,14 @@
         },
         {
             "_id": "egg",
-            "name": "Egg",
+            "name": "Ei",
             "sort": 5,
             "amount": 1,
             "units": "whole",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably an Amish egg",
+            "note": "vorzugsweise ein Amish-Ei",
             "substitutes": []
         }
     ]

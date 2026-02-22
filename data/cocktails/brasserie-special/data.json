@@ -1,18 +1,18 @@
 {
     "_id": "brasserie-special",
     "name": "Brasserie Special",
-    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 20 seconds\n3. Strain into a chilled coupe",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben.\n2. Eis hinzufügen und 20 Sekunden kräftig schütteln.\n3. In eine gekühlte Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Bring a bottle of whiskey to the island with this passionfruit-based sour. From the Café Royal Cocktail Book, the Brasserie Special showcases how versatile passion fruit syrup is, and how whiskey can go tiki!",
+    "description": "Bringen Sie eine Flasche Whiskey mit auf die Insel mit diesem Passionsfrucht-basierten Sour. Aus dem Café Royal Cocktail Book zeigt der Brasserie Special, wie vielseitig Passionsfruchtsirup ist und wie Whiskey Tiki sein kann!",
     "source": "https://www.liberandcompany.com/collections/recipes/products/brasserie-special",
     "garnish": null,
     "abv": 22.15,
     "tags": [
-        "Tropical"
+        "Tropisch"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",

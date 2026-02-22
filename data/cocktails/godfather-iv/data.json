@@ -1,16 +1,16 @@
 {
     "_id": "godfather-iv",
     "name": "Godfather IV",
-    "instructions": "1. Combine all ingredients in a mixing glass over ice and stir until chilled.\n2. Strain into a rocks glass over a large ice cube.\n3. Garnish with a lemon twist.",
+    "instructions": "1. Alle Zutaten in einem Rührglas auf Eis vermischen und rühren, bis der Drink kalt ist.\n2. In einen Tumbler auf einen großen Eiswürfel abseihen.\n3. Mit einer Zitronenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A riff on the amaretto-sweetened Godfather cocktail recipe, this drink adds on walnut liqueur for extra depth and nutty richness.",
+    "description": "Diese Variante des Godfather-Cocktails, der traditionell mit Amaretto gesüßt wird, fügt Walnusslikör für zusätzliche Tiefe und nussige Reichhaltigkeit hinzu.",
     "source": "https://punchdrink.com/recipes/godfather-iv/",
-    "garnish": "lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 31.38,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,14 +25,14 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Compass Box Glasgow Blend",
+            "note": "vorzugsweise Compass Box Glasgow Blend",
             "substitutes": []
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "_id": "walnut-liqueur",
-            "name": "Walnut Liqueur",
+            "name": "Walnusslikör",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 2,
             "units": "dash",

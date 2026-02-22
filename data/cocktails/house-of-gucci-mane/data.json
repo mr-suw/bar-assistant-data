@@ -1,18 +1,18 @@
 {
     "_id": "house-of-gucci-mane",
     "name": "House of Gucci Mane",
-    "instructions": "1. Add all of the ingredients to a shaker with ice and shake.\n2. Strain into a chilled coupe.\n3. Garnish.",
+    "instructions": "1. Alle Zutaten mit Eis in einen Shaker geben und schütteln.\n2. In eine gekühlte Coupette abseihen.\n3. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "When Shane Sullivan of Oz by Oz in Madison, Wisconsin, served a brief stint as a bartender in Ireland he found that the most ordered cocktail wasn't the Espresso Martini but the French Martini. Once he returned to the States, his mission was to create his own take elevating the cocktail's sweet notes. But he rounds them out with an amaro base, sherry, and lime juice.",
+    "description": "Als Shane Sullivan von Oz by Oz in Madison, Wisconsin, eine kurze Zeit als Barkeeper in Irland arbeitete, stellte er fest, dass der am häufigsten bestellte Cocktail nicht der Espresso Martini, sondern der French Martini war. Nach seiner Rückkehr in die Staaten machte er es sich zur Aufgabe, seine eigene Version zu kreieren, welche die süßen Noten des Cocktails hervorhebt. Er rundet diese jedoch mit einer Amaro-Basis, Sherry und Limettensaft ab.",
     "source": "https://imbibemagazine.com/recipe/house-of-gucci-mane-french-martini/",
-    "garnish": "Raspberry",
+    "garnish": "Himbeere",
     "abv": 7.14,
     "tags": [
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 0.5,
             "units": "oz",

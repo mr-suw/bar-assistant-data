@@ -9,13 +9,13 @@
     "garnish": "Garnish with a mint sprig.",
     "abv": 26.45,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
         "Julep",
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Julep",
-    "method": "Build",
+    "glass": "Julep-Becher",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -42,7 +42,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 2,
             "amount": 4,
             "units": "sprigs",
@@ -54,7 +54,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",

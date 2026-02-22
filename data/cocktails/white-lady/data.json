@@ -1,19 +1,19 @@
 {
     "_id": "white-lady",
     "name": "White Lady",
-    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "It was first created in 1919 in London by Harry MacElhone and it was equal parts creme de menthe, triple sec and lemon juice. But four years later [1923], when he was working in Paris, France, at Harry&amp;#039;s American Bar, he had changed the recipe. He had swapped out the creme de menthe, for gin. Which, was a good move. But then, four years later [1927], he puts out the book &amp;quot;Barflies and Cocktails&amp;quot; and includes the White Lady, but the recipe no longer had gin. It went back to cremé de menthe, and it didn&amp;#039;t have lemon juice. It had Brandy, and it was no longer equal parts. It was a completely different drink.\n\nBut then, 3 years later, in 1930, Harry Craddock steps in and he puts, in the &amp;quot;The Savoy Cocktail Book&amp;quot;, the White Lady. Gin, triple sec and lemon juice, only he increases the amount of gin to make a drier cocktail. Which is pretty much the cocktail we have today... and it&amp;#039;s a great drink.\n\nA few years after this drink became popular at the American Bar at the Savoy in London, because of Harry Craddock. One of the managers, suggested putting in a little egg white. But to this day, the egg white is considered optional.",
+    "description": "Er wurde erstmals 1919 in London von Harry MacElhone kreiert und bestand aus gleichen Teilen Crème de Menthe, Triple Sec und Zitronensaft. Doch vier Jahre später [1923], als er in Paris, Frankreich, in Harry&amp;#039;s American Bar arbeitete, änderte er das Rezept. Er hatte die Crème de Menthe durch Gin ersetzt. Was ein guter Schritt war. Doch dann, vier Jahre später [1927], brachte er das Buch „Barflies and Cocktails“ heraus und nahm die White Lady auf, aber das Rezept enthielt keinen Gin mehr. Es ging zurück zu Crème de Menthe, und es hatte keinen Zitronensaft. Es hatte Brandy, und es waren keine gleichen Teile mehr. Es war ein völlig anderes Getränk.\n\nDoch dann, 3 Jahre später, im Jahr 1930, trat Harry Craddock auf den Plan und nahm in „The Savoy Cocktail Book“ die White Lady auf. Gin, Triple Sec und Zitronensaft, nur erhöhte er die Ginmenge, um einen trockeneren Cocktail zu erhalten. Was so ziemlich der Cocktail ist, den wir heute haben... und es ist ein großartiges Getränk.\n\nEinige Jahre nachdem dieses Getränk in der American Bar im Savoy in London, dank Harry Craddock, populär wurde, schlug einer der Manager vor, etwas Eiweiß hinzuzufügen. Doch bis heute gilt das Eiweiß als optional.",
     "source": "https://iba-world.com/white-lady/",
     "garnish": null,
     "abv": 22.86,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -60,7 +60,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -72,7 +72,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",

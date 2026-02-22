@@ -1,20 +1,20 @@
 {
     "_id": "as-kingston-negroni",
     "name": "A.S. Kingston Negroni",
-    "instructions": "1. Add all ingredients to a mixing glass with ice and stir until chilled.\n2. Taste occasionally to ensure the coffee bean flavor has infused the drink.\n3. Strain into a rocks glass over a large ice cube.\n4. Garnish with a half orange wheel and lime twist.",
+    "instructions": "1. Alle Zutaten in ein Rührglas mit Eis geben und rühren, bis es gut gekühlt ist.\n2. Gelegentlich probieren, um sicherzustellen, dass sich das Kaffeearoma entfaltet hat.\n3. In einen Tumbler auf einen großen Eiswürfel abseihen.\n4. Mit einer halben Orangenscheibe und einer Limettenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A Kingston Negroni cocktail recipe that stirs the classic mix of rum, Campari and sweet vermouth with oloroso sherry and coffee beans.",
+    "description": "Ein Kingston Negroni Rezept, das die klassische Mischung aus Rum, Campari und süßem Wermut mit Oloroso Sherry und Kaffeebohnen verfeinert.",
     "source": "https://punchdrink.com/recipes/anthony-schmidts-kingston-negroni/",
-    "garnish": "half orange wheel, lime twist",
+    "garnish": "halbe Orangenscheibe, Limettenzeste",
     "abv": 25.76,
     "tags": [
         "Bitter",
-        "Citrusy",
+        "Zitrusbetont",
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": "kingstone-negroni",
     "year": null,
@@ -36,7 +36,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": 0,
-            "note": "preferably Smith & Cross",
+            "note": "vorzugsweise Smith & Cross",
             "substitutes": []
         },
         {
@@ -53,14 +53,14 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": 0,
-            "note": "preferably Carpano Antica",
+            "note": "vorzugsweise Carpano Antica",
             "substitutes": []
         },
         {
@@ -72,15 +72,15 @@
             "optional": false,
             "is_specified": false,
             "amount_max": 0,
-            "note": "preferably Lustau",
+            "note": "vorzugsweise Lustau",
             "substitutes": []
         },
         {
             "_id": "coffee",
-            "name": "Coffee",
+            "name": "Kaffeebohnen",
             "sort": 5,
             "amount": 5,
-            "units": "beans",
+            "units": "Stück",
             "optional": false,
             "is_specified": false,
             "amount_max": 10,

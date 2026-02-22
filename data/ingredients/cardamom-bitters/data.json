@@ -1,12 +1,12 @@
 {
     "_id": "cardamom-bitters",
     "_parent_id": "bitters",
-    "name": "Cardamom bitters",
+    "name": "Kardamom-Bitters",
     "strength": 45,
-    "description": "Cardamom bitters are a complex aromatic infusion, born from the heart of the cardamom pod. These bitters boast a fragrance that is both warm and spicy, with a foundation of citrusy brightness and a lingering sweetness. Crafted through maceration—where crushed cardamom pods are steeped in a high-proof spirit with other botanicals—they release an intense and layered profile of flavors, offering a significant contribution to any drink they enhance. The resulting product is often used to add depth and intrigue to both classic and contemporary cocktails.",
-    "origin": "India & Guatemala",
+    "description": "Kardamom-Bitters sind eine komplexe aromatische Infusion, die aus dem Herzen der Kardamomkapsel entsteht. Diese Bitters zeichnen sich durch einen warmen und würzigen Duft aus, mit einer Grundlage von zitrusartiger Helligkeit und einer anhaltenden Süße. Durch Mazeration – bei der zerstoßene Kardamomkapseln mit anderen Botanicals in hochprozentigem Alkohol eingelegt werden – setzen sie ein intensives und vielschichtiges Geschmacksprofil frei, das einen wesentlichen Beitrag zu jedem Getränk leistet, das sie verfeinern. Das resultierende Produkt wird oft verwendet, um sowohl klassischen als auch modernen Cocktails Tiefe und Reiz zu verleihen.",
+    "origin": "Indien & Guatemala",
     "color": "#D2B48C",
-    "category": "Bitters",
+    "category": "Bitter",
     "created_at": null,
     "updated_at": null,
     "images": [

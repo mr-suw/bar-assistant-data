@@ -1,19 +1,19 @@
 {
     "_id": "mary-pickford",
     "name": "Mary Pickford",
-    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://iba-world.com/mary-pickford/",
-    "garnish": "Persian dried rose bud",
+    "garnish": "Persische getrocknete Rosenknospe",
     "abv": 15.92,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Fizzio",
-    "method": "Shake",
+    "glass": "Fizzio-Schale",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 4,
             "amount": 5,
             "units": "ml",

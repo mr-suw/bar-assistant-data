@@ -1,20 +1,20 @@
 {
     "_id": "penicillin",
     "name": "Penicillin",
-    "instructions": "1. Muddle ginger in a shaker.\n2. Add the remaining ingredients, except for the Islay single malt whiskey.\n3. Fill the shaker with ice and shake.\n4. Double-strain into a chilled old fashioned glass with ice.\n5. Float the single malt whiskey on top.",
+    "instructions": "1. Ingwer in einem Shaker zerstoßen.\n2. Die restlichen Zutaten hinzufügen, außer dem Islay Single Malt Whiskey.\n3. Den Shaker mit Eis füllen und schütteln.\n4. Doppelt in ein gekühltes Old Fashioned Glas mit Eis abseihen.\n5. Den Single Malt Whiskey obenauf schwimmen lassen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The drink was created in 2005 by Australian bartender Sam Ross living in New York at the time. Its name derives from the drug penicillin, discovered by Scottish scientist Alexander Fleming, hinting to the medicinal properties of some of its ingredients, with suggested effects similar to that of a hot toddy which is said to relieve the symptoms of cold and flu.",
+    "description": "Das Getränk wurde 2005 von dem australischen Barkeeper Sam Ross kreiert, der zu dieser Zeit in New York lebte. Sein Name leitet sich von dem Medikament Penicillin ab, das vom schottischen Wissenschaftler Alexander Fleming entdeckt wurde, und spielt auf die medizinischen Eigenschaften einiger seiner Zutaten an, mit vermuteten Wirkungen, die denen eines Hot Toddy ähneln, der die Symptome von Erkältungen und Grippe lindern soll.",
     "source": "https://iba-world.com/penicillin/",
-    "garnish": "Garnish with candied ginger.",
+    "garnish": "Mit kandiertem Ingwer garnieren.",
     "abv": 19.2,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks",
-        "Smokey"
+        "Rauchig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "islay-scotch-whiskey",
-            "name": "Islay Scotch Whiskey",
+            "name": "Islay Scotch Whisky",
             "sort": 2,
             "amount": 7.5,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -76,7 +76,7 @@
             "substitutes": [
                 {
                     "_id": "ginger-syrup",
-                    "name": "Ginger syrup",
+                    "name": "Ingwersirup",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -85,10 +85,10 @@
         },
         {
             "_id": "ginger",
-            "name": "Ginger",
+            "name": "Ingwer",
             "sort": 5,
             "amount": 2,
-            "units": "slices",
+            "units": "Scheiben",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

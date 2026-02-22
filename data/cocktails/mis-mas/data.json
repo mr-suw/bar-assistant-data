@@ -10,10 +10,10 @@
     "abv": 3.33,
     "tags": [
         "Spritz",
-        "Wine"
+        "Wein"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

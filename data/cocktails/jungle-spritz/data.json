@@ -1,18 +1,18 @@
 {
     "_id": "jungle-spritz",
     "name": "Jungle Spritz",
-    "instructions": "1. Add all ingredients except soda to a glass filled with ice\n2. Stir to combine and top with soda",
+    "instructions": "1. Alle Zutaten außer dem Sodawasser in ein mit Eis gefülltes Glas geben.\n2. Umrühren und mit Sodawasser auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A refreshing apertivo inspired by the classic tiki drink, the Jungle Bird.",
+    "description": "Ein erfrischender Aperitivo, inspiriert vom Tiki-Klassiker Jungle Bird.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/jungle-spritz",
-    "garnish": "Lime wedge and pineapple leaves",
+    "garnish": "Limettenspalte und Ananasblätter",
     "abv": 11.65,
     "tags": [
         "Spritz"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 3,
             "amount": 1,
             "units": "topup",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",

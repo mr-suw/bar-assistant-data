@@ -1,9 +1,9 @@
 {
     "_id": "fortified-wine",
     "_parent_id": null,
-    "name": "Fortified wine",
+    "name": "Likörwein",
     "strength": 0,
-    "description": "Fortified wine is a type of wine that has had a distilled spirit, usually brandy, added to it, increasing its alcohol content and often enhancing its flavor. Common varieties include port, sherry, and Madeira, which can range from sweet to dry.",
+    "description": "Wein, dem zur Alkoholsteigerung ein Destillat – meist Weinbrand – zugesetzt wurde; Beispiele sind Port, Sherry und Madeira.",
     "origin": null,
     "color": null,
     "category": null,

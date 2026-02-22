@@ -1,19 +1,19 @@
 {
     "_id": "misis-negroni-sour",
     "name": "Misi’s Negroni Sour",
-    "instructions": "1. Combine all ingredients in a cocktail shaker then dry shake without ice to combine.\n2. Add ice, and shake vigorously.\n3. Strain into a coupe glass.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben und ohne Eis kurz schütteln (Dry Shake).\n2. Eis hinzufügen und kräftig schütteln.\n3. In eine Cocktailschale abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This Negroni cocktail recipe turns the classic combination of Campari, gin and vermouth into a frothy sour.",
+    "description": "Dieses Rezept verwandelt die klassische Negroni-Kombination aus Campari, Gin und Wermut in einen schaumigen Sour.",
     "source": "https://punchdrink.com/recipes/misi-negroni-sour/",
     "garnish": null,
     "abv": 11.29,
     "tags": [
         "Sour",
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "vermouth-bianco",
-            "name": "Vermouth Bianco",
+            "name": "Wermut Bianco",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 6,
             "amount": 1,
             "units": "part",

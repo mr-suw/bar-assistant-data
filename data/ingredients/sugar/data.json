@@ -1,12 +1,12 @@
 {
     "_id": "sugar",
     "_parent_id": "sweeteners",
-    "name": "Sugar",
+    "name": "Zucker",
     "strength": 0,
-    "description": "White sugar",
+    "description": "Weißer Kristallzucker.",
     "origin": null,
     "color": null,
-    "category": "Sweeteners",
+    "category": "Süßungsmittel",
     "created_at": null,
     "updated_at": null,
     "images": [

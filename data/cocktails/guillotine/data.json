@@ -1,16 +1,16 @@
 {
     "_id": "guillotine",
     "name": "Guillotine",
-    "instructions": "1. Combine all ingredients in a mixing glass with ice and stir until chilled and diluted.\n2. Strain into a chilled cocktail glass.",
+    "instructions": "1. Alle Zutaten in ein Rührglas mit Eis geben und rühren, bis es gekühlt und verdünnt ist.\n2. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Guillotine is a mezcal cocktail recipe from San Francisco bar Stoa that combines the spirit with Cynar and dry vermouth.",
+    "description": "Die Guillotine ist ein Mezcal-Cocktailrezept von der San Francisco Bar Stoa, das die Spirituose mit Cynar und trockenem Wermut kombiniert.",
     "source": "https://punchdrink.com/recipes/guillotine/",
     "garnish": null,
     "abv": 23.75,
     "tags": [],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -32,7 +32,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Del Maguey Vida",
+            "note": "vorzugsweise Del Maguey Vida",
             "substitutes": []
         },
         {
@@ -49,14 +49,14 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Dolin",
+            "note": "vorzugsweise Dolin",
             "substitutes": []
         }
     ]

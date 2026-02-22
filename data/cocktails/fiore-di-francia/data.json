@@ -1,18 +1,18 @@
 {
     "_id": "fiore-di-francia",
     "name": "Fiore di Francia",
-    "instructions": "1. Combine all the ingredients in a mixing glass, add ice and stir.\n2. Strain into a coupe.\n3. Express the lemon peel and discard.",
+    "instructions": "1. Alle Zutaten in ein Rührglas geben, Eis hinzufügen und rühren.\n2. In eine Coupette abseihen.\n3. Die ätherischen Öle der Zitronenzeste über dem Drink ausdrücken und die Zeste wegwerfen.",
     "created_at": null,
     "updated_at": null,
-    "description": "In this cocktail recipe Italian amaro, Cynar, joins forces with St-Germain in a nod to the border zone where elderflower grows freely.",
+    "description": "In diesem Cocktail-Rezept verbündet sich der italienische Amaro Cynar mit St-Germain – eine Anspielung auf die Grenzzone, in der Holunderblüten frei gedeihen.",
     "source": "https://punchdrink.com/recipes/fiore-di-francia/",
     "garnish": null,
     "abv": 22.93,
     "tags": [
         "Bitter"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whiskey",
             "sort": 1,
             "amount": 37.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 1,
             "units": "dash",

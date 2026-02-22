@@ -1,12 +1,12 @@
 {
     "_id": "vodka",
     "_parent_id": "spirits",
-    "name": "Vodka",
+    "name": "Wodka",
     "strength": 40,
-    "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
-    "origin": "Russia",
+    "description": "Wodka ist eine destillierte Spirituose, die für ihr klares und farbloses Aussehen bekannt ist. Er wird typischerweise durch die Fermentation und Destillation von Getreide, Kartoffeln oder manchmal Früchten hergestellt. Der resultierende Alkohol wird dann oft gefiltert und mit Wasser verdünnt, um den gewünschten Alkoholgehalt zu erreichen.\n\nWodka zeichnet sich durch seinen relativ neutralen Geschmack und sein Aroma aus. Er wird absichtlich so destilliert, dass er eine saubere und reine Spirituose ist, wodurch er die Eigenschaften seiner Grundzutaten annehmen kann.",
+    "origin": "Russland",
     "color": "#ffffff",
-    "category": "Spirits",
+    "category": "Spirituosen",
     "created_at": null,
     "updated_at": null,
     "images": [

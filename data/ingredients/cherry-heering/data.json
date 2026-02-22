@@ -1,12 +1,12 @@
 {
     "_id": "cherry-heering",
     "_parent_id": "liqueurs",
-    "name": "Cherry heering",
+    "name": "Cherry Heering",
     "strength": 21,
-    "description": "Cherry Heering is a Danish cherry-flavored liqueur with a deep red color. It is made from a base of spirits, sugar, and cherries, specifically sour cherries, which contribute to its rich and sweet flavor profile. Cherry Heering is known for its versatility in cocktails and is often used in classic and modern mixology. One of the most famous cocktails featuring Cherry Heering is the Singapore Sling. The liqueur has a distinct cherry taste with hints of almond and spices, making it a popular choice for adding depth and complexity to a variety of drinks.",
-    "origin": "Denmark",
+    "description": "Cherry Heering ist ein dänischer Kirschlikör mit einer tiefroten Farbe. Er wird auf Basis von Spirituosen, Zucker und Kirschen hergestellt, insbesondere Sauerkirschen, die zu seinem reichen und süßen Geschmacksprofil beitragen. Cherry Heering ist bekannt für seine Vielseitigkeit in Cocktails und wird oft in klassischer und moderner Mixologie verwendet. Einer der berühmtesten Cocktails, der Cherry Heering enthält, ist der Singapore Sling. Der Likör hat einen ausgeprägten Kirschgeschmack mit Anklängen von Mandel und Gewürzen, was ihn zu einer beliebten Wahl macht, um einer Vielzahl von Getränken Tiefe und Komplexität zu verleihen.",
+    "origin": "Dänemark",
     "color": "#540b0b",
-    "category": "Liqueurs",
+    "category": "Liköre",
     "created_at": null,
     "updated_at": null,
     "images": [

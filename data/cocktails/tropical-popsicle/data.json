@@ -1,18 +1,18 @@
 {
     "_id": "tropical-popsicle",
     "name": "Tropical Popsicle",
-    "instructions": "1. Add all ingredients, except soda water, to a cocktail shaker\n2. Add ice and shake hard for 10 seconds\n3. Strain into a highball glass filled with cubed ice\n4. Top with club soda",
+    "instructions": "1. Alle Zutaten (außer dem Sodawasser) in einen Cocktail-Shaker geben.\n2. Eis hinzufügen und 10 Sekunden lang kräftig schütteln.\n3. In ein mit frischen Eiswürfeln gefülltes Highball-Glas abseihen.\n4. Mit Sodawasser auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A Japanese Whisky collins, with acidity, bitter notes and tropical flavors for a pop!",
+    "description": "Ein Collins auf Basis von japanischem Whisky, der mit Säure, Bitternoten und tropischen Aromen für eine regelrechte Geschmacksexplosion sorgt!",
     "source": "https://www.liberandcompany.com/collections/recipes/products/tropical-popsicle",
-    "garnish": "banana leaf",
+    "garnish": "Bananenblatt",
     "abv": 8.73,
     "tags": [
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "whiskey",
-            "name": "Whiskey",
+            "name": "Whisky",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 90,
             "units": "ml",

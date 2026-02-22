@@ -3,10 +3,10 @@
     "_parent_id": "fruit-brandy",
     "name": "Pisco",
     "strength": 40,
-    "description": "Pisco is a type of brandy that originates from the winemaking regions of Peru and Chile. It is produced through the distillation of fermented grape juice, and its production is governed by strict regulations in both countries.\n\nPisco is typically distilled only once, which sets it apart from some other brandies that may undergo multiple distillations.",
-    "origin": "South America",
+    "description": "Pisco ist eine Spirituose aus der Gruppe der Weinbrände, die aus den Weinbauregionen Perus und Chiles stammt. Er wird durch Destillation von vergorenem Traubensaft hergestellt und unterliegt in beiden Ländern strengen Vorschriften.\n\nPisco wird typischerweise nur einmal destilliert, was ihn von anderen Weinbränden unterscheidet, die oft mehrfache Destillationen durchlaufen.",
+    "origin": "Südamerika",
     "color": "#ffffff",
-    "category": "Spirits > Brandy > Fruit brandy",
+    "category": "Spirituosen > Brandy > Obstbrand",
     "created_at": null,
     "updated_at": null,
     "images": [

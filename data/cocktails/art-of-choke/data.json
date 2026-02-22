@@ -1,19 +1,19 @@
 {
     "_id": "art-of-choke",
     "name": "Art of Choke",
-    "instructions": "1. Muddle mint and syrup in a mixing glass\n2. Add remaining with ice and stir for 20 seconds\n3. Strain into a chilled rocks glass with fresh ice",
+    "instructions": "1. Minze und Sirup in einem Rührglas zerdrücken (muddeln).\n2. Die restlichen Zutaten mit Eis hinzufügen und 20 Sekunden lang rühren.\n3. In einen vorgekühlten Tumbler auf frisches Eis abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A drink that broke all the rules when Kyle Davidson first conjured it in 2008. Now it's a modern classic. What's interesting is opting for a split base where one half is an overproof amaro instead of a spirit. Also wild - this is a stirred cocktail!",
+    "description": "Ein Drink, der alle Regeln brach, als Kyle Davidson ihn 2008 kreierte. Heute ist er ein moderner Klassiker. Interessant ist die geteilte Basis (split base), bei der eine Hälfte ein hochprozentiger Amaro anstelle einer Spirituose ist. Ebenfalls ungewöhnlich – dies ist ein gerührter Cocktail!",
     "source": "https://www.liberandcompany.com/collections/recipes/products/art-of-choke",
-    "garnish": "Mint sprig",
+    "garnish": "Minzzweig",
     "abv": 23.11,
     "tags": [
-        "Citrusy",
-        "Herbacious"
+        "Zitrusbetont",
+        "Kräuterig"
     ],
-    "glass": "Lowball",
-    "method": "Muddle",
+    "glass": "Tumbler",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "green-chartreuse",
-            "name": "Green Chartreuse",
+            "name": "Chartreuse Verte",
             "sort": 3,
             "amount": 1,
             "units": "barspoon",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 6,
             "amount": 1,
             "units": "sprig",

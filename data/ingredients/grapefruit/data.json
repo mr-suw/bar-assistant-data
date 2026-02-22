@@ -3,10 +3,10 @@
     "_parent_id": "fruits-and-vegetables",
     "name": "Grapefruit",
     "strength": 0,
-    "description": "Grapefruit is a citrus fruit known for its slightly bitter and tangy flavor. It comes in various colors, including pink, red, and white, and is commonly eaten fresh, juiced, or used in salads and beverages. Grapefruit is rich in vitamins and antioxidants and is often enjoyed for its refreshing taste.",
+    "description": "Zitrusfrucht mit leicht bitter-säuerlichem Geschmack, oft rosa oder rotfleischig.",
     "origin": "Barbados",
     "color": "#ec770d",
-    "category": "Fruits and vegetables",
+    "category": "Früchte und Gemüse",
     "created_at": null,
     "updated_at": null,
     "images": [

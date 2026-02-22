@@ -1,20 +1,20 @@
 {
     "_id": "new-york-sour",
     "name": "New York Sour",
-    "instructions": "Pour all ingredients into the shaker. Shake vigorously with ice.  Strain into a chilled rocks glass filled with ice. Float the wine on top.",
+    "instructions": "Alle Zutaten in den Shaker geben. Kräftig mit Eis schütteln. In ein gekühltes Rocks-Glas mit Eis abseihen. Den Wein obenauf schwimmen lassen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Largely similar to the whiskey sour, the New York sour adds a float of dry red wine to the drink.",
+    "description": "Weitgehend ähnlich dem Whiskey Sour, fügt der New York Sour dem Drink einen Schuss trockenen Rotwein hinzu.",
     "source": "https://iba-world.com/new-york-sour/",
-    "garnish": "Garnish with lemon or orange zest with cherry.",
+    "garnish": "Mit Zitronen- oder Orangenzeste mit Kirsche garnieren.",
     "abv": 16.09,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks",
         "Sour"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 4,
             "amount": 1,
             "units": "drops",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "red-wine",
-            "name": "Red wine",
+            "name": "Rotwein",
             "sort": 5,
             "amount": 15,
             "units": "ml",

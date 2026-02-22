@@ -1,18 +1,18 @@
 {
     "_id": "white-mezcal-negroni",
     "name": "White Mezcal Negroni",
-    "instructions": "1. Combine in a mixing glass with ice and stir briefly for five seconds.\n2. Strain into a rocks glass over a large ice cube or whatever ice you have.\n3. Garnish with a lemon twist expressed over the drink, then discarded.",
+    "instructions": "1. Alle Zutaten in ein Rührglas geben und nur kurz (ca. 5 Sekunden) auf Eis rühren.\n2. In einen Tumbler auf einen großen Eiswürfel (oder herkömmliches Eis) abseihen.\n3. Mit einer Zitronenzeste garnieren; diese über dem Drink aromatisieren (ausdrücken) und anschließend verwerfen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This White Negroni cocktail recipe swaps gin for mezcal and the expected Suze for Domaine La Bohème Gentiane Extra Bitter Aperitif.",
+    "description": "Diese White-Negroni-Variation ersetzt Gin durch Mezcal und den üblichen Suze durch Domaine La Bohème Gentiane Extra Bitter Aperitif.",
     "source": "https://punchdrink.com/recipes/white-mezcal-negroni-2/",
-    "garnish": "expressed lemon twist (discarded)",
+    "garnish": "aromatisierte Zitronenzeste (anschließend verwerfen)",
     "abv": 24.62,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": "white-negroni",
     "year": null,
@@ -46,7 +46,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Alessio Vermouth Bianco",
+            "note": "vorzugsweise Alessio Vermouth Bianco",
             "substitutes": []
         },
         {

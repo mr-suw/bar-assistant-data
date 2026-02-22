@@ -1,18 +1,18 @@
 {
     "_id": "8-amaro-sazerac",
     "name": "8 Amaro Sazerac",
-    "instructions": "Stir with ice, strain into a rocks glass pre-rinsed with Green Chartreuse, and garnish with a lemon twist.",
+    "instructions": "Mit Eis rühren, in einen mit Grüner Chartreuse gespülten Tumbler abseihen und mit einer Zitronenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Mayur Subbarao created this recipe for the opening menu at Manhattan's Amor y Amargo in 2011, and it has remained on the list there ever since.",
+    "description": "Mayur Subbarao entwickelte den Drink 2011 für die Eröffnungskarte von Amor y Amargo in Manhattan – seitdem ein Fixpunkt dort.",
     "source": "https://kindredcocktails.com/cocktail/8-amaro-sazerac",
-    "garnish": null,
+    "garnish": "Zitronenzeste",
     "abv": 22.74,
     "tags": [
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": "sazerac",
     "year": null,
@@ -159,7 +159,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 10,
             "amount": 1,
             "units": "dash",

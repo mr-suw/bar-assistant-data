@@ -1,18 +1,18 @@
 {
     "_id": "mexican-razor-blade",
     "name": "Mexican Razor Blade",
-    "instructions": "1. Add ingredients to a shaking tin with ice and shake until chilled.\n2. Strain into a coupe, if using, or a rocks glass over fresh ice.\n3. Float a cucumber slice as garnish and sprinkle piquín chile, cayenne or other powdered chile on top.",
+    "instructions": "1. Zutaten mit Eis in einen Shaker geben und schütteln, bis es gekühlt ist.\n2. In eine Coupette, falls verwendet, oder ein Rocks-Glas über frisches Eis abseihen.\n3. Eine Gurkenscheibe als Garnitur auflegen und Piquín-Chili, Cayennepfeffer oder anderen gemahlenen Chili darüber streuen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Mexican Razor Blade is anything but basic. Simple but bold, the recipe is a mix of cucumber, lime, syrup and tequila or mezcal.",
+    "description": "Die Mexican Razor Blade ist alles andere als einfach. Einfach, aber kühn, ist das Rezept eine Mischung aus Gurke, Limette, Sirup und Tequila oder Mezcal.",
     "source": "https://punchdrink.com/recipes/mexican-razor-blade/",
-    "garnish": "cucumber slice and piquín chile, cayenne or other powdered chile",
+    "garnish": "Gurkenscheibe und Piquín-Chili, Cayennepfeffer oder anderer gemahlener Chili",
     "abv": 17.07,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -47,7 +47,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -59,7 +59,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -71,7 +71,7 @@
         },
         {
             "_id": "cucumber",
-            "name": "Cucumber",
+            "name": "Gurke",
             "sort": 4,
             "amount": 2,
             "units": "slice",

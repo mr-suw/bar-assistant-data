@@ -1,20 +1,20 @@
 {
     "_id": "paloma",
     "name": "Paloma",
-    "instructions": "1. Fill a highball glass two-thirds full with ice.\n2. Slowly pour in about 2 oz. grapefruit soda, filling glass about one-third full.\n3. Add 1½ oz. blanco tequila, ½ oz. lime juice, ¼ oz. grapefruit juice, and a pinch of kosher salt.\n4. Top with remaining grapefruit soda, stir gently, and garnish with a grapefruit wedge or slice.",
+    "instructions": "1. Ein Highball-Glas zu zwei Dritteln mit Eis füllen.\n2. Langsam etwa 60 ml Grapefruit-Limonade eingießen, sodass das Glas etwa zu einem Drittel gefüllt ist.\n3. 45 ml Tequila Blanco, 15 ml Limettensaft, 7 ml Grapefruitsaft und eine Prise koscheres Salz hinzufügen.\n4. Mit der restlichen Grapefruit-Limonade auffüllen, vorsichtig umrühren und mit einem Grapefruit-Keil oder einer Scheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Paloma is a refreshing, easy-to-make cooler that combines tequila, lime juice and grapefruit soda. Its origin story is nebulous, but most reports peg its creation to the 1950s. Blanco tequila is the traditional choice, but lightly aged reposado also makes a fine drink. In this case, it’s best to keep the añejo capped, as the well-aged expression’s oaky profile disrupts that clean, refreshing taste you want in a Paloma.",
+    "description": "Die Paloma ist ein erfrischender, einfach zuzubereitender Cooler, der Tequila, Limettensaft und Grapefruit-Limonade kombiniert. Ihre Entstehungsgeschichte ist nebulös, aber die meisten Berichte datieren ihre Kreation auf die 1950er Jahre. Blanco Tequila ist die traditionelle Wahl, aber auch leicht gereifter Reposado ergibt ein feines Getränk. In diesem Fall ist es am besten, den Añejo verschlossen zu lassen, da das holzige Profil der gut gereiften Ausdrucksweise den sauberen, erfrischenden Geschmack, den man in einer Paloma wünscht, stört.",
     "source": "https://www.epicurious.com/recipes/food/views/paloma-cocktail",
-    "garnish": "Grapefruit wedge or slice",
+    "garnish": "Grapefruit-Keil oder -scheibe",
     "abv": 9.09,
     "tags": [
-        "Citrusy",
-        "Fruity",
-        "Refreshing"
+        "Zitrusbetont",
+        "Fruchtig",
+        "Erfrischend"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "grapefruit-soda",
-            "name": "Grapefruit soda",
+            "name": "Grapefruit-Limonade",
             "sort": 3,
             "amount": 120,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "salt",
-            "name": "Salt",
+            "name": "Salz",
             "sort": 4,
             "amount": 1,
             "units": "pinch",

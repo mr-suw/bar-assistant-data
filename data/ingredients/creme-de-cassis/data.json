@@ -1,12 +1,12 @@
 {
     "_id": "creme-de-cassis",
     "_parent_id": "creme-de",
-    "name": "Crème de cassis",
+    "name": "Crème de Cassis",
     "strength": 25,
-    "description": "Crème de Cassis is a sweet liqueur made from blackcurrants. It has a deep red-purple color and a rich, fruity flavor with a combination of sweetness and tartness. The liqueur is often used as a key ingredient in cocktails, with the Kir and Kir Royale being classic examples. Crème de Cassis can also be enjoyed on its own over ice or used in culinary applications to add a burst of blackcurrant flavor to desserts or sauces.",
-    "origin": "France",
+    "description": "Crème de Cassis ist ein süßer Likör aus schwarzen Johannisbeeren. Er hat eine tiefrot-violette Farbe und einen reichen, fruchtigen Geschmack mit einer Kombination aus Süße und Säure. Der Likör wird oft als Schlüsselzutat in Cocktails verwendet, wobei der Kir und Kir Royal klassische Beispiele sind. Crème de Cassis kann auch pur auf Eis genossen oder in kulinarischen Anwendungen verwendet werden, um Desserts oder Saucen eine Explosion von schwarzem Johannisbeergeschmack zu verleihen.",
+    "origin": "Frankreich",
     "color": "#2c1227",
-    "category": "Crème de",
+    "category": "Crème-de-Liköre",
     "created_at": null,
     "updated_at": null,
     "images": [

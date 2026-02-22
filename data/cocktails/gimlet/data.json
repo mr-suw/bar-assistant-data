@@ -1,19 +1,19 @@
 {
     "_id": "gimlet",
     "name": "Gimlet",
-    "instructions": "1. Add gin, lime juice, and syrup to a cocktail shaker. Fill with ice and shake until cold.\n2. Strain into glass and top with a splash of soda water, if desired.",
+    "instructions": "1. Gin, Limettensaft und Sirup in einen Cocktailshaker geben. Mit Eis füllen und schütteln, bis es kalt ist.\n2. In ein Glas abseihen und bei Bedarf mit einem Schuss Sodawasser auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The word \"gimlet\" used in this sense is first attested in 1928. The most obvious derivation is from the tool for drilling small holes, a word also used figuratively to describe something as sharp or piercing. Thus, the cocktail may have been named for its \"penetrating\" effects on the drinker.",
+    "description": "Das Wort „Gimlet“ in diesem Sinne ist erstmals 1928 belegt. Die offensichtlichste Ableitung ist von dem Werkzeug zum Bohren kleiner Löcher, einem Wort, das auch bildlich verwendet wird, um etwas als scharf oder durchdringend zu beschreiben. So könnte der Cocktail nach seinen „durchdringenden“ Wirkungen auf den Trinker benannt worden sein.",
     "source": "https://www.acouplecooks.com/gin-gimlet-cocktail/",
-    "garnish": "Garnish with a lime wheel",
+    "garnish": "Mit einer Limettenscheibe garnieren",
     "abv": 21.33,
     "tags": [
         "Sour",
-        "Classics"
+        "Klassiker"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",

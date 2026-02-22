@@ -1,21 +1,21 @@
 {
     "_id": "step-into-liquid",
     "name": "Step Into Liquid",
-    "instructions": "Stir with ice, strain into an old fashioned glass with a large ice cube, and garnish with orange oil from a twist.",
+    "instructions": "Auf Eis rühren, in einen Tumbler auf einen großen Eiswürfel abseihen und mit den ätherischen Ölen einer Orangenzeste aromatisieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Two Wednesdays ago, I returned the online recipe flashcards for the Liholiho Yacht Club in San Francisco that I utilized for the Pineapple Dance, and I landed on the Step into Liquid. As for a time estimate, I was able to spot the drink on a 2019 menu on Yelp, and it was perhaps named after the 2003 surfing documentary. While I have had other pineapple rum-Campari drinks in the Negroni ballpark, like the Pineapple Kingston Negroni, Best Fronds, and Jungle Boulevard, they all called for regular sweet vermouth instead of Punt e Mes. Once prepared, the Step into Liquid offered up orange, dark rum, pineapple, and herbal aromas to the nose. Next, grape and caramel notes on the sip gave way to rum, pineapple, bitter orange, and herbal flavors on the swallow.",
+    "description": "Vor zwei Mittwochen stieß ich auf die Online-Rezeptkarten des Liholiho Yacht Club in San Francisco, die ich bereits für den Pineapple Dance genutzt hatte, und landete beim Step Into Liquid. Zeitlich lässt sich der Drink auf einer Speisekarte von 2019 verorten und wurde vermutlich nach dem Surf-Dokumentarfilm von 2003 benannt. Während ich schon andere Ananas-Rum-Campari-Drinks in der Nähe eines Negroni probiert habe, wie den Pineapple Kingston Negroni, Best Fronds oder Jungle Boulevard, verlangten diese alle nach regulärem rotem Wermut statt Punt e Mes. Einmal zubereitet, bietet der Step Into Liquid Aromen von Orange, dunklem Rum, Ananas und Kräutern in der Nase. Am Gaumen weichen Trauben- und Karamellnoten den Geschmacksaromen von Rum, Ananas, Bitterorange und Kräutern im Abgang.",
     "source": "https://cocktailvirgin.blogspot.com/2025/07/step-into-liquid.html",
     "garnish": null,
     "abv": 28.72,
     "tags": [
         "Aperitivo",
         "Bitter",
-        "Tropical",
-        "Herbal"
+        "Tropisch",
+        "Kräuter"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

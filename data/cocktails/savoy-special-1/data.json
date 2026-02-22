@@ -1,18 +1,18 @@
 {
     "_id": "savoy-special-1",
     "name": "Savoy Special #1",
-    "instructions": "1. Add all ingredients to a mixing glass with ice\n2. Stir 20 seconds and strain into a chilled martini glass",
+    "instructions": "1. Alle Zutaten mit Eis in ein Rührglas geben.\n2. 20 Sekunden rühren und in ein gekühltes Martiniglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "For those who find martinis overly dry, this variation incorporates a hint of grenadine to craft a smoother and well-balanced flavor profile.",
+    "description": "Für diejenigen, die Martinis als zu trocken empfinden, enthält diese Variante einen Hauch Grenadine, um ein weicheres und ausgewogeneres Geschmacksprofil zu schaffen.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/savoy-special-1",
-    "garnish": "orange twist",
+    "garnish": "Orangenzeste",
     "abv": 25.53,
     "tags": [
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",

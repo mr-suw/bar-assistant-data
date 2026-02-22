@@ -1,18 +1,18 @@
 {
     "_id": "wisconsin-old-fashioned",
     "name": "Wisconsin Old Fashioned",
-    "instructions": "1. In a chilled old fashioned glass, muddle the sugar, bitters, orange wedge and cherry into a thick paste, careful not to overwork the orange peel.\n2. Add brandy or Cognac and stir.\n3. Fill glass with crushed ice and serve.",
+    "instructions": "1. In einem vorgekühlten Old Fashioned-Glas den Zucker, die Bitters, das Orangenstück und die Kirsche zu einer dicken Paste zerdrücken (muddeln), dabei darauf achten, die Orangenschale nicht zu stark zu bearbeiten.\n2. Brandy oder Cognac hinzufügen und umrühren.\n3. Das Glas mit Crushed Ice füllen und servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Wisconsin Old Fashioned is the state’s variation on the classic Old Fashioned cocktail, with brandy and lemon lime soda. The typical Old Fashioned recipe uses bourbon mixed with a muddled sugar cube and bitters. So where did the brandy Old Fashioned come from?\n\n\nHere’s the theory! (Per Jerry Minnich, at least.) A company of brothers debuted their Korbel brandy at the World’s Fair in 1893 in Chicago, which lots of Wisconsinites attended. A large percentage of Wisconsin at the time was German, and Germans preferred brandy over bourbon. Korbel brandy become a hit, and birthed this state’s funky variation on the classic cocktail. To this day, the drink is often served with Korbel brandy!\n\n\n- Sweet: Lemon lime soda (like 7 Up or Sprite). This is the default option at bars.\n- Sour: Sour mix or grapefruit soda (like Squirt).\n- Press: 50/50 lemon lime soda and soda water (club soda)\n- Soda: Soda water",
+    "description": "Der Wisconsin Old Fashioned ist die bundesstaatliche Variation des klassischen Old Fashioned-Cocktails, zubereitet mit Brandy und Zitronen-Limetten-Limonade. Das typische Old Fashioned-Rezept verwendet Bourbon gemischt mit einem zerdrückten Zuckerwürfel und Bitters. Woher also kam der Brandy Old Fashioned?\n\n\nHier ist die Theorie (zumindest laut Jerry Minnich): Eine Gruppe von Brüdern präsentierte ihren Korbel-Brandy auf der Weltausstellung 1893 in Chicago, die viele Einwohner von Wisconsin besuchten. Ein großer Prozentsatz der Bevölkerung von Wisconsin war zu dieser Zeit deutscher Abstammung, und Deutsche bevorzugten Brandy gegenüber Bourbon. Korbel-Brandy wurde ein Hit und brachte diese eigenwillige Variation des klassischen Cocktails hervor. Bis heute wird der Drink oft mit Korbel-Brandy serviert!\n\n\n- Süß (Sweet): Zitronen-Limetten-Limonade (wie 7 Up oder Sprite). Dies ist die Standardoption in Bars.\n- Sauer (Sour): Sour Mix oder Grapefruit-Limonade.\n- Press: Eine 50/50-Mischung aus Zitronen-Limetten-Limonade und Sodawasser.\n- Soda: Pures Sodawasser.",
     "source": "https://jeffreymorgenthaler.com/brandy-old-fashioned/",
-    "garnish": "Orange half and 1 cherry",
+    "garnish": "Halbe Orangenscheibe und 1 Kirsche",
     "abv": 33.57,
     "tags": [
         "Brandy"
     ],
-    "glass": "Lowball",
-    "method": "Muddle",
+    "glass": "Tumbler",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "cocktail-cherry",
-            "name": "Cocktail cherry",
+            "name": "Cocktailkirsche",
             "sort": 4,
             "amount": 1,
             "units": "whole",

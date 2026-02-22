@@ -1,9 +1,9 @@
 {
     "_id": "dairy",
     "_parent_id": null,
-    "name": "Dairy",
+    "name": "Milchprodukte",
     "strength": 0,
-    "description": "Dairy refers to food products made from milk, such as milk, cheese, yogurt, and butter.",
+    "description": "Milchprodukte beziehen sich auf Lebensmittel, die aus Milch hergestellt werden, wie Milch, Käse, Joghurt und Butter.",
     "origin": null,
     "color": "#ffffff",
     "category": null,

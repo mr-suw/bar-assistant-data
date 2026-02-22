@@ -1,16 +1,16 @@
 {
     "_id": "sentimental-gentleman",
     "name": "Sentimental Gentleman",
-    "instructions": "1. Stir all ingredients.\n2. Strain into a rocks glass over a large ice cube.",
+    "instructions": "1. Alle Zutaten verrühren.\n2. In ein Rocks-Glas über einen großen Eiswürfel abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Two Sundays ago, Andrea and I ate dinner at Veggie Galaxy and headed over to Brick and Mortar where bartenders Kenny Belanger and Misty Kalkofen were making drinks. For my first cocktail, I asked Kenny for the Sentimental Gentleman which offered up a peaty smoke aroma from the Scotch that later gained walnut notes as it warmed up. The malt from the Scotch filled the sip, and the swallow was an interplay of the herbal Benedictine and the walnut. Rather poetically, the Sentimental Gentleman got a bit more bitter and sharp over time as it acclimated to room temperature.",
+    "description": "Vor zwei Sonntagen aßen Andrea und ich im Veggie Galaxy zu Abend und gingen danach zu Brick and Mortar, wo die Barkeeper Kenny Belanger und Misty Kalkofen Drinks zubereiteten. Für meinen ersten Cocktail bat ich Kenny um den Sentimental Gentleman, der ein torfiges Raucharoma vom Scotch verströmte, das später, als er sich erwärmte, Walnussnoten annahm. Das Malz des Scotch füllte den Schluck, und der Abgang war ein Zusammenspiel der Kräuter-Benedictine und der Walnuss. Ziemlich poetisch wurde der Sentimental Gentleman mit der Zeit etwas bitterer und schärfer, als er sich an Raumtemperatur anpasste.",
     "source": "https://cocktailvirgin.blogspot.com/2012/02/sentimental-gentleman.html",
     "garnish": null,
     "abv": 32.22,
     "tags": [],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "walnut-liqueur",
-            "name": "Walnut Liqueur",
+            "name": "Walnusslikör",
             "sort": 3,
             "amount": 15,
             "units": "ml",

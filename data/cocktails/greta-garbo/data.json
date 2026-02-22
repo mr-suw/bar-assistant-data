@@ -1,16 +1,16 @@
 {
     "_id": "greta-garbo",
     "name": "Greta Garbo",
-    "instructions": "1. Shake all ingredients with ice for 15 seconds. Strain into a 5 1/2-ounce coupe glass.",
+    "instructions": "1. Alle Zutaten 15 Sekunden lang mit Eis schütteln. In eine 16cl (5 1/2 oz) Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A Daiquiri cocktail riff adding a few dashes of absinthe to the classic mix of white rum, lime juice and sugar.",
+    "description": "Eine Daiquiri-Variante, die dem klassischen Mix aus weißem Rum, Limettensaft und Zucker einige Spritzer Absinth hinzufügt.",
     "source": "https://punchdrink.com/recipes/greta-garbo/",
     "garnish": null,
     "abv": 20.65,
     "tags": [],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 4,
             "amount": 5,
             "units": "ml",

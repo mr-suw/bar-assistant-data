@@ -1,16 +1,16 @@
 {
     "_id": "lone-ranger",
     "name": "Lone Ranger",
-    "instructions": "1. Add the tequila, lemon juice and simple syrup to a cocktail shaker with ice and shake until cold.\n2. Add the sparkling wine to the cocktail shaker.\n3. Strain over fresh ice into a Collins glass.\n4. Garnish with a lemon twist.",
+    "instructions": "1. Tequila, Zitronensaft und Zuckersirup in einen Cocktailshaker mit Eis geben und schütteln, bis es kalt ist.\n2. Den prickelnden Wein zum Cocktailshaker hinzufügen.\n3. Über frisches Eis in ein Collins-Glas abseihen.\n4. Mit einer Zitronenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Lone Ranger is a French 75 cocktail made with tequila in place of gin or Cognac and brut rosé sparkling wine.",
+    "description": "Der Lone Ranger ist ein French 75 Cocktail, der Tequila anstelle von Gin oder Cognac und trockenen Rosé-Sekt verwendet.",
     "source": "https://punchdrink.com/recipes/lone-ranger/",
-    "garnish": "lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 15.04,
     "tags": [],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -37,7 +37,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -61,14 +61,14 @@
         },
         {
             "_id": "rose-wine",
-            "name": "Rosé wine",
+            "name": "Roséwein",
             "sort": 4,
             "amount": 60,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Sparkling",
+            "note": "prickelnd",
             "substitutes": []
         }
     ]

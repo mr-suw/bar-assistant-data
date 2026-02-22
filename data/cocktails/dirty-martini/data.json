@@ -1,21 +1,21 @@
 {
     "_id": "dirty-martini",
     "name": "Dirty Martini",
-    "instructions": "1. Select and pre-chill a Martini glass.\n2. Prepare garnish of skewered Green Olives.\n3. Stir all ingredients with ice.\n4. Strain into chilled glass.\n5. Garnish with skewered olives.",
+    "instructions": "1. Martini-Glas auswählen und vorkühlen.\n2. Garnitur aus aufgespießten grünen Oliven vorbereiten.\n3. Alle Zutaten mit Eis verrühren.\n4. In ein gekühltes Glas abseihen.\n5. Mit aufgespießten Oliven garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Dirty Martini is a popular cocktail that adds olive brine to the classic Martini, giving it a savory flavor. It can be made with either gin or vodka, depending on personal preference.",
+    "description": "Der Dirty Martini ist ein beliebter Cocktail, der dem klassischen Martini Olivenlake hinzufügt, was ihm einen herzhaften Geschmack verleiht. Er kann je nach persönlicher Vorliebe entweder mit Gin oder Wodka zubereitet werden.",
     "source": "https://www.diffordsguide.com/cocktails/recipe/650/dirty-martini",
-    "garnish": "Garnish with skewered olives.",
+    "garnish": "Mit aufgespießten Oliven garnieren.",
     "abv": 23.97,
     "tags": [
-        "Dry",
-        "Savory",
+        "Trocken",
+        "Herzhaft",
         "Briny",
-        "Classics"
+        "Klassiker"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": "martini",
     "year": null,
@@ -24,7 +24,7 @@
             "uri": "file:///dirty-martini-1.webp",
             "sort": 1,
             "placeholder_hash": "yygKFwQIx2djiHeIiCbId3eKiAekh0AK",
-            "copyright": "Imbibe Magazine |  Lindsay Eberly"
+            "copyright": "Imbibe Magazine | Lindsay Eberly"
         }
     ],
     "ingredients": [
@@ -42,7 +42,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -54,7 +54,7 @@
         },
         {
             "_id": "olive-brine",
-            "name": "Olive brine",
+            "name": "Olivenlake",
             "sort": 3,
             "amount": 15,
             "units": "ml",

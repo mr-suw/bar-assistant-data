@@ -1,18 +1,18 @@
 {
     "_id": "endless-summer",
     "name": "Endless Summer",
-    "instructions": "1. In a large shaking tin, add all ingredients. Add ice, and shake well.\n2. Fine strain into a Collins glass over ice.\n\n\n ## Editors note:\n\nThis drink can easily be scaled up into a large-format cocktail; for guidelines, see &lt;a href=&quot;https://punchdrink.com/articles/five-batched-summer-cocktails-recipes/&quot;&gt;here&lt;/a&gt;.",
+    "instructions": "1. In einen großen Shaker alle Zutaten geben. Eis hinzufügen und gut schütteln.\n2. Fein in ein Collins-Glas auf frisches Eis abseihen.\n\n\n ## Anmerkung der Redaktion:\n\nDieser Drink lässt sich leicht für größere Gruppen skalieren; Richtlinien dazu finden Sie &lt;a href=&quot;https://punchdrink.com/articles/five-batched-summer-cocktails-recipes/&quot;&gt;here&lt;/a&gt;.",
     "created_at": null,
     "updated_at": null,
-    "description": "Yanni Kehagiaras riffs on the Negroni cocktail recipe with Campari, gin, sweet vermouth, and an ounce of pineapple.",
+    "description": "Yanni Kehagiaras variiert den Negroni-Klassiker mit Campari, Gin, süßem Wermut und einer Unze Ananas.",
     "source": "https://punchdrink.com/recipes/endless-summer/",
     "garnish": null,
     "abv": 16.51,
     "tags": [
-        "Citrusy"
+        "Zitrusartig"
     ],
     "glass": "Highball",
-    "method": "Shake",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",

@@ -1,21 +1,21 @@
 {
     "_id": "seven-seas-swizzle",
     "name": "Seven Seas Swizzle",
-    "instructions": "1. Build all the ingredients in the appropriate glass and add half the amount of necessary ice. \n2. Swizzle until the glass is cool.\n3. Top with ice and garnish.\n",
+    "instructions": "1. Alle Zutaten im Glas aufbauen und zur Hälfte mit Eis füllen.\n2. Mit einem Swizzle Stick (oder Barlöffel) rühren/swizzlen, bis das Glas von außen beschlägt.\n3. Mit frischem Eis auffüllen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "In his recipe, Nick Batavia plays with green tea syrup and lime, for a riff on the Queen Park Swizzle with traditional punch ingredients.",
+    "description": "In seinem Rezept spielt Nick Batavia mit Grüntee-Sirup und Limette – eine Variation des Queen Park Swizzle mit traditionellen Punsch-Zutaten.",
     "source": "https://punchdrink.com/recipes/seven-seas-swizzle/",
-    "garnish": "Mint bouquet and dusting of nutmeg",
+    "garnish": "Minzstrauß und eine Prise Muskatnuss",
     "abv": 24.25,
     "tags": [
-        "Sour",
+        "Sauer",
         "Swizzle",
-        "Citrusy",
-        "Savory"
+        "Zitrusartig",
+        "Würzig"
     ],
     "glass": "Highball",
-    "method": "Build",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -42,7 +42,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -54,7 +54,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -66,7 +66,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 1,
             "units": "dash",

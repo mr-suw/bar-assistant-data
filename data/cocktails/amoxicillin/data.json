@@ -1,19 +1,19 @@
 {
     "_id": "amoxicillin",
     "name": "Amoxicillin",
-    "instructions": "1. Combine all ingredients, except the peated Scotch, in a mixing tin and shake with ice.\n2. Strain into a rocks glass over ice.\n3. Finish with six sprays of peated Scotch from an atomizer.\n4. Garnish with a lemon wheel.",
+    "instructions": "1. Alle Zutaten außer dem torfigen Scotch in einen Shaker geben und mit Eis schütteln.\n2. In einen Tumbler auf frisches Eis abseihen.\n3. Mit sechs Sprühstößen torfigem Scotch aus einem Zerstäuber (Atomizer) vollenden.\n4. Mit einer Zitronenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Unlike the classic Penicillin, which calls for ¾ ounce honey-ginger syrup, this cocktail recipe uses yellow Chartreuse for honeyed sweetness.",
+    "description": "Im Gegensatz zum klassischen Penicillin, das ¾ Unze Honig-Ingwer-Sirup verlangt, verwendet dieses Rezept Yellow Chartreuse für die honigartige Süße.",
     "source": "https://punchdrink.com/recipes/amoxicillin/",
-    "garnish": "lemon wheel",
+    "garnish": "Zitronenscheibe",
     "abv": 22.86,
     "tags": [
-        "Smokey",
+        "Rauchig",
         "Sour"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",

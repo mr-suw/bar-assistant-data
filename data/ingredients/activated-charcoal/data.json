@@ -1,10 +1,10 @@
 {
     "_id": "activated-charcoal",
     "_parent_id": null,
-    "name": "Activated charcoal",
+    "name": "Aktivkohle",
     "strength": 0,
-    "description": "Activated, food-grade charcoal became a food trend in 2016, being used as an additive to impart a \"slightly smoky\" taste and a dark coloring to products including hotdogs, ice cream, pizza bases and bagels.\n\n**Activated charcoal can interfere with many medications**",
-    "origin": "Worldwide",
+    "description": "Aktivkohle in Lebensmittelqualität wurde 2016 zum Trend und wird als Zusatzstoff verwendet, um Produkten wie Hotdogs, Eiscreme, Pizzaböden und Bagels einen „leicht rauchigen“ Geschmack und eine dunkle Färbung zu verleihen.\n\n**Aktivkohle kann die Wirkung vieler Medikamente beeinträchtigen.**",
+    "origin": "Weltweit",
     "color": null,
     "category": null,
     "created_at": null,

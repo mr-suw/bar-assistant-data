@@ -1,12 +1,12 @@
 {
     "_id": "allspice-dram",
     "_parent_id": "liqueurs",
-    "name": "Allspice dram",
+    "name": "Pimentlikör (Allspice Dram)",
     "strength": 22.5,
-    "description": "Allspice dram, also known as pimento dram, is a liqueur made from the dried berries of the allspice tree (Pimenta dioica). Despite its name, allspice is a single spice, not a blend. The berries have flavors reminiscent of a combination of cinnamon, cloves, and nutmeg, hence the name \"allspice.\"\n\nTo make allspice dram, the dried allspice berries are crushed or ground and then steeped in high-proof alcohol to extract their flavors. This infusion is typically sweetened with sugar, resulting in a sweet and spiced liqueur. The final product often has a warm and aromatic profile, with notes of cinnamon, clove, and nutmeg.\n\nAllspice dram is used as a flavoring agent in cocktails, adding depth and complexity to drinks. It's a common ingredient in classic and modern tiki cocktails, where its spice-forward profile complements tropical fruit flavors.",
-    "origin": "Greater Antilles",
+    "description": "Allspice Dram, auch bekannt als Piment Dram, ist ein Likör, der aus den getrockneten Beeren des Pimentbaums (Pimenta dioica) hergestellt wird. Trotz seines englischen Namens 'Allspice' handelt es sich bei Piment um ein einzelnes Gewürz und nicht um eine Mischung. Die Beeren haben Aromen, die an eine Kombination aus Zimt, Nelken und Muskatnuss erinnern, daher der Name 'Allspice' (Allesgewürz).\n\nZur Herstellung von Allspice Dram werden die getrockneten Pimentbeeren zerkleinert oder gemahlen und dann in hochprozentigem Alkohol eingelegt, um ihre Aromen zu extrahieren. Dieser Aufguss wird typischerweise mit Zucker gesüßt, was zu einem süßen und würzigen Likör führt. Das Endprodukt hat oft ein warmes und aromatisches Profil mit Noten von Zimt, Nelke und Muskatnuss.\n\nAllspice Dram wird als Aromageber in Cocktails verwendet und verleiht Getränken Tiefe und Komplexität. Es ist eine häufige Zutat in klassischen und modernen Tiki-Cocktails, wo sein würziges Profil tropische Fruchtaromen ergänzt.",
+    "origin": "Große Antillen",
     "color": "#69341b",
-    "category": "Liqueurs",
+    "category": "Liköre",
     "created_at": null,
     "updated_at": null,
     "images": [

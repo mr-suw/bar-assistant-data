@@ -1,19 +1,19 @@
 {
     "_id": "campari-spritz",
     "name": "Campari Spritz",
-    "instructions": "Combine all in wine glass",
+    "instructions": "Alle Zutaten in ein Weinglas geben",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": null,
-    "garnish": "Orange wheel",
+    "garnish": "Orangenscheibe",
     "abv": 12.58,
     "tags": [
         "Spritz",
         "Bitter"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 3,
             "amount": 30,
             "units": "ml",

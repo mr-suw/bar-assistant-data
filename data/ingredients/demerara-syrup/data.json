@@ -1,7 +1,7 @@
 {
     "_id": "demerara-syrup",
     "_parent_id": "simple-syrup",
-    "name": "Demerara Syrup",
+    "name": "Demerara-Sirup",
     "strength": 0,
     "description": "Syrup made with demerara sugar",
     "origin": null,

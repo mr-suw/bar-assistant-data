@@ -1,19 +1,19 @@
 {
     "_id": "amaretto-sour",
     "name": "Amaretto Sour",
-    "instructions": "1. Combine all ingredients and, if using an egg white, dry shake\n2. Add ice and shake for 10 sec\n3. Strain into a glass",
+    "instructions": "1. Alle Zutaten mischen und, falls Eiweiß verwendet wird, zuerst ohne Eis shaken (Dry Shake).\n2. Eis hinzufügen und 10 Sekunden lang shaken.\n3. In ein Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Amaretto is an Italian liqueur that’s typically flavored with almonds or apricot stones. Its distinctive flavor can be incorporated into numerous cocktails, but it’s best known for the Amaretto Sour, a drink that tends to get a bad rap. That’s because, too often, the cocktail is overly sweet and relies on premade sour mix.",
+    "description": "Amaretto ist ein italienischer Likör, der typischerweise mit Mandeln oder Aprikosenkernen aromatisiert ist. Sein unverwechselbarer Geschmack findet sich in vielen Cocktails, ist aber am besten bekannt für den Amaretto Sour, der oft einen schlechten Ruf hat. Das liegt daran, dass er zu oft übersüßt ist und auf fertigen Sour-Mixes basiert.",
     "source": null,
-    "garnish": "Spray aromatic bitters over foaming cocktail from atomiser and then garnish with lemon & cherry sail (lemon slice & Luxardo Maraschino cherry on stick)",
+    "garnish": "Aromatische Bitters mit einem Zerstäuber über den Schaum sprühen und mit einem Zitronen-Kirsch-Segel garnieren (Zitronenscheibe & Luxardo-Maraschino-Kirsche am Spieß).",
     "abv": 11.04,
     "tags": [
         "Sour",
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 1,
             "units": "dash",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 4,
             "amount": 15,
             "units": "ml",

@@ -1,19 +1,19 @@
 {
     "_id": "amen-corner",
     "name": "Amen Corner",
-    "instructions": "1. Gently muddle the mint in a mixing tin.\n2. Combine remaining ingredients in the mixing tin and shake with ice.\n3. Strain into a chilled coupe.\n4. Garnish with brandied cherries.",
+    "instructions": "1. Die Minze vorsichtig in einem Shaker-Becher muddeln.\n2. Die restlichen Zutaten in den Becher geben und mit Eis schütteln.\n3. In eine vorgekühlte Coupette abseihen.\n4. Mit Belegkirschen (Brandied Cherries) garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Created by PDT alum Nick Brown, the bourbon-based cocktail recipe is a riff on the classic Paper Plane without the lemon juice.",
+    "description": "Kreiert von PDT-Absolvent Nick Brown, ist dieses Rezept auf Bourbon-Basis eine Variation des klassischen Paper Plane ohne Zitronensaft.",
     "source": "https://punchdrink.com/recipes/amen-corner/",
-    "garnish": "brandied cherries",
+    "garnish": "Belegkirschen",
     "abv": 25.01,
     "tags": [
-        "Citrusy",
-        "Fruity"
+        "Zitrusbetont",
+        "Fruchtig"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -64,7 +64,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 4,
             "units": "leaves",

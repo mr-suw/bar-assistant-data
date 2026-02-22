@@ -1,18 +1,18 @@
 {
     "_id": "gin-pahit",
     "name": "Gin Pahit",
-    "instructions": "1. Add all ingredients to a cocktail shaker and shake with ice.\n2. Strain into a Nick & Nora glass, then garnish with the lemon twist on the rim of the glass.",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben und mit Eis schütteln.\n2. In ein Nick & Nora Glas abseihen, dann mit der Zitronenzeste am Glasrand garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "An easy cocktail recipe from Malaysia. The classic drink combines gin, bitters and absinthe, but this simply version forgoes the latter.",
+    "description": "Ein einfaches Cocktailrezept aus Malaysia. Der klassische Drink kombiniert Gin, Bitter und Absinth, aber diese einfache Version verzichtet auf letzteres.",
     "source": "https://punchdrink.com/recipes/gin-pahit/",
-    "garnish": "lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 27.88,
     "tags": [
         "Bitter"
     ],
-    "glass": "Nick and Nora",
-    "method": "Stir",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,12 +34,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Tanglin Orchid",
+            "note": "vorzugsweise Tanglin Orchid",
             "substitutes": []
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 3,
             "units": "dash",

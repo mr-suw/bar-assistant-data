@@ -1,12 +1,12 @@
 {
     "_id": "pepper",
     "_parent_id": "spices",
-    "name": "Pepper",
+    "name": "Pfeffer",
     "strength": 0,
-    "description": "Black pepper",
+    "description": "Schwarzer Pfeffer",
     "origin": null,
     "color": null,
-    "category": "Spices",
+    "category": "Gewürze",
     "created_at": null,
     "updated_at": null,
     "images": [

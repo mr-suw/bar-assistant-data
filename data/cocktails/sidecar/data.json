@@ -1,20 +1,20 @@
 {
     "_id": "sidecar",
     "name": "Sidecar",
-    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The exact origin of the sidecar is unclear, but it is thought to have been invented around the end of World War I in either London or Paris. The drink was directly named for the motorcycle attachment, which was very commonly used back then.\n\nLike the daiquiri, the sidecar evolved from the original sour formula, but sidecars are often drier than sours, combining liqueurs like curaçao with citrus. Sidecars are considered more of a challenge for bartenders because the proportion of ingredients is more difficult to balance for liqueurs of variable sweetness.",
+    "description": "Der genaue Ursprung des Sidecars ist unklar, aber es wird angenommen, dass er um das Ende des Ersten Weltkriegs entweder in London oder Paris erfunden wurde. Das Getränk wurde direkt nach dem Motorrad-Beiwagen benannt, der damals sehr häufig verwendet wurde.\n\nWie der Daiquiri entwickelte sich der Sidecar aus der ursprünglichen Sour-Formel, aber Sidecars sind oft trockener als Sours und kombinieren Liköre wie Curaçao mit Zitrusfrüchten. Sidecars gelten als größere Herausforderung für Barkeeper, da das Verhältnis der Zutaten für Liköre mit variabler Süße schwieriger auszugleichen ist.",
     "source": "https://iba-world.com/sidecar/",
-    "garnish": "",
+    "garnish": null,
     "abv": 24.89,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 20,
             "units": "ml",

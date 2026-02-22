@@ -1,19 +1,19 @@
 {
     "_id": "fumata-bianca",
     "name": "Fumata Bianca",
-    "instructions": "1. Combine all the ingredients except the grapefruit twist in a collins glass.\n2. Add ice and top with club soda.\n3. Express a grapefruit twist over the drink and drop into the glass.",
+    "instructions": "1. Alle Zutaten außer der Grapefruitzeste in ein Collins-Glas geben.\n2. Eis hinzufügen und mit Sodawasser auffüllen.\n3. Eine Grapefruitzeste über dem Drink ausdrücken und in das Glas geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "This cocktail recipe is a soft, yet edgy mixture of sweet blanca vermouth, herbal Suze, and smoky mezcal that goes down easy.",
+    "description": "Dieses Cocktail-Rezept ist eine sanfte und zugleich charakterstarke Mischung aus süßem Vermouth Bianco, kräuterigem Suze und rauchigem Mezcal, der sehr angenehm zu trinken ist.",
     "source": "https://punchdrink.com/recipes/fumata-bianca/",
-    "garnish": "grapefruit twist",
+    "garnish": "Grapefruitzeste",
     "abv": 18.18,
     "tags": [
-        "Fruity",
-        "Smokey"
+        "Fruchtig",
+        "Rauchig"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -59,12 +59,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Del Maguey Vida",
+            "note": "vorzugsweise Del Maguey Vida",
             "substitutes": []
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 1,
             "units": "topup",

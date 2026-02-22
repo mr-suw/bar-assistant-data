@@ -1,16 +1,16 @@
 {
     "_id": "midnight-marauder-no-2",
-    "name": "Midnight Marauder No. 2",
-    "instructions": "1. Stir all of the ingredients with ice, strain into a chilled glass, then garnish.",
+    "name": "Midnight Marauder Nr. 2",
+    "instructions": "1. Alle Zutaten mit Eis verrühren, in ein gekühltes Glas abseihen und dann garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This rich cocktail combines rye whiskey, coffee liqueur, curaçao, and a touch of mezcal, making for a perfect nightcap. “It’s amazing to end your night with something that has a lot of depth of flavor to it,” says The Starling bar manager Kaley Brodeur.",
+    "description": "Dieser reichhaltige Cocktail kombiniert Roggenwhiskey, Kaffeelikör, Curaçao und einen Hauch Mezcal, was ihn zu einem perfekten Schlummertrunk macht. „Es ist erstaunlich, die Nacht mit etwas zu beenden, das viel Geschmackstiefe hat“, sagt Kaley Brodeur, Barmanagerin im The Starling.",
     "source": "https://imbibemagazine.com/recipe/midnight-marauder-no-2-whiskey-cocktail/",
-    "garnish": "Lemon peel",
+    "garnish": "Zitronenschale",
     "abv": 24.94,
     "tags": [],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 1,
             "units": "oz",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
@@ -49,7 +49,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "orange-curacao",
-            "name": "Orange Curaçao",
+            "name": "Orangen Curaçao",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",

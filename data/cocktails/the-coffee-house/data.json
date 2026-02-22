@@ -1,18 +1,18 @@
 {
     "_id": "the-coffee-house",
     "name": "The Coffee House",
-    "instructions": "1. Combine all ingredients in a mixing glass over ice and stir until chilled.\n2. Strain into a rocks glass over a large ice cube.\n3. Garnish with a long orange twist.",
+    "instructions": "1. Alle Zutaten in ein Rührglas über Eis geben und rühren, bis es gekühlt ist.\n2. In ein Rocks-Glas über einen großen Eiswürfel abseihen.\n3. Mit einer langen Orangenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "An improved, coffee-inflected Old-Fashioned cocktail recipe from the 1930 recipe book, The Saloon in the Home or a Garland of Rumblossoms.",
+    "description": "Ein verbessertes, Kaffee-infundiertes Old-Fashioned-Cocktailrezept aus dem Rezeptbuch von 1930, The Saloon in the Home oder a Garland of Rumblossoms.",
     "source": "https://punchdrink.com/recipes/the-coffee-house/",
-    "garnish": "orange twist",
+    "garnish": "Orangenzeste",
     "abv": 29.57,
     "tags": [
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Glass mug",
-    "method": "Stir",
+    "glass": "Glasbecher",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,31 +27,31 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 1.75,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Redemption or Old Overholt",
+            "note": "vorzugsweise Redemption oder Old Overholt",
             "substitutes": []
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Varnelli Caffe Moka",
+            "note": "vorzugsweise Varnelli Caffe Moka",
             "substitutes": []
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 3,
             "amount": 2,
             "units": "dash",

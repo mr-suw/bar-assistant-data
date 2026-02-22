@@ -1,20 +1,20 @@
 {
     "_id": "ward-eight",
     "name": "Ward Eight",
-    "instructions": "Shake ingredients with ice and strain into a chilled glass. Add an ice cube and a splash of sparkling water.",
+    "instructions": "Zutaten mit Eis schütteln und in ein gekühltes Glas abseihen. Einen Eiswürfel und einen Spritzer Sprudelwasser hinzufügen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Ward Eight cocktail is a relative of the Whiskey Sour and thought to have been invented at Boston’s Locke-Ober Café in 1898.",
+    "description": "Der Ward Eight Cocktail ist ein Verwandter des Whiskey Sour und soll 1898 im Locke-Ober Café in Boston erfunden worden sein.",
     "source": "https://imbibemagazine.com/ward-eight-cocktail-history/",
-    "garnish": "orange zest",
+    "garnish": "Orangenzeste",
     "abv": 20.21,
     "tags": [
-        "Classic",
+        "Klassisch",
         "Sour",
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -35,7 +35,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -55,7 +55,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -67,7 +67,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -79,7 +79,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",

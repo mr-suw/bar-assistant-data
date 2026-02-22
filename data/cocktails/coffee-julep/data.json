@@ -6,14 +6,14 @@
     "updated_at": null,
     "description": "Coffee liqueur and Demerara Gum Syrup give this Julep a jolt of rich flavor.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/coffee-julep",
-    "garnish": "mint sprig",
+    "garnish": "Minzzweig",
     "abv": 29.17,
     "tags": [
         "Julep",
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Julep",
-    "method": "Stir",
+    "glass": "Julep-Becher",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 1,
             "units": "sprig",

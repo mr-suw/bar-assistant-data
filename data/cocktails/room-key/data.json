@@ -1,20 +1,20 @@
 {
     "_id": "room-key",
     "name": "Room Key",
-    "instructions": "Shake on ice and pour into a Collins glass over ice. Top with Mineral Water and then add all the angostura dashes to the top. Serve with a straw.",
+    "instructions": "Auf Eis schütteln und in ein Highball-Glas auf frisches Eis gießen. Mit Mineralwasser auffüllen und anschließend alle Dashes Angostura Bitters als Top-Layer hinzufügen. Mit einem Trinkhalm servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "It’s basically a Skeleton Key with white rum instead of whiskey.",
+    "description": "Im Grunde ein Skeleton Key mit hellem Rum anstelle von Whiskey.",
     "source": null,
     "garnish": null,
     "abv": 17.69,
     "tags": [
-        "Refreshing",
-        "Sour",
-        "Citrusy"
+        "Erfrischend",
+        "Sauer",
+        "Zitrusbetont"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -22,7 +22,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -46,7 +46,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -58,7 +58,7 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -70,7 +70,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 8,
             "units": "dash",
@@ -82,7 +82,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 6,
             "amount": 1,
             "units": "topup",

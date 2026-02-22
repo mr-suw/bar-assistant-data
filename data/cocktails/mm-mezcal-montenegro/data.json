@@ -1,18 +1,18 @@
 {
     "_id": "mm-mezcal-montenegro",
     "name": "M&M Mezcal Montenegro",
-    "instructions": "1. Start by stirring all your ingredients together with ice in a mixing glass, ensuring they're well combined\n2. Aim to stir for about 10-15 seconds; this integrates everything smoothly without diluting the drink too much\n3. Carefully pour this mixture through a strainer into a glass filled with ice, ideally a single large ice block, to keep your drink cold longer with less dilution",
+    "instructions": "1. Beginnen Sie damit, alle Zutaten mit Eis in einem Rührglas zu verrühren und stellen Sie sicher, dass sie gut vermischt sind.\n2. Ziel ist es, etwa 10-15 Sekunden lang zu rühren; dies integriert alles reibungslos, ohne das Getränk zu stark zu verdünnen.\n3. Diese Mischung vorsichtig durch ein Sieb in ein mit Eis gefülltes Glas gießen, idealerweise einen einzelnen großen Eisblock, um Ihr Getränk länger kalt zu halten und weniger zu verdünnen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The M & M is a sophisticated cocktail that skillfully combines the deep, herbal flavors of Amaro with the smoky complexity of Mezcal. Served in a cocktail glass, this concoction is a testament to the art of blending contrasting spirits to create a harmony of flavors.\n\nIdeal for those who appreciate a drink with depth and character, the M & M offers a unique tasting experience that seamlessly melds the bitter nuances of Amaro with the rich, smoky notes of Mezcal. This cocktail is perfectly suited for sipping slowly on a relaxed evening, allowing the palate to explore the intricate dance between its bold ingredients.",
+    "description": "Der M & M ist ein raffinierter Cocktail, der die tiefen, kräuterigen Aromen von Amaro gekonnt mit der rauchigen Komplexität von Mezcal verbindet. Serviert in einem Cocktailglas, ist diese Kreation ein Beweis für die Kunst, kontrastierende Spirituosen zu einer Harmonie der Aromen zu verschmelzen.\n\nIdeal für diejenigen, die ein Getränk mit Tiefe und Charakter schätzen, bietet der M & M ein einzigartiges Geschmackserlebnis, das die bitteren Nuancen von Amaro nahtlos mit den reichen, rauchigen Noten von Mezcal verbindet. Dieser Cocktail eignet sich perfekt, um ihn langsam an einem entspannten Abend zu genießen und dem Gaumen zu ermöglichen, das komplexe Zusammenspiel seiner kräftigen Zutaten zu erkunden.",
     "source": "https://makemeacocktail.com/cocktail/9631/m-m",
     "garnish": null,
     "abv": 26.25,
     "tags": [
-        "Classics"
+        "Klassiker"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

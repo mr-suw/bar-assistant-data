@@ -1,18 +1,18 @@
 {
     "_id": "enzo",
     "name": "Enzo",
-    "instructions": "1. Add the first three ingredients to a Collins or highball glass over ice.\n2. Top with soda water and garnish with an orange peel or a half-slice.",
+    "instructions": "1. Die ersten drei Zutaten in ein Collins- oder Highball-Glas über Eis geben.\n2. Mit Sodawasser auffüllen und mit einer Orangenschale oder einer halben Scheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Enzo is an Americano cocktail made with a Ferrari, the 50/50 shot of fernet amaro and Campari. Here’s the easy aperitivo recipe.",
+    "description": "Der Enzo ist ein Americano-Cocktail, der mit einem Ferrari zubereitet wird, dem 50/50-Shot aus Fernet Amaro und Campari. Hier ist das einfache Aperitif-Rezept.",
     "source": "https://punchdrink.com/recipes/enzo/",
-    "garnish": "orange peel or half-slice",
+    "garnish": "Orangenschale oder halbe Scheibe",
     "abv": 22.73,
     "tags": [
         "Bitter"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,14 +51,14 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 1.5,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Carpano Antica",
+            "note": "wie Carpano Antica",
             "substitutes": []
         }
     ]

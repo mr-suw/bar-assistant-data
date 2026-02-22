@@ -1,12 +1,12 @@
 {
     "_id": "red-wine",
     "_parent_id": "wines",
-    "name": "Red wine",
+    "name": "Rotwein",
     "strength": 11,
-    "description": "Red wine is a type of wine made from dark-colored grape varieties. The color of red wine comes from the skin of the grapes, which is included in the fermentation process. The skins impart color, tannins, and various flavors to the wine. Red wines can range from light and fruity to rich and full-bodied, and they are typically enjoyed at room temperature. Popular red grape varieties include Cabernet Sauvignon, Merlot, Pinot Noir, and Syrah, among others. Red wine is known for its diverse flavor profiles and is often paired with a variety of foods.",
-    "origin": "Worldwide",
+    "description": "Rotwein ist eine Weinsorte, die aus dunkelfarbigen Rebsorten hergestellt wird. Die Farbe des Rotweins stammt von der Haut der Trauben, die in den Fermentationsprozess einbezogen wird. Die Häute verleihen dem Wein Farbe, Tannine und verschiedene Aromen. Rotweine können von leicht und fruchtig bis reichhaltig und vollmundig reichen und werden typischerweise bei Raumtemperatur genossen. Beliebte rote Rebsorten sind unter anderem Cabernet Sauvignon, Merlot, Pinot Noir und Syrah. Rotwein ist bekannt für seine vielfältigen Geschmacksprofile und wird oft mit einer Vielzahl von Speisen kombiniert.",
+    "origin": "Weltweit",
     "color": "#801212",
-    "category": "Wines",
+    "category": "Weine",
     "created_at": null,
     "updated_at": null,
     "images": [

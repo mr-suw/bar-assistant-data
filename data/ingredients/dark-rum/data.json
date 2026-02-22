@@ -1,12 +1,12 @@
 {
     "_id": "dark-rum",
     "_parent_id": "rum",
-    "name": "Dark Rum",
+    "name": "Dunkler Rum",
     "strength": 40,
-    "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
-    "origin": "Caribbean",
+    "description": "Dunkler Rum ist eine Rumsorte, die länger und oft in verkohlten Fässern gereift wird, wodurch sie eine dunklere Farbe und einen reicheren, robusteren Geschmack im Vergleich zu helleren Rumsorten erhält. Er hat typischerweise Noten von Karamell, Melasse und manchmal Gewürzen. Dunkler Rum wird häufig in Cocktails verwendet, insbesondere in solchen mit einem starken, geschmackvollen Profil, und er wird auch pur oder auf Eis genossen. Der Reifeprozess trägt zur Entwicklung komplexer Aromen und einer weicheren Textur bei.",
+    "origin": "Karibik",
     "color": "#ca5210",
-    "category": "Spirits > Sugarcane-based spirits > Rum",
+    "category": "Spirituosen > Zuckerrohr-basierte Spirituosen > Rum",
     "created_at": null,
     "updated_at": null,
     "images": [

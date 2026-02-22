@@ -1,18 +1,18 @@
 {
     "_id": "giving-basil",
     "name": "Giving Basil",
-    "instructions": "1. Add all of the ingredients to a shaker with ice.\n2. Shake, then double strain into a chilled glass.\n3. Spritz with the vanilla tincture, then garnish.",
+    "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben.\n2. Schütteln, dann doppelt in ein gekühltes Glas abseihen.\n3. Mit der Vanille-Tinktur besprühen und dann garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Gabe Fountain, lead bartender of Oklahoma City's The Jones Assembly, took the classic Gimlet, added an herbaceous complexity with Italicus liqueur and basil, then rounded out the flavors and texture with pistachio orgeat for an irresistibly smooth sipper.",
+    "description": "Gabe Fountain, Hauptbarkeeper der The Jones Assembly in Oklahoma City, nahm den klassischen Gimlet, fügte eine krautige Komplexität mit Italicus Likör und Basilikum hinzu und rundete die Aromen und Textur mit Pistazienorgeat ab, für einen unwiderstehlich milden Drink.",
     "source": "https://imbibemagazine.com/recipe/giving-basil-from-the-jones-assembly/",
-    "garnish": "Small basil leaf or dried basil blossom",
+    "garnish": "Kleines Basilikumblatt oder getrocknete Basilikumblüte",
     "abv": 16,
     "tags": [
-        "Herbacious"
+        "Kräuterig"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "basil",
-            "name": "Basil",
+            "name": "Basilikum",
             "sort": 5,
             "amount": 4,
             "units": "leaves",

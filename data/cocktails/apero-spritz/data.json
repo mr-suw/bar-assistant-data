@@ -1,18 +1,18 @@
 {
     "_id": "apero-spritz",
     "name": "Apèro Spritz",
-    "instructions": "1. Add first four ingredients to a shaker tin with ice and short shake.\n2. Double strain into a wine glass over cracked clear ice and top with prosecco.\n3. Garnish with red currants if you have them, lemon wedge if you don’t",
+    "instructions": "1. Die ersten vier Zutaten in einen Shaker mit Eis geben und kurz schütteln.\n2. Doppelt in ein Weinglas auf zerstoßenes Klareis abseihen und mit Prosecco auffüllen.\n3. Mit roten Johannisbeeren garnieren (oder einer Zitronenspalte, falls keine Johannisbeeren vorhanden sind).",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://www.reddit.com/r/cocktails/comments/107ev4w/ap%C3%A8ro_spritz/",
-    "garnish": "Red Currents or Lemon Wedge",
+    "garnish": "Rote Johannisbeeren oder Zitronenspalte",
     "abv": 9.75,
     "tags": [
         "Spritz"
     ],
-    "glass": "Wine",
-    "method": "Shake",
+    "glass": "Weinglas",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -63,7 +63,7 @@
         },
         {
             "_id": "rose-syrup",
-            "name": "Rose syrup",
+            "name": "Rosensirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 5,
             "amount": 15,
             "units": "ml",

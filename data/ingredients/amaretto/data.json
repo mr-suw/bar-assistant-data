@@ -3,10 +3,10 @@
     "_parent_id": "liqueurs",
     "name": "Amaretto",
     "strength": 24,
-    "description": "Amaretto is a sweet Italian liqueur that is known for its distinct almond flavor. The name \"Amaretto\" is derived from the Italian word \"amaro,\" which means bitter, indicating the traditional bitter almond flavor. However, modern Amaretto is typically sweet rather than bitter.\n\nThe primary flavor in Amaretto comes from apricot pits or almonds, though today many commercial brands use a combination of both. The production process involves soaking the almonds or apricot pits in alcohol, which extracts their flavors. The resulting liquid is then sweetened with sugar, and sometimes flavored with vanilla or other spices.\n\nAmaretto is often enjoyed on its own as a digestif or as an ingredient in various cocktails and culinary recipes. It is a versatile liqueur that adds a rich and nutty flavor to beverages and desserts. Classic cocktails like the Amaretto Sour, as well as desserts like tiramisu, often feature this popular Italian liqueur.",
-    "origin": "Italy",
+    "description": "Amaretto ist ein süßer italienischer Likör, der für seinen ausgeprägten Mandelgeschmack bekannt ist. Der Name 'Amaretto' leitet sich vom italienischen Wort 'amaro' ab, was bitter bedeutet und auf den traditionell bitteren Mandelgeschmack hinweist. Moderner Amaretto ist jedoch typischerweise eher süß als bitter.\n\nDas Hauptaroma im Amaretto stammt von Aprikosenkernen oder Mandeln, wobei viele kommerzielle Marken heute eine Kombination aus beidem verwenden. Der Herstellungsprozess beinhaltet das Einlegen der Mandeln oder Aprikosenkerne in Alkohol, wodurch ihre Aromen extrahiert werden. Die resultierende Flüssigkeit wird dann mit Zucker gesüßt und manchmal mit Vanille oder anderen Gewürzen aromatisiert.\n\nAmaretto wird oft pur als Digestif oder als Zutat in verschiedenen Cocktails und kulinarischen Rezepten genossen. Es ist ein vielseitiger Likör, der Getränken und Desserts einen reichen und nussigen Geschmack verleiht. Klassische Cocktails wie der Amaretto Sour sowie Desserts wie Tiramisu enthalten oft diesen beliebten italienischen Likör.",
+    "origin": "Italien",
     "color": "#d62b0e",
-    "category": "Liqueurs",
+    "category": "Liköre",
     "created_at": null,
     "updated_at": null,
     "images": [

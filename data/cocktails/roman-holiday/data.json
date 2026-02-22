@@ -1,19 +1,19 @@
 {
     "_id": "roman-holiday",
     "name": "Roman Holiday",
-    "instructions": "1. Fill a cocktail shaker with gin, Amaro, Campari, pineapple juice, lime juice, and cold brew coffee. Add ice to the shaker.\n2. Shake well until the mixture is chilled.\n3. Fill a glass with crushed ice.\n4. Strain the cocktail over the crushed ice.\n5. Garnish with pineapple leaves and a cinnamon stick that's been charred on the edge with a lighter or blowtorch. Serve the cocktail immediately.",
+    "instructions": "1. Einen Cocktailshaker mit Gin, Amaro, Campari, Ananassaft, Limettensaft und Cold Brew Kaffee füllen. Eis in den Shaker geben.\n2. Gut schütteln, bis die Mischung gekühlt ist.\n3. Ein Glas mit Crushed Ice füllen.\n4. Den Cocktail über das Crushed Ice abseihen.\n5. Mit Ananasblättern und einer Zimtstange garnieren, die an den Rändern mit einem Feuerzeug oder Bunsenbrenner angebrannt wurde. Den Cocktail sofort servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Jungle Bird is a quintessential tiki / tropical cocktail. The combination of blackstrap rum and Campari is incredibly effective, delivering that bitter-sweet satisfaction. Roman Holiday – draws inspiration from this delicious creation and reinterprets it in a rather unique and tasty way. (I have encountered a few different specs for this cocktail. I chose to test this one, simply because I happened to find it first, but there might be other, even mores delicious riffs).\n\nBase of this cocktail is split between London dry gin and amaro Averna. Gin brings dry notes of juniper, touch of coriander, while Averna adds bold herbal flavours with hints of aniseed and chocolate. Campari, provides those bitter-sweet notes of Mediterranean oranges, without which it is hard to imagine the cocktail world. Pineapple juice brings that delicious tropical fruity sweetness with a touch of acidity, while tartness of the lime juice, balances out the cocktail. Last addition of cold brew, increases the cocktail complexity and gives it an almost Americano kind of vibe. Not too dominating, just a subtle touch lingering in the background.\n\nAll in all, Roman Holiday, is a rather unique and tasty creation. Drawing inspiration from a tiki classic, yet completely reimagining it. This certainly piqued my interest to try the other available specs for this cocktail side by side, to see which taste best.",
+    "description": "Jungle Bird ist ein typischer Tiki-/Tropical-Cocktail. Die Kombination aus Blackstrap-Rum und Campari ist unglaublich effektiv und liefert diese bittersüße Befriedigung. Roman Holiday – schöpft Inspiration aus dieser köstlichen Kreation und interpretiert sie auf eine ziemlich einzigartige und schmackhafte Weise neu. (Ich habe ein paar verschiedene Spezifikationen für diesen Cocktail gefunden. Ich habe diese getestet, einfach weil ich sie zuerst gefunden habe, aber es könnten andere, noch köstlichere Varianten geben).\n\nDie Basis dieses Cocktails teilt sich zwischen London Dry Gin und Amaro Averna auf. Gin bringt trockene Noten von Wacholder, einen Hauch Koriander, während Averna kräftige Kräuteraromen mit Anklängen von Anis und Schokolade hinzufügt. Campari liefert diese bittersüßen Noten mediterraner Orangen, ohne die man die Cocktailwelt kaum vorstellen kann. Ananassaft bringt diese köstliche tropische Fruchtsüße mit einem Hauch Säure, während die Herbe des Limettensafts den Cocktail ausbalanciert. Die letzte Zugabe von Cold Brew erhöht die Komplexität des Cocktails und verleiht ihm eine fast Americano-ähnliche Atmosphäre. Nicht zu dominant, nur ein subtiler Hauch, der im Hintergrund verweilt.\n\nAlles in allem ist Roman Holiday eine ziemlich einzigartige und schmackhafte Kreation. Sie schöpft Inspiration aus einem Tiki-Klassiker und interpretiert ihn doch völlig neu. Dies hat mein Interesse geweckt, die anderen verfügbaren Spezifikationen für diesen Cocktail nebeneinander zu probieren, um zu sehen, welche am besten schmecken.",
     "source": "https://www.tastingtable.com/1494377/roman-holiday-cocktail-a-jungle-bird-twist-recipe/",
-    "garnish": null,
+    "garnish": "Ananasblätter, Zimtstange",
     "abv": 14.49,
     "tags": [
         "Bitter",
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": "jungle-bird",
     "year": null,
@@ -64,7 +64,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 4,
             "amount": 1,
             "units": "oz",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 0.5,
             "units": "oz",
@@ -88,7 +88,7 @@
         },
         {
             "_id": "cold-brew-coffee",
-            "name": "Cold brew coffee",
+            "name": "Cold Brew Kaffee",
             "sort": 6,
             "amount": 0.5,
             "units": "oz",

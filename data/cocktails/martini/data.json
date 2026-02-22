@@ -1,20 +1,20 @@
 {
     "_id": "martini",
     "name": "Martini",
-    "instructions": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+    "instructions": "1. Alle Zutaten mit Eiswürfeln in ein Rührglas geben.\n2. Gut umrühren.\n3. In ein gekühltes Martiniglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This classic is a contentious and sensitive topic with serious Martini drinkers. The way one drinks a Martini is simply a matter of personal preference.",
+    "description": "Dieser Klassiker ist ein umstrittenes und sensibles Thema bei ernsthaften Martini-Trinkern. Die Art, wie man einen Martini trinkt, ist einfach eine Frage der persönlichen Vorliebe.",
     "source": "https://iba-world.com/dry-martini/",
-    "garnish": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
+    "garnish": "Öl aus Zitronenschale auf den Drink pressen oder mit grünen Oliven garnieren, falls gewünscht.",
     "abv": 27.22,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
-        "Dry"
+        "Trocken"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -23,7 +23,7 @@
             "uri": "file:///martini-1.jpg",
             "sort": 1,
             "placeholder_hash": "EQgSDwJbd4dgaId5iJiISYZ3Kp+/8PQN",
-            "copyright": "Punch |  Lizzie Munro"
+            "copyright": "Punch | Lizzie Munro"
         },
         {
             "uri": "file:///martini-2.jpg",
@@ -47,7 +47,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -59,7 +59,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 3,
             "amount": 2,
             "units": "dashes",

@@ -1,19 +1,19 @@
 {
     "_id": "ce-soir",
     "name": "Ce Soir",
-    "instructions": "1. Combine all ingredients in a mixing glass over ice and stir until chilled.\n2. Strain into a chilled coupe or cocktail glass.\n3. Express the lemon peel and discard.",
+    "instructions": "1. Alle Zutaten in einem Rührglas auf Eis kombinieren und rühren, bis der Drink gekühlt ist.\n2. In eine vorgekühlte Schale oder ein Cocktailglas abseihen.\n3. Eine Zitronenzeste über dem Drink ausdrücken und danach entsorgen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A mix of Cognac, with touches of yellow Chartreuse and Cynar, and two types of bitters, this cocktail recipe is potent and elegant.",
+    "description": "Eine Mischung aus Cognac mit Nuancen von Yellow Chartreuse und Cynar sowie zwei Arten von Bitters – dieser Cocktail ist kräftig und elegant.",
     "source": "https://punchdrink.com/recipes/ce-soir/",
-    "garnish": "expressed lemon peel",
+    "garnish": "Zitronenzeste (ausgedrückt)",
     "abv": 28.82,
     "tags": [
         "Bitter",
         "Aperitivo"
     ],
-    "glass": "Nick and Nora",
-    "method": "Stir",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -35,7 +35,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Pierre Ferrand 1840",
+            "note": "vorzugsweise Pierre Ferrand 1840",
             "substitutes": []
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 1,
             "units": "dash",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 5,
             "amount": 1,
             "units": "dash",

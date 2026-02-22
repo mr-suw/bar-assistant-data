@@ -1,18 +1,18 @@
 {
     "_id": "rainy-day-fund",
     "name": "Rainy Day Fund",
-    "instructions": "1. Add all of the ingredients to a glass, add ice, and stir to chill. Garnish.",
+    "instructions": "1. Alle Zutaten in ein Glas geben, Eis hinzufügen und rühren, bis es gekühlt ist. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "While working on her own White Negroni riff, Courtney McKamey—Weather Up's beverage director—ran into a road block. None of the white bitter liqueurs or aperitifs she had on hand were doing the trick. But then she reached for Italicus. \"The soft floral notes with the citrus bergamot flavors was exactly what I was looking for; it paired beautifully with mezcal,\" she says. \"Italicus saved the cocktail right when I was about to give up.\"",
+    "description": "Während sie an ihrer eigenen White Negroni-Variante arbeitete, stieß Courtney McKamey – Beverage Director von Weather Up – auf ein Hindernis. Keiner der weißen Bitterliköre oder Aperitifs, die sie zur Hand hatte, erfüllte den Zweck. Doch dann griff sie zu Italicus. „Die sanften floralen Noten mit den Zitrus-Bergamotte-Aromen waren genau das, wonach ich suchte; es passte wunderbar zu Mezcal“, sagt sie. „Italicus rettete den Cocktail genau dann, als ich kurz davor war aufzugeben.“",
     "source": "https://imbibemagazine.com/recipe/rainy-day-fund-white-negroni-riff/",
-    "garnish": "Orange twist",
+    "garnish": "Orangenzeste",
     "abv": 24.57,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 2,
             "units": "dash",

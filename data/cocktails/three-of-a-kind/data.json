@@ -1,19 +1,19 @@
 {
     "_id": "three-of-a-kind",
     "name": "Three of a Kind",
-    "instructions": "1. Stir all of the ingredients with ice\n2. Strain into a glass filled with fresh ice",
+    "instructions": "1. Alle Zutaten mit Eis verrühren.\n2. In ein mit frischem Eis gefülltes Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "At Bar Cleeta in Bentonville, Arkansas, the appeal of Italian flavors led to the creation of this simple combo. “Though assertively spirit-forward, the maraschino and Cocchi Americano provide a smooth, lush base for the London dry gin,” says partner and beverage director Weisi Basore. “It’s quickly become a guest and staff favorite, for its complexity and aperitivo vibes.\"",
+    "description": "In der Bar Cleeta in Bentonville, Arkansas, führte die Vorliebe für italienische Aromen zur Kreation dieser einfachen Kombination. „Obwohl er betont spirituosenlastig ist, bilden der Maraschino und der Cocchi Americano eine sanfte, üppige Basis für den London Dry Gin“, sagt Partner und Beverage Director Weisi Basore. „Dank seiner Komplexität und der Aperitivo-Ausstrahlung ist er schnell zu einem Favoriten bei Gästen und Personal geworden.“",
     "source": "https://imbibemagazine.com/recipe/three-of-a-kind-from-bar-cleeta/",
-    "garnish": "Lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 26.91,
     "tags": [
         "Aperitivo",
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -64,7 +64,7 @@
         },
         {
             "_id": "grapefruit-bitters",
-            "name": "Grapefruit bitters",
+            "name": "Grapefruit-Bitters",
             "sort": 4,
             "amount": 2,
             "units": "dash",

@@ -3,10 +3,10 @@
     "_parent_id": "sparkling-wine",
     "name": "Prosecco",
     "strength": 11,
-    "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
-    "origin": "Italy",
+    "description": "Prosecco ist ein Schaumwein aus der Region Venetien in Italien. Er wird primär aus der Rebsorte Glera gewonnen, wobei auch andere zugelassene Rebsorten in kleineren Mengen verwendet werden dürfen. Prosecco ist für seinen frischen und fruchtigen Charakter bekannt und zählt weltweit zu den beliebtesten und am meisten konsumierten Schaumweinen.\n\nEr zeichnet sich durch seine Spritzigkeit aus, wobei die Perlage im Vergleich zu Schaumweinen aus klassischer Flaschengärung wie Champagner meist leichter und weniger langanhaltend ist.",
+    "origin": "Italien",
     "color": "#a57600",
-    "category": "Wines > Sparkling wine",
+    "category": "Weine > Schaumwein",
     "created_at": null,
     "updated_at": null,
     "images": [

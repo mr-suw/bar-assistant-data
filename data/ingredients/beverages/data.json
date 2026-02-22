@@ -1,9 +1,9 @@
 {
     "_id": "beverages",
     "_parent_id": null,
-    "name": "Beverages",
+    "name": "Getränke",
     "strength": 0,
-    "description": "Beverages are liquids intended for human consumption, which include a wide variety of drinks such as water, milk, juice, coffee, tea, and alcoholic drinks like beer and wine. They play important roles in satisfying thirst and are significant in many cultures.",
+    "description": "Oberkategorie für Flüssigkeiten zum Verzehr – vom Wasser über Säfte bis hin zu alkoholischen Drinks.",
     "origin": null,
     "color": null,
     "category": null,

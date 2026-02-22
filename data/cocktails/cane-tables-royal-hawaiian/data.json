@@ -1,19 +1,19 @@
 {
     "_id": "cane-tables-royal-hawaiian",
     "name": "Cane & Table’s Royal Hawaiian",
-    "instructions": "1. Combine all ingredients in a shaker.\n2. Add a handful of pebble ice and whip-shake.\n3. Pour into a chilled double rocks glass, and top with more pebble ice.\n4. Garnish with a mint bouquet and serve with a straw.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben.\n2. Eine Handvoll Pebble Ice (kleines gestoßenes Eis) hinzufügen und kurz schütteln (Whip-Shake).\n3. In einen vorgekühlten Double Rocks Tumbler gießen und mit weiterem Pebble Ice auffüllen.\n4. Mit einem Minzstrauß garnieren und mit einem Strohhalm servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A tropical gin cocktail recipe, the Royal Hawaiian is reimagined at Cane & Table, where the pineapple drink is served on crushed ice.",
+    "description": "Ein tropischer Gin-Cocktail: Der Royal Hawaiian wird im Cane & Table neu interpretiert, wo der Ananas-Drink auf Crushed Ice serviert wird.",
     "source": "https://punchdrink.com/recipes/cane-tables-royal-hawaiian/",
-    "garnish": "mint bouquet",
+    "garnish": "Minzstrauß",
     "abv": 13.71,
     "tags": [
-        "Citrusy",
-        "Fruity"
+        "Zitrusbetont",
+        "Fruchtig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -35,12 +35,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Bombay Dry",
+            "note": "vorzugsweise Bombay Dry",
             "substitutes": []
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeatsirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",

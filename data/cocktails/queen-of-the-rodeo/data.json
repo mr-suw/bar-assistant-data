@@ -1,18 +1,18 @@
 {
     "_id": "queen-of-the-rodeo",
     "name": "Queen of the Rodeo",
-    "instructions": "1. Add all of the ingredients to a shaker along with ice and shake. Strain into a chilled glass. Garnish.",
+    "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben und schütteln. In ein gekühltes Glas abseihen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This \"gussied-up\" Cosmo recipe replaces Cointreau and cranberry juice for a mix of grenadine, maraschino liqueur, and grapefruit juice.",
+    "description": "Dieses aufgepeppte Cosmo-Rezept ersetzt Cointreau und Preiselbeersaft (Cranberry) durch eine Mischung aus Grenadine, Maraschino-Likör und Grapefruitsaft.",
     "source": "https://imbibemagazine.com/recipe/queen-of-the-rodeo-cosmo-recipe/",
-    "garnish": "Lime wheel, a dusting of edible pink glitter (optional)",
+    "garnish": "Limettenscheibe, eine Prise essbarer rosa Glitzer (optional)",
     "abv": 17.25,
     "tags": [
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 5,
             "amount": 15,
             "units": "ml",

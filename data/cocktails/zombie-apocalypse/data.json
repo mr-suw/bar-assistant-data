@@ -1,18 +1,18 @@
 {
     "_id": "zombie-apocalypse",
     "name": "Zombie Apocalypse",
-    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add a small amount of ice and shake until chilled\n3. Strain over crushed ice into a chilled glass",
+    "instructions": "1. Alle Zutaten in einen Shaker geben.\n2. Eine kleine Menge Eis hinzufügen und schütteln, bis der Drink kalt ist.\n3. Über Crushed Ice in ein gekühltes Highball-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A spooky, autumnal zombie riff that's perfect for a Halloween night! We added activated charcoal, which has hardly any taste, to produce the black color.",
+    "description": "Eine schaurige, herbstliche Zombie-Variation, die perfekt für eine Halloween-Nacht ist! Wir haben Aktivkohle hinzugefügt, die kaum Eigengeschmack hat, um die schwarze Farbe zu erzeugen.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/zombie-apocalypse",
-    "garnish": "Cherry, grated nutmeg, star anise",
+    "garnish": "Kirsche, geriebene Muskatnuss, Sternanis",
     "abv": 18.35,
     "tags": [
         "Tiki"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 22.5,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "brown-rum",
-            "name": "Brown Rum",
+            "name": "Brauner Rum",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 3,
             "amount": 45,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "pineapple-syrup",
-            "name": "Pineapple Syrup",
+            "name": "Ananassirup",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 6,
             "amount": 15,
             "units": "ml",
@@ -123,7 +123,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 9,
             "amount": 22.5,
             "units": "ml",
@@ -135,7 +135,7 @@
         },
         {
             "_id": "cinnamon-syrup",
-            "name": "Cinnamon syrup",
+            "name": "Zimtsirup",
             "sort": 10,
             "amount": 7.5,
             "units": "ml",
@@ -147,7 +147,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 11,
             "amount": 1,
             "units": "dash",
@@ -159,7 +159,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 12,
             "amount": 2,
             "units": "dash",

@@ -1,12 +1,12 @@
 {
     "_id": "champagne",
     "_parent_id": "sparkling-wine",
-    "name": "Champagne",
+    "name": "Champagner",
     "strength": 12,
-    "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
-    "origin": "France",
+    "description": "Champagner ist ein Schaumwein, der aus der Champagne-Region Frankreichs stammt. Er ist eine der berühmtesten und prestigeträchtigsten Schaumweinsorten weltweit. Der Name 'Champagner' ist gesetzlich geschützt, und nur Weine, die in der Champagne-Region nach spezifischen Methoden hergestellt werden, dürfen so bezeichnet werden.\n\nChampagner wird oft mit Feierlichkeiten assoziiert und ist weit verbreitet bei Toasts. Es gibt ihn in verschiedenen Stilen, darunter Non-Vintage (eine Mischung aus mehreren Jahrgängen), Vintage (aus Trauben eines einzigen Jahres) und Prestige-Cuvées (hochwertige, limitierte Weine eines bestimmten Produzenten). Die Vielseitigkeit von Champagner erlaubt es, ihn pur oder in Kombination mit einer Vielzahl von Speisen zu genießen.",
+    "origin": "Frankreich",
     "color": "#f6e1b0",
-    "category": "Wines > Sparkling wine",
+    "category": "Weine > Schaumwein",
     "created_at": null,
     "updated_at": null,
     "images": [

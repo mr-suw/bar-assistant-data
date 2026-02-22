@@ -1,20 +1,20 @@
 {
     "_id": "vieux-carre",
     "name": "Vieux Carrè",
-    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "instructions": "Alle Zutaten in ein Rührglas mit Eiswürfeln geben. Gut umrühren. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "It originated with Walter Bergeron, a bartender at New Orleans’ Carousel Bar in the Hotel Monteleone. The name is French for \"old square”, in reference to the city's French Quarter neighborhood.",
+    "description": "Er entstand bei Walter Bergeron, einem Barkeeper in New Orleans’ Carousel Bar im Hotel Monteleone. Der Name ist französisch für „alter Platz“, in Anspielung auf das French Quarter der Stadt.",
     "source": "https://iba-world.com/vieux-carre/",
-    "garnish": "Garnish with orange zest and maraschino cherry.",
+    "garnish": "Mit Orangenzeste und Maraschino-Kirsche garnieren.",
     "abv": 27.22,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
         "Brandy"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitters",
             "sort": 5,
             "amount": 2,
             "units": "dashes",

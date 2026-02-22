@@ -1,18 +1,18 @@
 {
     "_id": "japanese-cocktail",
-    "name": "Japanese cocktail",
-    "instructions": "1. Combine all ingredients in a mixing glass with ice and stir\n2. Strain into a coupe, serve up",
+    "name": "Japanese Cocktail",
+    "instructions": "1. Alle Zutaten mit Eis in einem Rührglas mischen und rühren.\n2. In eine Coupette abseihen, pur servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Japanese cocktail is notorious for a handful of things: it's a very old cocktail, published in Jerry Thomas’s landmark 1862 book How to Mix Drinks; it was the first mixed drink to be named something other than “Whiskey Cocktail”, “Brandy Cocktail”, or some other similarly obvious epithet; it might be the only cocktail Thomas invented himself; and finally, it was the first cocktail to feature more than a dash of a fancy sweetener, orgeat.",
+    "description": "Der Japanese Cocktail ist für eine Handvoll Dinge berühmt: Es ist ein sehr alter Cocktail, der in Jerry Thomas' wegweisendem Buch 'How to Mix Drinks' von 1862 veröffentlicht wurde; es war das erste Mixgetränk, das anders benannt wurde als „Whiskey Cocktail“, „Brandy Cocktail“ oder ein ähnlicher offensichtlicher Beiname; es ist möglicherweise der einzige Cocktail, den Thomas selbst erfunden hat; und schließlich war es der erste Cocktail, der mehr als einen Schuss eines ausgefallenen Süßungsmittels, Orgeat, enthielt.",
     "source": null,
-    "garnish": "Lemon peel",
+    "garnish": "Zitronenschale",
     "abv": 26.67,
     "tags": [
         "Brandy"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 2,
             "units": "dashes",

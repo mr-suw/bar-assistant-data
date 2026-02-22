@@ -1,19 +1,19 @@
 {
     "_id": "jungle-bird",
     "name": "Jungle Bird",
-    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add a few pieces of ice and whip shake for 5 seconds\n3. Strain into a glass filled with crushed ice",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben.\n2. Ein paar Eiswürfel hinzufügen und 5 Sekunden lang schütteln.\n3. In ein Glas mit Crushed Ice abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A tiki cocktail lush with pineapple and lime - plus a hint of Campari's bitterness. The Jungle Bird took off first in 1978 at the Aviary Bar in Kuala Lumpur, but it wasn't until Beachbum Berry himself resurrected it in 2002 that it got back on the radar. This recipe perfectly employs our Pineapple Gum Syrup!",
+    "description": "Ein Tiki-Cocktail, üppig mit Ananas und Limette – plus einem Hauch Bitterkeit von Campari. Der Jungle Bird startete 1978 in der Aviary Bar in Kuala Lumpur durch, aber erst als Beachbum Berry ihn 2002 wiederbelebte, kam er wieder auf den Radar. Dieses Rezept verwendet perfekt unseren Ananas-Gummi-Sirup!",
     "source": "https://www.liberandcompany.com/products/jungle-bird?_pos=1&_sid=c5ac35365&_ss=r",
-    "garnish": "Lime wedge and pineapple leaves",
+    "garnish": "Limettenspalte und Ananasblätter",
     "abv": 12.89,
     "tags": [
         "Tiki",
-        "Summer"
+        "Sommer"
     ],
-    "glass": "Hurricane",
-    "method": "Shake",
+    "glass": "Hurricane-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 5,
             "amount": 45,
             "units": "ml",

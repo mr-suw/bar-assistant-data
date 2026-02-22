@@ -1,12 +1,12 @@
 {
     "_id": "rose-syrup",
     "_parent_id": "syrups",
-    "name": "Rose syrup",
+    "name": "Rosensirup",
     "strength": 0,
-    "description": "Pure sugar syrup made from the natural aroma of rose.",
-    "origin": "Worldwide",
+    "description": "Reiner Zuckersirup, hergestellt aus dem natürlichen Aroma von Rosen.",
+    "origin": "Weltweit",
     "color": "#b11f30",
-    "category": "Sweeteners > Syrups",
+    "category": "Süßungsmittel > Sirupe",
     "created_at": null,
     "updated_at": null,
     "images": [

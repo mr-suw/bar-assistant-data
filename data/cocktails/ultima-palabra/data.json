@@ -9,11 +9,11 @@
     "garnish": "Thyme sprig",
     "abv": 20.32,
     "tags": [
-        "Herbacious",
+        "Kräuterig",
         "Sour"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -76,7 +76,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 22.5,
             "units": "ml",

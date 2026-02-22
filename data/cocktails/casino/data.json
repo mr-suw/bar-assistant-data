@@ -1,19 +1,19 @@
 {
     "_id": "casino",
     "name": "Casino",
-    "instructions": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Rocks-Glas mit Eis abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This version of the Casino Cocktail first appears in 1909, in The Reminder (3rd edition) by Jacob A. Didier.",
+    "description": "Diese Version des Casino Cocktails erscheint erstmals 1909 in 'The Reminder' (3. Auflage) von Jacob A. Didier.",
     "source": "https://iba-world.com/casino/",
-    "garnish": "Garnish with lemon zest and a maraschino cherry.",
+    "garnish": "Mit Zitronenzeste und einer Maraschino-Kirsche garnieren.",
     "abv": 25.6,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -60,7 +60,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 10,
             "units": "ml",
@@ -72,7 +72,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 2,
             "units": "dashes",

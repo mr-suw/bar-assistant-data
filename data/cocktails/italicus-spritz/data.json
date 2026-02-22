@@ -1,20 +1,20 @@
 {
     "_id": "italicus-spritz",
     "name": "Italicus Spritz",
-    "instructions": "1. Add all ingredients except soda to a glass filled with ice\n2. Stir to combine and top with soda",
+    "instructions": "1. Alle Zutaten außer dem Sodawasser in ein mit Eis gefülltes Weinglas geben.\n2. Umrühren und mit Sodawasser auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A luscious cocktail that's begging for poolside.",
+    "description": "Ein herrlicher Cocktail, der förmlich nach einem Tag am Pool ruft.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/italicus-spritz",
     "garnish": null,
     "abv": 7.95,
     "tags": [
-        "Summer",
-        "Tropical",
+        "Sommer",
+        "Tropisch",
         "Spritz"
     ],
-    "glass": "Wine",
-    "method": "Stir",
+    "glass": "Weinglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "white-wine",
-            "name": "White wine",
+            "name": "Weißwein",
             "sort": 2,
             "amount": 60,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 60,
             "units": "ml",

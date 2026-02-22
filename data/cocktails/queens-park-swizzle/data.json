@@ -1,20 +1,20 @@
 {
     "_id": "queens-park-swizzle",
     "name": "Queens Park Swizzle",
-    "instructions": "1. In a tall glass, gently muddle mint leaves with simple syrup and lime juice\n2. Add rum and top with crushed ice\n3. Swizzle briefly to mix until glass frosts\n4. Add more crushed ice, top with bitters and sprig of mint",
+    "instructions": "1. In einem hohen Glas die Minzblätter vorsichtig mit Zuckersirup und Limettensaft andrücken (muddlen).\n2. Rum hinzufügen und mit Crushed Ice auffüllen.\n3. Kurz mit einem Swizzle Stick (oder Barlöffel) verrühren, bis das Glas von außen beschlägt.\n4. Mehr Crushed Ice hinzufügen, mit Bitter beträufeln und mit einem Minzzweig garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "An old school island drink with a beautiful presentation",
+    "description": "Ein klassischer Insel-Drink mit einer wunderschönen Präsentation.",
     "source": "https://tuxedono2.com/queens-park-swizzle-cocktail-recipe",
-    "garnish": "mint sprig for garnish",
+    "garnish": "Minzzweig",
     "abv": 19.46,
     "tags": [
         "Swizzle",
         "Tiki",
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Highball",
-    "method": "Muddle",
+    "glass": "Highball-Glas",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -47,7 +47,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -59,7 +59,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -71,7 +71,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 5,
             "units": "sprigs",
@@ -83,7 +83,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 3,
             "units": "dashes",

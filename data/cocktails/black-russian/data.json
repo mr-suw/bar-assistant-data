@@ -1,21 +1,21 @@
 {
     "_id": "black-russian",
     "name": "Black Russian",
-    "instructions": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently.",
+    "instructions": "Die Zutaten in ein mit Eiswürfeln gefülltes Old Fashioned Glas geben. Vorsichtig umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Variations:\n\n**WHITE RUSSIAN** – Float fresh cream on the top and stir in slowly.",
+    "description": "Variationen:\n\n**WHITE RUSSIAN** – Frische Sahne obenauf schwimmen lassen und langsam einrühren.",
     "source": "https://iba-world.com/black-russian/",
     "garnish": null,
     "abv": 27.78,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
-        "Coffee",
-        "Sweet"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
+        "Kaffee",
+        "Süß"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -42,7 +42,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 30,
             "units": "ml",

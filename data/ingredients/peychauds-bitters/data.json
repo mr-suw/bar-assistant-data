@@ -1,12 +1,12 @@
 {
     "_id": "peychauds-bitters",
     "_parent_id": "bitters",
-    "name": "Peychauds Bitters",
+    "name": "Peychaud's Bitter",
     "strength": 35,
-    "description": "It is a gentian-based bitters, comparable to Angostura bitters, but with a predominant anise aroma combined with a background of mint.",
+    "description": "Es ist ein Enzian-basierter Bitter, vergleichbar mit Angostura Bitter, aber mit einem vorherrschenden Anis-Aroma kombiniert mit einem Hauch Minze im Hintergrund.",
     "origin": "North America",
     "color": "#622426",
-    "category": "Bitters",
+    "category": "Bitter",
     "created_at": null,
     "updated_at": null,
     "images": [

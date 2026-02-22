@@ -1,16 +1,16 @@
 {
     "_id": "old-friend",
     "name": "Old Friend",
-    "instructions": "1. In a cocktail shaker, combine all the ingredients\n2. Shake with ice for 10-12 seconds\n3. Double strain into a chilled coupe glass",
+    "instructions": "1. In einem Cocktailshaker alle Zutaten kombinieren.\n2. 10-12 Sekunden mit Eis schütteln.\n3. Doppelt in ein gekühltes Coupette-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Created by Jim Meehan for the fall menu at Chef’s Club in Aspen, Colorado.The Old Friend is a distant cousin of the whiskey-based Old Pal classic cocktail. Meehan states that Beefeater works perfectly but most London dry gins will work too. Likewise, white, yellow or ruby red grapefruit will all work too but you may need to adjust the balance based on the acidity/sweetness of your grapefruit.",
+    "description": "Kreiert von Jim Meehan für die Herbstkarte des Chef's Club in Aspen, Colorado. Der Old Friend ist ein entfernter Cousin des Whiskey-basierten klassischen Cocktails Old Pal. Meehan sagt, dass Beefeater perfekt funktioniert, aber die meisten London Dry Gins auch. Ebenso funktionieren weißer, gelber oder rubinroter Grapefruitsaft, aber Sie müssen möglicherweise das Gleichgewicht je nach Säure/Süße Ihrer Grapefruit anpassen.",
     "source": "https://stevethebartender.com.au/old-friend/",
-    "garnish": "Garnish with a lemon twist",
+    "garnish": "Mit einer Zitronenschale garnieren",
     "abv": 20.67,
     "tags": [],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -32,7 +32,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Beefeater",
+            "note": "z.B. Beefeater",
             "substitutes": []
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",

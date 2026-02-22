@@ -1,19 +1,19 @@
 {
     "_id": "amaretto-sour-jeffrey-morgenthaler",
-    "name": "Amaretto Sour (Jeffrey Morgenthaler)",
-    "instructions": "1. Combine ingredients in a cocktail shaker and shake without ice or (even better) use an immersion blender to combine and froth.\n2. Shake well with cracked ice.\n3. Strain over fresh ice in an old fashioned glass",
+    "name": "Amaretto Sour (Jeffrey Morgenthaler)",
+    "instructions": "1. Zutaten im Shaker mischen und ohne Eis shaken (Dry Shake) oder (noch besser) mit einem Stabmixer aufschäumen.\n2. Mit Eiswürfeln kräftig shaken.\n3. Über frisches Eis in einen Tumbler abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "There are two things that impede all other Amaretto Sours from challenging mine. First off, the obvious: they’re too sweet. One does not simply use an everyday sour recipe to make a world-class Amaretto Sour, it must be adjusted for this particular liqueur.\n\nSecond, and this is a big one: amaretto isn’t strong enough on its own to stand up to a bunch of other ingredients. It’s weak. It needs help. And for this, I enlist the assistance of an old friend. One that knows amaretto’s strengths and weaknesses. Or, mainly, its weaknesses. One that works with amaretto, to complete it like Jerry Maguire completes Rene Zellwiger’s character, whatever her name was. And that, my friends, is cask-proof bourbon.",
+    "description": "Zwei Dinge hindern andere Amaretto Sours daran, meinen herauszufordern. Erstens: Sie sind zu süß. Man kann nicht einfach ein gewöhnliches Sour-Rezept verwenden, um einen erstklassigen Amaretto Sour zu machen; es muss an diesen speziellen Likör angepasst werden.\n\nZweitens, und das ist wichtig: Amaretto ist alleine nicht stark genug, um sich gegen die anderen Zutaten zu behaupten. Er ist schwach. Er braucht Hilfe. Und dafür hole ich mir einen alten Freund dazu. Einen, der die Stärken und Schwächen von Amaretto kennt. Hauptsächlich seine Schwächen. Einen, der mit Amaretto zusammenarbeitet, um ihn zu vervollständigen, so wie Jerry Maguire die Figur von Renée Zellweger vervollständigt. Und das, meine Freunde, ist fassstarker Bourbon.",
     "source": "https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/",
-    "garnish": "Garnish with lemon peel and brandied cherries.",
+    "garnish": "Mit Zitronenzeste und Brandy-Kirschen garnieren.",
     "abv": 15.78,
     "tags": [
         "Sour",
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": "amaretto-sour",
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "cask-proof-whiskey",
-            "name": "Cask-Proof Whiskey",
+            "name": "Fassstarker Whiskey",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -60,7 +60,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -72,7 +72,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",
@@ -84,7 +84,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 5,
             "amount": 15,
             "units": "ml",

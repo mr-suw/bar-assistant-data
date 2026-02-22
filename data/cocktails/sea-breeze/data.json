@@ -1,19 +1,19 @@
 {
     "_id": "sea-breeze",
     "name": "Sea Breeze",
-    "instructions": "Build all ingredients in a highball glass filled with ice.",
+    "instructions": "Alle Zutaten in ein mit Eis gefülltes Highball-Glas geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "The cocktail is usually consumed during summer months. The drink may be shaken in order to create a foamy surface.",
+    "description": "Dieser Cocktail wird vor allem in den Sommermonaten getrunken. Der Drink kann auch geschüttelt werden, um eine schaumige Krone zu erzeugen.",
     "source": "https://iba-world.com/sea-breeze/",
-    "garnish": "Garnish with orange zest and cherry",
+    "garnish": "Mit einer Orangenzeste und einer Kirsche garnieren",
     "abv": 7.66,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 40,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "cranberry-juice",
-            "name": "Cranberry juice",
+            "name": "Cranberrysaft",
             "sort": 2,
             "amount": 120,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",

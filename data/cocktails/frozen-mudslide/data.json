@@ -1,19 +1,19 @@
 {
     "_id": "frozen-mudslide",
     "name": "Frozen Mudslide",
-    "instructions": "1. In a blender jug, combine all the ingredients\n2. Blend until smooth\n3. Served in a tall glass",
+    "instructions": "1. Alle Zutaten in einen Standmixer geben.\n2. Mixen, bis die Masse glatt ist.\n3. In einem hohen Glas servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Death and Co. bartender, Devon Tarby, reworked the 1980s mudslide. Incorporating ice cream into the mudslide removes the need for ice resulting in a richer flavour.",
+    "description": "Devon Tarby, Bartenderin im Death and Co., hat den Mudslide aus den 1980er Jahren überarbeitet. Durch die Verwendung von Eiscreme im Mudslide wird kein Eis zum Kühlen benötigt, was zu einem reichhaltigeren Geschmack führt.",
     "source": "https://stevethebartender.com.au/frozen-mudslide/",
-    "garnish": "Garnish with grated dark chocolate",
+    "garnish": "Mit geraspelter Zartbitterschokolade garnieren",
     "abv": 19.54,
     "tags": [
-        "Coffee",
-        "Sweet"
+        "Kaffee",
+        "Süß"
     ],
-    "glass": "Highball",
-    "method": "Blend",
+    "glass": "Highball-Glas",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 2,
             "amount": 30,
             "units": "ml",

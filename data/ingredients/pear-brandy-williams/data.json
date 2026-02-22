@@ -1,12 +1,12 @@
 {
     "_id": "pear-brandy-williams",
     "_parent_id": "fruit-brandy",
-    "name": "Pear Brandy (Williams)",
+    "name": "Birnenbrand (Williams)",
     "strength": 40,
-    "description": "The Purkhart Pear Williams Brandy uses only “Williams” pears from South Tirol (also known as Alto Adige or Südtirol), whose pears are prized for their opulent and creamy ripe fruit fragrance. Lively and stimulating on the palate, this eau-de-vie reveals a depth of pear flavor that carries well into the finish. Made only from distilled pears and water. Enjoy on its own, stir with dry vermouth for a perfumed Martini variation, or make uncommonly aromatic sour cocktails. 100% Reines Destillat Williamsbrand.\n\n- Lively eau-de-vie distilled from Williams pears\n- Williams pears have an opulent and creamy ripe fruit fragrance\n- Floral, fruity complexity; makes aromatic sour cocktails\n- Mix with dry vermouth and orange bitters for a Martini variation\n- Purkhart has captured authentic regional tastes since 1932",
-    "origin": "Germany",
+    "description": "Der Purkhart Williams Birnenbrand verwendet ausschließlich „Williams“-Birnen aus Südtirol, deren Birnen für ihren opulenten und cremigen Duft nach reifen Früchten geschätzt werden. Lebhaft und anregend am Gaumen, enthüllt dieses Eau-de-Vie eine Tiefe an Birnengeschmack, die sich bis in den Abgang zieht. Ausschließlich aus destillierten Birnen und Wasser hergestellt. Pur genießen, mit trockenem Wermut für eine parfümierte Martini-Variante verrühren oder ungewöhnlich aromatische Sour-Cocktails zubereiten. 100% reines Destillat Williamsbrand.\n\n- Lebhaftes Eau-de-vie aus Williamsbirnen destilliert\n- Williamsbirnen haben einen opulenten und cremigen Duft nach reifen Früchten\n- Blumig, fruchtig-komplex; ergibt aromatische Sour-Cocktails\n- Mit trockenem Wermut und Orangenbitter für eine Martini-Variante mischen\n- Purkhart bietet seit 1932 authentische regionale Geschmäcker",
+    "origin": "Deutschland",
     "color": "#fbf8e3",
-    "category": "Spirits > Brandy > Fruit brandy",
+    "category": "Spirituosen > Brandy > Obstbrand",
     "created_at": null,
     "updated_at": null,
     "images": [

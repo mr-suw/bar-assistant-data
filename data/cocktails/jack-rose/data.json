@@ -1,18 +1,18 @@
 {
     "_id": "jack-rose",
     "name": "Jack Rose",
-    "instructions": "1. Combine all ingredients with ice and shake\n2. Strain into a coupe, serve up",
+    "instructions": "1. Alle Zutaten mit Eis im Shaker schütteln.\n2. In eine Coupette abseihen, ohne Eis servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This simple sweet-tart classic delivers full on apple flavor",
+    "description": "Dieser einfache, süß-saure Klassiker bietet volles Apfelaroma.",
     "source": "https://tuxedono2.com/jack-rose-cocktail-recipe",
     "garnish": null,
     "abv": 18.29,
     "tags": [
         "Brandy"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",

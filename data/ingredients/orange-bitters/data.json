@@ -1,12 +1,12 @@
 {
     "_id": "orange-bitters",
     "_parent_id": "bitters",
-    "name": "Orange bitters",
+    "name": "Orangenbitter",
     "strength": 28,
-    "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+    "description": "Konzentrische Cocktailbitter auf Basis von Orangenschalen, Gewürzen wie Kardamom und Koriander sowie karamellisiertem Zucker.",
     "origin": "Worldwide",
     "color": "#ed8300",
-    "category": "Bitters",
+    "category": "Bitter",
     "created_at": null,
     "updated_at": null,
     "images": [

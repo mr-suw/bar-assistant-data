@@ -1,19 +1,19 @@
 {
     "_id": "jasmine",
     "name": "Jasmine",
-    "instructions": "1. Combine all the ingredients except the lemon twist in a cocktail shaker three-quarters filled with ice.\n2. Shake until chilled.\n3. Strain into a chilled cocktail glass.\n4. Garnish with the lemon twist.",
+    "instructions": "1. Kombinieren Sie alle Zutaten außer der Zitronenzeste in einem Shaker, der zu drei Vierteln mit Eis gefüllt ist.\n2. Schütteln, bis der Drink kalt ist.\n3. In eine gekühlte Coupette abseihen.\n4. Mit der Zitronenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This cocktail recipe by Paul Harrington, was named after his best friend Matt Jasmin. It features gin, Campari, Cointreau and lemon juice.",
+    "description": "Dieses Cocktailrezept von Paul Harrington wurde nach seinem besten Freund Matt Jasmin benannt. Er besteht aus Gin, Campari, Cointreau und Zitronensaft.",
     "source": "https://punchdrink.com/recipes/jasmine/",
-    "garnish": "lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 22.18,
     "tags": [
-        "Dry",
-        "Citrusy"
+        "Trocken",
+        "Zitrusartig"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",

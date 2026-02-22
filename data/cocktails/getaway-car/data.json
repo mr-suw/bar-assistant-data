@@ -1,18 +1,18 @@
 {
     "_id": "getaway-car",
     "name": "Getaway Car",
-    "instructions": "1. Fill a shaker tin half-full with pebble ice.\n2. Add all ingredients and shake.\n3. Fill a Zombie mug half-full with pebble ice.\n4. Strain into the mug, and garnish with a lime wheel and a sprinkle of ancho powder.",
+    "instructions": "1. Einen Shaker zur Hälfte mit Pebble Ice füllen.\n2. Alle Zutaten hinzufügen und schütteln.\n3. Einen Zombie-Becher zur Hälfte mit Pebble Ice füllen.\n4. In den Becher abseihen und mit einem Limettenrad sowie einer Prise Anchopulver garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Meaghan Dorman's take on the Jungle Bird cocktail recipe swaps in Ancho Reyes for Campari—alongside a kick of ancho chili powder.",
+    "description": "Meaghan Dormans Interpretation des Jungle Bird Cocktails ersetzt Campari durch Ancho Reyes – ergänzt durch eine Prise Ancho-Chilipulver.",
     "source": "https://punchdrink.com/recipes/getaway-car/",
-    "garnish": "lime wheel and a sprinkle of ancho powder",
+    "garnish": "Limettenrad und eine Prise Anchopulver",
     "abv": 14.22,
     "tags": [
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,12 +34,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Appleton Reserve",
+            "note": "vorzugsweise Appleton Reserve",
             "substitutes": []
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 5,
             "amount": 15,
             "units": "ml",

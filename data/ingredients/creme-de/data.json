@@ -1,9 +1,9 @@
 {
     "_id": "creme-de",
     "_parent_id": null,
-    "name": "Crème de",
+    "name": "Crème-de-Liköre",
     "strength": 0,
-    "description": "A crème liqueur is a liqueur that has a great deal of additional sugar added to the point that it has a near-syrup consistency. Unlike cream liqueurs, crème liqueurs include no cream in their ingredients. \"Crème\" in this case refers to the consistency.",
+    "description": "Liköre mit sehr hohem Zuckeranteil, deren Konsistenz fast sirupartig ist; trotz des Namens ohne Sahne.",
     "origin": null,
     "color": null,
     "category": null,

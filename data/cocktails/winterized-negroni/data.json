@@ -1,10 +1,10 @@
 {
     "_id": "winterized-negroni",
     "name": "Winterized Negroni",
-    "instructions": "1. Combine all ingredients in a mixing glass with ice.\n2. Stir until chilled.\n3. Strain into a coupe glass.",
+    "instructions": "1. Alle Zutaten in ein Rührglas mit Eis geben.\n2. Kaltrühren.\n3. In eine Coupette abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A half-teaspoon of Islay Scotch brings robust and malty flavors to the Negroni for a winterized take on the aperitivo classic.",
+    "description": "Ein halber Barlöffel Islay Scotch verleiht dem Negroni robuste und malzige Aromen – eine winterliche Interpretation des Aperitivo-Klassikers.",
     "source": "https://punchdrink.com/recipes/winterized-negroni/",
     "garnish": null,
     "abv": 24.38,
@@ -12,8 +12,8 @@
         "Negroni",
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "islay-scotch-whiskey",
-            "name": "Islay Scotch Whiskey",
+            "name": "Islay Scotch Whisky",
             "sort": 4,
             "amount": 0.5,
             "units": "barspoon",

@@ -1,20 +1,20 @@
 {
     "_id": "old-fashioned",
     "name": "Old Fashioned",
-    "instructions": "1. Add syrup and bitters to a glass\n2. Swirl syrup and bitters\n3. Fill the glass with ice cubes and add whiskey\n4. Stir gently",
+    "instructions": "1. Sirup und Bitter in ein Glas geben.\n2. Sirup und Bitter verrühren.\n3. Das Glas mit Eiswürfeln füllen und Whiskey hinzufügen.\n4. Vorsichtig umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Developed during the 19th century and given its name in the 1880s, it is an IBA Official Cocktail. It is also one of six basic drinks listed in David A. Embury's The Fine Art of Mixing Drinks.\n\nOld-Fashioned is as traditional as they come. A simple mix of spirits, sugar, bitters and water, it appears in 1806 as the first printed recipe for a cocktail (“cock tail”). Other alcohols were permitted, but the whiskey or rye version of this combination, over ice, is what we now know as the Old Fashioned, thought to be named later that century after more elaborate new-fangled cocktails entered the canon. During Prohibition, the recipe veered into odd territory, adding fruit and cherries to distract from the available crude spirits. After repeal, it was the imposter version that stuck until the recent cocktail revival brought the original recipe back from the brink of extinction.",
+    "description": "Im 19. Jahrhundert entwickelt und in den 1880er Jahren benannt, ist er ein offizieller IBA-Cocktail. Er ist auch eines von sechs Grundgetränken, die in David A. Emburys 'The Fine Art of Mixing Drinks' aufgeführt sind.\n\nOld-Fashioned ist so traditionell wie nur möglich. Eine einfache Mischung aus Spirituosen, Zucker, Bitter und Wasser, erscheint er 1806 als das erste gedruckte Rezept für einen Cocktail („cock tail“). Andere Alkohole waren erlaubt, aber die Whiskey- oder Roggen-Version dieser Kombination, auf Eis, ist das, was wir heute als Old Fashioned kennen, vermutlich später in diesem Jahrhundert benannt, nachdem aufwändigere neuartige Cocktails in den Kanon aufgenommen wurden. Während der Prohibition geriet das Rezept in seltsames Gebiet, indem Früchte und Kirschen hinzugefügt wurden, um von den verfügbaren groben Spirituosen abzulenken. Nach der Aufhebung hielt sich die gefälschte Version, bis die jüngste Cocktail-Revival das Originalrezept vor dem Aussterben bewahrte.",
     "source": "https://iba-world.com/old-fashioned/",
-    "garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
+    "garnish": "Mit einer Orangenscheibe oder -zeste und einer Cocktailkirsche garnieren.",
     "abv": 33.57,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
         "Old Fashioned"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 1,
             "units": "barspoon",
@@ -52,7 +52,7 @@
             "substitutes": [
                 {
                     "_id": "sugar",
-                    "name": "Sugar",
+                    "name": "Zucker",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -61,7 +61,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 2,
             "units": "dashes",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 1,
             "units": "dashes",

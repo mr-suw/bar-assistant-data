@@ -1,97 +1,97 @@
 [
     {
-        "name": "Cocktail",
-        "description": "A cocktail glass is a stemmed glass with an inverted cone bowl, mainly used to serve straight-up cocktails. The term cocktail glass is often used interchangeably with martini glass, despite their differing slightly. A standard cocktail glass contains 90 to 300 millilitres.",
+        "name": "Cocktailglas",
+        "description": "Ein Cocktailglas ist ein Stielglas mit nach unten zulaufender Kegel-Schale und wird für Drinks ohne Eis serviert. Fassungsvermögen meist 90 bis 300 ml.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Lowball",
-        "description": "The old fashioned glass, otherwise known as the rocks glass and lowball glass (or simply lowball), is a short tumbler used for serving spirits, such as whisky, neat or with ice cubes (\"on the rocks\"). Old fashioned glasses usually contain 180–300 ml.",
+        "name": "Tumbler",
+        "description": "Ein Tumbler (auch Old-Fashioned-Glas genannt) ist ein niedriges Glas für Spirituosen pur oder auf Eis und fasst etwa 180–300 ml.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Highball",
-        "description": "A highball glass is a glass tumbler that can contain 240 to 350 millilitres (8 to 12 US fl oz).",
+        "name": "Highball-Glas",
+        "description": "Ein Highball-Glas ist ein hoher Tumbler mit rund 240 bis 350 ml Fassungsvermögen.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Shot",
-        "description": "A shot glass is a glass originally designed to hold or measure spirits or liquor, which is either imbibed straight from the glass (\"a shot\") or poured into a cocktail (\"a drink\").",
+        "name": "Shotglas",
+        "description": "Ein Shotglas dient zum Abmessen oder schnellen Trinken kleiner Spirituosenmengen oder zum Portionieren für Cocktails.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Coupe",
-        "description": "The champagne coupe is a shallow, broad-bowled saucer shaped stemmed glass generally capable of containing 180 to 240 ml (6.1 to 8.1 US fl oz) of liquid.",
+        "name": "Coupette",
+        "description": "Die Champagner-Coupette ist eine flache Stielschale und fasst ungefähr 180 bis 240 ml Flüssigkeit.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Margarita",
-        "description": "A variant of the classic champagne coupe.",
+        "name": "Margarita-Glas",
+        "description": "Eine Variante der klassischen Coupette speziell für Margaritas.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Wine",
-        "description": "A wine glass is a type of glass that is used to drink and taste wine. Most wine glasses are stemware (goblets), i.e., they are composed of three parts: the bowl, stem, and foot.",
+        "name": "Weinglas",
+        "description": "Ein Weinglas ist ein Stielglas zum Probieren und Trinken von Wein, bestehend aus Kelch, Stiel und Fuß.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Champagne",
-        "description": "A champagne glass is stemware designed for champagne and other sparkling wines.",
+        "name": "Champagnerglas",
+        "description": "Stielglas für Champagner und andere Schaumweine.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Hurricane",
-        "description": "A hurricane glass is a form of drinking glass which typically will contain 20 US fluid ounces.",
+        "name": "Hurricane-Glas",
+        "description": "Bauchiges Stielglas mit etwa 150 ml Fassungsvermögen für tropische Drinks.",
         "volume": 150,
         "volume_units": "ml"
     },
     {
-        "name": "Nick and Nora",
-        "description": "A Nick & Nora glass is a stemmed glass with an inverted bowl, mainly used to serve straight-up cocktails. The glass is similar to a cocktail glass or martini glass.",
+        "name": "Nick-and-Nora-Glas",
+        "description": "Stielglas mit leicht gerundeter Schale für gerührte oder geschüttelte Cocktails ohne Eis.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Fizzio",
-        "description": "Wide flat bowl on a stem.",
+        "name": "Fizzio-Schale",
+        "description": "Breite, flache Schale auf einem Stiel.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Julep",
-        "description": "Metal bucket shaped glass.",
+        "name": "Julep-Becher",
+        "description": "Metallbecher in der Form eines kleinen Eimers.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Absinthe",
-        "description": "Absinthe glasses have a reservoir in the stem to measure the correct amount of Absinthe for one serving.",
+        "name": "Absinth-Glas",
+        "description": "Absinthgläser besitzen einen Messbereich im Stiel für die richtige Menge Absinth.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Glass mug",
-        "description": "A mug made of glass.",
+        "name": "Glasbecher",
+        "description": "Ein Henkelbecher aus Glas.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Copper mug",
-        "description": "A mug made of copper.",
+        "name": "Kupferbecher",
+        "description": "Ein Becher aus Kupfer, typischerweise für Moscow Mules.",
         "volume": null,
         "volume_units": null
     },
     {
-        "name": "Tiki",
-        "description": "The term \"tiki mug\" is a blanket term for the sculptural drinkware even though they vary in size and most do not contain handles.",
+        "name": "Tiki-Becher",
+        "description": "Oberbegriff für skulpturale Keramik- oder Steingutbecher ohne Henkel für Tiki-Drinks.",
         "volume": null,
         "volume_units": null
     }

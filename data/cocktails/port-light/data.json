@@ -1,19 +1,19 @@
 {
     "_id": "port-light",
     "name": "Port Light",
-    "instructions": "Shake with ice, Dump",
+    "instructions": "Mit Eis schütteln und samt Eis in das Glas geben (Dump-shake).",
     "created_at": null,
     "updated_at": null,
-    "description": "In the Trader Vic’s tradition, this drink is served in a Port Light glass, which resembles a rounded lantern with red glass and gold trim; the same glass in green is called a Starboard Light glass. A Port Light Highball appears in Trader Vic’s Bartender’s Guide (1947), but it’s very different from this drink, which Jeff “Beachbum” Berry discovered at the Kahiki Restaurant in Columbus, Ohio, in 1996.\n\nUnusual Tiki cocktail. Buffalo Trace works well here. Rye is not recommended for this one.",
+    "description": "In der Tradition von Trader Vic wird dieser Drink in einem Port Light Glas serviert, das einer abgerundeten Laterne mit rotem Glas und Goldverzierung ähnelt; das gleiche Glas in Grün wird Starboard Light Glas genannt. Ein 'Port Light Highball' erscheint bereits im 'Trader Vic’s Bartender’s Guide' (1947), unterscheidet sich jedoch stark von diesem Drink, den Jeff „Beachbum“ Berry 1996 im Kahiki Restaurant in Columbus, Ohio, entdeckte.\n\nUngewöhnlicher Tiki-Cocktail. Buffalo Trace eignet sich hier hervorragend; Rye Whiskey wird für dieses Rezept eher nicht empfohlen.",
     "source": "Beachbum Berry's Grog Log by Jeff Berry & Annene Kaye, p. 66.",
-    "garnish": "Mint",
+    "garnish": "Minze",
     "abv": 17.07,
     "tags": [
-        "Tropical",
+        "Tropisch",
         "Tiki"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",

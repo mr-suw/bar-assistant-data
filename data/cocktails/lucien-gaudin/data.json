@@ -1,18 +1,18 @@
 {
     "_id": "lucien-gaudin",
     "name": "Lucien Gaudin",
-    "instructions": "1. Combine ingredients in a mixing glass and fill with ice.\n2. Stir well and strain into a chilled cocktail glass.",
+    "instructions": "1. Alle Zutaten in ein Rührglas geben und mit Eis füllen.\n2. Gut rühren und in ein vorgekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Introducing the Lucien Gaudin. Named for an early 20th century French Olympic fencer, the Lucien Gaudin starts off in the manner of a Negroni by combining gin with Campari. With the addition of Cointreau and dry vermouth the result is a pleasantly bitter drink that is simultaneously rich and dry--a challenging flavor to create which is all the more enjoyable because of its rarity.",
+    "description": "Dürfen wir vorstellen: der Lucien Gaudin. Benannt nach einem französischen Olympia-Fechter des frühen 20. Jahrhunderts, beginnt der Lucien Gaudin wie ein Negroni mit der Kombination von Gin und Campari. Durch die Zugabe von Cointreau und trockenem Wermut entsteht ein angenehm bitterer Drink, der gleichzeitig vollmundig und trocken ist – ein komplexes Aromenprofil, das aufgrund seiner Seltenheit umso mehr Freude bereitet.",
     "source": "https://www.seriouseats.com/lucien-gaudin-gin-drink-cocktails-recipe",
-    "garnish": "A twist of orange peel is not out of place here.",
+    "garnish": "Eine Orangenzeste passt hier hervorragend.",
     "abv": 27.17,
     "tags": [
         "Negroni"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -63,7 +63,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 4,
             "amount": 15,
             "units": "ml",

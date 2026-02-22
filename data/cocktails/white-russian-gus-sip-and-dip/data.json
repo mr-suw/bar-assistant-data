@@ -9,11 +9,11 @@
     "garnish": null,
     "abv": 21.82,
     "tags": [
-        "Coffee",
+        "Kaffee",
         "Dessert"
     ],
     "glass": null,
-    "method": "Layer",
+    "method": "Schichten",
     "utensils": [],
     "parent_cocktail_id": "white-russian",
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 1,
             "units": "oz",

@@ -3,10 +3,10 @@
     "_parent_id": "spirits",
     "name": "Whiskey",
     "strength": 40,
-    "description": "Whiskey is a distilled alcoholic beverage made from fermented grain mash. The grains used in whiskey production can include barley, corn, rye, and wheat. The production process involves mashing the grains, fermenting the mash, distilling the liquid, and aging it in wooden barrels, usually made of oak. The aging process imparts flavors and character to the whiskey.\n\nThe flavor, aroma, and characteristics of whiskey can vary widely based on factors such as the type of grains used, the distillation process, the type of barrels used for aging, and the duration of maturation. Whiskey is enjoyed in various ways, including neat, on the rocks, or as a key ingredient in cocktails.",
-    "origin": "Worldwide",
+    "description": "Whiskey ist ein destilliertes alkoholisches Getränk, das aus fermentierter Getreidemaische hergestellt wird. Die in der Whiskeyproduktion verwendeten Getreidesorten können Gerste, Mais, Roggen und Weizen umfassen. Der Produktionsprozess umfasst das Maischen der Getreidesorten, das Fermentieren der Maische, das Destillieren der Flüssigkeit und das Reifen in Holzfässern, normalerweise aus Eiche. Der Reifeprozess verleiht dem Whiskey Aromen und Charakter.\n\nGeschmack, Aroma und Eigenschaften von Whiskey können stark variieren, abhängig von Faktoren wie der Art der verwendeten Getreidesorten, dem Destillationsprozess, der Art der für die Reifung verwendeten Fässer und der Reifungsdauer. Whiskey wird auf verschiedene Arten genossen, einschließlich pur, auf Eis oder als Schlüsselzutat in Cocktails.",
+    "origin": "Weltweit",
     "color": "#d54a06",
-    "category": "Spirits",
+    "category": "Spirituosen",
     "created_at": null,
     "updated_at": null,
     "images": [

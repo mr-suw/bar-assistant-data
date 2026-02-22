@@ -1,16 +1,16 @@
 {
     "_id": "red-hook",
     "name": "Red Hook",
-    "instructions": "1. Combine all ingredients over ice and stir\n2. Strain into a chilled cocktail glass, serve up",
+    "instructions": "1. Alle Zutaten mit Eis verrühren\n2. In ein gekühltes Cocktailglas abseihen, pur servieren",
     "created_at": null,
     "updated_at": null,
-    "description": "This contemporary Manhattan riff is a balanced people-pleaser",
+    "description": "Diese zeitgenössische Manhattan-Abwandlung ist ein ausgewogener Publikumsliebling",
     "source": "https://tuxedono2.com/red-hook-cocktail-recipe",
     "garnish": null,
     "abv": 29.17,
     "tags": [],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -49,14 +49,14 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 15,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Punt E Mas",
+            "note": "vorzugsweise Punt E Mas",
             "substitutes": []
         }
     ]

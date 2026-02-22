@@ -1,20 +1,20 @@
 {
     "_id": "artichoke-hold",
-    "name": "Artichoke Hold",
-    "instructions": "1. Add all ingredients to a cocktail shaker.\n2. Add a small amount of ice and shake lightly.\n3. Strain over crushed ice into a rocks glass.\n4. Top with more crushed ice.",
+    "name": "Artischocken-Griff",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker geben.\n2. Eine kleine Menge Eis hinzufügen und leicht schütteln.\n3. Über Crushed Ice in ein Old Fashioned Glas abseihen.\n4. Mit weiterem Crushed Ice auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The warm funk of Smith & Cross rum creates a heavy base for the bittersweet co-mingling of amaro and elderflower in this cocktail recipe.",
+    "description": "Der warme 'Funk' von Smith & Cross Rum bildet die schwere Basis für das bittersüße Zusammenspiel von Amaro und Holunderblüte in diesem Cocktailrezept.",
     "source": "https://punchdrink.com/recipes/artichoke-hold/",
-    "garnish": "Mint sprig",
+    "garnish": "Minzzweig",
     "abv": 13.43,
     "tags": [
         "Tiki",
         "Floral",
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -35,7 +35,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaikanischer Rum",
             "sort": 1,
             "amount": 22.5,
             "units": "ml",
@@ -59,7 +59,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -71,7 +71,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -83,7 +83,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 5,
             "amount": 15,
             "units": "ml",

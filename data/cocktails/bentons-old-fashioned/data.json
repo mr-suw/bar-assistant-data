@@ -1,34 +1,38 @@
 {
     "_id": "bentons-old-fashioned",
-    "name": "Benton’s Old-Fashioned",
-    "instructions": "1. Add all ingredients to a mixing glass.\n2. Add ice and stir until chilled.\n3. Strain into a rocks glass over ice (preferably a large cube).\n4. Garnish with an orange peel.",
+    "name": "Benton's Old Fashioned",
+    "instructions": "1. Alle Zutaten (außer der Garnitur) in ein mit Eis gefülltes Rührglas geben.\n2. Rühren, bis es gut gekühlt ist (ca. 30 Sekunden).\n3. In einen Tumbler über frisches Eis abseihen.\n4. Mit einer Orangenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Benton’s Old-Fashioned cocktail recipe is the drink that introduced the concept of “fat-washing” spirits to the cocktail world.",
+    "description": "Der Old Fashioned wurde von Don Lee vom New Yorker PDT-Team unter Verwendung von 'Fat-Washed'-Bourbon kreiert, der durch das Infundieren von hochwertigem, geräuchertem Bacon mit der Spirituose hergestellt wird. Dies verleiht dem fertigen Cocktail ein rauchiges, herzhaftes und leicht fettiges Element. Der Cocktail war Teil der PDT-Cocktail-Liste von 2008. Die Technik, Alkohol mit Fett zu waschen, war kein neuartiges Konzept, aber dieser spezielle Drink hat es in der breiteren Cocktailwelt definitiv bekannt gemacht.",
     "source": "https://punchdrink.com/recipes/bentons-old-fashioned/",
-    "garnish": "orange peel",
-    "abv": 0.34,
-    "tags": [],
-    "glass": "Lowball",
-    "method": "Stir",
+    "garnish": "Orangenzeste",
+    "abv": 27.27,
+    "tags": [
+        "Old Fashioned",
+        "Rauchig",
+        "Herzhaft"
+    ],
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
-    "parent_cocktail_id": null,
+    "parent_cocktail_id": "old-fashioned",
     "year": null,
     "images": [
         {
-            "uri": "file:///bentons-old-fashioned-1.webp",
+            "uri": "file:///bentons-old-fashioned-1.jpg",
             "sort": 1,
-            "placeholder_hash": "21kKFwTb6oifd4WLdsZot1d2VoUHNnYA",
-            "copyright": "Punch Staff | Nick Brown"
+            "placeholder_hash": "KNgKHwIdqHh3h3iJgHiHh7eJCFQXB2h4",
+            "copyright": "Punch Staff | Noah Fecks"
         }
     ],
     "ingredients": [
         {
             "_id": "bacon-fat-infused-bourbon",
-            "name": "Bacon Fat-Infused bourbon",
+            "name": "Benton's mit Bacon-Fett infundierter Bourbon",
             "sort": 1,
-            "amount": 2,
-            "units": "oz",
+            "amount": 60,
+            "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -37,19 +41,19 @@
         },
         {
             "_id": "maple-syrup",
-            "name": "Maple syrup",
+            "name": "Ahornsirup",
             "sort": 2,
-            "amount": 0.25,
-            "units": "oz",
+            "amount": 7.5,
+            "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Grade B",
+            "note": null,
             "substitutes": []
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 2,
             "units": "dash",

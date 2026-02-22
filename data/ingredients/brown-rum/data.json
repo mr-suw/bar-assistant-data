@@ -1,12 +1,12 @@
 {
     "_id": "brown-rum",
     "_parent_id": "rum",
-    "name": "Brown Rum",
+    "name": "Brauner Rum",
     "strength": 40,
-    "description": "Gold rum, also referred to as amber or golden rum, is a type of rum that falls between light and dark rum in terms of color and flavor. It is a versatile and widely used category of rum with characteristics that make it suitable for various cocktails and sipping neat.\n\nWhile not aged as long as dark rum, gold rum often undergoes some degree of aging in barrels. The aging contributes to the development of color, flavor, and a smoother texture.",
-    "origin": "Caribbean",
+    "description": "Goldener Rum, auch als Amber- oder Goldrum bezeichnet, ist eine Rumsorte, die in Farbe und Geschmack zwischen hellem und dunklem Rum liegt. Er ist eine vielseitige und weit verbreitete Rumkategorie mit Eigenschaften, die ihn für verschiedene Cocktails und den puren Genuss geeignet machen.\n\nObwohl er nicht so lange wie dunkler Rum gelagert wird, durchläuft goldener Rum oft eine gewisse Fasslagerung. Die Lagerung trägt zur Entwicklung von Farbe, Geschmack und einer weicheren Textur bei.",
+    "origin": "Karibik",
     "color": "#c79141",
-    "category": "Spirits > Sugarcane-based spirits > Rum",
+    "category": "Spirituosen > Zuckerrohr-basierte Spirituosen > Rum",
     "created_at": null,
     "updated_at": null,
     "images": [

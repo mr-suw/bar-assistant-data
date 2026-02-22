@@ -1,19 +1,19 @@
 {
     "_id": "non-alc-hurricane",
     "name": "Non-Alc Hurricane",
-    "instructions": "1. Add all ingredients, except club soda, to a shaker\n2. Add ice and shake for 10 seconds\n3. Pour into hurricane glass and top with club soda\n4. Garnish with maraschino cherry or orange wheel",
+    "instructions": "1. Alle Zutaten außer dem Sodawasser in einen Shaker geben.\n2. Eis hinzufügen und 10 Sekunden lang schütteln.\n3. In ein Hurricane-Glas gießen und mit Sodawasser auffüllen.\n4. Mit einer Maraschinokirsche oder einer Orangenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Hurricane is a classic New Orleans cocktail that features passionfruit and plenty of rum. It was made famous at Pat O’Briens, a popular New Orleans spot that still attracts visitors to this day. In our non-alcoholic hurricane recipe, we’ll be using passionfruit syrup, as well as grenadine to achieve a fruity, tropical flavor.",
+    "description": "Der Hurricane ist ein klassischer Cocktail aus New Orleans, der durch Passionsfrucht und reichlich Rum besticht. Berühmt wurde er im Pat O’Briens, einem beliebten Ort in New Orleans, der bis heute Besucher anzieht. In unserer alkoholfreien Version verwenden wir Passionsfruchtsirup sowie Grenadine, um einen fruchtigen, tropischen Geschmack zu erzielen.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/na-hurricane",
-    "garnish": "maraschino cherry or lemon wheel",
+    "garnish": "Maraschinokirsche oder Zitronenscheibe",
     "abv": 0.55,
     "tags": [
-        "Virgin",
-        "Summer"
+        "Alkoholfrei",
+        "Sommer"
     ],
-    "glass": "Hurricane",
-    "method": "Shake",
+    "glass": "Hurricane-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 1,
             "units": "topup",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 3,
             "units": "dash",

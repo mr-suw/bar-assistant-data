@@ -1,12 +1,12 @@
 {
     "_id": "maple-syrup",
     "_parent_id": "syrups",
-    "name": "Maple syrup",
+    "name": "Ahornsirup",
     "strength": 0,
-    "description": "Maple syrup is a syrup made from the sap of maple trees.",
-    "origin": "Canada",
+    "description": "Ahornsirup wird aus dem Saft des Zuckerahorns gewonnen.",
+    "origin": "Kanada",
     "color": "#bb6f44",
-    "category": "Sweeteners > Syrups",
+    "category": "Süßungsmittel > Sirupe",
     "created_at": null,
     "updated_at": null,
     "images": [

@@ -1,20 +1,20 @@
 {
     "_id": "screwdriver",
     "name": "Screwdriver",
-    "instructions": "1. Add ice to tumbler glass first.\n2. Add vodka and orange juice next",
+    "instructions": "1. Zuerst Eis in einen Tumbler geben.\n2. Wodka und Orangensaft hinzufügen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A screwdriver is a simple and popular alcoholic highball drink made with orange juice and vodka. In the UK, it is referred to as a \"vodka and orange\". While the basic drink is simply the two ingredients, there are many variations. Many of the variations have different names in different parts of the world.",
+    "description": "Ein Screwdriver ist ein einfacher und beliebter alkoholischer Highball-Drink aus Orangensaft und Wodka. Im Vereinigten Königreich wird er auch als \"Vodka Orange\" bezeichnet. Während der Basis-Drink lediglich aus zwei Zutaten besteht, gibt es viele Variationen, die weltweit unter verschiedenen Namen bekannt sind.",
     "source": "https://baranddrink.com/screwdriver/#mv-creation-7-jtr",
-    "garnish": "Garnish with slice of orange or homemade orange twists",
+    "garnish": "Mit einer Orangenscheibe oder einer Orangenzeste garnieren",
     "abv": 14.55,
     "tags": [
-        "Classics",
-        "Sweet",
-        "Citrusy"
+        "Klassiker",
+        "Süß",
+        "Zitrusbetont"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 2,
             "amount": 90,
             "units": "ml",

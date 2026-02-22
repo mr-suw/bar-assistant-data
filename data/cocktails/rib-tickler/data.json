@@ -1,16 +1,16 @@
 {
     "_id": "rib-tickler",
     "name": "Rib Tickler",
-    "instructions": "1. In a cocktail shaker, combine all ingredients\n2. Shake briefly with ice to combine\n3. Strain over ice into a wine glass\n4. Top with soda water",
+    "instructions": "1. Alle Zutaten in einem Shaker kombinieren.\n2. Kurz mit Eis schütteln.\n3. Auf frisches Eis in ein Weinglas abseihen.\n4. Mit Sodawasser auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Created by Alex Day, Nitecap, NYC.This drink was born out of the idea to create a more sippable, bubbly White Negroni (which is Suze, gin, and Lillet Blanc or blanc vermouth).",
+    "description": "Kreiert von Alex Day, Nitecap, NYC. Dieser Drink entstand aus der Idee, einen süffigeren, spritzigen White Negroni zu kreieren (der normalerweise aus Suze, Gin und Lillet Blanc oder weißem Wermut besteht).",
     "source": "https://stevethebartender.com.au/st-germain-white-negroni-recipe/",
-    "garnish": "Garnish with a grapefruit wedge",
+    "garnish": "Grapefruitspalte",
     "abv": 13.09,
     "tags": [],
-    "glass": "Wine",
-    "method": "Shake",
+    "glass": "Weinglas",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,14 +25,14 @@
     "ingredients": [
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 1,
             "amount": 60,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Dolin",
+            "note": "vorzugsweise Dolin",
             "substitutes": []
         },
         {
@@ -61,7 +61,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 7.5,
             "units": "ml",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 1,
             "units": "topup",

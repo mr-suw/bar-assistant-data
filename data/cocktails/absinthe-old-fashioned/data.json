@@ -1,20 +1,20 @@
 {
     "_id": "absinthe-old-fashioned",
     "name": "Absinthe Old Fashioned",
-    "instructions": "1. Add all ingredients except bitters to a mixing glass with ice\n2. Stir 20 seconds and strain into a rocks glass filled with ice\n3. Dash bitters on top to layer",
+    "instructions": "1. Alle Zutaten außer den Bitters in ein Rührglas mit Eis geben.\n2. 20 Sekunden lang rühren und in einen Tumbler auf frisches Eis abseihen.\n3. Die Bitters als Schicht obenauf geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "Doug Petry of Louisville’s Rye restaurant devised this absinthe-based old fashioned. It reads quite sweet but it rounds out nicely into a surprisingly delicious cocktail.",
+    "description": "Doug Petry aus dem Restaurant Rye in Louisville hat diesen Old Fashioned auf Absinth-Basis kreiert. Er liest sich recht süß, rundet sich aber wunderbar zu einem überraschend köstlichen Cocktail ab.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/absinthe-old-fashioned",
     "garnish": null,
     "abv": 19.58,
     "tags": [
-        "Autumn",
+        "Herbst",
         "Old Fashioned",
-        "Herbacious"
+        "Kräuterig"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 30,
             "units": "ml",

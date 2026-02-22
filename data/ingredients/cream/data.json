@@ -1,12 +1,12 @@
 {
     "_id": "cream",
     "_parent_id": "dairy",
-    "name": "Cream",
+    "name": "Sahne",
     "strength": 0,
-    "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+    "description": "Sahne ist ein Milchprodukt, das aus der fetthaltigeren Schicht besteht, die vor der Homogenisierung von der Milch abgeschöpft wird.",
     "origin": null,
     "color": "#fff5e8",
-    "category": "Dairy",
+    "category": "Milchprodukte",
     "created_at": null,
     "updated_at": null,
     "images": [

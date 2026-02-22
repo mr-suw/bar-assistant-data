@@ -1,19 +1,19 @@
 {
     "_id": "gemist",
     "name": "Gemišt",
-    "instructions": "Combine cold ingredients in a glass.\nIngredient amounts are usually eyeballed depending on the glass.",
+    "instructions": "Kalte Zutaten in einem Glas kombinieren.\nDie Mengen werden meist nach Gefühl (Augenmaß) dosiert, je nach Größe des Glases.",
     "created_at": null,
     "updated_at": null,
-    "description": "Coming from a german word \"gemischt\", meaning mixed. Popular in Balkan countries, especially with homemade dry white wines.",
+    "description": "Abgeleitet vom deutschen Wort „gemischt“. Besonders beliebt in den Balkanländern, oft zubereitet mit hausgemachten, trockenen Weißweinen.",
     "source": null,
     "garnish": null,
     "abv": 6,
     "tags": [
         "Spritz",
-        "Wine"
+        "Wein"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "white-wine",
-            "name": "White wine",
+            "name": "Weißwein",
             "sort": 1,
             "amount": 150,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 2,
             "amount": 100,
             "units": "ml",

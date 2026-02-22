@@ -1,12 +1,12 @@
 {
     "_id": "light-rum",
     "_parent_id": "rum",
-    "name": "Light Rum",
+    "name": "Heller Rum",
     "strength": 40,
-    "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+    "description": "Weißer Rum, auch als heller oder Silber-Rum bekannt, ist eine Art Rum, der klar und farblos ist. Er wird oft ungelagert oder für eine sehr kurze Zeit in Edelstahl- oder anderen neutralen Behältern gelagert, was verhindert, dass er die Farbe und den Geschmack entwickelt, die sich aus einer längeren Lagerung in Holzfässern ergeben würden.",
     "origin": "Caribbean",
     "color": "#ffffff",
-    "category": "Spirits > Sugarcane-based spirits > Rum",
+    "category": "Spirituosen > Zuckerrohrbasierte Spirituosen > Rum",
     "created_at": null,
     "updated_at": null,
     "images": [

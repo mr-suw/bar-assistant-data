@@ -1,12 +1,12 @@
 {
     "_id": "apple-brandy",
     "_parent_id": "fruit-brandy",
-    "name": "Apple Brandy",
+    "name": "Apfelbrand",
     "strength": 40,
-    "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
-    "origin": "France",
+    "description": "Apfelbrand ist eine destillierte Spirituose, die aus vergorenem Apfelsaft oder Apfelwein hergestellt wird. Die Herstellung umfasst das Fermentieren von Äpfeln, das Destillieren der resultierenden Flüssigkeit und oft das Reifen in Eichenfässern. Das Endprodukt kann in der Farbe von klar bis bernsteinfarben reichen und zeigt eine Vielzahl von Apfelaromen, die von den verwendeten Apfelsorten und dem Reifungsprozess beeinflusst werden. Apfelbrand kann pur genossen oder in Cocktails und kulinarischen Anwendungen verwendet werden. Der Begriff umfasst eine breite Kategorie von Apfelspirituosen, die weltweit mit unterschiedlichen Herstellungsmethoden und Geschmacksprofilen hergestellt werden.",
+    "origin": "Frankreich",
     "color": "#ca5210",
-    "category": "Spirits > Brandy > Fruit brandy",
+    "category": "Obstbrand",
     "created_at": null,
     "updated_at": null,
     "images": [

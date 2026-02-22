@@ -1,18 +1,18 @@
 {
     "_id": "the-mahatma",
     "name": "The Mahatma",
-    "instructions": "1. Pour the liquids into shaker with ice and shake hard for 10 seconds.\n2. Express orange oil from an orange peel over a chilled coupe glass and discard.\n3. Double strain into the coupe. \n\n\n ## Editors note:\n\n### Hibiscus Grenadine:",
+    "instructions": "1. Die Flüssigkeiten mit Eis in einen Shaker geben und 10 Sekunden lang kräftig schütteln.\n2. Orangenöl von einer Orangenschale über ein gekühltes Coupette-Glas ausdrücken und entsorgen.\n3. Doppelt in die Coupette abseihen.\n\n\n ## Anmerkung der Redaktion:\n\n### Hibiskus-Grenadine:",
     "created_at": null,
     "updated_at": null,
-    "description": "An homage to Martin \"Mahatma\" Lomasney, who received the first Ward Eight cocktail, this riff adds hibiscus-infused grenadine and orange oil.",
+    "description": "Eine Hommage an Martin „Mahatma“ Lomasney, der den ersten Ward Eight Cocktail erhielt, fügt diese Variante mit Hibiskus angereicherte Grenadine und Orangenöl hinzu.",
     "source": "https://punchdrink.com/recipes/the-mahatma/",
-    "garnish": "dried roses and sprig of thyme",
+    "garnish": "getrocknete Rosen und Thymianzweig",
     "abv": 18.34,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,24 +34,24 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Bulleit bourbon",
+            "note": "vorzugsweise Bulleit Bourbon",
             "substitutes": []
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 2,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Hibiscus infused",
+            "note": "mit Hibiskus infundiert",
             "substitutes": []
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "peychauds-bitters",
-            "name": "Peychauds Bitters",
+            "name": "Peychaud's Bitters",
             "sort": 4,
             "amount": 2,
             "units": "dash",

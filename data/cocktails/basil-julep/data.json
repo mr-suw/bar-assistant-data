@@ -10,10 +10,10 @@
     "abv": 32.32,
     "tags": [
         "Julep",
-        "Herbacious"
+        "Kräuterig"
     ],
-    "glass": "Julep",
-    "method": "Muddle",
+    "glass": "Julep-Becher",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 7.5,
             "units": "ml",

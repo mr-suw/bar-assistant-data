@@ -1,12 +1,12 @@
 {
     "_id": "rye-whiskey",
     "_parent_id": "whiskey",
-    "name": "Rye whiskey",
+    "name": "Rye Whiskey",
     "strength": 40,
-    "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
-    "origin": "North America",
+    "description": "Roggenwhiskey ist eine Whiskysorte, die hauptsächlich aus Roggenkorn hergestellt wird. Um in den Vereinigten Staaten als Roggenwhiskey bezeichnet zu werden, muss die Maische (Getreidemischung, die zur Alkoholherstellung fermentiert wird) zu mindestens 51 % aus Roggen bestehen. Die restlichen Bestandteile der Maische können andere Getreidesorten wie Mais und Gerste umfassen. Roggenwhiskey wird in neuen, verkohlten Eichenfässern gelagert, und das Endprodukt darf nicht mehr als 160 Proof destilliert und mit nicht mehr als 125 Proof in das Fass zur Lagerung gefüllt werden.\n\nAmerikanischer Roggenwhiskey neigt zu einem würzigeren und robusteren Geschmacksprofil im Vergleich zu Bourbon, der hauptsächlich aus Mais hergestellt wird.\n\nIn Kanada wird der Begriff „Rye“ oft weit gefasst und bedeutet nicht unbedingt, dass der Whiskey hauptsächlich aus Roggenkorn hergestellt wird. Kanadischer Roggenwhiskey kann eine Mischung aus Getreide enthalten, und das Geschmacksprofil kann variieren. Einige kanadische Whiskys, die als „Rye“ bezeichnet werden, werden mit wenig oder gar keinem Roggenanteil hergestellt.\n\nRoggenwhiskey ist bekannt für seinen unverwechselbaren Geschmack, der würzige, fruchtige und manchmal pfeffrige Noten umfassen kann. Er kann pur, auf Eis oder in verschiedenen Cocktails wie dem klassischen Manhattan oder Old Fashioned genossen werden.",
+    "origin": "Nordamerika",
     "color": "#d54a06",
-    "category": "Spirits > Whiskey",
+    "category": "Spirituosen > Whiskey",
     "created_at": null,
     "updated_at": null,
     "images": [

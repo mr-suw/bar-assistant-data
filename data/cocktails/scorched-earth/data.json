@@ -1,18 +1,18 @@
 {
     "_id": "scorched-earth",
     "name": "Scorched Earth",
-    "instructions": "1. Combine all ingredients with ice in a mixing glass and stir\n2. Strain into a lowball or whiskey glass over ice\n3. Flame orange peel (optionally) and garnish",
+    "instructions": "1. Alle Zutaten mit Eis in einem Rührglas verrühren\n2. In einen Tumbler oder ein Whiskyglas auf Eis abseihen\n3. Orangenschale (optional) flambieren und garnieren",
     "created_at": null,
     "updated_at": null,
-    "description": "A wild and daring twist on the Negroni",
+    "description": "Eine wilde und gewagte Abwandlung des Negroni",
     "source": "https://tuxedono2.com/scorched-earth-cocktail-recipe",
-    "garnish": "orange peel for garnish",
+    "garnish": "Orangenzeste",
     "abv": 22.64,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -63,7 +63,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 2,
             "units": "dash",

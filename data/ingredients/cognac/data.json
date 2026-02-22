@@ -3,10 +3,10 @@
     "_parent_id": "brandy",
     "name": "Cognac",
     "strength": 40,
-    "description": "Cognac is a high-quality French brandy produced in the Cognac region, located in the Charente department. It is renowned for its refined and complex flavor profile, resulting from a meticulous production process. Cognac is made exclusively from white grapes, primarily Ugni Blanc, Folle Blanche, and Colombard, which are fermented and distilled using traditional copper pot stills.\n\nCognac's aging process plays a crucial role in its development, as it absorbs characteristics from the oak barrels, contributing notes of vanilla, caramel, and spices. The region's unique maritime climate, with a mix of oceanic and continental influences, further enhances the maturation process.\n\nCognac is renowned for its smooth and elegant taste, with a harmonious balance of fruity, floral, and oaky elements. It is often enjoyed as a sipping spirit and is a key ingredient in classic cocktails like the Sidecar and Brandy Alexander. The production of Cognac is strictly regulated, ensuring that only spirits meeting specific criteria can bear the prestigious Cognac label.",
-    "origin": "France",
+    "description": "Cognac ist ein hochwertiger französischer Brandy, der in der Region Cognac im Departement Charente hergestellt wird. Er ist bekannt für sein raffiniertes und komplexes Geschmacksprofil, das Ergebnis eines sorgfältigen Herstellungsprozesses. Cognac wird ausschließlich aus weißen Trauben hergestellt, hauptsächlich Ugni Blanc, Folle Blanche und Colombard, die unter Verwendung traditioneller Kupferbrennblasen fermentiert und destilliert werden.\n\nDie Reifung von Cognac spielt eine entscheidende Rolle bei seiner Entwicklung, da er Eigenschaften aus den Eichenfässern aufnimmt, die Noten von Vanille, Karamell und Gewürzen beitragen. Das einzigartige maritime Klima der Region, mit einer Mischung aus ozeanischen und kontinentalen Einflüssen, verstärkt den Reifungsprozess zusätzlich.\n\nCognac ist bekannt für seinen milden und eleganten Geschmack, mit einer harmonischen Balance aus fruchtigen, blumigen und holzigen Elementen. Er wird oft als Spirituose zum Niesen genossen und ist eine Schlüsselzutat in klassischen Cocktails wie dem Sidecar und Brandy Alexander. Die Produktion von Cognac ist streng reguliert, um sicherzustellen, dass nur Spirituosen, die bestimmte Kriterien erfüllen, das prestigeträchtige Cognac-Label tragen dürfen.",
+    "origin": "Frankreich",
     "color": "#7b1c0a",
-    "category": "Spirits > Brandy",
+    "category": "Spirituosen > Brandy",
     "created_at": null,
     "updated_at": null,
     "images": [

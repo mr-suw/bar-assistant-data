@@ -1,12 +1,12 @@
 {
     "_id": "japanese-whiskey",
     "_parent_id": "whiskey",
-    "name": "Japanese Whiskey",
+    "name": "Japanischer Whiskey",
     "strength": 40,
-    "description": "Japanese whisky is a style of whisky that is produced in Japan, and it has gained international acclaim for its quality, craftsmanship, and unique characteristics. Japanese whisky is often crafted using traditional Scottish methods, with an emphasis on precision and attention to detail.\n\nJapanese whisky makers are known for their innovative approaches to whisky production. They may experiment with different types of grains, yeast strains, and cask finishes to create unique and interesting expressions.\n\nIt's important to note that while Japanese whisky draws inspiration from Scotch whisky traditions, it has developed its own identity and style. The category has grown in popularity, leading to increased global demand for Japanese whiskies. As a result, some expressions may be limited or harder to find in certain markets.",
+    "description": "Japanischer Whisky ist ein in Japan hergestellter Whisky, der für seine Qualität, Handwerkskunst und einzigartigen Eigenschaften international Anerkennung gefunden hat. Japanischer Whisky wird oft nach traditionellen schottischen Methoden hergestellt, wobei der Schwerpunkt auf Präzision und Detailgenauigkeit liegt.\n\nJapanische Whiskyhersteller sind bekannt für ihre innovativen Ansätze in der Whiskyproduktion. Sie experimentieren möglicherweise mit verschiedenen Getreidesorten, Hefestämmen und Fassreifungen, um einzigartige und interessante Ausdrucksformen zu schaffen.\n\nEs ist wichtig zu beachten, dass japanischer Whisky zwar von schottischen Whiskytraditionen inspiriert ist, aber seine eigene Identität und seinen eigenen Stil entwickelt hat. Die Kategorie hat an Popularität gewonnen, was zu einer erhöhten weltweiten Nachfrage nach japanischen Whiskys geführt hat. Infolgedessen können einige Ausdrucksformen in bestimmten Märkten begrenzt oder schwerer zu finden sein.",
     "origin": "Japan",
     "color": "#9d510b",
-    "category": "Spirits > Whiskey",
+    "category": "Spirituosen > Whiskey",
     "created_at": null,
     "updated_at": null,
     "images": [

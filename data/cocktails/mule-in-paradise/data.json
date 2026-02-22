@@ -1,19 +1,19 @@
 {
     "_id": "mule-in-paradise",
-    "name": "Mule in Paradise",
-    "instructions": "1. Add all ingredients except club soda to a cocktail shaker\n2. Short shake for 5 seconds and strain into a rocks glass filled with ice\n3. Top with club soda and stir",
+    "name": "Mule im Paradies",
+    "instructions": "1. Alle Zutaten außer Sodawasser in einen Cocktailshaker geben.\n2. Kurz 5 Sekunden schütteln und in ein Rocks-Glas mit Eis abseihen.\n3. Mit Sodawasser auffüllen und umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The tart tang of passionfruit helps transports a classic Kentucky Mule build to the tropics.",
+    "description": "Der herbe Geschmack der Passionsfrucht transportiert eine klassische Kentucky Mule-Zubereitung in die Tropen.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/mule-in-paradise",
-    "garnish": "lime wedge",
+    "garnish": "Limettenspalte",
     "abv": 9.48,
     "tags": [
         "Mule",
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -22,7 +22,7 @@
             "uri": "file:///mule-in-paradise-1.jpg",
             "sort": 1,
             "placeholder_hash": "ZTkKDwJ+p5helJmAWHi5hmh2CBAYoJMK",
-            "copyright": "LiberAndCo |  Scott Kallstrand"
+            "copyright": "LiberAndCo | Scott Kallstrand"
         }
     ],
     "ingredients": [
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 90,
             "units": "ml",

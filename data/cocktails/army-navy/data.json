@@ -1,20 +1,20 @@
 {
     "_id": "army-navy",
     "name": "Army & Navy",
-    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a chilled coupe or cocktail glass.",
+    "instructions": "1. Alle Zutaten mit Eis in einem Cocktailshaker kombinieren und schütteln, bis es gekühlt ist.\n2. In eine gekühlte Coupette oder ein Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Army & Navy is a tropical gin cocktail recipe made with gin, lemon juice, orgeat and Angostura bitters.",
+    "description": "Der Army & Navy ist ein tropisches Gin-Cocktailrezept, das mit Gin, Zitronensaft, Orgeat und Angostura Bitters zubereitet wird.",
     "source": "https://punchdrink.com/recipes/army-navy/",
     "garnish": null,
     "abv": 18.34,
     "tags": [
         "Sour",
-        "Citrusy",
+        "Zitrusbetont",
         "Nutty"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 1,
             "units": "dash",

@@ -1,19 +1,19 @@
 {
     "_id": "lemon-drop-martini",
-    "name": "Lemon drop Martini",
-    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "name": "Lemon Drop Martini",
+    "instructions": "Alle Zutaten in einen Cocktailshaker geben, gut mit Eis schütteln, in ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The drink was invented sometime in the 1970s by Norman Jay Hobday, the founder and proprietor of Henry Africa's bar in San Francisco, California. Some variations of the drink exist, such as blueberry and raspberry lemon drops. It is served at some bars and restaurants in the United States, and in such establishments in other areas of the world.",
+    "description": "Das Getränk wurde irgendwann in den 1970er Jahren von Norman Jay Hobday, dem Gründer und Besitzer von Henry Africa's Bar in San Francisco, Kalifornien, erfunden. Es existieren einige Variationen des Drinks, wie Heidelbeer- und Himbeer-Lemon Drops. Er wird in einigen Bars und Restaurants in den Vereinigten Staaten und in solchen Einrichtungen in anderen Teilen der Welt serviert.",
     "source": "https://iba-world.com/lemon-drop-martini/",
-    "garnish": "Garnish with sugar rim around the glass.",
+    "garnish": "Mit Zuckerrand um das Glas garnieren.",
     "abv": 24.62,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -39,7 +39,7 @@
             "substitutes": [
                 {
                     "_id": "vodka-citron",
-                    "name": "Vodka Citron",
+                    "name": "Wodka Citron",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -60,7 +60,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",

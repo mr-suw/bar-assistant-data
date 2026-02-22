@@ -1,18 +1,18 @@
 {
     "_id": "barbacoa",
     "name": "Barbacoa",
-    "instructions": "1. In a cocktail shaker, combine all the ingredients and muddle them together.\n2. Add ice and shake until chilled.\n3. Pour into a double Old-Fashioned glass.\n4. Garnish with a piece of beef jerky.",
+    "instructions": "1. In einem Cocktailshaker alle Zutaten kombinieren und miteinander vermischen.\n2. Eis hinzufügen und schütteln, bis es gekühlt ist.\n3. In ein doppelwandiges Old-Fashioned-Glas gießen.\n4. Mit einem Stück Ruckfleisch garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Barbacoa is a mezcal cocktail recipe that muddles fresh ginger syrup and lemon juice with bell peppers and Fresno chile.",
+    "description": "Der Barbacoa ist ein Mezcal-Cocktailrezept, das frischen Ingwersirup und Zitronensaft mit Paprika und Fresno-Chili vermischt.",
     "source": "https://punchdrink.com/recipes/barbacoa/",
-    "garnish": "beef jerky",
+    "garnish": "Ruckfleisch",
     "abv": 17.07,
     "tags": [
-        "Savory"
+        "Herzhaft"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavendicksaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "lime",
-            "name": "Lime",
+            "name": "Limette",
             "sort": 5,
             "amount": 3,
             "units": "wedge",
@@ -87,14 +87,14 @@
         },
         {
             "_id": "chilli-pepper",
-            "name": "Chilli Pepper",
+            "name": "Chili",
             "sort": 6,
             "amount": 1,
             "units": "slice",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "thinly sliced",
+            "note": "dünn geschnitten",
             "substitutes": []
         }
     ]

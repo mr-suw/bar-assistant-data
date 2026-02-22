@@ -1,19 +1,19 @@
 {
     "_id": "disgruntled-mai-tai",
     "name": "Disgruntled Mai Tai",
-    "instructions": "1. Combine all ingredients except for the Underberg in a cocktail shaker.\n2. Briefly dry shake without ice, then add a few small ice cubes and shake until the ice has melted.\n3. Pour into a chilled rocks glass and top with crushed ice.\n4. Remove the cap and the top of the paper wrapper on the Underberg bottle and insert it, upside-down, into the crushed ice.\n5. Garnish with a mint sprig, lime wedge, grated nutmeg and a cocktail umbrella.",
+    "instructions": "1. Alle Zutaten außer dem Underberg in einen Cocktailshaker geben.\n2. Kurz ohne Eis trocken schütteln, dann ein paar kleine Eiswürfel hinzufügen und schütteln, bis das Eis geschmolzen ist.\n3. In ein gekühltes Rocks-Glas gießen und mit Crushed Ice auffüllen.\n4. Den Verschluss und den oberen Teil der Papierhülle der Underberg-Flasche entfernen und diese kopfüber in das Crushed Ice stecken.\n5. Mit einem Minzzweig, einem Limettenschnitz, geriebener Muskatnuss und einem Cocktailschirmchen garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Disgruntled Mai Tai is a spin on the rum tiki drink that adds Aperol and a bottle of bitter Underberg to the cocktail.",
+    "description": "Der Disgruntled Mai Tai ist eine Variante des Rum-Tiki-Drinks, der Aperol und eine Flasche bitteren Underberg zum Cocktail hinzufügt.",
     "source": "https://punchdrink.com/recipes/disgruntled-mai-tai/",
-    "garnish": "mint sprig, lime wedge, freshly grated nutmeg, cocktail umbrella",
+    "garnish": "Minzzweig, Limettenschnitz, frisch geriebene Muskatnuss, Cocktailschirmchen",
     "abv": 16.2,
     "tags": [
         "Tiki",
         "Bitter"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": "mai-tai",
     "year": null,
@@ -35,7 +35,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Smith & Cross",
+            "note": "vorzugsweise Smith & Cross",
             "substitutes": []
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 1,
             "units": "oz",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "dry-curacao",
-            "name": "Dry Curaçao",
+            "name": "Trockener Curaçao",
             "sort": 5,
             "amount": 0.5,
             "units": "oz",
@@ -91,7 +91,7 @@
             "name": "Underberg",
             "sort": 6,
             "amount": 1,
-            "units": "bottle",
+            "units": "Flasche",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

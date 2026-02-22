@@ -1,18 +1,18 @@
 {
     "_id": "vitamin-parade",
     "name": "Vitamin Parade",
-    "instructions": "1. Combine the carrot juice, pineapple juice, lemon juice, syrup, and egg white in a shaker.\n2. Dry-shake with no ice for 15–20 seconds until foam forms.\n3. Add ice and shake. Fine-strain into a fizz glass.\n4. Top with ginger beer.\n5. Express a lemon twist over cocktail then discard.",
+    "instructions": "1. Karottensaft, Ananassaft, Zitronensaft, Sirup und Eiweiß in einen Shaker geben.\n2. Ohne Eis (Dry Shake) 15–20 Sekunden lang schütteln, bis sich Schaum bildet.\n3. Eis hinzufügen und erneut schütteln. Fein in ein Fizz-Glas (oder Highball-Glas) abseihen.\n4. Mit Ginger Beer auffüllen.\n5. Eine Zitronenzeste über dem Cocktail ausdrücken und dann verwerfen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Natasha David combines fresh carrot and pineapple juices, citrus, ginger beer, and cinnamon syrup for this feel-good spirit-free drink.",
+    "description": "Natasha David kombiniert für diesen wohltuenden, alkoholfreien Drink frische Karotten- und Ananassäfte mit Zitrusfrüchten, Ginger Beer und Zimtsirup.",
     "source": "https://www.liquor.com/vitamin-parade-cocktail-recipe-7091326",
-    "garnish": "Garnish with a pineapple wedge.",
+    "garnish": "Mit einem Ananasstück garnieren.",
     "abv": 0,
     "tags": [
-        "Virgin"
+        "Alkoholfrei"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "carrot-juice",
-            "name": "Carrot juice",
+            "name": "Karottensaft",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "cinnamon-syrup",
-            "name": "Cinnamon syrup",
+            "name": "Zimtsirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 5,
             "amount": 1,
             "units": "topup",

@@ -1,12 +1,12 @@
 {
     "_id": "angostura-cocoa-bitters",
     "_parent_id": "bitters",
-    "name": "Angostura cocoa bitters",
+    "name": "Angostura Kakao Bitter",
     "strength": 38,
-    "description": "Top notes of rich bitter, floral, nutty cocoa with a bold infusion of aromatic botanicals provide endless possibilities to remix classic cocktails.",
+    "description": "Kopfnoten von reichhaltigem Bitter, floralem, nussigem Kakao mit einer kräftigen Infusion aromatischer Botanicals bieten unendliche Möglichkeiten, klassische Cocktails neu zu interpretieren.",
     "origin": "Trinidad & Tobago",
     "color": "#894c36",
-    "category": "Bitters",
+    "category": "Bitter",
     "created_at": null,
     "updated_at": null,
     "images": [

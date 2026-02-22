@@ -1,18 +1,18 @@
 {
     "_id": "managers-meeting",
     "name": "Manager's Meeting",
-    "instructions": "Add all ingredients to a mixing glass with ice and stir. Pour over a large cube/sphere in a rocks glass.",
+    "instructions": "Alle Zutaten mit Eis in ein Rührglas geben und umrühren. Über einen großen Eiswürfel/-kugel in ein Rocks-Glas gießen.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "https://www.reddit.com/r/cocktails/comments/1mwg6mm/managers_meeting/",
-    "garnish": "use a hand torch to blacken an orange peel over the glass. Rub the peel over the rim of the glass and drop into the drink. Serve.",
+    "garnish": "eine Handfackel verwenden, um eine Orangenschale über dem Glas zu schwärzen. Die Schale über den Glasrand reiben und in das Getränk fallen lassen. Servieren.",
     "abv": 29.84,
     "tags": [
-        "Smokey"
+        "Rauchig"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -74,7 +74,7 @@
             "substitutes": [
                 {
                     "_id": "angostura-cocoa-bitters",
-                    "name": "Angostura cocoa bitters",
+                    "name": "Angostura Kakao-Bitter",
                     "amount": null,
                     "units": null,
                     "amount_max": null

@@ -1,16 +1,16 @@
 {
     "_id": "femme-fatale",
     "name": "Femme Fatale",
-    "instructions": "1. Pour the sparkling wine into a chilled coupe. Shake the remaining ingredients and fine strain into the coupe. Optional: Shake hibiscus dust on the surface of the cocktail and swirl with a barspoon.\nPassion Fruit Vanilla SyrupIf using frozen purée, thaw 2 1/4 oz. of passion fruit purée (Long Goodbye uses Perfect Purée) completely and bring to room temperature. Add 2 1/4 oz. of granulated sugar and 1/3 tsp. of vanilla syrup and whisk to combine completely. Refrigerate to store. Makes approximately 6 servings and will keep for 2 weeks in an airtight container in the refrigerator.\nHibiscus DustUsing a spice grinder, pulse 1/4 cup of dried hibiscus flowers to a fine powder. Store in a shaker. Makes approximately 6 servings.",
+    "instructions": "1. Den Sekt in eine gekühlte Coupette gießen. Die restlichen Zutaten schütteln und fein in die Coupette abseihen. Optional: Hibiskuspulver auf die Oberfläche des Cocktails streuen und mit einem Barlöffel verquirlen.\nPassionsfrucht-Vanille-Sirup: Falls gefrorenes Püree verwendet wird, 67,5 ml Passionsfruchtpüree (Long Goodbye verwendet Perfect Purée) vollständig auftauen und auf Raumtemperatur bringen. 67,5 ml Kristallzucker und 1/3 Teelöffel Vanillesirup hinzufügen und verquirlen, bis alles vollständig vermischt ist. Im Kühlschrank lagern. Ergibt etwa 6 Portionen und hält sich 2 Wochen in einem luftdichten Behälter im Kühlschrank.\nHibiskuspulver: Mit einem Gewürzmühle 1/4 Tasse getrocknete Hibiskusblüten zu einem feinen Pulver mahlen. Im Shaker aufbewahren. Ergibt etwa 6 Portionen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Rather than serving sparkling wine alongside their Pornstar Martini variation, Austin's The Long Goodbye adds it directly to the glass. \"A vanilla infusion lends to a drier finish than the traditional addition of vanilla-flavored liqueur, with the passion fruit providing a citrusy, floral, and melon-forward brightness highlighted by the toasty cremant,\" says Seth Odland, bar lead and beverage director.",
+    "description": "Anstatt Sekt zu ihrer Pornstar Martini-Variante zu servieren, fügt The Long Goodbye in Austin ihn direkt ins Glas. 'Eine Vanille-Infusion sorgt für einen trockeneren Abgang als die traditionelle Zugabe von Vanille-Likör, wobei die Passionsfrucht eine zitrusartige, blumige und melonige Helligkeit bietet, die durch den röstigen Crémant hervorgehoben wird', sagt Seth Odland, Barleiter und Getränkedirektor.",
     "source": "https://imbibemagazine.com/recipe/femme-fatale-pornstar-martini/",
-    "garnish": "Hibiscus dust (optional)",
+    "garnish": "Hibiskuspulver (optional)",
     "abv": 9.32,
     "tags": [],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 1.25,
             "units": "oz",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "sparkling-wine",
-            "name": "Sparkling wine",
+            "name": "Sekt",
             "sort": 4,
             "amount": 1,
             "units": "oz",
@@ -73,7 +73,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 5,
             "amount": 22.5,
             "units": "ml",
@@ -85,7 +85,7 @@
         },
         {
             "_id": "vanilla-syrup",
-            "name": "Vanilla syrup",
+            "name": "Vanillesirup",
             "sort": 6,
             "amount": 7.5,
             "units": "ml",

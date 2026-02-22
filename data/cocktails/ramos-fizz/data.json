@@ -1,20 +1,20 @@
 {
     "_id": "ramos-fizz",
     "name": "Ramos Fizz",
-    "instructions": "1. Pour all ingredients except soda water in a cocktail shaker with ice.\n2. Shake for two minutes.\n3. Double strain in a glass.\n4. Pour the drink back in the shaker, and hard shake without ice for one minute.\n5. Strain into a highball glass, top up with soda.\n\nOr, if using blender:\n\n1. In a shaker or blender, combine gin, lemon and lime juices, simple syrup, orange blossom water, and egg white.\n2. Blend or shake without ice until very frothy, then add cream.\n3. Shake with ice until cold, then add soda water to the shaker.\n4. Strain into a tall chilled glass and serve.",
+    "instructions": "1. Alle Zutaten außer Sodawasser in einen Cocktailshaker mit Eis geben.\n2. Zwei Minuten schütteln.\n3. Doppelt in ein Glas abseihen.\n4. Das Getränk zurück in den Shaker gießen und eine Minute lang ohne Eis kräftig schütteln.\n5. In ein Highball-Glas abseihen, mit Soda auffüllen.\n\nOder, wenn Sie einen Mixer verwenden:\n\n1. In einem Shaker oder Mixer Gin, Zitronen- und Limettensaft, Zuckersirup, Orangenblütenwasser und Eiweiß kombinieren.\n2. Ohne Eis mixen oder schütteln, bis es sehr schaumig ist, dann Sahne hinzufügen.\n3. Mit Eis schütteln, bis es kalt ist, dann Sodawasser in den Shaker geben.\n4. In ein hohes, gekühltes Glas abseihen und servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Created by New Orleans bar owner Henry C. Ramos, this cocktail was originally known as the New Orleans Fizz, which Ramos served at his Imperial Cabinet Saloon around 1888 or so. Ramos personally dictated that the drink be shaken for anywhere from two to twelve full minutes—depending on whom you ask—to achieve a fluffy, meringue-like texture. His bar, and many others of the day, achieved this yeoman’s task by creating bartender relays, where lines of “shaker men” would pull off the athletic endeavor. By 1915’s Mardi Gras season, the drink was so popular that Ramos needed thirty shaker men behind his bar. This stunningly gorgeous cocktail remains no easy task for modern drink makers, so today’s bartenders have begun utilizing paint shaker–like devices and whipped cream canisters as a sort of cheat. But if you have two strong arms, you can shake up a fine drink.",
+    "description": "Dieser Cocktail wurde von Henry C. Ramos, dem Barbesitzer aus New Orleans, kreiert und war ursprünglich als New Orleans Fizz bekannt, den Ramos um 1888 oder so in seinem Imperial Cabinet Saloon servierte. Ramos persönlich diktierte, dass das Getränk – je nachdem, wen man fragt – zwischen zwei und zwölf Minuten lang geschüttelt werden sollte, um eine fluffige, baiserartige Textur zu erzielen. Seine Bar und viele andere zu jener Zeit bewältigten diese Ochsentour, indem sie Barkeeper-Staffeln bildeten, bei denen Reihen von „Shaker-Männern“ die athletische Leistung vollbrachten. Zur Mardi Gras-Saison 1915 war das Getränk so beliebt, dass Ramos dreißig Shaker-Männer hinter seiner Bar benötigte. Dieser atemberaubend schöne Cocktail ist für moderne Getränkemacher keine leichte Aufgabe, so dass die heutigen Barkeeper begonnen haben, Farbshaker-ähnliche Geräte und Sahnespender als eine Art Schummel zu verwenden. Aber wenn Sie zwei starke Arme haben, können Sie einen feinen Drink mixen.",
     "source": "https://iba-world.com/ramos-fizz/",
     "garnish": null,
     "abv": 9.6,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
         "Fizz"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -23,7 +23,7 @@
             "uri": "file:///ramos-fizz-1.jpg",
             "sort": 1,
             "placeholder_hash": "1PcRDwIItVmTZohniYaIWJiIpvRVal8G",
-            "copyright": "Punch |  Lizzie Munro"
+            "copyright": "Punch | Lizzie Munro"
         }
     ],
     "ingredients": [
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 5,
             "amount": 45,
             "units": "ml",
@@ -89,7 +89,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 6,
             "amount": 15,
             "units": "ml",
@@ -101,7 +101,7 @@
         },
         {
             "_id": "orange-flower-water",
-            "name": "Orange Flower Water",
+            "name": "Orangenblütenwasser",
             "sort": 7,
             "amount": 6,
             "units": "dashes",
@@ -113,7 +113,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 8,
             "amount": 1,
             "units": "topup",

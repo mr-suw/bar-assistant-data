@@ -1,19 +1,19 @@
 {
     "_id": "pasion",
     "name": "Pasión",
-    "instructions": "1. Add all ingredients except the soda to shaker with ice\n2. Shake for 10 seconds\n3. Strain into Collins glass over large ice column\n4. Top with club soda",
+    "instructions": "1. Alle Zutaten außer dem Sodawasser in einen Shaker mit Eis geben.\n2. 10 Sekunden lang schütteln.\n3. In ein Collins-Glas auf eine große Eissäule abseihen.\n4. Mit Sodawasser auffüllen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Cocktail by @subtletiki. We mess around with highballs all year round, but especially in the summer months. This cocktail is a regular in the rotation. It features mezcal alongside Aperol, passionfruit syrup, and soda water. Super refreshing.",
+    "description": "Ein Cocktail von @subtletiki. Wir experimentieren das ganze Jahr über mit Highballs, aber besonders in den Sommermonaten. Dieser Cocktail gehört zu unseren Favoriten. Er kombiniert Mezcal mit Aperol, Passionsfruchtsirup und Sodawasser. Äußerst erfrischend.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/pasion",
-    "garnish": "passionfruit",
+    "garnish": "Passionsfrucht",
     "abv": 6.07,
     "tags": [
-        "Tropical",
+        "Tropisch",
         "Tiki"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "name": "Passionsfruchtsirup",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 90,
             "units": "ml",

@@ -1,19 +1,19 @@
 {
     "_id": "tuxedo",
     "name": "Tuxedo",
-    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "instructions": "Alle Zutaten in ein Rührglas mit Eiswürfeln geben. Gut umrühren. In ein gekühltes Martiniglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Related to the martini, the Tuxedo has had many variations since its inception in the 1880s. The cocktail is named after the Tuxedo Club in Orange County, New York where it was first mixed. Tuxedo Park, the planned community where the club was built, is itself a derivation of the Lenape word tucseto. The form of menswear by the same name originated at the same country club around the same time.",
+    "description": "Verwandt mit dem Martini, hat der Tuxedo seit seiner Entstehung in den 1880er Jahren viele Variationen erfahren. Der Cocktail ist nach dem Tuxedo Club in Orange County, New York, benannt, wo er zuerst gemixt wurde. Tuxedo Park, die Planstadt, in der der Club gebaut wurde, ist selbst eine Ableitung des Lenape-Wortes Tucseto. Die gleichnamige Herrenmode entstand etwa zur gleichen Zeit in demselben Country Club.",
     "source": "https://iba-world.com/tuxedo/",
-    "garnish": "Garnish with cherry and lemon zest",
+    "garnish": "Mit Kirsche und Zitronenschale garnieren",
     "abv": 24.17,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 4,
             "amount": 2,
             "units": "teaspoon",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 5,
             "amount": 3,
             "units": "dashes",

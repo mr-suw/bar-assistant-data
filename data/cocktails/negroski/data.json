@@ -1,19 +1,19 @@
 {
     "_id": "negroski",
     "name": "Negroski",
-    "instructions": "Stir all ingredients with ice and strain into ice-filled glass",
+    "instructions": "Alle Zutaten mit Eis verrühren und in ein mit Eis gefülltes Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "A vodka-based Negroni.",
+    "description": "Ein Negroni auf Wodka-Basis.",
     "source": "https://www.diffordsguide.com/cocktails/recipe/1325/milano",
-    "garnish": "Orange slice",
+    "garnish": "Orangenscheibe",
     "abv": 23.06,
     "tags": [
         "Negroni",
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 30,
             "units": "ml",

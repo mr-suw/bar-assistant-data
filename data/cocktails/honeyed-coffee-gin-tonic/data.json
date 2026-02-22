@@ -6,13 +6,13 @@
     "updated_at": null,
     "description": "In the Honeyed Coffee Gin & Tonic from Julia Momose, flavor fireworks happen when cold-brew coffee and the classic gin and tonic collide.",
     "source": "https://imbibemagazine.com/recipe/honeyed-coffee-gin-tonic/",
-    "garnish": "Lemon peel",
+    "garnish": "Zitronenschale",
     "abv": 6.67,
     "tags": [
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Highball",
-    "method": "Stir",
+    "glass": "Highball-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",

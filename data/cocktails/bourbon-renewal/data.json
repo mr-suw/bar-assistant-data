@@ -1,18 +1,18 @@
 {
     "_id": "bourbon-renewal",
     "name": "Bourbon Renewal",
-    "instructions": "1. Shake ingredients with ice until cold.\n2. Strain over fresh ice into an old-fashioned glass.\n3. Garnish with a lemon wedge, or if in season, fresh currants.",
+    "instructions": "1. Zutaten mit Eis schütteln, bis sie kalt sind.\n2. Auf frisches Eis in einen Tumbler abseihen.\n3. Mit einer Zitronenspalte oder, falls Saison ist, frischen Johannisbeeren garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This one was named after a band that my business partner, Tony Figoli was in a long time ago. I thought the name was absolutely brilliant, so I decided to do up a drink to commemorate the band – and my favorite spirit at the time.\n\nI think the creme de cassis really works well with the sour component of this drink, and who can beat American whiskey on a warm spring evening?",
+    "description": "Dieser Drink wurde nach einer Band benannt, in der mein Geschäftspartner Tony Figoli vor langer Zeit spielte. Ich fand den Namen absolut brillant, also beschloss ich, einen Drink zu kreieren, um die Band – und meine damals liebste Spirituose – zu ehren.\n\nIch finde, die Crème de Cassis harmoniert wirklich gut mit der sauren Komponente dieses Drinks, und wer kann schon einem American Whiskey an einem warmen Frühlingsabend widerstehen?",
     "source": "https://jeffreymorgenthaler.com/bourbon-renewal/",
-    "garnish": "Garnish with a lemon wedge, or if in season, fresh currants",
+    "garnish": "Zitronenspalte oder frische Johannisbeeren (falls Saison)",
     "abv": 18.54,
     "tags": [
         "Sour"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 1,
             "units": "dash",

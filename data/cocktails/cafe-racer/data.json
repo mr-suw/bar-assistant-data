@@ -1,19 +1,19 @@
 {
     "_id": "cafe-racer",
     "name": "Cafe Racer",
-    "instructions": "1. Add ingredients to a mixing glass with ice\n2. Stir 20 seconds and strain into a chilled glass\n3. Express an orange peel and garnish",
+    "instructions": "1. Alle Zutaten in ein Rührglas mit Eis geben.\n2. 20 Sekunden lang rühren und in ein gekühltes Glas abseihen.\n3. Eine Orangenzeste über dem Drink ausdrücken und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A cold weather appropriate digestif, inspired by the delicious pairing of cacao, coffee, and raw cane sugar.",
+    "description": "Ein für kaltes Wetter geeigneter Digestif, inspiriert von der köstlichen Kombination aus Kakao, Kaffee und Rohrzucker.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/cafe-racer",
-    "garnish": "orange peel",
+    "garnish": "Orangenschale",
     "abv": 19.17,
     "tags": [
         "Winter",
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "coffee",
-            "name": "Coffee",
+            "name": "Kaffee",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",

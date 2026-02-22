@@ -1,18 +1,18 @@
 {
     "_id": "jamaican-milk-punch",
     "name": "Jamaican Milk Punch",
-    "instructions": "1. Combine all of the ingredients in a sealable container, mix well, then chill for at least 6 hours. Before serving, mix briefly in a blender without ice until light and fluffy. Serve over ice cubes and garnish with freshly grated nutmeg.",
+    "instructions": "1. Alle Zutaten in einem verschließbaren Gefäß gut vermischen und mindestens 6 Stunden lang kühlen. Vor dem Servieren kurz im Standmixer ohne Eis mixen, bis die Masse leicht und schaumig ist. Auf Eiswürfeln servieren und mit frisch geriebener Muskatnuss garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "For sweet, creamy decadence, blend up a batch of Jamaican Milk Punch with this easy adaptation from Martin Cate, owner of San Francisco’s Smuggler’s Cove. “It’s yet another wonderful way to enjoy rum—the perfect spirit for before dinner, after dinner ... and breakfast,” says Cate.",
+    "description": "Für süße, cremige Dekadenz mixen Sie eine Charge Jamaican Milk Punch nach dieser einfachen Adaption von Martin Cate, dem Besitzer von San Francisco's Smuggler's Cove. „Es ist noch eine wunderbare Art, Rum zu genießen – die perfekte Spirituose vor dem Essen, nach dem Essen ... und zum Frühstück“, sagt Cate.",
     "source": "https://imbibemagazine.com/recipe/jamaican-milk-punch/",
-    "garnish": "Nutmeg",
+    "garnish": "Muskatnuss",
     "abv": 9.11,
     "tags": [
         "Punch"
     ],
     "glass": null,
-    "method": "Blend",
+    "method": "Blenden",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "milk",
-            "name": "Milk",
+            "name": "Milch",
             "sort": 2,
             "amount": 10,
             "units": "oz",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 3,
             "amount": 10,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "demerara-syrup",
-            "name": "Demerara Syrup",
+            "name": "Demerara-Sirup",
             "sort": 4,
             "amount": 5,
             "units": "oz",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 6,
             "amount": 10,
             "units": "dash",

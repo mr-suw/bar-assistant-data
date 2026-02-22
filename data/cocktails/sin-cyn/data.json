@@ -1,18 +1,18 @@
 {
     "_id": "sin-cyn",
     "name": "Sin Cyn",
-    "instructions": "1. Add all the ingredients into a mixing glass with ice and stir until well-chilled.\n2. Strain into a rocks glass over fresh ice.",
+    "instructions": "1. Alle Zutaten mit Eis in ein Rührglas geben und rühren, bis es gut gekühlt ist.\n2. In ein Rocks-Glas über frisches Eis abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The simple Sin Cyn cocktail combines scotch with Cynar and sweet vermouth. It’s part Rob Roy, part Boulevardier and wholly delicious.",
+    "description": "Der einfache Sin Cyn Cocktail kombiniert Scotch mit Cynar und süßem Wermut. Er ist teils Rob Roy, teils Boulevardier und durch und durch köstlich.",
     "source": "https://www.liquor.com/recipes/sin-cyn/",
     "garnish": null,
     "abv": 20.69,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "scotch-whiskey",
-            "name": "Scotch whiskey",
+            "name": "Scotch Whisky",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 30,
             "units": "ml",

@@ -1,18 +1,18 @@
 {
     "_id": "the-mystical-one",
     "name": "The Mystical One",
-    "instructions": "1. Combine the 3 sage leaves and the cinnamon syrup in a cocktail shaker and use a muddler to lightly crush the sage.\n2. Add the lime juice and bourbon.\n3. Add ice and shake until chilled.\n4. Strain into a coupe and garnish with a sage leaf.",
+    "instructions": "1. Die 3 Salbeiblätter und den Zimtsirup in einen Cocktailshaker geben und den Salbei mit einem Stößel leicht zerdrücken.\n2. Limettensaft und Bourbon hinzufügen.\n3. Eis hinzufügen und schütteln, bis es gekühlt ist.\n4. In eine Coupette abseihen und mit einem Salbeiblatt garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This simple, holiday-ready rendition of a Whiskey Sour combines the one-two punch of sage and cinnamon alongside lime juice in place of lemon.",
+    "description": "Diese einfache, festliche Interpretation eines Whiskey Sour kombiniert die zweifache Wirkung von Salbei und Zimt zusammen mit Limettensaft anstelle von Zitrone.",
     "source": "https://punchdrink.com/recipes/the-mystical-one/",
-    "garnish": "sage leaf",
+    "garnish": "Salbeiblatt",
     "abv": 19.69,
     "tags": [
         "Winter"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sage",
-            "name": "Sage",
+            "name": "Salbei",
             "sort": 2,
             "amount": 3,
             "units": "leaves",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "cinnamon-syrup",
-            "name": "Cinnamon syrup",
+            "name": "Zimtsirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 22.5,
             "units": "ml",

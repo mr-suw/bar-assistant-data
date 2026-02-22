@@ -1,18 +1,18 @@
 {
     "_id": "ciderhouse-mule",
     "name": "Ciderhouse Mule",
-    "instructions": "1. Add all of the ingredients, except the sparkling rosé, to a shaker with ice.\n2. Shake until chilled.\n3. Add the sparkling rosé to the shaker before straining the cocktail into a glass filled with ice.\n4. Garnish.",
+    "instructions": "1. Alle Zutaten, außer dem prickelnden Rosé, mit Eis in einen Shaker geben.\n2. Schütteln, bis es gekühlt ist.\n3. Den prickelnden Rosé zum Shaker hinzufügen, bevor der Cocktail in ein mit Eis gefülltes Glas abgeseiht wird.\n4. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Taking the Moscow Mule into spritz territory, Tim Sweeney, head bartender of Pebble Bar in New York City, combines vodka, lime, and ginger syrup with a touch of raspberry liqueur and sparkling rosé.",
+    "description": "Tim Sweeney, der Chef-Barkeeper der Pebble Bar in New York City, bringt den Moscow Mule in Spritz-Gebiet, indem er Wodka, Limette und Ingwersirup mit einem Hauch Himbeerlikör und prickelndem Rosé kombiniert.",
     "source": "https://imbibemagazine.com/recipe/ciderhouse-mule-from-pebble-bar/",
-    "garnish": "Lemon wheel",
+    "garnish": "Zitronenscheibe",
     "abv": 11.54,
     "tags": [
         "Mule"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "ginger-syrup",
-            "name": "Ginger syrup",
+            "name": "Ingwersirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",

@@ -1,21 +1,21 @@
 {
     "_id": "whiskey-smash",
     "name": "Whiskey Smash",
-    "instructions": "1. In a rocks glass, gently muddle mint with simple syrup to release oils.\n2. Add lemon pieces and muddle to release juice.\n3. Add crushed ice or small ice cubes and pour bourbon over.\n4. Swizzle gently to mix.\n5. Garnish with a mint spring and lemon wheel.",
+    "instructions": "1. In einem Tumbler Minze mit Zuckersirup vorsichtig zerdrücken (muddlen), um die ätherischen Öle freizusetzen.\n2. Zitronenstücke hinzufügen und ebenfalls zerdrücken, um den Saft zu lösen.\n3. Mit Crushed Ice oder kleinen Eiswürfeln füllen und den Bourbon darübergießen.\n4. Vorsichtig mit dem Barlöffel verrühren (swizzlen).\n5. Mit einem Minzzweig und einer Zitronenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A riff on the Mint Julep, the Whiskey Smash cocktail recipe features lemon and mint, making it a potent number dangerously easy to toss back.",
+    "description": "Eine Variation des Mint Julep; der Whiskey Smash kombiniert Zitrone und Minze zu einem erfrischenden Drink, der gefährlich leicht zu trinken ist.",
     "source": "https://punchdrink.com/recipes/whiskey-smash/",
-    "garnish": "mint sprig and lemon wheel",
+    "garnish": "Minzzweig und Zitronenscheibe",
     "abv": 25.57,
     "tags": [
         "Smash",
         "Minty",
         "Sour",
-        "Refreshing"
+        "Erfrischend"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -42,7 +42,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
@@ -54,7 +54,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 3,
             "amount": 2,
             "units": "dash",
@@ -66,7 +66,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 1,
             "units": "sprigs",

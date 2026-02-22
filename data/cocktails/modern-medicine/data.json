@@ -1,18 +1,18 @@
 {
     "_id": "modern-medicine",
     "name": "Modern Medicine",
-    "instructions": "Shake everything except the scotch with ice and strain into a ice filled old fashioned glass, then add a float of Ardberg.",
+    "instructions": "Alle Zutaten außer dem Islay Scotch mit Eis schütteln und in einen mit Eis gefüllten Tumbler abseihen. Anschließend den Ardbeg vorsichtig auf den Drink schichten (float).",
     "created_at": null,
     "updated_at": null,
-    "description": "Modern Medicine, the drink, by Jordan Hughes, is just perfect. It’s as if scientists concocted a fusion of a Penicillin and a Paper Plane in a petri dish, to cure whatever is bothering you.",
+    "description": "Modern Medicine von Jordan Hughes ist schlichtweg perfekt. Es wirkt, als hätten Wissenschaftler in einer Petrischale eine Fusion aus Penicillin und Paper Plane gezüchtet, um alles zu heilen, was einen bedrücken könnte.",
     "source": "https://www.reddit.com/r/cocktails/comments/1436jpq/what_if_scientists_created_a_fusion_of_a/",
     "garnish": "",
     "abv": 17.26,
     "tags": [
-        "Smokey"
+        "Rauchig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",

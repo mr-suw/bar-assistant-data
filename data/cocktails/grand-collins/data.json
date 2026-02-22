@@ -9,10 +9,10 @@
     "garnish": "Orange zest and a raspberry",
     "abv": 20.69,
     "tags": [
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Highball",
-    "method": "Stir",
+    "glass": "Highball-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 1,
             "units": "barspoon",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 1,
             "units": "topup",

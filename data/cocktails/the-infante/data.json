@@ -1,19 +1,19 @@
 {
     "_id": "the-infante",
     "name": "The Infante",
-    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a rocks glass over a large ice cube.",
+    "instructions": "1. Alle Zutaten in einen Cocktailshaker mit Eis geben und schütteln, bis es gekühlt ist.\n2. In ein Rocks-Glas über einen großen Eiswürfel abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Infante, a Margarita riff that introduces aromatic orgeat and rose water, shows how far the cantina staple has traveled. Named after Mexican actor Pedro Infante, the recipe was created in New York City by Giuseppe González, a testament to the way that craft cocktail circles have adopted the refreshing classic and made it their own.",
+    "description": "The Infante, eine Margarita-Variante, die aromatisches Orgeat und Rosenwasser einführt, zeigt, wie weit das Cantina-Grundnahrungsmittel gereist ist. Benannt nach dem mexikanischen Schauspieler Pedro Infante, wurde das Rezept in New York City von Giuseppe González kreiert, ein Beweis dafür, wie Craft-Cocktail-Kreise den erfrischenden Klassiker übernommen und zu ihrem eigenen gemacht haben.",
     "source": "https://punchdrink.com/recipes/infante/",
-    "garnish": "Garnish with freshly ground nutmeg.",
+    "garnish": "Mit frisch geriebener Muskatnuss garnieren.",
     "abv": 18.18,
     "tags": [
         "Margarita",
-        "Light"
+        "Leicht"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "rose-water",
-            "name": "Rose water",
+            "name": "Rosenwasser",
             "sort": 4,
             "amount": 2,
             "units": "dash",

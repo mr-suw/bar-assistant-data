@@ -1,18 +1,18 @@
 {
     "_id": "jagerita",
     "name": "Jägerita",
-    "instructions": "Shake ingredients over cracked ice and strain into a chilled cocktail glass.",
+    "instructions": "Die Zutaten auf gestoßenem Eis schütteln und in ein vorgekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "I know it’s a frat boy drink, but unless you’ve had it coming out of your nose at 4 in the morning and can’t physically drink the stuff, there’s no way you can look me in the eye and tell me that you don’t like Jägermeister because you’re a liar and I won’t believe you. Shoot it, sip it, I’ll take it any way I can get it. I even had my eyes opened one late night at Simon Difford’s house (hi, Simon!) when David Cordoba mixed up one of his famous Jägeritas and I practically begged him for the recipe.",
+    "description": "Ich weiß, es gilt als Drink für College-Partys, aber wenn man ihn nicht gerade morgens um vier aus der Nase hängen hatte und ihn physisch nicht mehr sehen kann, gibt es keine Chance, dass man mir ernsthaft sagt, man möge Jägermeister nicht. Man wäre ein Lügner, und ich würde es nicht glauben. Ob als Shot oder pur genippt – ich nehme ihn in jeder Form. Meine Augen wurden eines nachts bei Simon Difford geöffnet (hallo Simon!), als David Cordoba eine seiner berühmten Jägeritas mixte – ich habe ihn praktisch um das Rezept angebettelt.",
     "source": "https://jeffreymorgenthaler.com/my-five-favorite-guilty-pleasure-drinks/",
-    "garnish": "pineapple wedge",
+    "garnish": "Ananasstück",
     "abv": 19.56,
     "tags": [
         "Margarita"
     ],
-    "glass": "Cocktail",
-    "method": "Shake",
+    "glass": "Cocktailglas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",

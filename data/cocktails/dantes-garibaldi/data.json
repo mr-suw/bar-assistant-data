@@ -1,19 +1,19 @@
 {
     "_id": "dantes-garibaldi",
-    "name": "Dante’s Garibaldi",
-    "instructions": "1. Build the Campari and orange juice in a small highball glass filled with ice.\n2. Stir and garnish with the orange wedge.",
+    "name": "Dantes Garibaldi",
+    "instructions": "1. Campari und Orangensaft in ein kleines Highball-Glas mit Eis geben.\n2. Umrühren und mit einem Orangenschnitz garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The flagship drink at Dante is named after Italian revolutionary Giuseppe Garibaldi, who was a central figure in the unification of Italy. Its two ingredients—Campari from the north acting as a nod to the red shirts worn by Garibaldi’s freedom fighters and bright orange representing Sicily to the south—are symbolic of its heritage.",
+    "description": "Das Vorzeigegertränk im Dante ist nach dem italienischen Revolutionär Giuseppe Garibaldi benannt, der eine zentrale Figur bei der Einigung Italiens war. Seine beiden Zutaten – Campari aus dem Norden als Anspielung auf die roten Hemden, die Garibaldis Freiheitskämpfer trugen, und leuchtend orange als Darstellung Siziliens im Süden – sind symbolisch für sein Erbe.",
     "source": "https://punchdrink.com/recipes/dantes-garibaldi/",
-    "garnish": "Orange wedge",
+    "garnish": "Orangenschnitz",
     "abv": 6.2,
     "tags": [
         "Bitter",
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 2,
             "amount": 120,
             "units": "ml",

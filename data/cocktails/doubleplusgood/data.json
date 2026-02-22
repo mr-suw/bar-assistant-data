@@ -1,18 +1,18 @@
 {
     "_id": "doubleplusgood",
     "name": "Doubleplusgood",
-    "instructions": "Dry-shake all ingredients (except the bitters) first without ice, then again with ice added. Double-strain through a fine mesh strainer into a chilled short glass, no ice. Drop the bitters atop the foam in the shape of two plus symbols.",
+    "instructions": "Alle Zutaten (außer den Bittern) zuerst ohne Eis trocken schütteln, dann erneut mit Eis. Durch ein feines Sieb in ein gekühltes, kurzes Glas abseihen, ohne Eis. Die Bitter in Form von zwei Pluszeichen auf den Schaum geben.",
     "created_at": null,
     "updated_at": null,
-    "description": "Doubleplusgood is Boston barman John Gertsen’s take on a Mai Tai, crossed with a Pisco Sour. It’s mildly sweet, with the gentle almond flavor of orgeat laced through the delicate foam of egg white (or aquafaba, if you prefer).\n\nThe garnish is a signature of Gertsen’s recipe: two plus signs, drawn in the foam with aromatic bitters.",
+    "description": "Doubleplusgood ist die Interpretation des Bostoner Barmanns John Gertsen vom Mai Tai, gekreuzt mit einem Pisco Sour. Er ist mild süß, mit dem sanften Mandelgeschmack von Orgeat, der durch den zarten Schaum von Eiweiß (oder Aquafaba, wenn Sie bevorzugen) verläuft.\n\nDie Garnitur ist ein Markenzeichen von Gertsens Rezept: zwei Pluszeichen, die mit aromatischen Bittern in den Schaum gezeichnet werden.",
     "source": "https://cocktailvirgin.blogspot.com/2009/06/doubleplusgood.html",
-    "garnish": "two plus signs, drawn in the foam with aromatic bitters",
+    "garnish": "zwei Pluszeichen, mit aromatischen Bittern in den Schaum gezeichnet",
     "abv": 17.78,
     "tags": [
         "Sour"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "egg-white",
-            "name": "Egg White",
+            "name": "Eiweiß",
             "sort": 5,
             "amount": 15,
             "units": "ml",

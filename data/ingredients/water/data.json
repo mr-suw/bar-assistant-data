@@ -1,12 +1,12 @@
 {
     "_id": "water",
     "_parent_id": "beverages",
-    "name": "Water",
+    "name": "Wasser",
     "strength": 0,
-    "description": "It's water.",
+    "description": "Schlichtes Wasser.",
     "origin": "Worldwide",
     "color": "#fff",
-    "category": "Beverages",
+    "category": "Getränke",
     "created_at": null,
     "updated_at": null,
     "images": [

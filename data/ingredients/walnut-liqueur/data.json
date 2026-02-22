@@ -1,12 +1,12 @@
 {
     "_id": "walnut-liqueur",
     "_parent_id": "liqueurs",
-    "name": "Walnut Liqueur",
+    "name": "Walnusslikör",
     "strength": 32,
-    "description": "Walnut liqueur is known in Austria and Germany as Nüsse or Nüssenschnaps, in France as Noix, and in Italy as Nocino. Residents of Alpine regions traditionally drink walnut liqueurs during Christmastime. The spice and depth pair well with wintery nights and hearty meals. Serve to guests in a cordial glass, post-dinner or as an unexpected dessert pairing. In cocktails, Nux Alpina is an extraordinary complement to brown spirits and dark fortified wines, like Madeira, sherry and sweet red vermouth.\n\n- Aromatic liqueur renowned for its balance, depth and smooth finish\n- Made from fresh green “Weinsberg” walnuts steeped in grape brandy\n- Infused with spices and alpine botanicals\n- Serve after hearty meals or in coffee, cream or egg drinks\n- Complements brown spirits and dark fortified wines\n- Produced by Austria's Purkhart family for three generations",
-    "origin": "Worldwide",
+    "description": "Walnusslikör ist in Österreich und Deutschland als Nüsse oder Nüssenschnaps, in Frankreich als Noix und in Italien als Nocino bekannt. Bewohner alpiner Regionen trinken Walnussliköre traditionell zur Weihnachtszeit. Die Würze und Tiefe passen gut zu Winternächten und herzhaften Mahlzeiten. Servieren Sie ihn Gästen in einem Likörglas, nach dem Essen oder als unerwartete Dessertbegleitung. In Cocktails ist Nux Alpina eine außergewöhnliche Ergänzung zu braunen Spirituosen und dunklen Likörweinen, wie Madeira, Sherry und süßem roten Wermut.\n\n- Aromatischer Likör, bekannt für seine Ausgewogenheit, Tiefe und seinen milden Abgang\n- Hergestellt aus frischen grünen „Weinsberg“-Walnüssen, die in Traubenbrand eingelegt werden\n- Infundiert mit Gewürzen und alpinen Botanicals\n- Nach herzhaften Mahlzeiten oder in Kaffee, Sahne- oder Eiergetränken servieren\n- Ergänzt braune Spirituosen und dunkle Likörweine\n- Wird seit drei Generationen von der österreichischen Familie Purkhart hergestellt",
+    "origin": "Weltweit",
     "color": "#3b0e04",
-    "category": "Liqueurs",
+    "category": "Liköre",
     "created_at": null,
     "updated_at": null,
     "images": [

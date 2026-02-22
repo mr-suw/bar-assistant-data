@@ -1,16 +1,16 @@
 {
     "_id": "assunta",
     "name": "Assunta",
-    "instructions": "1. Add the ingredients, except the ginger beer, to a shaker with ice and shake vigorously. Pour into a highball filled with crushed ice and top with ginger beer, then garnish.",
+    "instructions": "1. Alle Zutaten außer dem Ginger Beer in einen Shaker mit Eis geben und kräftig schütteln. In ein mit Crushed Ice gefülltes Highball-Glas abseihen, mit Ginger Beer auffüllen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Since every cocktail at Saint Theo's is a nod to an Italian name, ingredient, or garnish, beverage director Simon Sebbah transformed the Moscow Mule into an Italian Mule by sweetening it with amaretto.",
+    "description": "Da jeder Cocktail im Saint Theo's eine Anspielung auf einen italienischen Namen, eine Zutat oder eine Garnitur ist, verwandelte Beverage Director Simon Sebbah den Moscow Mule in einen Italian Mule, indem er ihn mit Amaretto süßte.",
     "source": "https://imbibemagazine.com/recipe/assunta-an-italian-mule/",
-    "garnish": "Lime wedge",
+    "garnish": "Limettenspalte",
     "abv": 21.03,
     "tags": [],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -37,7 +37,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -61,14 +61,14 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 4,
             "amount": 1,
             "units": "topup",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Saint Theo's uses Fever-Tree",
+            "note": "Das Saint Theo's verwendet Fever-Tree",
             "substitutes": []
         }
     ]

@@ -1,9 +1,9 @@
 {
     "_id": "tea",
     "_parent_id": null,
-    "name": "Tea",
+    "name": "Tee",
     "strength": 0,
-    "description": "Tea offers a versatile and sophisticated dimension to cocktails, introducing complex flavors and aromas that range from earthy and smoky to floral, fruity, or tannic. It can be incorporated in various ways: brewed and chilled as a mixer, steeped into syrups for concentrated flavor and sweetness, or used to infuse spirits directly for a nuanced base. Tea allows for creative experimentation, adding depth, balancing sweetness or acidity, and providing unique aromatic notes that elevate a drink beyond traditional profiles, making it a favorite tool for modern mixologists seeking to craft unique and memorable libations.",
+    "description": "Tee bietet eine vielseitige und raffinierte Dimension für Cocktails, indem er komplexe Aromen und Geschmäcker einführt, die von erdig und rauchig bis blumig, fruchtig oder tanninhaltig reichen. Er kann auf verschiedene Weisen integriert werden: gebrüht und gekühlt als Mixer, in Sirupe für konzentrierten Geschmack und Süße eingeweicht oder zur direkten Infusion von Spirituosen für eine nuancierte Basis verwendet. Tee ermöglicht kreative Experimente, indem er Tiefe hinzufügt, Süße oder Säure ausgleicht und einzigartige aromatische Noten liefert, die ein Getränk über traditionelle Profile hinausheben, was ihn zu einem bevorzugten Werkzeug für moderne Mixologen macht, die einzigartige und unvergessliche Drinks kreieren möchten.",
     "origin": null,
     "color": null,
     "category": null,

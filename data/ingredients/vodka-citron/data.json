@@ -1,12 +1,12 @@
 {
     "_id": "vodka-citron",
     "_parent_id": "vodka",
-    "name": "Vodka Citron",
+    "name": "Zitronen-Wodka",
     "strength": 40,
-    "description": "Vodka with added lemon essence.",
-    "origin": "Sweden",
+    "description": "Wodka mit Zusatz von Zitronenessenz.",
+    "origin": "Schweden",
     "color": "#ffffff",
-    "category": "Spirits > Vodka",
+    "category": "Spirituosen > Wodka",
     "created_at": null,
     "updated_at": null,
     "images": [

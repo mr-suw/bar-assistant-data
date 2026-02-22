@@ -1,18 +1,18 @@
 {
     "_id": "e-tonico",
     "name": "E Tonico",
-    "instructions": "1. Combine the first five ingredients in a Collins glass and fill with ice.\n2. Top with tonic water.\n3. Garnish with a bay leaf.",
+    "instructions": "1. Die ersten fünf Zutaten in ein Highball-Glas geben und mit Eis füllen.\n2. Mit Tonic Water auffüllen.\n3. Mit einem Lorbeerblatt garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "E Tonico is a Gin & Tonic with an Italian twist courtesy of an aperitivo liqueur, vermouth and saline solution.",
+    "description": "Der E Tonico ist ein Gin & Tonic mit italienischem Einschlag, dank Aperitivo-Likör, Wermut und Salzlösung.",
     "source": "https://punchdrink.com/recipes/e-tonico/",
-    "garnish": "bay leaf",
+    "garnish": "Lorbeerblatt",
     "abv": 33.52,
     "tags": [
         "Bitter"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -51,7 +51,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "tonic",
-            "name": "Tonic",
+            "name": "Tonic Water",
             "sort": 5,
             "amount": 1,
             "units": "topup",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 6,
             "amount": 1,
             "units": "drop",

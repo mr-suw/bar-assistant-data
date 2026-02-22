@@ -1,18 +1,18 @@
 {
     "_id": "old-pal",
     "name": "Old Pal",
-    "instructions": "Combine the whiskey, vermouth, and Campari in a cocktail mixing glass (or any other type of glass). Fill the mixing glass with 1 handful ice and stir continuously for 30 seconds.",
+    "instructions": "Whiskey, Wermut und Campari in ein Cocktail-Rührglas (oder jede andere Art von Glas) geben. Das Rührglas mit 1 Handvoll Eis füllen und 30 Sekunden lang ununterbrochen rühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Old Pal cocktail is a three ingredient cocktail that’s sleek and sippable, balancing bitter and sweet with fiery whiskey.",
+    "description": "Der Old Pal Cocktail ist ein Drei-Zutaten-Cocktail, der elegant und genießbar ist und Bitterkeit und Süße mit feurigem Whiskey in Einklang bringt.",
     "source": "https://www.acouplecooks.com/old-pal-cocktail/",
-    "garnish": "Lemon Peel",
+    "garnish": "Zitronenschale",
     "abv": 24.52,
     "tags": [
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",

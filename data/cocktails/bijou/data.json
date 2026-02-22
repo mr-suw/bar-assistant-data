@@ -1,19 +1,19 @@
 {
     "_id": "bijou",
     "name": "Bijou",
-    "instructions": "Stir in mixing glass with ice and strain",
+    "instructions": "Im Rührglas mit Eis rühren und abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This cocktail was invented by Harry Johnson, \"the father of professional bartending\", who called it bijou because it combined the colors of three jewels: gin for diamond, vermouth for ruby, and chartreuse for emerald.",
+    "description": "Dieser Cocktail wurde von Harry Johnson erfunden, dem „Vater des professionellen Mixens“, der ihn Bijou (Juwel) nannte, da er die Farben von drei Edelsteinen kombinierte: Gin für den Diamanten, Wermut für den Rubin und Chartreuse für den Smaragd.",
     "source": "https://en.wikipedia.org/wiki/Bijou_(cocktail)",
-    "garnish": "Maraschino cherry",
+    "garnish": "Maraschinokirsche",
     "abv": 30.58,
     "tags": [
-        "Herbacious",
+        "Kräuterig",
         "Floral"
     ],
-    "glass": "Nick and Nora",
-    "method": "Stir",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "green-chartreuse",
-            "name": "Green Chartreuse",
+            "name": "Grüne Chartreuse",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 2,
             "units": "dashes",

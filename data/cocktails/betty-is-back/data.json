@@ -1,32 +1,46 @@
 {
     "_id": "betty-is-back",
     "name": "Betty Is Back",
-    "instructions": "1. Combine all of the ingredients, except the Champagne, in a mixing glass filled with ice and stir until well chilled. Strain into a flute and gently pour in the Champagne. Garnish.",
+    "instructions": "Alle Zutaten (außer der Garnitur) in einen Shaker geben und mit Eis kräftig schütteln. In ein Glas abseihen und garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Named for the Connaught Bar's head bartender during the 1940s, this sparkler was the first cocktail on the famed bar's menu when it reopened in 2008. \"Betty is Back is a dry, bubbly sip with delicate floral and citrus notes from a complex blend of Aperol ... and elderflower liqueurs and fresh lemon juice,\" writes Ago Perrone in his book, The Connaught Bar: Recipes and Iconic Creations, \"while the Champagne raises a toast to this memorable wartime bartender and her customers, who kept returning to this iconic spot for more.\"",
-    "source": "https://imbibemagazine.com/recipe/the-connaught-bar-betty-is-back/",
-    "garnish": "Cocktail cherry",
-    "abv": 9.78,
-    "tags": [],
-    "glass": "Champagne",
-    "method": "Stir",
+    "description": "Dieser nach der Betty Blue Bar in London benannte Drink ist im Wesentlichen eine blaue Aviation mit Ananas und Honig, anstelle von Maraschino und Veilchen. Die Farbe ist ein echtes Statement, aber die Aromen sind für alle Anlässe geeignet.",
+    "source": "https://punchdrink.com/recipes/betty-is-back/",
+    "garnish": "Zitronenscheibe und Minzzweig",
+    "abv": 17.56,
+    "tags": [
+        "Fruchtig"
+    ],
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
     "images": [
         {
             "uri": "file:///betty-is-back-1.jpg",
-            "sort": 0,
-            "placeholder_hash": "TRgKDwJoqGdAeYhdilWoaId7hZEICIcB",
-            "copyright": "Imbibe Magazine | Lateef Okunnu"
+            "sort": 1,
+            "placeholder_hash": "62kKFwQ0d5Z5eJmHeId4aHeJCohoCHkF",
+            "copyright": "Punch Staff | Noah Fecks"
         }
     ],
     "ingredients": [
         {
-            "_id": "aperol",
-            "name": "Aperol",
+            "_id": "gin",
+            "name": "Gin",
             "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "blue-curacao",
+            "name": "Blauer Curaçao",
+            "sort": 2,
             "amount": 15,
             "units": "ml",
             "optional": false,
@@ -36,11 +50,23 @@
             "substitutes": []
         },
         {
-            "_id": "st-germain",
-            "name": "St-Germain",
-            "sort": 2,
-            "amount": 1,
-            "units": "barspoon",
+            "_id": "pineapple-juice",
+            "name": "Ananassaft",
+            "sort": 3,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honigsirup",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -49,21 +75,9 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
-            "sort": 3,
-            "amount": 1,
-            "units": "barspoon",
-            "optional": false,
-            "is_specified": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": []
-        },
-        {
-            "_id": "champagne",
-            "name": "Champagne",
-            "sort": 4,
-            "amount": 105,
+            "name": "Zitronensaft",
+            "sort": 5,
+            "amount": 15,
             "units": "ml",
             "optional": false,
             "is_specified": false,

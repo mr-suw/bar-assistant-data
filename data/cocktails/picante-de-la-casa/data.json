@@ -1,19 +1,19 @@
 {
     "_id": "picante-de-la-casa",
     "name": "Picante de la Casa",
-    "instructions": "1. Cut a small piece of chili (about ¼ inch wide) and press with muddler in the shaker tin.\n2. Hand clap the cilantro (to release the aroma, place the leaves or sprig in one hand and gently smack it with the other – this warms up the garnish slightly and starts to extract the oils before you use it), and drop in.\n3. Add the rest of the ingredients, shake and fine strain into an ice-filled rocks glass (a short tumbler used for serving spirits).\n4. Cut off the top end  the chili pepper and place – stem upwards – on top.",
+    "instructions": "1. Ein kleines Stück Chili (ca. 0,6 cm breit) schneiden und mit dem Stößel im Shaker zerdrücken.\n2. Den Koriander klopfen (um das Aroma freizusetzen, die Blätter oder Zweige in eine Hand nehmen und sanft mit der anderen Hand darauf schlagen – dies erwärmt die Garnitur leicht und beginnt, die Öle freizusetzen, bevor man sie verwendet) und hineingeben.\n3. Die restlichen Zutaten hinzufügen, schütteln und doppelt in ein mit Eis gefülltes Rocks-Glas (ein kurzes Tumbler-Glas zum Servieren von Spirituosen) abseihen.\n4. Das obere Ende der Chilischote abschneiden und – Stiel nach oben – obenauf legen.",
     "created_at": null,
     "updated_at": null,
-    "description": "Lovers of the margarita, we have a treat for you here! The Picante de la Casa Cocktail, also called the Soho House Picante or Soho House Tonic, is a creation of the Soho House Club. That is a group of private members' clubs with its origin in Soho in the Londoner West End. The cocktail, however, does not have its roots in England but in West Hollywood, USA. -Although, actually, it looks like it could be straight out of Mexico.",
+    "description": "Liebhaber der Margarita, hier haben wir einen Leckerbissen für Sie! Der Picante de la Casa Cocktail, auch Soho House Picante oder Soho House Tonic genannt, ist eine Kreation des Soho House Clubs. Das ist eine Gruppe privater Mitgliederclubs mit Ursprung in Soho im Londoner West End. Der Cocktail hat jedoch seine Wurzeln nicht in England, sondern in West Hollywood, USA. – Obwohl es eigentlich so aussieht, als könnte er direkt aus Mexiko stammen.",
     "source": "https://www.sohohouse.com/en-us/house-notes/issue-4/house-favourites-how-to-make-a-picante",
-    "garnish": "Top end (stem) of the chilli pepper",
+    "garnish": "Oberes Ende (Stiel) der Chilischote",
     "abv": 17.07,
     "tags": [
-        "Spicy",
+        "Würzig",
         "Margarita"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "agave-syrup",
-            "name": "Agave Syrup",
+            "name": "Agavendicksaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -51,7 +51,7 @@
             "substitutes": [
                 {
                     "_id": "honey-syrup",
-                    "name": "Honey Syrup",
+                    "name": "Honigsirup",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -60,7 +60,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -72,7 +72,7 @@
         },
         {
             "_id": "chilli-pepper",
-            "name": "Chilli Pepper",
+            "name": "Chilischote",
             "sort": 4,
             "amount": 0.25,
             "units": "inch",
@@ -84,7 +84,7 @@
         },
         {
             "_id": "cilantro",
-            "name": "Cilantro",
+            "name": "Koriander",
             "sort": 5,
             "amount": 10,
             "units": "leaves",

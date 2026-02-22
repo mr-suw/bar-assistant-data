@@ -1,19 +1,19 @@
 {
     "_id": "mango-mule",
     "name": "Mango Mule",
-    "instructions": "Muddle cucumber and honey syrup in the bottom of a cocktail shaker. Add the mango puree and lime juice and shake with ice vigorously. Strain into a copper mug. Top with ginger beer and stir.",
+    "instructions": "Gurkenscheiben und Honigsirup am Boden eines Shakers zerdrücken. Mangopüree und Limettensaft hinzufügen und kräftig auf Eis schütteln. In einen Kupferbecher abseihen. Mit Ginger Beer auffüllen und kurz umrühren.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "http://againstallgrain.com/",
-    "garnish": "Lime slices",
+    "garnish": "Limettenscheiben",
     "abv": 0,
     "tags": [
-        "Virgin",
+        "Alkoholfrei",
         "Mule"
     ],
-    "glass": "Julep",
-    "method": "Shake",
+    "glass": "Julep-Becher",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -40,10 +40,10 @@
         },
         {
             "_id": "cucumber",
-            "name": "Cucumber",
+            "name": "Gurke",
             "sort": 2,
             "amount": 5,
-            "units": "slices",
+            "units": "Scheiben",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "mango-puree",
-            "name": "Mango puree",
+            "name": "Mangopüree",
             "sort": 4,
             "amount": 45,
             "units": "ml",
@@ -76,7 +76,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 45,
             "units": "ml",

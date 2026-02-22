@@ -1,18 +1,18 @@
 {
     "_id": "cameron-park-spritz",
     "name": "Cameron Park Spritz",
-    "instructions": "1. Add the Aperol, elderflower liqueur, and mezcal to an ice-filled glass. Add a splash of sparkling water, then top with 2-3 oz. of sparkling wine. Garnish.",
+    "instructions": "1. Aperol, Holunderblütenlikör und Mezcal in ein mit Eis gefülltes Glas geben. Einen Spritzer Sodawasser hinzufügen und mit 60-75 ml Schaumwein auffüllen. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Named after a Hispanic neighborhood in Brownsville, Texas, this Spritz incorporates flavors that nod to that heritage, says Christopher Galicia, beverage director and junior partner with Ramblas Hospitality Group. “Coming into summer, we wanted a spritz that was lively, floral, and had a little bit more backbone,” says Galicia. “Mezcal and St-Germain play these roles perfectly and produce a deliciously bold spritz.”",
+    "description": "Benannt nach einem hispanischen Viertel in Brownsville, Texas, vereint dieser Spritz Aromen, die eine Hommage an dieses Erbe sind, sagt Christopher Galicia. „Für den Sommer wollten wir einen Spritz, der lebendig und floral ist, aber etwas mehr Rückgrat hat“, so Galicia. „Mezcal und St-Germain spielen diese Rollen perfekt und ergeben einen köstlich kräftigen Spritz.“",
     "source": "https://imbibemagazine.com/recipe/cameron-park-spritz/",
-    "garnish": "Dehydrated half orange wheel",
+    "garnish": "Getrocknete halbe Orangenscheibe",
     "abv": 14.55,
     "tags": [
         "Dessert"
     ],
-    "glass": "Wine",
-    "method": "Build",
+    "glass": "Weinglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -63,7 +63,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 0,
             "units": "splash",

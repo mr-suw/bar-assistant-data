@@ -1,19 +1,19 @@
 {
     "_id": "boothby",
     "name": "Boothby",
-    "instructions": "1. In an ice-filled mixing glass, combine the first four ingredients and stir to chill. Strain into a chilled coupe and top with sparkling wine. Garnish with the skewered cherry.",
+    "instructions": "1. In einem mit Eis gefüllten Rührglas die ersten vier Zutaten mischen und kalt rühren. In eine gekühlte Coupette abseihen und mit Sekt auffüllen. Mit der aufgespießten Kirsche garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Proof that tinkering with classic cocktails is an evergreen endeavor, the Boothby is a pre-Prohibition Manhattan variant with an effervescent crown. Bartender, author, and erstwhile California State Assemblyman William T. Boothby is believed to have created the drink while working at San Francisco’s Palace Hotel around the turn of the 20th century. “Boothby was an interesting character,” says H. Joseph Ehrmann, proprietor of Elixir in San Francisco, California, where the Boothby has long been a menu staple. “He started out as a performer and didn’t start bartending until around 1890.” His namesake cocktail has a flair for the dramatic, too. The spirit-forward drink combines whiskey, sweet vermouth, and two types of bitters with a Champagne float. “You add bubbles to anything and make it better,” says Ehrmann, who jokes that he’s pleased that Boothby didn’t end up naming the drink a Manhattan Royale. When making a Boothby, Ehrmann prefers to use 90- to 100-proof rye and dry sparkling wine. “I like the complexity, spice, and punch that a bonded rye brings to the table, and the brut sparkling keeps the drink at the right balance while adding the necessary texture,” he says. Boozy and bubbly, it’s a drink for the ages.",
+    "description": "Als Beweis dafür, dass das Experimentieren mit klassischen Cocktails ein immerwährendes Unterfangen ist, ist der Boothby eine Pre-Prohibition Manhattan-Variante mit einer spritzigen Krone. Es wird angenommen, dass der Barkeeper, Autor und ehemalige kalifornische Staatsabgeordnete William T. Boothby das Getränk um die Jahrhundertwende des 20. Jahrhunderts während seiner Arbeit im Palace Hotel in San Francisco kreiert hat. „Boothby war eine interessante Persönlichkeit“, sagt H. Joseph Ehrmann, Inhaber des Elixir in San Francisco, Kalifornien, wo der Boothby seit langem ein fester Bestandteil der Speisekarte ist. „Er begann als Künstler und begann erst um 1890 mit dem Barkeeping.“ Sein gleichnamiger Cocktail hat auch ein Flair für das Dramatische. Der Spirituosen-lastige Drink kombiniert Whiskey, süßen Wermut und zwei Arten von Bittern mit einem Champagner-Float. „Man fügt allem Blasen hinzu und macht es besser“, sagt Ehrmann, der scherzhaft anmerkt, dass er froh ist, dass Boothby den Drink nicht Manhattan Royale genannt hat. Bei der Zubereitung eines Boothby bevorzugt Ehrmann 90- bis 100-Proof-Roggen und trockenen Sekt. „Ich mag die Komplexität, die Würze und den Punch, den ein gebundener Roggen auf den Tisch bringt, und der brutale Sekt hält den Drink im richtigen Gleichgewicht, während er die notwendige Textur hinzufügt“, sagt er. Alkoholisch und sprudelnd, ist es ein Drink für die Ewigkeit.",
     "source": "https://imbibemagazine.com/recipe/boothby-cocktail/",
-    "garnish": "Skewered maraschino cherry",
+    "garnish": "Aufgespießte Maraschino-Kirsche",
     "abv": 20.48,
     "tags": [
         "Bitter",
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,19 +28,19 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 2,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably 90 or 100 proof",
+            "note": "vorzugsweise 90 oder 100 Proof",
             "substitutes": []
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 3,
             "amount": 2,
             "units": "dash",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 4,
             "amount": 1,
             "units": "dash",
@@ -76,14 +76,14 @@
         },
         {
             "_id": "sparkling-wine",
-            "name": "Sparkling wine",
+            "name": "Sekt",
             "sort": 5,
             "amount": 1,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": 2,
-            "note": "such as Prosecco, Cava, or Champagne",
+            "note": "wie Prosecco, Cava oder Champagner",
             "substitutes": []
         }
     ]

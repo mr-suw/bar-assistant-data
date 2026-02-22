@@ -1,12 +1,12 @@
 {
     "_id": "plum-brandy",
     "_parent_id": "fruit-brandy",
-    "name": "Plum Brandy",
+    "name": "Pflaumenbrand",
     "strength": 38,
-    "description": "Plum brandy, often known as slivovitz or \"šljivovica\", is a fruit brandy made from fermented and distilled plums. This type of brandy is popular in various cultures and regions, including Eastern Europe and the Balkans, where it holds cultural significance. The production process typically involves fermenting ripe plums, distilling the fermented mash, and then aging the resulting spirit in wooden barrels. Plum brandy can vary in color, flavor, and aroma, influenced by factors such as the type of plums used, the distillation process, and the length of aging. It is enjoyed as a sipping spirit, a digestive after meals, or as a key ingredient in traditional cocktails and culinary recipes.",
+    "description": "Pflaumenbrand, oft als Slivovitz oder „Šljivovica“ bekannt, ist ein Obstbrand, der aus fermentierten und destillierten Pflaumen hergestellt wird. Diese Art von Brandy ist in verschiedenen Kulturen und Regionen, einschließlich Osteuropa und dem Balkan, beliebt, wo er kulturelle Bedeutung hat. Der Herstellungsprozess umfasst typischerweise das Fermentieren reifer Pflaumen, das Destillieren der fermentierten Maische und anschließend das Reifen der resultierenden Spirituose in Holzfässern. Pflaumenbrand kann in Farbe, Geschmack und Aroma variieren, beeinflusst durch Faktoren wie die Art der verwendeten Pflaumen, den Destillationsprozess und die Lagerungsdauer. Er wird als Spirituose zum Niesen, als Digestif nach dem Essen oder als Schlüsselzutat in traditionellen Cocktails und kulinarischen Rezepten genossen.",
     "origin": "Balkan",
     "color": "#fff8ec",
-    "category": "Spirits > Brandy > Fruit brandy",
+    "category": "Spirituosen > Brandy > Obstbrand",
     "created_at": null,
     "updated_at": null,
     "images": [

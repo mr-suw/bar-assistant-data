@@ -1,19 +1,19 @@
 {
     "_id": "canchanchara",
     "name": "Canchànchara",
-    "instructions": "Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+    "instructions": "Honig mit Wasser und Limettensaft verrühren und die Mischung am Boden und an den Innenwänden des Glases verteilen. Zerstoßenes Eis (Cracked Ice) und den Rum hinzufügen. Zum Abschluss kräftig von unten nach oben umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Known as the forerunner of the Daiquiri, and drunk by Cuban revolutionaries fighting off the Spanish at the end of the nineteenth century, the Canchànchara is a simple mix of honey, citrus and rum (originally aguardiente de caña rather than rum).",
+    "description": "Die Canchànchara gilt als Vorläufer des Daiquiri und wurde von kubanischen Revolutionären getrunken, die Ende des 19. Jahrhunderts gegen die Spanier kämpften. Sie ist eine einfache Mischung aus Honig, Zitrusfrüchten und Rum (ursprünglich Aguardiente de Caña).",
     "source": "https://iba-world.com/cachanchara/",
-    "garnish": "Lime wedge.",
+    "garnish": "Limettenspalte",
     "abv": 15.58,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "New Era Drinks"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "water",
-            "name": "Water",
+            "name": "Wasser",
             "sort": 4,
             "amount": 50,
             "units": "ml",

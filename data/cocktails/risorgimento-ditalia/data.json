@@ -1,18 +1,18 @@
 {
     "_id": "risorgimento-ditalia",
     "name": "Risorgimento d’Italia",
-    "instructions": "1. Combine the first four ingredients in a Collins glass, then stir and add spear ice (or cubes).\n2. Using an atomizer, spritz the absinthe over the top of the drink.\n3. Garnish with an orange slice sprinkled with salt.",
+    "instructions": "1. Die ersten vier Zutaten in ein Collins-Glas geben, dann umrühren und Spießeis (oder Würfel) hinzufügen.\n2. Mit einem Zerstäuber den Absinth über das Getränk sprühen.\n3. Mit einer gesalzenen Orangenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A more spiritous twist on the Garibaldi cocktail recipe, this drink sees additions of gin and absinthe to the orange juice and Campari.",
+    "description": "Eine spirituosenreichere Variante des Garibaldi-Cocktailrezepts, dieser Drink enthält zusätzlich Gin und Absinth zum Orangensaft und Campari.",
     "source": "https://punchdrink.com/recipes/risorgimento-ditalia/",
-    "garnish": "orange slice sprinkled with salt",
+    "garnish": "Orangenscheibe mit Salz bestreut",
     "abv": 11.09,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Highball",
-    "method": "Stir",
+    "glass": "Highball-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,7 +34,7 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably The Botanist",
+            "note": "vorzugsweise The Botanist",
             "substitutes": []
         },
         {
@@ -51,7 +51,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 3,
             "amount": 3,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",
@@ -75,14 +75,14 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 5,
             "amount": 2,
             "units": "dashes",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "To rinse",
+            "note": "Zum Spülen",
             "substitutes": []
         }
     ]

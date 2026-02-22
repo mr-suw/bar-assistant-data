@@ -1,18 +1,18 @@
 {
     "_id": "whiskey-apple-highball",
     "name": "Whiskey Apple Highball",
-    "instructions": "1. Build in a highball filled with ice.\n2. Stir.",
+    "instructions": "1. In einem Highball-Glas mit Eis zubereiten.\n2. Umrühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "It isn’t plausible to say one bar invented such a simple highball. But Shady Pines Saloon in Sydney, and later The Baxter Inn in the same city—both owned by the same team, including Anton Forte and Jason Scott—certainly perfected and popularized this unusual highball. Shady Pines, a Western-themed bar, has a whiskey focus. After a while, the owners began to pair that whiskey with freshly squeezed green apple juice, using a Breville juicer. The novel combination was a hit with the public immediately, partly due to its eye-catching, vivid-green color. The drink never really had a proper name and it wasn’t on the menu. (Forte calls it “Whiskey Apple.”) People just knew it was available and ordered it. Soon bars across Sydney were serving the drink. Beginning in 2017, the highball hopped the Pacific and began showing up on menus at New York cocktail bars like Diamond Reef, The Suffolk Arms and Peppi’s Cellar (opened by Scott himself). That the Granny Smith apples are of good quality and are freshly juiced is vital to the success of the drink. The original whiskey used at the beginning was Jim Beam Rye, but many other ryes works just as well.",
-    "source": "Shady Pines Saloon, Sydney, Australia, 2010",
+    "description": "Es ist nicht plausibel zu sagen, dass eine Bar einen so einfachen Highball erfunden hat. Aber Shady Pines Saloon in Sydney und später The Baxter Inn in derselben Stadt – beide im Besitz desselben Teams, darunter Anton Forte und Jason Scott – haben diesen ungewöhnlichen Highball sicherlich perfektioniert und populär gemacht. Shady Pines, eine Bar im Western-Stil, konzentriert sich auf Whiskey. Nach einiger Zeit begannen die Besitzer, diesen Whiskey mit frisch gepresstem grünem Apfelsaft zu kombinieren, unter Verwendung eines Breville Entsafters. Die neuartige Kombination war sofort ein Hit beim Publikum, teilweise aufgrund ihrer auffälligen, leuchtend grünen Farbe. Der Drink hatte nie wirklich einen richtigen Namen und stand nicht auf der Speisekarte. (Forte nennt ihn „Whiskey Apple“.) Die Leute wussten einfach, dass er verfügbar war und bestellten ihn. Bald servierten Bars in ganz Sydney den Drink. Ab 2017 übersprang der Highball den Pazifik und begann, auf Speisekarten in New Yorker Cocktailbars wie Diamond Reef, The Suffolk Arms und Peppi’s Cellar (von Scott selbst eröffnet) aufzutauchen. Dass die Granny Smith Äpfel von guter Qualität sind und frisch gepresst werden, ist entscheidend für den Erfolg des Drinks. Der ursprünglich verwendete Whiskey war Jim Beam Rye, aber viele andere Ryes funktionieren genauso gut.",
+    "source": "Shady Pines Saloon, Sydney, Australien, 2010",
     "garnish": null,
     "abv": 7.27,
     "tags": [
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Highball",
-    "method": "Build",
+    "glass": "Highball-Glas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -39,14 +39,14 @@
         },
         {
             "_id": "apple-juice",
-            "name": "Apple Juice",
+            "name": "Apfelsaft",
             "sort": 2,
             "amount": 120,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "Freshly pressed Granny Smith",
+            "note": "Frisch gepresster Granny Smith",
             "substitutes": []
         }
     ]

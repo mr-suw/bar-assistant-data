@@ -1,20 +1,20 @@
 {
     "_id": "singapore-sling",
     "name": "Singapore Sling",
-    "instructions": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
+    "instructions": "Alle Zutaten in einen mit Eiswürfeln gefüllten Cocktailshaker geben. Gut schütteln. In ein Hurricane-Glas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "This long drink was developed sometime before 1915 by bartender Ngiam Tong Boon, who was working at the Long Bar in Raffles Hotel, Singapore. It was initially called the gin sling – a sling was originally a North American drink composed of spirit and water, sweetened and flavored.",
+    "description": "Dieser Longdrink wurde irgendwann vor 1915 von Barkeeper Ngiam Tong Boon entwickelt, der im Long Bar des Raffles Hotel in Singapur arbeitete. Er wurde ursprünglich Gin Sling genannt – ein Sling war ursprünglich ein nordamerikanisches Getränk, das aus Spirituose und Wasser bestand, gesüßt und aromatisiert.",
     "source": "https://iba-world.com/singapore-sling/",
-    "garnish": "Garnish with pineapple and maraschino cherry",
+    "garnish": "Mit Ananas und Maraschino-Kirsche garnieren",
     "abv": 8.3,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
         "Tiki"
     ],
-    "glass": "Hurricane",
-    "method": "Shake",
+    "glass": "Hurricane-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -41,7 +41,7 @@
         },
         {
             "_id": "cherry-heering",
-            "name": "Cherry heering",
+            "name": "Cherry Heering",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -77,7 +77,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 15,
             "units": "ml",
@@ -89,7 +89,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 6,
             "amount": 10,
             "units": "ml",
@@ -101,7 +101,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 7,
             "amount": 1,
             "units": "dash",
@@ -113,7 +113,7 @@
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 8,
             "amount": 120,
             "units": "ml",
@@ -121,7 +121,29 @@
             "is_specified": false,
             "amount_max": null,
             "note": null,
+            "substitutes": []        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura Aromatic Bitters",
+            "sort": 7,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
             "substitutes": []
-        }
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Ananassaft",
+            "sort": 8,
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []        }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "_id": "fino",
     "_parent_id": "sherry",
-    "name": "Fino",
+    "name": "Fino Sherry",
     "strength": 0,
-    "description": "Fino sherry is a dry, pale, and delicate fortified wine from Spain’s Jerez region, known for its light body and crisp, nutty flavor. It is aged under a layer of flor (a protective yeast) in a process called biological aging, which prevents oxidation and gives it a fresh, slightly saline taste. This method results in a sherry that is bone-dry with notes of almonds, green apples, fresh bread, and a hint of sea breeze.",
+    "description": "Fino Sherry ist ein trockener, blasser und delikater verstärkter Wein aus der spanischen Region Jerez, der für seinen leichten Körper und seinen frischen, nussigen Geschmack bekannt ist. Er reift unter einer Florhefeschicht (Flor) in einem Prozess, der biologische Reifung genannt wird, was Oxidation verhindert und ihm einen frischen, leicht salzigen Geschmack verleiht. Diese Methode führt zu einem Sherry, der knochentrocken ist und Noten von Mandeln, grünen Äpfeln, frischem Brot und einem Hauch von Meeresbrise aufweist.",
     "origin": null,
     "color": null,
-    "category": "Fortified wine > Sherry",
+    "category": "Verstärkter Wein > Sherry",
     "created_at": null,
     "updated_at": null,
     "images": [

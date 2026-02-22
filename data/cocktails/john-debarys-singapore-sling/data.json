@@ -1,18 +1,18 @@
 {
     "_id": "john-debarys-singapore-sling",
     "name": "John deBary’s Singapore Sling",
-    "instructions": "1. In a shaker, combine the drink ingredients. Add ice and shake for 15 seconds.\n2. Strain into an ice-filled Collins or water glass. Garnish with the pineapple wedge and a cherry speared on a pick. Serve with a straw.\n\n\n ## Editors note:\n\n### Grenadine:\n\nCombine equal parts pomegranate juice with granulated sugar in a saucepan, over low heat. Whisk until dissolved. Place in airtight container and keep in refrigerator for up to one week.",
+    "instructions": "1. Alle Zutaten in einem Shaker vermischen. Eis hinzufügen und 15 Sekunden lang schütteln.\n2. In ein mit Eis gefülltes Collins- oder Wasserglas abseihen. Mit einer Ananasspalte und einer aufgespießten Kirsche garnieren. Mit Strohhalm servieren.\n\n\n ## Anmerkung der Redaktion:\n\n### Grenadine:\n\nGleiche Teile Granatapfelsaft und Kristallzucker in einen Topf geben und bei niedriger Hitze unter Rühren auflösen. In einem luftdichten Gefäß im Kühlschrank bis zu einer Woche haltbar.",
     "created_at": null,
     "updated_at": null,
-    "description": "Made properly, says deBary, the Singapore Sling cocktail recipe should make a drink that's “juicy, fruity and refreshing.”",
+    "description": "Richtig zubereitet, so deBary, sollte der Singapore Sling „saftig, fruchtig und erfrischend“ schmecken.",
     "source": "https://punchdrink.com/recipes/john-debarys-singapore-sling/",
-    "garnish": "pineapple wedge, Luxardo cherry",
+    "garnish": "Ananasspalte, Luxardo-Kirsche",
     "abv": 19.61,
     "tags": [
-        "Fruity"
+        "Fruchtig"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -34,24 +34,24 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Plymouth",
+            "note": "vorzugsweise Plymouth",
             "substitutes": []
         },
         {
             "_id": "pineapple-juice",
-            "name": "Pineapple juice",
+            "name": "Ananassaft",
             "sort": 2,
             "amount": 45,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably fresh",
+            "note": "vorzugsweise frisch",
             "substitutes": []
         },
         {
             "_id": "cherry-heering",
-            "name": "Cherry heering",
+            "name": "Cherry Heering",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,14 +63,14 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 4,
             "amount": 15,
             "units": "ml",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "see Editor's Note",
+            "note": "siehe Anmerkung der Redaktion",
             "substitutes": []
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 7,
             "amount": 7.5,
             "units": "ml",
@@ -111,7 +111,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 8,
             "amount": 2,
             "units": "dash",

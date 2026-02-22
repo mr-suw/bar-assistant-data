@@ -1,26 +1,26 @@
 {
     "_id": "squeaky-wheel",
-    "name": "Squeaky Wheel",
-    "instructions": "1. Stir all the ingredients together in a mixing tin with ice, then strain into a rocks glass over fresh ice.\n2. Express the oils of the orange peel over the top of the drink and use as a garnish.",
+    "name": "Quietschendes Rad",
+    "instructions": "1. Alle Zutaten mit Eis in ein Rührglas geben, dann über frisches Eis in ein Rocks-Glas abseihen.\n2. Die Öle der Orangenschale über das Getränk drücken und als Garnitur verwenden.",
     "created_at": null,
     "updated_at": null,
-    "description": "\"The squeaky wheel gets the oil\", my father always used to tell me. This cocktail demands that level of attention, says Nicholas Bennett of Cedric’s at the Shed of this Mezcal Negroni. \"I enjoy the combination of coffee and bitters, and I will occasionally add a touch of Angostura to my coffee in the morning, so the blend of St. George NOLA Coffee Liqueur and Campari was almost a no-brainer when I was developing this Negroni variation. The splash of amaretto really rounds out the cocktail.\"",
+    "description": "„Das quietschende Rad bekommt das Öl“, pflegte mein Vater immer zu sagen. Dieser Cocktail erfordert dieses Maß an Aufmerksamkeit, sagt Nicholas Bennett von Cedric’s at the Shed über diesen Mezcal Negroni. „Ich mag die Kombination aus Kaffee und Bitters, und ich füge meinem Morgenkaffee gelegentlich einen Hauch Angostura hinzu, daher war die Mischung aus St. George NOLA Coffee Liqueur und Campari fast ein Kinderspiel, als ich diese Negroni-Variante entwickelte. Der Schuss Amaretto rundet den Cocktail wirklich ab.“",
     "source": "https://imbibemagazine.com/recipe/squeaky-wheel-mezcal-negroni/",
-    "garnish": "Orange twist",
+    "garnish": "Orangenzeste",
     "abv": 23.98,
     "tags": [
         "Negroni",
-        "Coffee",
-        "Smokey",
+        "Kaffee",
+        "Rauchig",
         "Bitter"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [
-        "Bar spoon",
+        "Barlöffel",
         "Jigger",
-        "Julep Strainer",
-        "Mixing glass"
+        "Julep-Sieb",
+        "Rührglas"
     ],
     "parent_cocktail_id": null,
     "year": null,
@@ -59,7 +59,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -83,7 +83,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 5,
             "amount": 2,
             "units": "dash",

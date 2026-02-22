@@ -1,7 +1,7 @@
 {
     "_id": "parisien-mojito",
     "name": "Parisien Mojito",
-    "instructions": "Lightly MUDDLE mint (just to bruise) in base of glass. Add other ingredients, half fill glass with crushed ice and CHURN (stir) with bar spoon. Fill glass to brim with more crushed ice and churn some more. Serve with straws.",
+    "instructions": "Minze vorsichtig am Glasboden zerdrücken (muddlen), nur um die Aromen freizusetzen. Die restlichen Zutaten hinzufügen, das Glas zur Hälfte mit Crushed Ice füllen und mit einem Barlöffel gut verrühren (churn). Das Glas bis zum Rand mit mehr Crushed Ice auffüllen und erneut rühren. Mit Strohhalmen servieren.",
     "created_at": null,
     "updated_at": null,
     "description": null,
@@ -9,11 +9,11 @@
     "garnish": null,
     "abv": 22.22,
     "tags": [
-        "Summer",
+        "Sommer",
         "Mojito"
     ],
-    "glass": "Highball",
-    "method": "Muddle",
+    "glass": "Highball-Glas",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 2,
             "amount": 12,
             "units": "leaves",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 30,
             "units": "ml",

@@ -1,9 +1,9 @@
 {
     "_id": "cinnamon",
     "_parent_id": null,
-    "name": "Cinnamon",
+    "name": "Zimt",
     "strength": 0,
-    "description": "Cinnamon is a spice derived from the inner bark of trees from the genus Cinnamomum, primarily Ceylon cinnamon (Cinnamomum verum) and cassia cinnamon (Cinnamomum aromaticum). It is commonly used in cooking and baking for its distinct flavor and aroma.",
+    "description": "Zimt ist ein Gewürz, das aus der inneren Rinde von Bäumen der Gattung Cinnamomum gewonnen wird, vor allem aus Ceylon-Zimt (Cinnamomum verum) und Cassia-Zimt (Cinnamomum aromaticum). Er wird aufgrund seines ausgeprägten Geschmacks und Aromas häufig beim Kochen und Backen verwendet.",
     "origin": null,
     "color": "#865e3c",
     "category": null,

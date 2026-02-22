@@ -1,18 +1,18 @@
 {
     "_id": "baltimore-southside",
     "name": "Baltimore Southside",
-    "instructions": "1. Combine the rum, lemon juice, simple syrup and mint in a shaker with ice.\n2. Shake until chilled.\n3. Strain into a double rocks glass over 1.25-inch ice cubes.\n4. Top with about 1 1/2 ounces of club soda.\n5. Garnish with mint and a lemon wheel.",
+    "instructions": "1. Rum, Zitronensaft, Zuckersirup und Minze in einem Shaker mit Eis kombinieren.\n2. Schütteln, bis der Drink gut gekühlt ist.\n3. In einen Tumbler auf große Eiswürfel abseihen.\n4. Mit etwa 45 ml Sodawasser auffüllen.\n5. Mit Minze und einer Zitronenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "A Southside that honors the legacy of Baltimore's Black bartenders.",
+    "description": "Ein Southside, der das Vermächtnis der schwarzen Barkeeper von Baltimore ehrt.",
     "source": "https://punchdrink.com/recipes/aaron-josephs-southside/",
-    "garnish": "mint bouquet, lemon wheel or dehydrated lemon wheel",
+    "garnish": "Minzzweig, Zitronenscheibe oder getrocknete Zitronenscheibe",
     "abv": 18.29,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,19 +27,19 @@
     "ingredients": [
         {
             "_id": "light-rum",
-            "name": "Light Rum",
+            "name": "Heller Rum",
             "sort": 1,
             "amount": 2,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Don Q Cristal or El Dorado 3-year",
+            "note": "z. B. Don Q Cristal oder El Dorado 3-Year",
             "substitutes": []
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 0.75,
             "units": "oz",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 4,
             "amount": 6,
             "units": "leaves",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 1,
             "units": "topup",

@@ -1,9 +1,9 @@
 {
     "_id": "beer",
     "_parent_id": null,
-    "name": "Beer",
+    "name": "Bier",
     "strength": 4,
-    "description": "Beer is an alcoholic beverage made from fermented cereal grains, primarily malted barley, along with water, hops, and yeast. It is one of the oldest and most widely consumed drinks in the world, often enjoyed in social settings like pubs and festivals.",
+    "description": "Bier ist ein alkoholisches Getränk, das aus fermentierten Getreidekörnern, hauptsächlich gemälzter Gerste, zusammen mit Wasser, Hopfen und Hefe hergestellt wird. Es ist eines der ältesten und am weitesten verbreiteten Getränke der Welt und wird oft in sozialen Umfeldern wie Kneipen und Festivals genossen.",
     "origin": null,
     "color": "#e5a50a",
     "category": null,

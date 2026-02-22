@@ -1,19 +1,19 @@
 {
     "_id": "verte-chaud",
     "name": "Verte Chaud",
-    "instructions": "1. Stir together hot water and shaved chocolate until combined\n2. Add Chartreuse and top with wet cream",
+    "instructions": "1. Heißes Wasser und geraspelte Schokolade verrühren, bis sie sich verbunden haben.\n2. Chartreuse hinzufügen und mit leicht geschlagener Sahne (Wet Cream) krönen.",
     "created_at": null,
     "updated_at": null,
-    "description": "An après-ski staple perfect for the chilly chartreuse fan",
+    "description": "Ein après-ski-Klassiker, perfekt für Fans von Chartreuse, die es warm mögen.",
     "source": "https://tuxedono2.com/verte-chaud-cocktail-recipe",
-    "garnish": "wet heavy cream to top",
+    "garnish": "Leicht geschlagene Sahne (Wet Cream)",
     "abv": 8.8,
     "tags": [
-        "Herbacious",
-        "Hot"
+        "Kräuterig",
+        "Heiß"
     ],
-    "glass": "Wine",
-    "method": "Shake",
+    "glass": "Weinglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "hot-chocolate",
-            "name": "Hot chocolate",
+            "name": "Heiße Schokolade",
             "sort": 2,
             "amount": 6,
             "units": "oz",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 3,
             "amount": 1,
             "units": "topup",

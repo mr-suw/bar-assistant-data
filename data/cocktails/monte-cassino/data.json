@@ -9,13 +9,13 @@
     "garnish": null,
     "abv": 24,
     "tags": [
-        "Citrusy",
+        "Zitrusbetont",
         "Bright",
         "Bitter",
         "Classic"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 0.75,
             "units": "oz",
@@ -66,7 +66,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 0.75,
             "units": "oz",

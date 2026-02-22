@@ -1,18 +1,18 @@
 {
     "_id": "haymaker",
     "name": "Haymaker",
-    "instructions": "1. Add all of the ingredients to a shaker, fill with ice, and shake well. Double strain into a rocks glass filled with fresh ice. Garnish with a large dollop of fresh whipped cream, a sprinkle of Maldon salt, and instant espresso powder.",
+    "instructions": "1. Alle Zutaten in einen Shaker geben, mit Eis füllen und gut schütteln. Doppelt in einen Tumbler auf frische Eiswürfel abseihen. Mit einem großen Klecks frischer Schlagsahne, einer Prise Maldon-Salz und Instant-Espressopulver garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This rich combo of rye whiskey, espresso, and cream drinks like a boozy iced latte.",
+    "description": "Diese reichhaltige Kombination aus Rye Whiskey, Espresso und Sahne trinkt sich wie ein alkoholischer Eiskaffee.",
     "source": "https://imbibemagazine.com/recipe/haymaker-espresso-cocktail/",
-    "garnish": "Whipped cream, sea salt, instant coffee powder",
+    "garnish": "Schlagsahne, Meersalz, Instant-Kaffeepulver",
     "abv": 11.08,
     "tags": [
-        "Coffee"
+        "Kaffee"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 22.5,
             "units": "ml",
@@ -46,12 +46,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "freshly brewed, or sub a coffee concentrate",
+            "note": "frisch gebrüht oder durch Kaffeekonzentrat ersetzen",
             "substitutes": []
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Mandelsirup (Orgeat)",
             "sort": 4,
             "amount": 30,
             "units": "ml",

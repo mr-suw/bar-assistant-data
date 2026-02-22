@@ -1,18 +1,18 @@
 {
     "_id": "nuclear-daiquiri",
     "name": "Nuclear Daiquiri",
-    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a coupe or cocktail glass.",
+    "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben und schütteln, bis der Drink gut gekühlt ist.\n2. In eine Coupette oder ein Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Nuclear Daiquiri combines green Chartreuse, overproof rum, lime juice and falernum. This cocktail recipe is a cult favorite online.",
+    "description": "Der Nuclear Daiquiri kombiniert Green Chartreuse, Overproof Rum, Limettensaft und Falernum. Dieses Cocktail-Rezept genießt online Kultstatus.",
     "source": "https://punchdrink.com/recipes/nuclear-daiquiri/",
     "garnish": null,
     "abv": 25.07,
     "tags": [
-        "Citrusy"
+        "Zitrusbetont"
     ],
     "glass": null,
-    "method": "Shake",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": "daiquiri",
     "year": null,
@@ -34,12 +34,12 @@
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "preferably Wray & Nephew",
+            "note": "vorzugsweise Wray & Nephew",
             "substitutes": []
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 1,
             "units": "oz",

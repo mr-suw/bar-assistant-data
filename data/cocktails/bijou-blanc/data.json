@@ -6,15 +6,15 @@
     "updated_at": null,
     "description": "A modern take on the Bijou, this cocktail recipe puts a fresh spin on the classic Chartreuse cocktail, similar to a White Negroni.",
     "source": "https://punchdrink.com/recipes/bijou-blanc/",
-    "garnish": "lemon peel",
+    "garnish": "Zitronenschale",
     "abv": 33.97,
     "tags": [
         "Bitter",
         "Aperitivo",
-        "Dry"
+        "Trocken"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": "bijou",
     "year": null,

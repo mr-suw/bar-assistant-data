@@ -1,16 +1,16 @@
 {
     "_id": "brainstorm",
     "name": "Brainstorm",
-    "instructions": "1. Stir all of the ingredients with ice, then strain into a chilled glass.\n2. Twist an orange peel over the cocktail and use as garnish.",
+    "instructions": "1. Alle Zutaten mit Eis rühren und in ein vorgekühltes Glas abseihen.\n2. Eine Orangenenzeste über dem Cocktail ausdrücken und als Garnitur verwenden.",
     "created_at": null,
     "updated_at": null,
-    "description": "This classic Irish whiskey cocktail from Hugo Ensslin’s 1917 Recipes for Mixed Drinks has been adapted for contemporary use, with the French vermouth and honeyed herbal liqueur Bénédictine given greater billing in the glass.",
+    "description": "Dieser klassische Irish Whiskey Cocktail aus Hugo Ensslins Recipes for Mixed Drinks von 1917 wurde für den zeitgenössischen Gebrauch angepasst, wobei der französische Wermut und der honigartige Kräuterlikör Bénédictine im Glas stärker betont werden.",
     "source": "https://imbibemagazine.com/recipe/brainstorm-irish-whiskey-cocktail/",
-    "garnish": "Orange twist",
+    "garnish": "Orangenzeste",
     "abv": 30.25,
     "tags": [],
-    "glass": "Coupe",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -25,7 +25,7 @@
     "ingredients": [
         {
             "_id": "irish-whiskey",
-            "name": "Irish whiskey",
+            "name": "Irish Whiskey",
             "sort": 1,
             "amount": 2,
             "units": "oz",
@@ -37,7 +37,7 @@
         },
         {
             "_id": "dry-vermouth",
-            "name": "Dry Vermouth",
+            "name": "Trockener Wermut",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
@@ -61,7 +61,7 @@
         },
         {
             "_id": "orange-bitters",
-            "name": "Orange bitters",
+            "name": "Orangenbitter",
             "sort": 4,
             "amount": 1,
             "units": "dash",

@@ -1,20 +1,20 @@
 {
     "_id": "moscow-mule",
     "name": "Moscow Mule",
-    "instructions": "In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
+    "instructions": "In einem Mule Cup oder Rocks Glas Wodka und Ginger Beer mischen. Limettensaft hinzufügen und vorsichtig umrühren, um alle Zutaten zu verbinden.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Moscow Mule is a classic cocktail that gained popularity in the mid-20th century. It is known for its distinctive presentation in a copper mug and its refreshing combination of flavors.",
+    "description": "Der Moscow Mule ist ein klassischer Cocktail, der Mitte des 20. Jahrhunderts an Popularität gewann. Er ist bekannt für seine unverwechselbare Präsentation in einem Kupferbecher und seine erfrischende Kombination von Aromen.",
     "source": "https://iba-world.com/moscow-mule/",
-    "garnish": "Garnish with a lime slice",
+    "garnish": "Mit einer Limettenscheibe garnieren",
     "abv": 10.77,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
         "Mule"
     ],
-    "glass": "Copper mug",
-    "method": "Build",
+    "glass": "Kupferbecher",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "vodka",
-            "name": "Vodka",
+            "name": "Wodka",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 3,
             "amount": 120,
             "units": "ml",

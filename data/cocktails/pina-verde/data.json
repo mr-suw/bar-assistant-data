@@ -1,19 +1,19 @@
 {
     "_id": "pina-verde",
     "name": "Piña Verde",
-    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into rocks glass over pebble ice.\n3. Garnish with a mint sprig.",
+    "instructions": "1. Alle Zutaten in einem Shaker mit Eis kräftig schütteln.\n2. In einen Tumbler (Rocks-Glas) auf Pebble Ice (oder Crushed Ice) abseihen.\n3. Mit einem Minzzweig garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This Piña Colada riff relies on Green Chartreuse rather than rum. Pineapple juice and lime add a fruity kick, and Coco Lopez adds coconut.",
+    "description": "Diese Variante der Piña Colada setzt auf Green Chartreuse anstatt auf Rum. Ananassaft und Limette sorgen für einen fruchtigen Kick, während Coco Lopez die Kokoskomponente beisteuert.",
     "source": "https://punchdrink.com/recipes/pina-verde/",
-    "garnish": "mint sprig",
+    "garnish": "Minzzweig",
     "abv": 15.53,
     "tags": [
-        "Herbacious",
-        "Fruity"
+        "Kräuterig",
+        "Fruchtig"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -64,7 +64,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",

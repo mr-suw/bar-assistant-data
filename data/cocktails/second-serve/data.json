@@ -1,18 +1,18 @@
 {
     "_id": "second-serve",
     "name": "Second Serve",
-    "instructions": "1. Add all ingredients except soda water to a cocktail shaker.\n2. Shake and strain into an ice-filled Collins glass.\n3. Top with soda and garnish with a half orange wheel.",
+    "instructions": "1. Alle Zutaten außer dem Sodawasser in einen Shaker geben.\n2. Schütteln und in ein mit Eis gefülltes Highball-Glas abseihen.\n3. Mit Soda auffüllen und mit einer halben Orangenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "As a lower-alcohol, softer-hitting cocktail recipe, this combination of Amaro Montenegro and fino sherry is a Spain vs. Italy matchup.",
+    "description": "Als alkoholarmer, sanfterer Cocktail ist diese Kombination aus Amaro Montenegro und Fino Sherry ein Duell zwischen Spanien und Italien.",
     "source": "https://punchdrink.com/recipes/second-serve/",
-    "garnish": "half orange wheel",
+    "garnish": "halbe Orangenscheibe",
     "abv": 4.91,
     "tags": [
-        "Savory"
+        "Würzig"
     ],
     "glass": "Highball",
-    "method": "Shake",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,19 +39,19 @@
         },
         {
             "_id": "fino",
-            "name": "Fino",
+            "name": "Fino Sherry",
             "sort": 2,
             "amount": 1,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "such as Valdespino Inocente",
+            "note": "wie z. B. Valdespino Inocente",
             "substitutes": []
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 1,
             "units": "oz",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 0.75,
             "units": "oz",
@@ -75,7 +75,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 1,
             "units": "topup",

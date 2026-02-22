@@ -1,18 +1,18 @@
 {
     "_id": "marigold-mule",
     "name": "Marigold Mule",
-    "instructions": "Fill a highball glass with ice,then add first three ingredients before topping the drink with ginger beer.",
+    "instructions": "Ein Highball-Glas mit Eis füllen, dann die ersten drei Zutaten hinzufügen, bevor der Drink mit Ginger Beer aufgefüllt wird.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Mexican marigold flower, known as cempasuchil, is traditionally used to decorate Día de Muertos altars, and, in the case of the Marigold Mule, it makes its appearance in the form of a garnish alongside, Patrón Silver, St. Germain, fresh lime juice, and ginger beer.",
+    "description": "Die mexikanische Studentenblume, bekannt als Cempasuchil, wird traditionell zur Dekoration von Día de Muertos Altären verwendet, und im Fall des Marigold Mule tritt sie in Form einer Garnitur neben Patrón Silver, St. Germain, frischem Limettensaft und Ginger Beer auf.",
     "source": "https://www.patrontequila.com/global-en/cocktails/patron-silver/marigold-mule.html",
-    "garnish": "Lime zest & Marigold flower",
+    "garnish": "Limettenschale & Studentenblume",
     "abv": 11.57,
     "tags": [
         "Mule"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "st-germain",
-            "name": "St-Germain",
+            "name": "St. Germain Holunderblütenlikör",
             "sort": 2,
             "amount": 15,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "ginger-beer",
-            "name": "Ginger beer",
+            "name": "Ginger Beer",
             "sort": 4,
             "amount": 90,
             "units": "ml",

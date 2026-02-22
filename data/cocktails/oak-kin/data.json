@@ -1,18 +1,18 @@
 {
     "_id": "oak-kin",
     "name": "OAK->KIN",
-    "instructions": "1. Add all of the ingredients to a mixing glass with ice and stir.\n2. Strain into a chilled coupe.\n3. Express with orange and lime peels and use as a garnish.",
+    "instructions": "1. Alle Zutaten in ein Rührglas mit Eis geben und rühren.\n2. In eine gekühlte Coupette abseihen.\n3. Mit Orangen- und Limettenzesten abspritzen und als Garnitur verwenden.",
     "created_at": null,
     "updated_at": null,
-    "description": "Big Bar's Negroni Week special is a hybrid of three Negroni riffs in one excellent aperitivo. Bar manager Eugene Lee combines the staff's two favorite Negroni variations—the Kingston Negroni and the mezcal Negroni—with an additional nod to the Rosita. \"I fussed with splitting the base, and rather than go with a simple Negroni spec, I went for a La Rosita style with both sweet and dry vermouth,\" he says.",
+    "description": "Dieses Special der Big Bar zur Negroni Week ist eine Mischung aus drei Negroni-Varianten in einem exzellenten Aperitif. Barmanager Eugene Lee kombiniert die beiden Lieblings-Varianten des Teams – den Kingston Negroni und den Mezcal Negroni – mit einer Anlehnung an den Rosita. „Ich habe experimentiert und mich statt eines einfachen Negroni-Rezepts für einen Stil à la La Rosita mit süßem und trockenem Wermut entschieden“, sagt er.",
     "source": "https://imbibemagazine.com/recipe/oak-kin-mezcal-negroni/",
-    "garnish": "Orange and lime peels",
+    "garnish": "Orangen- und Limettenzesten",
     "abv": 25.14,
     "tags": [
         "Negroni"
     ],
-    "glass": "Nick and Nora",
-    "method": "Stir",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -75,7 +75,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 5,
             "amount": 15,
             "units": "ml",

@@ -1,21 +1,21 @@
 {
     "_id": "zombie-spritz",
     "name": "Zombie Spritz",
-    "instructions": "1. Combine all ingredients, except the Cava rosé, in a mixing tin and shake with ice.\n2. Strain into a goblet or tiki mug over crushed ice\n3. Top with cava rosé.\n",
+    "instructions": "1. Alle Zutaten außer dem Cava Rosé in einen Shaker geben und auf Eis schütteln.\n2. In einen Tiki-Becher oder ein großes Glas auf Crushed Ice abseihen.\n3. Mit Cava Rosé auffüllen.\n",
     "created_at": null,
     "updated_at": null,
-    "description": "At Dante's, this low-ABV spritz tangles with the Zombie's famously layered build for a cocktail recipe that feels firmly rooted to both.",
+    "description": "In der Bar Dante verbindet dieser spritzige Drink (mit reduziertem Alkoholgehalt) den berühmten vielschichtigen Aufbau des Zombies mit der Leichtigkeit eines Spritz.",
     "source": "https://punchdrink.com/recipes/zombie-spritz/",
-    "garnish": "dehydrated grapefruit slice, fresh mint, cocktail umbrella (optional) ",
+    "garnish": "getrocknete Grapefruitscheibe, frische Minze, Cocktail-Sonnenschirm (optional) ",
     "abv": 12.46,
     "tags": [
         "Spritz",
-        "Citrusy",
-        "Fruity",
+        "Zitrusbetont",
+        "Fruchtig",
         "Tiki"
     ],
-    "glass": "Tiki",
-    "method": "Shake",
+    "glass": "Tiki-Becher",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -30,7 +30,7 @@
     "ingredients": [
         {
             "_id": "lillet-rose",
-            "name": "Lillet Rose",
+            "name": "Lillet Rosé",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -54,7 +54,7 @@
         },
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 3,
             "amount": 7.5,
             "units": "ml",
@@ -66,7 +66,7 @@
         },
         {
             "_id": "absinthe",
-            "name": "Absinthe",
+            "name": "Absinth",
             "sort": 4,
             "amount": 1,
             "units": "barspoon",
@@ -78,7 +78,7 @@
         },
         {
             "_id": "creme-de-banane",
-            "name": "Crème de banane",
+            "name": "Crème de Banane",
             "sort": 5,
             "amount": 1,
             "units": "barspoon",
@@ -102,7 +102,71 @@
         },
         {
             "_id": "grapefruit-juice",
-            "name": "Grapefruit juice",
+            "name": "Grapefruitsaft",
+            "sort": 7,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "frisch gepresst",
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Limettensaft",
+            "sort": 8,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "frisch gepresst",
+            "substitutes": []
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Zimtsirup",
+            "sort": 9,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pomegranate-syrup",
+            "name": "Granatapfelsirup",
+            "sort": 10,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cava-rose",
+            "name": "Cava Rosé",
+            "sort": 11,
+            "amount": 3,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}
+            "substitutes": []
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruitsaft",
             "sort": 7,
             "amount": 15,
             "units": "ml",
@@ -114,7 +178,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 8,
             "amount": 7.5,
             "units": "ml",
@@ -126,7 +190,7 @@
         },
         {
             "_id": "cinnamon-syrup",
-            "name": "Cinnamon syrup",
+            "name": "Zimtsirup",
             "sort": 9,
             "amount": 7.5,
             "units": "ml",
@@ -138,7 +202,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 10,
             "amount": 2,
             "units": "dash",
@@ -150,7 +214,7 @@
         },
         {
             "_id": "saline-solution",
-            "name": "Saline solution",
+            "name": "Salzlösung",
             "sort": 11,
             "amount": 1,
             "units": "dash",

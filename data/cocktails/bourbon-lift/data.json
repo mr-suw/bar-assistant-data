@@ -1,19 +1,19 @@
 {
     "_id": "bourbon-lift",
     "name": "Bourbon Lift",
-    "instructions": "1. Add the bourbon, coffee liqueur, heavy cream and orgeat into a shaker and vigorously dry-shake (without ice) for 10 seconds. Add ice and shake again until well-chilled.\n2. Strain into a Collins glass.\n3. Fill with the club soda, pouring from about 6 inches above the glass.\n4. Wait a few seconds and then add another splash of soda. This will lift the foam above the top of the glass.\n5. Serve with a straw.",
+    "instructions": "1. Bourbon, Kaffeelikör, Sahne und Orgeat in einen Shaker geben und 10 Sekunden lang kräftig trocken schütteln (ohne Eis). Eis hinzufügen und erneut schütteln, bis es gut gekühlt ist.\n2. In ein Collins-Glas abseihen.\n3. Mit Sodawasser auffüllen, dabei aus etwa 15 cm Höhe über dem Glas gießen.\n4. Ein paar Sekunden warten und dann einen weiteren Schuss Soda hinzufügen. Dadurch steigt der Schaum über den Glasrand.\n5. Mit einem Strohhalm servieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The cocktail equivalent of a New York egg cream, this rich and fizzy bourbon drink is absolutely delicious.",
+    "description": "Das Cocktail-Äquivalent eines New Yorker Egg Creams: Dieses reichhaltige und spritzige Bourbon-Getränk ist absolut köstlich.",
     "source": "https://www.liquor.com/recipes/bourbon-lift/",
     "garnish": null,
     "abv": 18.67,
     "tags": [
-        "Sweet",
-        "Coffee"
+        "Süß",
+        "Kaffee"
     ],
-    "glass": "Highball",
-    "method": "Shake",
+    "glass": "Highball-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 0.5,
             "units": "oz",
@@ -52,7 +52,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 3,
             "amount": 0.5,
             "units": "oz",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",
@@ -76,14 +76,14 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 5,
             "amount": 0,
             "units": "topup",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "chilled, to top",
+            "note": "gekühlt, zum Auffüllen",
             "substitutes": []
         }
     ]

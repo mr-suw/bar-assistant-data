@@ -1,9 +1,9 @@
 {
     "_id": "celery",
     "_parent_id": null,
-    "name": "Celery",
+    "name": "Sellerie",
     "strength": 0,
-    "description": "Celery is a crunchy, water-rich vegetable belonging to the Apiaceae family, commonly used in various cuisines around the world. It is primarily known for its long, fibrous stalks, which can be eaten raw or cooked in dishes like soups and salads.",
+    "description": "Sellerie ist ein knackiges, wasserreiches Gemüse aus der Familie der Doldenblütler (Apiaceae), das in verschiedenen Küchen auf der ganzen Welt verbreitet ist. Er ist vor allem für seine langen, faserigen Stangen bekannt, die roh gegessen oder gekocht in Gerichten wie Suppen und Salaten verwendet werden können.",
     "origin": null,
     "color": "#57e389",
     "category": null,

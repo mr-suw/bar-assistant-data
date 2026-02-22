@@ -1,20 +1,20 @@
 {
     "_id": "boulevardier",
     "name": "Boulevardier",
-    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "instructions": "Alle Zutaten mit Eiswürfeln in ein Rührglas geben. Gut umrühren. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The boulevardier is similar to a Negroni, sharing two of its three ingredients. It is differentiated by its use of bourbon whiskey or rye whiskey as its principal component instead of gin. Paul Clark, writing for the food blog Serious Eats, says, &quot;This isn&#039;t a Negroni. It is, however, the Negroni&#039;s long-lost autumnal cousin.&quot;",
+    "description": "Der Boulevardier ähnelt einem Negroni und teilt zwei seiner drei Zutaten. Er unterscheidet sich durch die Verwendung von Bourbon Whiskey oder Rye Whiskey als Hauptbestandteil anstelle von Gin. Paul Clark, der für den Food-Blog Serious Eats schreibt, sagt: 'Das ist kein Negroni. Es ist jedoch der lange verlorene herbstliche Cousin des Negroni.'",
     "source": "https://iba-world.com/boulevardier/",
-    "garnish": "Garnish with orange zest, optionally a lemon zest.",
+    "garnish": "Mit Orangenzeste garnieren, optional eine Zitronenzeste.",
     "abv": 24.52,
     "tags": [
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "The Unforgettables",
         "Negroni"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": "negroni",
     "year": null,
@@ -40,7 +40,7 @@
             "substitutes": [
                 {
                     "_id": "rye-whiskey",
-                    "name": "Rye whiskey",
+                    "name": "Rye Whiskey",
                     "amount": null,
                     "units": null,
                     "amount_max": null
@@ -61,7 +61,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 3,
             "amount": 30,
             "units": "ml",

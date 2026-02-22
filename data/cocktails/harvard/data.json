@@ -1,18 +1,18 @@
 {
     "_id": "harvard",
     "name": "Harvard",
-    "instructions": "1. Combine cognac, vermouth, and bitters over ice and stir until chilled\n2. Strain into a chilled cocktail glass\n3. Top with soda water and garnish",
+    "instructions": "1. Cognac, Wermut und Bitters mit Eis verrühren, bis der Drink kalt ist\n2. In ein gekühltes Cocktailglas abseihen\n3. Mit Sodawasser auffüllen und garnieren",
     "created_at": null,
     "updated_at": null,
-    "description": "A brandy twist on a Manhattan that stands out with seltzer",
+    "description": "Ein Brandy-Twist des Manhattan, der durch Sodawasser besticht",
     "source": "https://tuxedono2.com/harvard-cocktail-recipe",
-    "garnish": "orange peel for garnish",
+    "garnish": "Orangenzeste",
     "abv": 20.5,
     "tags": [
         "Brandy"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Cocktailglas",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 3,
             "amount": 2,
             "units": "dash",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 4,
             "amount": 30,
             "units": "ml",

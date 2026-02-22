@@ -1,18 +1,18 @@
 {
     "_id": "cucumber-gimlet",
     "name": "Cucumber Gimlet",
-    "instructions": "Combine all ingredients and shake with ice. Serve in a rocks glass over crushed ice. Garnish with a rolled cucumber slice.",
+    "instructions": "Alle Zutaten kombinieren und auf Eis schütteln. In ein Rocks-Glas auf Crushed Ice abseihen. Mit einer gerollten Gurkenscheibe garnieren.",
     "created_at": null,
     "updated_at": null,
     "description": null,
     "source": "http://www.ocean-prime.com/",
-    "garnish": "Cucumber slices",
+    "garnish": "Gurkenscheiben",
     "abv": 0,
     "tags": [
-        "Virgin"
+        "Alkoholfrei"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "club-soda",
-            "name": "Club soda",
+            "name": "Sodawasser",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -51,7 +51,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 4,
             "amount": 30,
             "units": "ml",

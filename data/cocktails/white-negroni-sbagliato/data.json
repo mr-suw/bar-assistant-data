@@ -1,18 +1,18 @@
 {
     "_id": "white-negroni-sbagliato",
     "name": "White Negroni Sbagliato",
-    "instructions": "1. Build over a large cube in a double Old-Fashioned glass.\n2. Garnish with a long slice of cucumber and a twist of orange zest.",
+    "instructions": "1. Im Glas auf einem großen Eiswürfel aufbauen.\n2. Mit einer langen Gurkenscheibe und einem Stück Orangenzeste garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "This White Negroni Sbagliato recipe by Brooklyn's Long Island Bar mixes herbal Suze and bianco vermouth for a summer to fall spritz.",
+    "description": "Dieses Rezept für einen White Negroni Sbagliato aus der Long Island Bar in Brooklyn mischt kräuterige Suze und weißen Wermut zu einem spritzigen Drink für den Übergang vom Sommer zum Herbst.",
     "source": "https://punchdrink.com/recipes/white-negroni-sbagliato/",
-    "garnish": "cucumber and orange peel",
+    "garnish": "Gurke und Orangenzeste",
     "abv": 11.21,
     "tags": [
-        "Savory"
+        "Würzig"
     ],
-    "glass": "Lowball",
-    "method": "Build",
+    "glass": "Tumbler",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

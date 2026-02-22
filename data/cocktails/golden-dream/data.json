@@ -1,19 +1,19 @@
 {
     "_id": "golden-dream",
     "name": "Golden Dream",
-    "instructions": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "instructions": "Alle Zutaten in einen mit Eis gefüllten Shaker geben. Einige Sekunden kräftig schütteln. In ein gekühltes Cocktailglas abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Golden Dream was popular during the 60s and 70s and originated at the Old King Bar in Miami, mixed by Raimundo Alvarez.\n\nThe cocktail was dedicated to actress Joan Crawford and became quite popular at the end of the 1960s on the east coast of the United States.",
+    "description": "Der Golden Dream war in den 60er und 70er Jahren beliebt und entstand in der Old King Bar in Miami, gemixt von Raimundo Alvarez.\n\nDer Cocktail wurde der Schauspielerin Joan Crawford gewidmet und wurde Ende der 1960er Jahre an der Ostküste der Vereinigten Staaten sehr populär.",
     "source": "https://iba-world.com/golden-dream/",
     "garnish": null,
     "abv": 18.81,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail"
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail"
     ],
-    "glass": "Coupe",
-    "method": "Shake",
+    "glass": "Coupette",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -52,7 +52,7 @@
         },
         {
             "_id": "orange-juice",
-            "name": "Orange juice",
+            "name": "Orangensaft",
             "sort": 3,
             "amount": 20,
             "units": "ml",
@@ -64,7 +64,7 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 4,
             "amount": 10,
             "units": "ml",

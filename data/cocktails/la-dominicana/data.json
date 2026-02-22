@@ -1,19 +1,19 @@
 {
     "_id": "la-dominicana",
     "name": "La Dominicana",
-    "instructions": "1. Whip together a wet cream using a whisk or stand mixer\n2. Add rum and coffee liqueur to a mixing glass and stir over ice\n3. Strain into a cocktail glass and float whipped cream on top",
+    "instructions": "1. Schlagen Sie Sahne mit einem Schneebesen oder einem Mixer leicht auf.\n2. Geben Sie Rum und Kaffeelikör in ein Rührglas und rühren Sie auf Eis.\n3. In eine Coupette abseihen und die geschlagene Sahne vorsichtig obenauf schichten.",
     "created_at": null,
     "updated_at": null,
-    "description": "A rich, complex, rum soaked upgrade on the White Russian",
+    "description": "Ein reichhaltiges, komplexes, rumgetränktes Upgrade des White Russian.",
     "source": "https://tuxedono2.com/la-dominicana-cocktail-recipe",
-    "garnish": "hand-whipped cream",
+    "garnish": "frisch geschlagene Sahne",
     "abv": 25,
     "tags": [
-        "Coffee",
-        "Sweet"
+        "Kaffee",
+        "Süß"
     ],
-    "glass": "Cocktail",
-    "method": "Stir",
+    "glass": "Coupette",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -28,7 +28,7 @@
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -40,7 +40,7 @@
         },
         {
             "_id": "coffee-liqueur",
-            "name": "Coffee liqueur",
+            "name": "Kaffeelikör",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -52,10 +52,10 @@
         },
         {
             "_id": "cream",
-            "name": "Cream",
+            "name": "Sahne",
             "sort": 3,
             "amount": 1,
-            "units": "hand-whipped",
+            "units": "leicht aufgeschlagen",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

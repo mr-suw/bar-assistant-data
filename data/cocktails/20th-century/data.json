@@ -1,18 +1,18 @@
 {
     "_id": "20th-century",
     "name": "20th Century",
-    "instructions": "1. Combine all ingredients with ice and shake\n2. Strain into a coupe, serve up",
+    "instructions": "1. Alle Zutaten mit Eis kräftig shaken.\n2. In eine Coupette bzw. ein Nick-and-Nora-Glas ohne Eis abseihen.",
     "created_at": null,
     "updated_at": null,
-    "description": "The 20th Century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967.",
+    "description": "1937 vom britischen Bartender C. A. Tuck erfunden und nach dem Luxuszug \"20th Century Limited\" zwischen New York und Chicago benannt.",
     "source": "https://en.wikipedia.org/wiki/20th_Century_(cocktail)",
-    "garnish": "Lemon twist",
+    "garnish": "Zitronenzeste",
     "abv": 20.91,
     "tags": [
-        "Contemporary Classics"
+        "Zeitgenössische Klassiker"
     ],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -39,7 +39,7 @@
         },
         {
             "_id": "creme-de-cacao-white",
-            "name": "Crème de Cacao (White)",
+            "name": "Crème de Cacao (weiß)",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",
@@ -63,7 +63,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",

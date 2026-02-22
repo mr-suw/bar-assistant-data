@@ -1,21 +1,21 @@
 {
     "_id": "mai-tai",
     "name": "Mai-Tai",
-    "instructions": "1. Add all ingredients into a shaker with ice.\n2. Shake and pour into a double rocks glass or a highball glass.\n\n*The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of “rummy” from molasses.*",
+    "instructions": "1. Alle Zutaten mit Eis in einen Shaker geben.\n2. Schütteln und in ein doppelwandiges Rocks-Glas oder ein Highball-Glas gießen.\n\n*Der von Trader Vic verwendete Martinique-Melasse-Rum war kein Agricole-Rum, sondern eine Art „rummy“ aus Melasse.*",
     "created_at": null,
     "updated_at": null,
-    "description": "The Mai Tai has a mixed up history. Reaching its height of popularity in the 50s and 60s, it is the quintessential tiki drink. Tiki trendsetters Don the Beachcomber and Trader Vic both claim to have invented the cocktail, though their versions are distinctly different. Over time all kinds of fruity concoctions have been whipped up under the name of Mai Tai, no doubt, in all the colors of the rainbow. Although itself slightly modified, due to availability of ingredients, Trader Vic’s ‘Original” Mai Tai reigns supreme.",
+    "description": "Der Mai Tai hat eine bewegte Geschichte. Erreichte er seinen Höhepunkt der Popularität in den 50er und 60er Jahren, so ist er der Inbegriff des Tiki-Drinks. Tiki-Trendsetter Don the Beachcomber und Trader Vic behaupten beide, den Cocktail erfunden zu haben, obwohl ihre Versionen deutlich unterschiedlich sind. Im Laufe der Zeit wurden unter dem Namen Mai Tai alle möglichen fruchtigen Kreationen zubereitet, zweifellos in allen Farben des Regenbogens. Obwohl selbst leicht modifiziert, aufgrund der Verfügbarkeit von Zutaten, herrscht Trader Vics „Original“ Mai Tai immer noch vor.",
     "source": "https://iba-world.com/mai-tai/",
-    "garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
+    "garnish": "Mit Ananasspeer, Minzblättern und Limettenschale garnieren.",
     "abv": 18.82,
     "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
+        "Zeitgenössische Klassiker",
+        "IBA-Cocktail",
         "Tiki",
-        "Sweet"
+        "Süß"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [
         "Shaker"
     ],
@@ -31,14 +31,14 @@
         {
             "uri": "file:///mai-tai-2.webp",
             "sort": 2,
-            "placeholder_hash": "SQgKJwIHqJeHd4eBfHaHmHeJh3AoZ3AG",
+            "placeholder_hash": "SQgKJwIHqJeHd4eBfHaHmHeJh3A5CJ0D",
             "copyright": "TuxedoNo2"
         }
     ],
     "ingredients": [
         {
             "_id": "dark-rum",
-            "name": "Dark Rum",
+            "name": "Dunkler Rum",
             "sort": 1,
             "amount": 30,
             "units": "ml",
@@ -50,7 +50,7 @@
         },
         {
             "_id": "rhum-agricole",
-            "name": "Rhum agricole",
+            "name": "Rum Agricole",
             "sort": 2,
             "amount": 30,
             "units": "ml",
@@ -62,7 +62,7 @@
         },
         {
             "_id": "orange-curacao",
-            "name": "Orange Curaçao",
+            "name": "Orangen Curaçao",
             "sort": 3,
             "amount": 15,
             "units": "ml",
@@ -74,7 +74,7 @@
         },
         {
             "_id": "orgeat-syrup",
-            "name": "Orgeat Syrup",
+            "name": "Orgeat Sirup",
             "sort": 4,
             "amount": 15,
             "units": "ml",
@@ -86,7 +86,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 5,
             "amount": 30,
             "units": "ml",
@@ -98,7 +98,7 @@
         },
         {
             "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "name": "Zuckersirup",
             "sort": 6,
             "amount": 7.5,
             "units": "ml",

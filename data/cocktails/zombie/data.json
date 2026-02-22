@@ -1,20 +1,20 @@
 {
     "_id": "zombie",
     "name": "Zombie",
-    "instructions": "1. Add all ingredients into an electric blender with 170 grams of cracked ice.\n2. With pulse bottom blend for a few seconds.\n3. Serve in a tall tumbler glass.\n\nDonn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+    "instructions": "1. Alle Zutaten mit 170 g Crushed Ice in einen elektrischen Mixer geben.\n2. Mit der Pulse-Funktion nur wenige Sekunden kurz mixen.\n3. In einem großen Tumbler servieren.\n\nDonn’s Mix: 2 Teile frischer gelber Grapefruitsaft und 1 Teil Zimtsirup.",
     "created_at": null,
     "updated_at": null,
-    "description": "It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant. It was popularized on the East coast soon afterwards at the 1939 New York World's Fair.",
+    "description": "Der Zombie wurde Ende 1934 von Donn Beach in seinem Restaurant 'Don the Beachcomber' in Hollywood erfunden. Kurz darauf wurde er an der Ostküste bei der Weltausstellung 1939 in New York populär.",
     "source": "https://iba-world.com/zombie/",
-    "garnish": "Garnish with mint leaves.",
+    "garnish": "Minzzweig",
     "abv": 23.39,
     "tags": [
         "Contemporary Classics",
-        "IBA Cocktail",
+        "IBA-Cocktail",
         "Tiki"
     ],
-    "glass": "Highball",
-    "method": "Blend",
+    "glass": "Highball-Glas",
+    "method": "Mixen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -29,7 +29,7 @@
     "ingredients": [
         {
             "_id": "jamaican-rum",
-            "name": "Jamaican Rum",
+            "name": "Jamaika-Rum",
             "sort": 1,
             "amount": 45,
             "units": "ml",
@@ -41,7 +41,7 @@
         },
         {
             "_id": "brown-rum",
-            "name": "Brown Rum",
+            "name": "Brauner Rum",
             "sort": 2,
             "amount": 45,
             "units": "ml",
@@ -53,7 +53,7 @@
         },
         {
             "_id": "demerara-rum",
-            "name": "Demerara Rum",
+            "name": "Demerara-Rum",
             "sort": 3,
             "amount": 30,
             "units": "ml",
@@ -65,7 +65,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 20,
             "units": "ml",
@@ -101,7 +101,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 7,
             "amount": 1,
             "units": "tsp",
@@ -113,8 +113,20 @@
         },
         {
             "_id": "angostura-aromatic-bitters",
-            "name": "Angostura aromatic bitters",
+            "name": "Angostura Aromatic Bitters",
             "sort": 8,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinth",
+            "sort": 9,
             "amount": 1,
             "units": "dash",
             "optional": false,

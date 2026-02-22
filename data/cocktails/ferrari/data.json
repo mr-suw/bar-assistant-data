@@ -1,18 +1,18 @@
 {
     "_id": "ferrari",
     "name": "Ferrari",
-    "instructions": "1. Combine and drink as a shot.",
+    "instructions": "1. Mischen und als Shot trinken.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Ferrari cocktail recipe, a potent 50/50 split of Fernet-Branca and Campari, can be taken as a shot or sipped slowly.",
+    "description": "Das Ferrari-Cocktailrezept, eine potente 50/50-Mischung aus Fernet-Branca und Campari, kann als Shot getrunken oder langsam genossen werden.",
     "source": "https://punchdrink.com/recipes/ferrari/",
     "garnish": null,
     "abv": 29.09,
     "tags": [
         "Bitter"
     ],
-    "glass": "Shot",
-    "method": "Build",
+    "glass": "Shotglas",
+    "method": "Im Glas aufbauen",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,

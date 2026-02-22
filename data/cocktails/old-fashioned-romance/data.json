@@ -1,19 +1,19 @@
 {
     "_id": "old-fashioned-romance",
     "name": "Old Fashioned Romance",
-    "instructions": "1. Add all ingredients in a rocks glass\n2. Add 1-3 large pieces of ice and stir for 20 seconds",
+    "instructions": "1. Alle Zutaten in ein Rocks-Glas geben.\n2. 1-3 große Eiswürfel hinzufügen und 20 Sekunden lang rühren.",
     "created_at": null,
     "updated_at": null,
-    "description": "Deep chocolate and rich pomegranate notes flirt with aged brandy in this delicious after dinner drink.",
+    "description": "In diesem köstlichen Drink für nach dem Essen flirten tiefe Schokoladennoten und reiche Granatapfel-Aromen mit gereiftem Brandy.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/old-fashioned-romance",
-    "garnish": "Chocolate shavings",
+    "garnish": "Schokoladenraspel",
     "abv": 26.69,
     "tags": [
         "Winter",
         "Old Fashioned"
     ],
-    "glass": "Lowball",
-    "method": "Stir",
+    "glass": "Tumbler",
+    "method": "Rühren",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -40,7 +40,7 @@
         },
         {
             "_id": "grenadine-syrup",
-            "name": "Grenadine Syrup",
+            "name": "Grenadine",
             "sort": 2,
             "amount": 15,
             "units": "ml",

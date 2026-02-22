@@ -1,18 +1,18 @@
 {
     "_id": "honeymoon",
     "name": "Honeymoon",
-    "instructions": "1. Combine all ingredients over ice and shake\n2. Strain into a chilled cocktail glass, serve up",
+    "instructions": "1. Alle Zutaten mit Eis kombinieren und schütteln.\n2. In ein vorgekühltes Cocktailglas abseihen (servieren ohne Eis).",
     "created_at": null,
     "updated_at": null,
-    "description": "A bright and balanced sour built on apple brandy",
+    "description": "Ein frischer und ausgewogener Sour auf Basis von Apfelbrand.",
     "source": "https://tuxedono2.com/honeymoon-cocktail-recipe",
     "garnish": null,
     "abv": 27.43,
     "tags": [
         "Brandy"
     ],
-    "glass": "Nick and Nora",
-    "method": "Shake",
+    "glass": "Nick-and-Nora-Glas",
+    "method": "Schütteln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "apple-brandy",
-            "name": "Apple Brandy",
+            "name": "Apfelbrand",
             "sort": 1,
             "amount": 60,
             "units": "ml",
@@ -71,7 +71,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 4,
             "amount": 15,
             "units": "ml",

@@ -9,13 +9,13 @@
     "garnish": "Fresh kiwi, mint leaves",
     "abv": 24.55,
     "tags": [
-        "Fruity",
+        "Fruchtig",
         "Minty",
         "Sour",
         "Herbaceous"
     ],
-    "glass": "Lowball",
-    "method": "Muddle",
+    "glass": "Tumbler",
+    "method": "Muddeln",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -42,7 +42,7 @@
         },
         {
             "_id": "rhum-agricole",
-            "name": "Rhum agricole",
+            "name": "Rum Agricole",
             "sort": 2,
             "amount": 1,
             "units": "oz",
@@ -66,7 +66,7 @@
         },
         {
             "_id": "lime-juice",
-            "name": "Lime juice",
+            "name": "Limettensaft",
             "sort": 4,
             "amount": 0.5,
             "units": "oz",
@@ -78,7 +78,7 @@
         },
         {
             "_id": "mint",
-            "name": "Mint",
+            "name": "Minze",
             "sort": 5,
             "amount": 3,
             "units": "leaves",
@@ -90,7 +90,7 @@
         },
         {
             "_id": "sugar",
-            "name": "Sugar",
+            "name": "Zucker",
             "sort": 6,
             "amount": 2,
             "units": "barspoon",

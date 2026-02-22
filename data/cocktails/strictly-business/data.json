@@ -1,18 +1,18 @@
 {
     "_id": "strictly-business",
     "name": "Strictly Business",
-    "instructions": "1. Add all of the ingredients to a shaker with ice.\n2. Shake to chill and strain over fresh ice in a glass.\n3. Garnish.",
+    "instructions": "1. Alle Zutaten in einen Shaker mit Eis geben.\n2. Schütteln, um zu kühlen, und über frisches Eis in ein Glas abseihen.\n3. Garnieren.",
     "created_at": null,
     "updated_at": null,
-    "description": "The Gold Rush, a modern classic created by Milk & Honey's T.J. Siegal and the late Sasha Petraske, serves as the foundation for this rye whiskey cocktail at Polite Provisions. \"When developing this menu, we specifically pulled inspiration from those who had the greatest influence on our cocktail program to date, and many of the teachings of Sasha Petraske hold strong,\" says Alicia Perry, beverage director for CH Projects. In this twist, rye steps in for bourbon, and oloroso sherry, sweet vermouth, and herbed bitters follow, creating a \"fresh qualities, pleasantly herbed, rich and impactful, with a clean, nuanced honeysuckle finish,\" Perry adds.",
+    "description": "Der Gold Rush, ein moderner Klassiker, kreiert von T.J. Siegal und dem verstorbenen Sasha Petraske von Milk & Honey, dient als Grundlage für diesen Roggenwhiskey-Cocktail bei Polite Provisions. „Bei der Entwicklung dieser Speisekarte ließen wir uns speziell von denjenigen inspirieren, die unser Cocktailprogramm bisher am stärksten beeinflusst haben, und viele der Lehren von Sasha Petraske sind nach wie vor gültig“, sagt Alicia Perry, Beverage Director bei CH Projects. In dieser Variante tritt Roggen an die Stelle von Bourbon, gefolgt von Oloroso Sherry, süßem Wermut und Kräuterbitter, was „frische Eigenschaften, angenehm kräuterig, reichhaltig und wirkungsvoll, mit einem sauberen, nuancierten Geißblatt-Abgang“ erzeugt, fügt Perry hinzu.",
     "source": "https://imbibemagazine.com/recipe/strictly-business-from-polite-provisions/",
-    "garnish": "Star anise",
+    "garnish": "Sternanis",
     "abv": 15.62,
     "tags": [
         "Dessert"
     ],
-    "glass": "Lowball",
-    "method": "Shake",
+    "glass": "Tumbler",
+    "method": "Shaken",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
@@ -27,7 +27,7 @@
     "ingredients": [
         {
             "_id": "rye-whiskey",
-            "name": "Rye whiskey",
+            "name": "Rye Whiskey",
             "sort": 1,
             "amount": 1.5,
             "units": "oz",
@@ -39,7 +39,7 @@
         },
         {
             "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "name": "Zitronensaft",
             "sort": 2,
             "amount": 0.75,
             "units": "oz",
@@ -51,14 +51,14 @@
         },
         {
             "_id": "honey-syrup",
-            "name": "Honey Syrup",
+            "name": "Honigsirup",
             "sort": 3,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
             "is_specified": false,
             "amount_max": null,
-            "note": "2 1/2:1 honey to water",
+            "note": "2 1/2:1 Honig zu Wasser",
             "substitutes": []
         },
         {
@@ -75,7 +75,7 @@
         },
         {
             "_id": "sweet-vermouth",
-            "name": "Sweet Vermouth",
+            "name": "Süßer Wermut",
             "sort": 5,
             "amount": 0.25,
             "units": "oz",
@@ -87,7 +87,7 @@
         },
         {
             "_id": "bouquet-bitters",
-            "name": "Bouquet bitters",
+            "name": "Bouquet Bitters",
             "sort": 6,
             "amount": 2,
             "units": "dash",
